@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+  <title>{{global.title}}</title>
+  <meta name="description" content="{{ global.description }}">
+  <meta name="keywords" content="{{ global.meta-tag.keywords }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link href="/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom CSS -->
+  <link href="/css/blog-home.css" rel="stylesheet">
+
+</head>
+
+<body data-function="{{function}}">
+  <!--[if lt IE 8]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+  {{#block "header"}} {{> header}} {{/block}}
+
+
+    <!-- Page Content -->
+    <div class="container">
+
+        <div class="row">
+
+            <!-- Blog Entries Column -->
+            <div class="col-md-8">
+                {{#block "main"}} {{{contents}}} {{/block}}          
+            </div>
+
+            <!-- Blog Sidebar Widgets Column -->
+            <div class="col-md-4">
+                {{#block "leftside"}} {{> leftside}} {{/block}}        
+            </div>
+
+        </div>
+        <!-- /.row -->
+
+        <hr>
+
+        <!-- Footer -->
+       {{#block "footer"}} {{> footer}} {{/block}}
+    </div>
+    <!-- /.container -->
+
+ 
+   
+   
+   <script src="/js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="/js/bootstrap.min.js"></script>
+  {{#block "scripts"}}{{/block}}
+</body>
+
+</html>

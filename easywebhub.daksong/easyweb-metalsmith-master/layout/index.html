@@ -1,0 +1,35 @@
+
+
+{{#extend "default"}}
+  {{#content "main"}}
+
+    <h1>{{global.title}}</h1>
+
+    {{{contents}}}
+    <h3>Blog</h3>
+    <hr>
+    <ul>
+     {{#each collections.blog}}
+      <li> <a href="/{{path}}" >{{this.title}}</a>  </li>
+    {{/each}}
+    </ul>
+    <h3>Tin kinh tế</h3>
+    <hr>
+    <ul>
+     {{#each collections.tinKinhTe}}
+      <li> <a href="/{{path}}" >{{this.title}}</a>  </li>
+    {{/each}}
+    </ul>
+    {{#each collections }}
+    <hr>
+    
+     <ul>
+     {{#each collections.blog}}
+      <li> <a href="/{{path}}" >{{this.title}}</a>  </li>
+    {{/each}}
+    </ul>
+    
+    {{/each}}
+  {{/content}}
+{{/extend}}
+

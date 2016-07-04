@@ -9,6 +9,7 @@ const Metalsmith = require('metalsmith');
 const Handlebars = require('handlebars');
 require('./handlebars-helper')(Handlebars);
 
+
 const MetalSmithProductionPlugins = [
     'metalsmith-html-minifier'
 ];
@@ -173,7 +174,7 @@ function reload(done) {
 }
 
 function watch() {
-    gulp.watch(['site.js'], gulp.series(reloadSiteConfig, 'build', reload));
+    gulp.watch(['site.js','handlebars-helper.js'], gulp.series(reloadSiteConfig, 'build', reload));
 
     gulp.watch(`${site.assetRoot}/**/*`, gulp.series(asset, reload));      // watch asset
     gulp.watch(`${site.styleRoot}/**/*.{scss,sass}`, sass);                // watch style

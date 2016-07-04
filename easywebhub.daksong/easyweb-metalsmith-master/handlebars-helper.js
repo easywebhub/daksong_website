@@ -33,5 +33,38 @@ module.exports = function (Handlebars) {
 
         return moment(context).format(format);
     });
+    function buildList(data, isSub) {
+        let dt = data;
+        var html = (isSub) ? '<div>' : ''; // Wrap with div if true
+        html += '<ul>';
+        for (var item in dt) {
+            html += `<li ${(typeof dt[item].id !=='undefined' )? 'id='+dt[item].id:''}>`;
+            if (typeof (dt[item].sub) === 'object') { // An array will return 'object'
+                if (isSub) {
+                    //console.log('dt item =====================',dt[item]);
+                    html += '<a href="' + dt[item].link + '">' + dt[item].name + '</a>';
+                } else {
+                    if (typeof dt !== 'undefined'&& dt) {
+                        html += dt[item].id // No submenu
+                    }
+                    //html += dt[item].id;
+                }
+                html += buildList(dt[item].sub, isSub); // Submenu found. Calling recursively same method (and wrapping it in a div)
+            } else {
+                if (typeof dt !== 'undefined'&& dt) {
+                    html += dt[item].id // No submenu
+                }
+
+            }
+            html += '</li>';
+        }
+        html += '</ul>';
+        html += (isSub) ? '</div>' : '';
+        return html;
+    }
+    Handlebars.registerHelper('nav', obj => {
+        //console.log('obj =====================',obj);
+        return buildList(obj.data, true);
+    })
 };
 

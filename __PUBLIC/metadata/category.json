@@ -1,0 +1,11 @@
+{
+  "title": "Data cho các trang danh mục được định nghĩa ở đây",
+  
+  "blog" : {
+    "title": "Trang danh mục blog được định nghĩa trong category.json",
+    "url": "blog",
+    "description": "trang blog",
+    "banner" : "định nghĩa banner"
+  }
+
+}

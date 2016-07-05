@@ -1,0 +1,153 @@
+{
+  "title": "Danh sách items trong menu",
+  "items": [
+    {
+      "title": "Trang chủ",
+      "url": "/",
+      "type": {
+        "isMulti": true,
+        "float": "left"
+      },
+      "subMenu": [
+        {
+          "title": "Chức năng , nhiệm vụ",
+          "url": "/chuc-nang-nhiem-vu"
+        },
+        {
+          "title": "Sơ đồ, tổ chức",
+          "url": "/so-do-to-chuc"
+        },
+        {
+          "title": "Cơ cấu tổ chức",
+          "url": "/co-cau-to-chuc"
+        },
+        {
+          "title": "Danh bạ",
+          "url": "/danh-ba"
+        },
+        {
+          "title": "Lãnh đọa, cơ quan",
+          "url": "/lanh-dao-co-quan"
+        }
+      ]
+    },
+    {
+      "title": "Gới thiệu",
+      "url": "#",
+      "type": {
+        "isMulti": true
+      },
+      "subMenu": [
+        {
+          "title": "Bộ máy hành chính",
+          "url": "#"
+        },
+        {
+          "title": "Giới thiệu chung",
+          "url": "#"
+        },
+        {
+          "title": "Lịch sử hình thành",
+          "url": "#"
+        },
+        {
+          "title": "Văn hóa di tích",
+          "url": "#"
+        },
+        {
+          "title": "Điều kiện tự nhiên",
+          "url": "#"
+        },
+        {
+          "title": "Đặc sản",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "title": "Tin tức sự kiện",
+      "url": "#",
+      "type": {
+        "isMulti": true
+      },
+      "subMenu": [
+        {
+          "title": "Tin kinh tế",
+          "url": "/tin-kinh-te"
+        },
+        {
+          "title": "Tin văn hóa",
+          "url": "#"
+        },
+        {
+          "title": "Tin ý tế giáo dục",
+          "url": "#"
+        },
+        {
+          "title": "Tin an ninh trật tự",
+          "url": "#"
+        },
+        {
+          "title": "Tin an toàn giao thông",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "title": "Thông tin điều hành",
+      "url": "#",
+      "type": {
+        "isMulti": true
+      },
+      "subMenu": [
+        {
+          "title": "Ý kiến chỉ đạo",
+          "url": "#"
+        },
+        {
+          "title": "Ý kiến xử lý",
+          "url": "#"
+        },
+        {
+          "title": "Thông tin khen thưởng xử phạt",
+          "url": "#"
+        },
+        {
+          "title": "Lịch làm việc",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "title": "Thông tin tuyên truyền",
+      "url": "#",
+      "type": {
+        "isMulti": true
+      },
+      "subMenu": [
+        {
+          "title": "Hướng dẫn",
+          "url": "#"
+        },
+        {
+          "title": "Chính sách",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "title": "Kế hoạch phát triển",
+      "url": "#",
+      "type": {
+        "isMulti": false
+      }
+    },
+    {
+      "title": "Văn bản pháp luật",
+      "url": "#",
+      "type": {
+        "isMulti": false
+      }
+    }
+  ]
+}

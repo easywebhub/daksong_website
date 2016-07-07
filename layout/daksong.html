@@ -9,8 +9,9 @@
 <head><meta http-equiv="X-UA-Compatible" content="IE=8" /><meta name="GENERATOR" content="Microsoft SharePoint" /><meta name="progid" content="SharePoint.WebPartPage.Document" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Expires" content="0" /><title>
 
 	Trang Thông Tin Điện Tử huyện Cư Jút - tỉnh Đăk Nông
-
-</title><link rel="stylesheet" type="text/css" href="_layouts/1033/styles/Themable/search.css?rev=Uoc0fsLIo87aYwT%2FGX5UPw%3D%3D"/>
+</title>
+<base href="{{global.github-url}}">
+<link rel="stylesheet" type="text/css" href="_layouts/1033/styles/Themable/search.css?rev=Uoc0fsLIo87aYwT%2FGX5UPw%3D%3D"/>
 <link rel="stylesheet" type="text/css" href="Style Library/en-us/Core Styles/songanh.css"/>
 <link rel="stylesheet" type="text/css" href="Style Library/en-us/Core Styles/songanhQT.css"/>
 <link rel="stylesheet" type="text/css" href="_layouts/1033/styles/Themable/corev4.css?rev=iIikGkMuXBs8CWzKDAyjsQ%3D%3D"/>
@@ -354,14 +355,14 @@ var g_commandUIHandlers = {"name":"CommandHandlers","attrs":{},"children":[]};
 				{{#each menu.items}}
         <li class="parent {{selected}}" id="firstlist3" duy="3">
             <div class="main-level" id="firstlist-div-3">
-                <a class="tmenu" href="{{this.url}}"><span>{{this.title}}</span></a>
+                <a class="tmenu" href="./{{this.url}}"><span>{{this.title}}</span></a>
             </div>
 					  {{#if type.isMulti}}
 						<ul class="children" id="childrenlist3" style="display: none;">
 								<div class="second-list">
 										<ul class="two-column">
 												{{#each subMenu}}
-												<li class="first-element" id=""><a class="tmenu" href="{{url}}">{{title}}</a></li>
+												<li class="first-element" id=""><a class="tmenu" href="./{{url}}">{{title}}</a></li>
 												{{/each}}
 										</ul>
 								</div>

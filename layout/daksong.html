@@ -351,50 +351,8 @@ var g_commandUIHandlers = {"name":"CommandHandlers","attrs":{},"children":[]};
 <div id="wrapper">
 	<ul id="topnav">
 
-	        <li class="parent LvSelected" id="firstlist0" duy="0">
-	            <div class="main-level levelnext" id="firstlist-div-0" style="display: block;">
-	                <a class="tmenu" href="/Pages/default.aspx"><span>
-	                                          Trang chủ Cũ</span></a>
-	            </div>
-
-	            <ul class="children" id="childrenlist1" style="display: block;">
-	                <div class="second-list">
-
-	                    <ul class="two-column">
-
-	                        <li class="first-element" id="secondlist0"><a class="tmenu" href="Pages/chuc-nang-nhiem-vu.aspx">
-	                            Chức năng, nhiệm vụ
-	                        </a></li>
-
-	                        <li class="" id="secondlist1"><a class="tmenu" href="Pages/so-do-to-chuc.aspx?">
-	                            Sơ đồ tổ chức
-	                        </a></li>
-
-	                    </ul>
-
-	                    <ul class="two-column">
-
-	                        <li class="" id="secondlist2"><a class="tmenu" href="Pages/co-cau-to-chuc.aspx">
-	                            Cơ cấu tổ chức
-	                        </a></li>
-
-	                        <li class="" id="secondlist3"><a class="tmenu" href="Pages/danh-ba-dien-thoai.aspx">
-	                            Danh bạ
-	                        </a></li>
-
-	                        <li class="" id="secondlist4"><a class="tmenu" href="Pages/lanhdaocoquan.aspx">
-	                            Lãnh đạo cơ quan
-	                        </a></li>
-
-	                    </ul>
-
-	                </div>
-	            </ul>
-
-	        </li>
-
 				{{#each menu.items}}
-        <li class="parent" id="firstlist3" duy="3">
+        <li class="parent {{selected}}" id="firstlist3" duy="3">
             <div class="main-level" id="firstlist-div-3">
                 <a class="tmenu" href="{{this.url}}"><span>{{this.title}}</span></a>
             </div>

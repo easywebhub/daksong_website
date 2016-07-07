@@ -3,6 +3,7 @@
   "items": [
     {
       "title": "Trang chủ",
+      "selected" : "LvSelected",
       "url": "/",
       "type": {
         "isMulti": true,

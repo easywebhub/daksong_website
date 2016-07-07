@@ -1,1 +1,6 @@
-build/
+.idea
+node_modules/
+jspm_packages/
+bower_components/
+npm-debug.log
+.vscode/

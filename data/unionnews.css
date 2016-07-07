@@ -1,0 +1,162 @@
+/*** LacVietCMSUnionNew css unionnews.css
+*{
+	margin:0px;
+	padding:0px;
+}
+.union_main_image p {
+	padding: 10px;	
+	padding-top:0;
+	margin:0;
+	text-align:justify;
+}
+.union_main_image .Union_desc{
+	position: absolute;
+	bottom: 0;	
+	left: 0;
+	width:430px;
+	margin-left:1px;
+	display: none;
+}
+.egov .union_main_image .Union_block{
+	width: 100%;
+	background: #000;	
+	opacity:0.7;	
+	filter:alpha(opacity=70);
+}
+.union_main_image a.collapse{
+	height: 16px; 
+	width: 16px;
+	text-indent: -99999px;
+	position: absolute; 
+	top: -16px; right: 5px;
+}
+.union_main_image a.show {background-position: left bottom;} 
+.union_main_image .Union_block h2
+{
+	margin:0;
+	padding:10px;
+}
+.union_image_thumb ul li p,.hiddenThumbnail{display: none;}
+#UnionNews_Container_mode2{
+	width:753px;
+	height:322px;
+	overflow: hidden;
+}
+.Hot-banner{
+	float:left;
+	margin-left:11px;
+}
+#UnionNews_main_mode2{
+	float:left;
+	width:432px;
+	height:322px;
+	background:url('/egovImages/bgTNews.png') no-repeat left top;	
+}
+#UnionNews_menu_mode2{			
+	float:right;
+	width:314px;
+	height:322px;
+	overflow:hidden;
+	background:url('/egovImages/bgTRNews.png') no-repeat left top;	
+}
+.button-link{
+	display:none;
+}
+.egov .union_main_image{
+	position: relative;
+	overflow:hidden;
+	padding:1px;
+}
+#UnionNews_main_mode2 > div:first-child{
+	height:320px;
+	overflow:hidden;
+}
+
+.union_main_image img{
+	width:430px;
+	height:320px;
+}
+.egov .union_image_thumb{
+	padding:10px 10px 0px 10px;
+}
+.union_image_thumb .Union_block{
+	height:30px;
+	overflow:hidden;
+}
+.Union_block h2 a,.Union_block h2 a:link,.Union_block h2 a:visited{
+	color:#fff;
+}
+.Union_block h2 a:hover{
+	color:#fcde55;
+	text-decoration:none;
+}
+table.lv_union_table_menuheader{	
+	height:36px;
+	margin-left:7px;
+	width:auto!important;
+}
+.menucol2{
+	background: url('/egovImages/vien-xanh1.gif') no-repeat left bottom;
+}
+.egov .lv_union_table_menuheader td{
+	width:90px;
+	padding-top:10px;
+	text-align:center;
+	text-indent:-2px;
+}
+.homeNew .tabnormal{
+	color:#90bce0;
+	font-weight:bold;
+	background: url("/egovImages/tabnormal.png") no-repeat 0px 10px;	
+}
+.homeNew .tabselected{
+	color:#ecf6ff;		
+	font-weight:bold;
+	background: url("/egovImages/tabselect.png") no-repeat 0px 10px;
+}
+.homeNew  #menu3.tabselected{
+	background: url("/egovImages/tabselect1.png") no-repeat 0px 10px;
+	width:120px;
+}
+.homeNew #menu3.tabnormal{
+	background: url("/egovImages/tabnormal1.png") no-repeat 0px 10px;	
+	width:120px;
+}
+.tabnormal:hover{
+	color:#ecf6ff;		
+}
+.union_image_thumb ul li{
+	padding:7px 0px;
+	background: url("/egovImages/bg-img-menu.gif") repeat-x left top;
+}
+.union_image_thumb ul li:first-child{
+	background-image:none;	
+}
+#UnionNews_menu_mode2 .Union_block h2 a{
+	background: url("/egovImages/dotY.png") no-repeat left 6px;
+	padding-left:12px;
+	display:block;			
+}
+.menucol2{
+	padding-left:12px;	
+}
+div.union_image_thumb h2{
+	font-weight:normal;
+}
+.union_image_thumb img {
+	border: 0px;
+	float: left;
+	width:50px;
+	height:38px;
+	margin-left:12px;
+	margin-right:8px;	
+}
+.union_image_thumb ul li h2 {	
+	margin: 0px; 
+	padding:0px;
+}
+.union_image_thumb ul li.active a{
+	color:#fcde55;
+}
+
+*****/

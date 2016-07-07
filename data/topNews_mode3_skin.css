@@ -1,0 +1,100 @@
+.homeNewsL .container_mid_main_in1{
+	width:753px;
+	height:174px;
+	overflow:hidden;	
+	background: url('/egovImages/bgSlide1.png') no-repeat left top;
+	margin-top:8px;
+}
+.lv_topnews_mode3_title{
+	text-transform:uppercase;
+	padding:8px 0px 0px 40px;
+	font-weight:bold;
+}
+.lv_topnews_mode3_title a, .lv_topnews_mode3_title a:link, .lv_topnews_mode3_title a:visited{
+	color:#fff;
+}
+.lv_topnews_mode3_title a:hover{
+	color:#fcd800;
+	text-decoration:none;
+}
+.lv_topnews_mode3_ul_li{
+	width:125px;
+	height:138px;
+	overflow:hidden;
+}
+.TopNews-jcarousel-skin-tango .jcarousel-container {
+	-moz-border-radius: 10px;
+}
+.TopNews-jcarousel-skin-tango .jcarousel-direction-rtl {
+	direction: rtl;
+}
+.TopNews-jcarousel-skin-tango .jcarousel-container-horizontal {			
+	padding-left:45px;		
+}
+.TopNews-jcarousel-skin-tango .jcarousel-clip-horizontal {
+	width: 664px;
+	padding-top:25px;
+}
+.TopNews-jcarousel-skin-tango .jcarousel-item {
+/*	width: 125px;
+	height: 140px;
+	overflow: hidden;*/
+}
+.TopNews-jcarousel-skin-tango .jcarousel-item-horizontal {
+	margin-left: 0;
+	margin-right: 17px;
+}
+.TopNews-jcarousel-skin-tango .jcarousel-direction-rtl .jcarousel-item-horizontal {
+	margin-left: 10px;
+	margin-right: 0;
+}
+.TopNews-jcarousel-skin-tango .jcarousel-item-placeholder {
+	background: #fff;
+	color: #000;
+}
+/** *  Horizontal Buttons */
+.jcarousel-next-horizontal, .jcarousel-prev-horizontal{
+	position: absolute;
+	top: 46px;
+	width: 31px;
+	height: 38px;
+	cursor: pointer;
+}
+.jcarousel-next-horizontal {
+	right: 7px;
+	background: transparent url(/SiteAssets/images/NextOff.png) no-repeat right top;
+}
+.jcarousel-prev-horizontal {
+	left: 7px;
+	background: transparent url(/SiteAssets/images/PreOff.png) no-repeat left top;
+}
+.jcarousel-next-horizontal:hover {
+	background: transparent url(/SiteAssets/images/NextOff.png) no-repeat right top;
+}
+.jcarousel-prev-horizontal:hover {
+	background: transparent url(/SiteAssets/images/PreOff.png) no-repeat left top;
+}
+/**/
+div.lv_topnews_mode3_ul_li_divTitle{
+	padding-top: 7px;
+	text-align:justify;
+}
+div.lv_topnews_mode3_ul_li_divTitle a:link, div.lv_topnews_mode3_ul_li_divTitle a:visited{
+	font-size: 11px;
+	color: #282828;
+	cursor: pointer;
+}
+div.lv_topnews_mode3_ul_li_divTitle a:hover {
+	text-decoration: none;
+	color:#d00;
+}
+.lv_topnews_mode3_ul_li .img-slidemenu {
+	width: 94px;
+	height: 68px;
+}
+.lv_topnews_mode3_ul_li a:hover .img-slidemenu{
+	border: 1px #60bafe solid!important;
+}
+.lv_topnews_mode3_ul_li_divImg{
+	text-align:center
+}

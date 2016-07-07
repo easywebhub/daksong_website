@@ -3,7 +3,8 @@
   "items": [
     {
       "title": "Trang chủ",
-      "url": "/",
+      "selected" : "LvSelected",
+      "url": "",
       "type": {
         "isMulti": true,
         "float": "left"
@@ -11,23 +12,23 @@
       "subMenu": [
         {
           "title": "Chức năng , nhiệm vụ",
-          "url": "/chuc-nang-nhiem-vu"
+          "url": "chuc-nang-nhiem-vu"
         },
         {
           "title": "Sơ đồ, tổ chức",
-          "url": "/so-do-to-chuc"
+          "url": "so-do-to-chuc"
         },
         {
           "title": "Cơ cấu tổ chức",
-          "url": "/co-cau-to-chuc"
+          "url": "co-cau-to-chuc"
         },
         {
           "title": "Danh bạ",
-          "url": "/danh-ba"
+          "url": "danh-ba"
         },
         {
           "title": "Lãnh đọa, cơ quan",
-          "url": "/lanh-dao-co-quan"
+          "url": "lanh-dao-co-quan"
         }
       ]
     },
@@ -73,7 +74,7 @@
       "subMenu": [
         {
           "title": "Tin kinh tế",
-          "url": "/tin-kinh-te"
+          "url": "tin-kinh-te"
         },
         {
           "title": "Tin văn hóa",

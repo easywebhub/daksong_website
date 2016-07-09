@@ -1,0 +1,313 @@
+/*
+.css_Xemtiep {
+				float: right;background: url("/_layouts/LacVietBio/eofficeimg/xemtiep.gif") no-repeat left top;;
+				width: 74px;
+				height: 22px;
+				cursor: hand;
+				cursor: pointer;
+				padding-top:8px;
+}
+.css_Xemtiep img:hover{
+				background-color:#d00;
+}
+.css_bt_Xemtheongay {
+				background: url("/_layouts/LacVietBio/eofficeimg/xemtheongay.gif") no-repeat left top;
+			width: 36px;
+				height: 22px;			
+				cursor: pointer;
+				vertical-align: middle;
+}
+.css_linkstoweb {
+				width: 100%;
+				margin: 0;
+				padding: 0;
+				height: 30px;
+				clear: both;
+}
+.css_link_facebook {
+				float: right;
+				background: url("/_layouts/LacVietBio/eofficeimg/news/facebook.png") no-repeat left 4px;
+				width: 24px;
+				height: 30px;
+				margin-left: 5px;			
+				cursor: pointer;
+}
+.css_link_twitter {
+				float: right;
+				background: url("/_layouts/LacVietBio/eofficeimg/news/twitter.png") no-repeat left 4px;
+				width: 24px;
+				height: 30px;
+				margin-left: 5px;
+				cursor: hand;
+				cursor: pointer;
+}
+.css_link_delicious {
+				float: right;
+				background: url("/_layouts/LacVietBio/eofficeimg/news/delicious.png") no-repeat left 4px;
+				width: 24px;
+				height: 30px;
+				margin-left: 5px;
+				cursor: hand;
+				cursor: pointer;
+}
+.css_sendEmail {
+				float: right;
+				background: url("/_layouts/LacVietBio/eofficeimg/news/email.png") no-repeat left 4px;
+				width: 30px;
+				height: 30px;
+				margin-left: 5px;
+				cursor: hand;
+				cursor: pointer;
+}
+.css_printandback {
+				float: right;
+}
+.css_readCounter {
+				float: left;
+				color: rgb(104, 104, 104);
+				font-family:Arial;
+				font-size:12px;
+				padding:4px 0px;
+				font-family:arial;
+	font-size:12px;
+	color:#0b5090!important;
+	font-weight:bold;
+
+}
+.css_printandback{
+				padding:4px 0px;
+
+}
+.css_printandback a,.css_printandback a:link,.css_printandback a:visited{
+				font-family:Arial;
+				font-size:12px;
+
+}
+
+.css_readCounter {
+	font-family: Arial;
+	font-size: 12px;
+	padding: 4px 0px;
+	font-size: 12px;
+	color: #0b5090!important;
+	font-weight: bold;
+}
+.print {
+	background: url("/_Layouts/LacVietBio/EOFFICEIMG/News/ico_print.gif") no-repeat scroll left top transparent;
+	color: #686868!important;
+	cursor: pointer;
+	font-weight: normal;
+	padding: 1px 12px 4px 18px;
+	float: right;
+	font-family: Arial;
+	font-size: 12px;
+}
+.return {
+	background: url("/_Layouts/LacVietBio/EOFFICEIMG/News/nut-quay-lai.gif") no-repeat scroll left top transparent;
+	color: #686868!important;
+	cursor: pointer;
+	font-weight: normal;
+	padding: 1px 12px 4px 18px;
+	float: right;
+	font-family: Arial;
+	font-size: 12px;
+}
+a.return:hover, a.print:hover {
+	color: #d00;
+	text-decoration: underline;
+}
+
+.css_linkstoweb div{
+	float:right;
+	display:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.div_container_comment {
+	border: 1px soild #DDDDDD;
+}
+#ImgCalendar img, #cur_imgCalendar img {
+	border: 0px;
+	vertical-align: middle;
+}
+.css_child_xemtheongay {
+	/*float: left;*/
+				.css_child_xemtheongay {
+	float: left;
+				position: relative;
+	z-index: 9999;
+	overflow: hidden;
+	clear: both;
+	bottom: 5px;
+	width: 100%;
+}
+table.css_child_xemtheongay td {
+	padding-top: 8px;
+}
+.css_txtXemtheongay {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+}
+.css_Xemtheongay {
+	margin: 5px 0px 5px 20px;
+}
+.css_txbCalendar {
+	vertical-align: middle;
+}
+.MyCalendar {
+	height: 200px;
+}
+.MyCalendar .ajax__calendar_container {
+	border: 1px solid #646464;
+	background-color: white;
+	color: red;
+	padding: 4px;
+	position: absolute;
+	cursor: default;
+	width: 170px;
+	font-size: 11px;
+	text-align: center;
+	font-family: tahoma,verdana,helvetica;
+}
+.MyCalendar .ajax__calendar_body {
+	height: 139px;
+	width: 170px;
+	position: relative;
+	overflow: hidden;
+	margin: auto;
+}
+.MyCalendar .ajax__calendar_days, .ajax__calendar_months, .ajax__calendar_years {
+	top: 0px;
+	left: 0px;
+	height: 139px;
+	width: 170px;
+	position: absolute;
+	text-align: center;
+	margin: auto;
+}
+.MyCalendar .ajax__calendar_container TABLE {
+	font-size: 11px;
+}
+.MyCalendar .ajax__calendar_header {
+	height: 20px;
+	width: 100%;
+}
+.MyCalendar .ajax__calendar_title {
+	cursor: pointer;
+	font-weight: bold;
+}
+.MyCalendar .ajax__calendar_footer {
+	height: 15px;
+}
+.MyCalendar .ajax__calendar_today {
+	cursor: pointer;
+	padding-top: 3px;
+}
+.MyCalendar .ajax__calendar_dayname {
+	height: 17px;
+	width: 17px;
+	text-align: right;
+	padding: 0 2px;
+}
+.MyCalendar .ajax__calendar_day {
+	height: 17px;
+	width: 18px;
+	text-align: right;
+	padding: 0 2px;
+	cursor: pointer;
+}
+.MyCalendar .ajax__calendar_month {
+	height: 44px;
+	width: 40px;
+	text-align: center;
+	cursor: pointer;
+	overflow: hidden;
+}
+.MyCalendar .ajax__calendar_year {
+	height: 44px;
+	width: 40px;
+	text-align: center;
+	cursor: pointer;
+	overflow: hidden;
+}
+.MyCalendar .ajax__calendar .ajax__calendar_container {
+	border: 1px solid #646464;
+	background-color: #ffffff;
+	color: #000000;
+}
+.MyCalendar .ajax__calendar .ajax__calendar_footer {
+	border-top: 1px solid #f5f5f5;
+}
+.MyCalendar .ajax__calendar .ajax__calendar_dayname {
+	border-bottom: 1px solid #f5f5f5;
+}
+.MyCalendar .ajax__calendar .ajax__calendar_day {
+	border: 1px solid #ffffff;
+}
+.MyCalendar .ajax__calendar .ajax__calendar_month {
+	border: 1px solid #ffffff;
+}
+.MyCalendar .ajax__calendar .ajax__calendar_year {
+	border: 1px solid #ffffff;
+}
+.MyCalendar .ajax__calendar .ajax__calendar_active .ajax__calendar_day {
+	background-color: #edf9ff;
+	border-color: #0066cc;
+	color: #0066cc;
+}
+.MyCalendar .ajax__calendar .ajax__calendar_active .ajax__calendar_month {
+	background-color: #edf9ff;
+	border-color: #0066cc;
+	color: #0066cc;
+}
+.ajax__calendar .ajax__calendar_active .ajax__calendar_year {
+	background-color: #edf9ff;
+	border-color: #0066cc;
+	color: #0066cc;
+}
+.MyCalendar .ajax__calendar .ajax__calendar_other .ajax__calendar_day {
+	background-color: #ffffff;
+	border-color: #ffffff;
+	color: #646464;
+}
+.MyCalendar .ajax__calendar .ajax__calendar_other .ajax__calendar_year {
+	background-color: #ffffff;
+	border-color: #ffffff;
+	color: #646464;
+}
+.MyCalendar .ajax__calendar .ajax__calendar_hover .ajax__calendar_day {
+	background-color: #edf9ff;
+	border-color: #daf2fc;
+	color: #0066cc;
+}
+.MyCalendar .ajax__calendar .ajax__calendar_hover .ajax__calendar_month {
+	background-color: #edf9ff;
+	border-color: #daf2fc;
+	color: #0066cc;
+}
+.MyCalendar .ajax__calendar .ajax__calendar_hover .ajax__calendar_year {
+	background-color: #edf9ff;
+	border-color: #daf2fc;
+	color: #0066cc;
+}
+.MyCalendar .ajax__calendar .ajax__calendar_hover .ajax__calendar_title {
+	color: #0066cc;
+}
+.MyCalendar .ajax__calendar .ajax__calendar_hover .ajax__calendar_today {
+	color: #0066cc;
+}

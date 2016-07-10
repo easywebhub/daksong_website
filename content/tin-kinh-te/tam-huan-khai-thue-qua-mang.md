@@ -2,10 +2,11 @@
 {
 "title": "Tập huấn khai thuế qua mạng",
 "url": "tap-huan-khai-thue-qua-mang",
-"description": "Thôn 11, xã Chư K’nia được gọ là “vùng đất chết’’ vì trước kia toàn khu vực này có đến gần 200 ha đất hoang hóa, chỉ có cây le và cỏ dại là mọc được, còn các loại cây rừng khác rất lưa thưa và còi cọc.",
+"description": "Sáng ngày 17/10 Chi Cục thuế đã tổ chức hội nghị tập huấn khai thuế qua mạng Intenet cho 124 công ty, doanh nghiệp trên địa bàn huyện ta.",
 "layout": "tin-kinh-te.html",
 "date": "2015-11-04",
-"draft": "false"
+"draft": "false",
+"banner" : "data/image (1)_jpg.jpg"
 }
 ---
 

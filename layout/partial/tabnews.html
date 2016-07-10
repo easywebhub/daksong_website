@@ -1,123 +1,57 @@
 <div class="lacviet-tabsnews" style="">
 <div id="ctl00_m_g_5f3067fd_aea8_4cdd_9e63_0a9b866e98e7_ctl00_tabs" class="ui-tabs ui-widget ui-widget-content ui-corner-all">
 	<ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
-							{{#each category.block-1.danh-sach}}
-							<li class="tabs-0 ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a href="{{this.collections_name}}">
-											{{this.ten}}</a></li>
-
-						  {{/each}}
+				{{#each category.block-1.danh-sach}}
+				<li class="tabs-0 ui-state-default ui-corner-top ui-tabs-selected ui-state-active">
+					<a href="{{this.collections_name}}">{{this.ten}}</a>
+				</li>
+			  {{/each}}
 	</ul>
 
 
 					<div id="tabs-ctl00_m_g_5f3067fd_aea8_4cdd_9e63_0a9b866e98e7_ctl00_tabs0" blogguid="914d7bf3-7db3-45a9-8171-246d27cf1f24" categoryname="Chính trị xã hội" categoryid="6" categorytitle="Chính trị xã hội" categorylink="" hasdata="yes" class="ui-tabs-panel ui-widget-content ui-corner-bottom">
-
 							<div class="news-tab">
+								{{#each collections.tinKinhTe}}
+								{{#if @first}}
 								<div class="news-tab-thumb-item-0">
-								<div class="news-tab-thumb-item-left-0">
-									<a href="TinTuc/tintuc/Lists/Posts/Post.aspx?CategoryId=6&amp;ItemID=4135&amp;PublishedDate=2016-06-02T03:35:00Z" class="news-tab-img-link-0">
-										<img alt="" src="./data/image (1)_jpg.jpg" class="news-tab-img-0"></a>
-								</div>
-								<div class="news-tab-thumb-item-right-0">
-									<div class="news-tab-thumb-item-title-0">
-										<a href="TinTuc/tintuc/Lists/Posts/Post.aspx?CategoryId=6&amp;ItemID=4135&amp;PublishedDate=2016-06-02T03:35:00Z" class="news-tab-title-link-0">
-											Ban quản lý Dự án 3EM tập huấn kỹ năng lập kế hoạch(02/06/2016) </a>
-										</div>
-										<div class="news-tab-thumb-item-content-0">
-											Sáng ngày 2/6, tại thị trấn Ea Tlinh, Sở Kế hoạch và Đầu tư, Ban quản lý Dự án 3EM tỉnh Đắk Nông đã phối hợp với UBND huyện Chư Jút tổ chức lớp tập huấn “Lập kế hoạch phát triển kinh tế xã hội có sự tham gia”.
-										</div>
+									<div class="news-tab-thumb-item-left-0">
+										<a href="./{{path}}" class="news-tab-img-link-0">
+											<img alt="" src="./{{this.banner}}" class="news-tab-img-0"></a>
 									</div>
+									<div class="news-tab-thumb-item-right-0">
+										<div class="news-tab-thumb-item-title-0">
+											<a href="./{{path}}" class="news-tab-title-link-0">
+												{{this.title}}({{this.date}}) </a>
+											</div>
+											<div class="news-tab-thumb-item-content-0">
+												{{this.description}}
+											</div>
+										</div>
 								</div>
+								{{else}}
 									<div class="news-tab-thumb">
-											<div class="news-tab-li">
-												{{#each collections.tinKinhTe}}
-												<div class="news-tab-li-item">
-													<div class="news-tab-li-item-title">
-														<span class="news-tab-sp-item-title">
-															<a class="news-tab-li-link" href="TinTuc/tintuc/Lists/Posts/Post.aspx?CategoryId=6&amp;ItemID=4134&amp;PublishedDate=2016-06-02T09:05:00Z">
-																{{this.title}}<span class="news-tab-li-item-datetime">({{this.date}})</span>
-															</a>
-														</span>
-													</div>
+										<div class="news-tab-li">
+											<div class="news-tab-li-item">
+												<div class="news-tab-li-item-title">
+													<span class="news-tab-sp-item-title">
+														<a class="news-tab-li-link" href="./{{path}}">
+															{{this.title}}<span class="news-tab-li-item-datetime">({{this.date}})</span>
+														</a>
+													</span>
 												</div>
-												{{/each}}
-												
-											<div class="news-tab-other"><div class="news-tab-rss">
-												<a href="TinTuc/tintuc/_layouts/listfeed.aspx?List=43cc31f0-7871-4326-83d2-11fceebc16ea" class="news-tab-rss-link">RSS</a></div><div class="news-tab-xemtiep">
-												<a href="TinTuc/tintuc/Lists/Posts/AllPosts.aspx?CategoryId=6&amp;PublishedDate=2016-05-31T01:40:00Z" class="news-tab-xemtiep-link">Xem tiếp</a></div></div>
-									</div>
-							</div>
+											</div>
 
+										<div class="news-tab-other"><div class="news-tab-rss">
+											<a href="TinTuc/tintuc/_layouts/listfeed.aspx?List=43cc31f0-7871-4326-83d2-11fceebc16ea" class="news-tab-rss-link">RSS</a></div><div class="news-tab-xemtiep">
+											<a href="TinTuc/tintuc/Lists/Posts/AllPosts.aspx?CategoryId=6&amp;PublishedDate=2016-05-31T01:40:00Z" class="news-tab-xemtiep-link">Xem tiếp</a></div></div>
+										</div>
+									</div>
+								{{/if}}
+								{{/each}}
+							</div>
 					</div>
 
-
-					<div id="tabs-ctl00_m_g_5f3067fd_aea8_4cdd_9e63_0a9b866e98e7_ctl00_tabs1" blogguid="914d7bf3-7db3-45a9-8171-246d27cf1f24" categoryname="Kinh tế - Đời sống" categoryid="24" categorytitle="Kinh tế - Đời sống" categorylink="" hasdata="no" class="ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide">
-
-							<div class="news-tab">
-									<div class="news-tab-thumb">
-											<div class="news-tab-li">
-											</div>
-											<div class="news-tab-other">
-											</div>
-									</div>
-							</div>
-
-					</div>
-
-
-					<div id="tabs-ctl00_m_g_5f3067fd_aea8_4cdd_9e63_0a9b866e98e7_ctl00_tabs2" blogguid="914d7bf3-7db3-45a9-8171-246d27cf1f24" categoryname="Y tế" categoryid="2" categorytitle="Y tế" categorylink="" hasdata="no" class="ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide">
-
-							<div class="news-tab">
-									<div class="news-tab-thumb">
-											<div class="news-tab-li">
-											</div>
-											<div class="news-tab-other">
-											</div>
-									</div>
-							</div>
-
-					</div>
-
-
-					<div id="tabs-ctl00_m_g_5f3067fd_aea8_4cdd_9e63_0a9b866e98e7_ctl00_tabs3" blogguid="914d7bf3-7db3-45a9-8171-246d27cf1f24" categoryname="Giáo dục" categoryid="4" categorytitle="Giáo dục" categorylink="" hasdata="no" class="ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide">
-
-							<div class="news-tab">
-									<div class="news-tab-thumb">
-											<div class="news-tab-li">
-											</div>
-											<div class="news-tab-other">
-											</div>
-									</div>
-							</div>
-
-					</div>
-
-
-					<div id="tabs-ctl00_m_g_5f3067fd_aea8_4cdd_9e63_0a9b866e98e7_ctl00_tabs4" blogguid="914d7bf3-7db3-45a9-8171-246d27cf1f24" categoryname="Khoa học công nghệ" categoryid="5" categorytitle="Khoa học công nghệ" categorylink="" hasdata="no" class="ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide">
-
-							<div class="news-tab">
-									<div class="news-tab-thumb">
-											<div class="news-tab-li">
-											</div>
-											<div class="news-tab-other">
-											</div>
-									</div>
-							</div>
-
-					</div>
-
-
-					<div id="tabs-ctl00_m_g_5f3067fd_aea8_4cdd_9e63_0a9b866e98e7_ctl00_tabs5" blogguid="914d7bf3-7db3-45a9-8171-246d27cf1f24" categoryname="Thông báo" categoryid="33" categorytitle="Thông báo" categorylink="" hasdata="no" class="ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide">
-
-							<div class="news-tab">
-									<div class="news-tab-thumb">
-											<div class="news-tab-li">
-											</div>
-											<div class="news-tab-other">
-											</div>
-									</div>
-							</div>
-
-					</div>
+					
 	</div>
 </div>
 

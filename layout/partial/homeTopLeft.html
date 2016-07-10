@@ -1,0 +1,253 @@
+<div class="hlOTopL">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td id="MSOZoneCell_WebPartWPQ20" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+		<td valign="top"><div webpartid="a9897dd9-b5df-488d-b966-f346da14b41b" haspers="false" id="WebPartWPQ20" width="100%" class="ms-WPBody noindex" allowdelete="false" style=""><table id="ctl00_m_g_a9897dd9_b5df_488d_b966_f346da14b41b" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
+			<link href="_CONTROLTEMPLATES/LacViet.CMS.UnionNews/css/unionnews.css" type="text/css" rel="stylesheet" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts"><script src="_CONTROLTEMPLATES/js/jquery-1.4.1.js" type="text/javascript" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts">var a1 = 0;</script><script src="Pages/js/jquery-1.4.1.js" type="text/javascript" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts">var a2 = 0</script>
+	<script type="text/javascript">
+		var jUnionNews = jQuery.noConflict();
+		var UnionNewsRefreshInterval2;
+		function displayInfo(tabId) {
+
+				if (document.getElementById) {
+						for (i = 1; i <= 1; i++) {
+
+								var infoId = 'Tr' + i;
+								var info = 'menu' + i;
+
+								if (tabId == i) {
+
+										document.getElementById(infoId).style.display = '';
+										if (document.getElementById(info) != null)
+												document.getElementById(info).className = 'tabselected';
+
+								}
+								else {
+
+										document.getElementById(infoId).style.display = 'none';
+										if (document.getElementById(info) != null)
+												document.getElementById(info).className = 'tabnormal';
+								}
+						}
+
+						jUnionNews(".lv_union_table_menuheader tr td:first").toggleClass("lv_menuheader_first");
+						jUnionNews(".lv_union_table_menuheader tr td:last").toggleClass("lv_menuheader_last");
+				}
+		}
+		function FirstDisplayInfo() {
+
+				if ("True" == 'true' || "True" == 'True') {
+
+						displayInfo('1');
+
+				}
+		}
+		function DoAction(webid, listid, numrow, linkview, action, mode) {
+
+				var dataString = "{'WebID': '" + webid + "', 'ListID': '" + listid + "', 'NumRow':'" + numrow + "','LinkView':'" + linkview + "','Action':'" + action + "','mode':'" + mode + "','MyThumbnail':'false'}";
+				jUnionNews(".union_image_thumb ul li").removeClass('active');
+				var ajax_load = "<div style='position:relative;top:100px;left:150px'><img class='loading' src='/_CONTROLTEMPLATES/LacViet.CMS.UnionNews/eofficeimg/wait.gif' alt='loading...' /><span>Loading....</span></div>";
+
+
+				//jUnionNews("#UnionNews_main_mode2").html(ajax_load);
+				jUnionNews.ajax({
+						type: "POST",
+						url: '/_CONTROLTEMPLATES/LacViet.CMS.UnionNews/UnionNewsUserControl.ascx/Load_UnionNews',
+						data: dataString,
+						contentType: "application/json; charset=utf-8",
+						dataType: "json",
+						cache: false,
+						beforeSend: function() {
+
+						},
+						success: function(result) {
+				if (action == '1') {
+										jUnionNews("#divNew1").eq(0).html(result.d).fadeIn(200);
+										jUnionNews("#divNew1 ul li:first").addClass('active');
+										jUnionNews("#divNew1 ul li:first").addClass('firstflag');
+								}
+						},
+						error: function() {
+						}
+				});
+		}
+		function UnionSwitchMode2(bPrev) {
+				var id = TabSelected();
+				var idUnion_image_thumb;
+
+				if (id == 'menu1')
+						idUnion_image_thumb = 'divNew1';
+
+				var jQueryActive = jUnionNews("#" + idUnion_image_thumb + ' .active');
+
+				var jQueryNext;
+
+				if (bPrev == 'true' && bPrev != undefined)
+						jQueryNext = jQueryActive.prev().length ? jQueryActive.prev() : jUnionNews("#" + idUnion_image_thumb + ' ul li:last');
+				else {
+						jQueryNext = jQueryActive.next().length ? jQueryActive.next() : jUnionNews("#" + idUnion_image_thumb + ' ul li:first');
+
+				}
+				//animation
+				var imgAlt = jQueryNext.find('img').attr("alt"); //Get Alt Tag of Image
+				var imgTitle = jQueryNext.find('img').attr("src"); //Get Main Image URL
+				var imgDesc = jQueryNext.find('.Union_block h2').html(); //Get HTML of block
+				var m_ItemShortContent = jQueryNext.find('.Union_block p').html(); //Get HTML of block
+
+				var imgDescHeight = jUnionNews(".union_main_image").find('.Union_block').height(); //Calculate height of block
+
+				//jUnionNews(".union_main_image .Union_block").animate({ marginBottom: -imgDescHeight }, 0, function() {
+				jUnionNews(".union_main_image .Union_block").animate({ marginBottom: -imgDescHeight }, 0, function() {
+
+						jQueryActive.removeClass('active')
+						jQueryNext.addClass('active');
+						jUnionNews(".union_main_image .Union_block p").html(m_ItemShortContent);
+						jUnionNews(".union_main_image .Union_block h2").html(imgDesc);
+						jUnionNews(".union_main_image .Union_block").animate({ marginBottom: "0" }, 0);
+						jUnionNews(".union_main_image img").attr({ src: imgTitle, alt: imgAlt });
+
+						if (jUnionNews(".union_main_image a.collapse").is(".show")) {
+								jUnionNews(".union_main_image a.collapse").toggleClass("show");
+						}
+				});
+
+		}
+		function TabSelected() {
+				return jUnionNews(".lv_union_table_menuheader .tabselected").attr("id");
+		}
+		jUnionNews(document).ready(function($) {
+
+				$(".union_image_thumb ul li:first").addClass('firstflag');
+
+				$(".union_main_image .Union_desc").show(); //Show Banner
+
+				//Click and Hover events for thumbnail list
+				FirstDisplayInfo();
+
+				$(".union_image_thumb ul li:first").addClass('active');
+				UnionNewsRefreshInterval2 = setInterval("UnionSwitchMode2()", "4000");
+
+				$(".union_image_thumb ul")
+.live('mouseenter', function() {
+
+		clearInterval(UnionNewsRefreshInterval2);
+})
+.live('mouseleave', function() {
+		UnionNewsRefreshInterval2 = setInterval("UnionSwitchMode2()", "4000");
+
+});
+
+				$(".union_image_thumb ul li")
+.click(function() {
+
+
+})
+.live('mouseenter', function() {
+
+		$(this).addClass('hover');
+		var imgAlt = $(this).find('img').attr("alt"); //Get Alt Tag of Image
+		var imgTitle = $(this).find('img').attr("src"); //Get Main Image URL
+		var imgDesc = $(this).find('.Union_block h2').html(); //Get HTML of block
+			var m_ItemShortContent = $(this).find('.Union_block p').html(); //Get HTML of block
+		//var imgOverDesc = $(this).find('.Union_block p').html();
+
+		var imgDescHeight = $(".union_main_image").find('.Union_block h2').height(); //Calculate height of block
+
+		if ($(".Union_desc a.collapse").is(".show")) {  //If it's already active, then...
+
+				//View an khi nhấn -
+				//$(".main_image .block").html(imgDesc);
+				//imgDescHeight = $(".main_image .block").height();
+				//$(".main_image .block").css({ marginBottom: -imgDescHeight});
+				//$(".main_image img").attr({ src: imgTitle , alt: imgAlt});
+
+				//View hien khi hover
+
+				$(".union_main_image .Union_block").animate({ marginBottom: -imgDescHeight }, 0, function() {
+							$(".union_main_image .Union_block p").html(m_ItemShortContent);
+						$(".union_main_image .Union_block h2").html(imgDesc);
+						$(".union_main_image .Union_block").animate({ marginBottom: "0" }, 0);
+						$(".union_main_image img").attr({ src: imgTitle, alt: imgAlt });
+						$("a.collapse").toggleClass("show");
+						//$(".itemDesc").html(imgOverDesc);
+				});
+
+		} else {
+
+				//Animate the Teaser
+				$(".union_main_image .Union_block").animate({ marginBottom: -imgDescHeight }, 0, function() {
+							$(".union_main_image .Union_block p").html(m_ItemShortContent);
+						$(".union_main_image .Union_block h2").html(imgDesc);
+						$(".union_main_image .Union_block").animate({ marginBottom: "0" }, 0);
+						$(".union_main_image img").attr({ src: imgTitle, alt: imgAlt });
+						// $(".itemDesc").html(imgOverDesc);
+				});
+		}
+
+
+})
+.live("mouseleave", function() {
+
+
+		$(this).removeClass('hover');
+		$(".union_main_image .Union_block").stop(true, true);
+
+
+});
+				//Toggle button close
+				$(".union_main_image a.collapse").click(function() {
+						var imgDescHeight = $(".union_main_image").find('.Union_block').height();
+						if ($(this).is(".show")) {
+								//alert(2);
+								$(".union_main_image .Union_block").animate({ marginBottom: "0" }, 0, function() {
+
+								});
+						} else {
+								//alert(1);
+								$(".union_main_image .Union_block").animate({ marginBottom: -imgDescHeight }, 0, function() {
+
+								});
+						}
+						$(".union_main_image a.collapse").toggleClass("show");
+				});
+
+				$('#menu1').click(function() {
+
+						refreshUnionIntervalId = DoAction('403801ec-b85b-41d6-993c-048fb0c0699a', '369536af-0833-44d1-be52-02564ab70a9c', '6', '', '1', '2');
+				});
+				$('#menu2').click(function() {
+
+						refreshUnionIntervalId = DoAction('403801ec-b85b-41d6-993c-048fb0c0699a', '369536af-0833-44d1-be52-02564ab70a9c', '6', '', '2', '2');
+				});
+				$('#Union_bttNext').click(function() {
+
+						UnionSwitchMode2();
+
+				})
+		 .hover(function() {
+				 clearInterval(UnionNewsRefreshInterval2);
+		 }, function() {
+				 UnionNewsRefreshInterval2 = setInterval("UnionSwitchMode2()", "4000");
+		 });
+
+				$('#Union_bttPrevious').click(function() {
+						UnionSwitchMode2('true');
+				})
+		 .hover(function() {
+				 clearInterval(UnionNewsRefreshInterval2);
+		 }, function() {
+				 UnionNewsRefreshInterval2 = setInterval("UnionSwitchMode2()", "4000");
+		 });
+		});
+</script>
+<div id="UnionNews_Container_mode2" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts"><div id="UnionNews_main_mode2"><div id="ctl00_m_g_051ba609_ce62_4836_b8a3_981496ed23ce_ctl00_Panel_main_mode2"><div iditem="" class="union_main_image"><img src="http://daksong.daknong.gov.vn/sites/default/files/imagecache/img_tintuc_thumbnail_large/image003_0.jpg" border="0" align="middle" alt=""><div class="Union_desc"><a href="javascript:void(0);" class="collapse">Đóng</a><div class="Union_block" style="margin-bottom: 0px;"><h2><a href="TinTuc/tintuc/Lists/Posts/Post.aspx?CategoryId=24&amp;ItemId=4140&amp;PublishedDate=2016-06-03T10:45:00Z">GIẢI BÓNG ĐÁ MINI NỮ HUYỆN ĐĂK SONG LẦN THỨ II NĂM 2014 <br></a></h2><p class="hot-content1">Trên cơ sở quy hoạch chung khu vực Tây Nguyên, ngày 14/8/2015, UBND tỉnh đã ban hành Quyết định số 1244/QĐ-UBND về việc phê duyệt quy hoạch phát triển hành lang kinh tế dọc tuyến quốc lộ 14, tỉnh Đắk Nông đến năm 2020 và định hướng đến năm 2030. Đây được xem là cơ sở để tỉnh Đắk Nông tập trung nguồn lực, khai thác tốt tiềm năng, lợi thế phục vụ phát triển nội vùng và khu vực.</p></div></div></div></div><div class="button-link"><div id="Union_bttPrevious"><img src="_CONTROLTEMPLATES/LacViet.CMS.UnionNews/eofficeimg/Giaodien/cityweb/icon-pre.png"></div><div id="Union_bttNext"><img src="_CONTROLTEMPLATES/LacViet.CMS.UnionNews/eofficeimg/Giaodien/cityweb/icon-next.png"></div></div></div><div id="UnionNews_menu_mode2"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="100%"><table class="lv_union_table_menuheader" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td onclick="displayInfo(1)" id="menu1" class="tabselected lv_menuheader_first lv_menuheader_last" style="cursor: pointer;">Tin tức nổi bật</td></tr></tbody></table></td></tr><tr id="Tr1" class="cssTrmenu"><td><div id="divNew1" class="union_image_thumb"><ul><li class="firstflag active"><a href="TinTuc/tintuc/Lists/Posts/Post.aspx?CategoryId=24&amp;ItemId=4140&amp;PublishedDate=2016-06-03T10:45:00Z" class="hiddenThumbnail"><img src="http://daksong.daknong.gov.vn/sites/default/files/imagecache/img_tintuc_thumbnail_large/image003_0.jpg" alt=""></a><div class="Union_block"><h2><a href="TinTuc/tintuc/Lists/Posts/Post.aspx?CategoryId=24&amp;ItemId=4140&amp;PublishedDate=2016-06-03T10:45:00Z">GIẢI BÓNG ĐÁ MINI NỮ HUYỆN ĐĂK SONG LẦN THỨ II NĂM 2014 <br></a></h2><p class="hot-content1" style="display:none;">Trên cơ sở quy hoạch chung khu vực Tây Nguyên, ngày 14/8/2015, UBND tỉnh đã ban hành Quyết định số 1244/QĐ-UBND về việc phê duyệt quy hoạch phát triển hành lang kinh tế dọc tuyến quốc lộ 14, tỉnh Đắk Nông đến năm 2020 và định hướng đến năm 2030. Đây được xem là cơ sở để tỉnh Đắk Nông tập trung nguồn lực, khai thác tốt tiềm năng, lợi thế phục vụ phát triển nội vùng và khu vực.</p></div></li><li class=" "><a href="TinTuc/tintuc/Lists/Posts/Post.aspx?CategoryId=32&amp;ItemId=4132&amp;PublishedDate=2016-06-02T09:05:00Z" class="hiddenThumbnail"><img src="http://www.baodaknong.org.vn/database/image/2016/06/02/2265-XH-2.jpg" alt=""></a><div class="Union_block"><h2><a href="TinTuc/tintuc/Lists/Posts/Post.aspx?CategoryId=32&amp;ItemId=4132&amp;PublishedDate=2016-06-02T09:05:00Z">HIỆU QUẢ CUỘC VẬN ĐỘNG XÂY DỰNG MÔ HÌNH 5 KHÔNG 3 SẠCH Ở HỘI LHPN XÃ THUẬN HÀ –ĐAK SONG
+										 HIỆU QUẢ CUỘC VẬN ĐỘNG XÂY DỰNG MÔ HÌNH 5 KHÔNG 3 SẠCH Ở HỘI LHPN XÃ THUẬN HÀ –ĐAK SONG                    <br></a></h2><p class="hot-content1" style="display:none;">Thời gian qua, các chủ trương, chính sách của Đảng, Nhà nước đối với đồng bào dân tộc thiểu số (DTTS) tiếp tục được các cấp ủy và chính quyền trong tỉnh triển khai kịp thời, nghiêm túc. Qua đó đã góp phần bảo đảm an sinh xã hội, cải thiện đời sống vật chất và tinh thần cho nhân dân.</p></div></li><li class=" "><a href="TinTuc/tintuc/Lists/Posts/Post.aspx?CategoryId=6&amp;ItemId=4131&amp;PublishedDate=2016-06-02T09:00:00Z" class="hiddenThumbnail"><img src="http://www.baodaknong.org.vn/database/image/2016/06/01/2264-TT-11.jpg" alt=""></a><div class="Union_block"><h2><a href="TinTuc/tintuc/Lists/Posts/Post.aspx?CategoryId=6&amp;ItemId=4131&amp;PublishedDate=2016-06-02T09:00:00Z">TẬP HUẤN  KHAI THUẾ QUA MẠNG INTENET<br></a></h2><p class="hot-content1" style="display:none;">Không được vô cảm trước những bức xúc của người dân</p></div></li><li class=" "><a href="TinTuc/tintuc/Lists/Posts/Post.aspx?CategoryId=32&amp;ItemId=4130&amp;PublishedDate=2016-06-02T08:55:00Z" class="hiddenThumbnail"><img src="http://www.baodaknong.org.vn/database/image/2016/06/02/2265-XH-1.jpg" alt=""></a><div class="Union_block"><h2><a href="TinTuc/tintuc/Lists/Posts/Post.aspx?CategoryId=32&amp;ItemId=4130&amp;PublishedDate=2016-06-02T08:55:00Z">Cây rừng mới trồng dọc quốc lộ 14 ở Đắk Song bị phá hoại<br></a></h2><p class="hot-content1" style="display:none;">Thực hiện Chỉ thị của 08 của Ban Thường vụ Tỉnh ủy và Kế hoạch số 382 của UBND tỉnh về việc đẩy mạnh phát triển kinh tế, xã hội, quốc phòng, an ninh vùng đồng bào dân tộc Mông, thời gian qua, huyện Chư Jút đã triển khai nhiều hoạt động thiết thực, cụ thể. Vì vậy, đời sống vật chất cũng như tinh thần của đồng bào Mông trên địa bàn huyện đã có nhiều chuyển biến tích cực.</p></div></li><li class=" "><a href="TinTuc/tintuc/Lists/Posts/Post.aspx?CategoryId=32&amp;ItemId=4128&amp;PublishedDate=2016-06-01T15:55:00Z" class="hiddenThumbnail"><img src="http://www.baodaknong.org.vn/database/image/2016/06/01/2264-TT-7.jpg" alt=""></a><div class="Union_block"><h2><a href="TinTuc/tintuc/Lists/Posts/Post.aspx?CategoryId=32&amp;ItemId=4128&amp;PublishedDate=2016-06-01T15:55:00Z">Cây rừng mới trồng dọc quốc lộ 14 ở Đắk Song bị phá hoại<br></a></h2><p class="hot-content1" style="display:none;">Ngày 1/6, tại thị trấn Ea Tling, UBND huyện Chư Jút tổ chức lễ phát động “Tết trồng cây đời đời nhớ ơn Bác Hồ” năm 2016 với sự tham gia của đại diện lãnh đạo huyện, các cơ quan, đơn vị, phòng ban cùng đông đảo đoàn viên, thanh niên, học sinh và quần chúng nhân dân trên địa bàn.
+                     </p></div></li></ul></div></td></tr></tbody></table></div></div>
+		</td></tr></tbody></table></div></td>
+	</tr>
+</tbody></table></td>
+</tr>
+</tbody></table>
+
+</div>

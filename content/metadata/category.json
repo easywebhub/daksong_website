@@ -22,19 +22,8 @@
        {
           "ten" : "Y Tế",
           "collections_name" : "y-te"
-       },
-       {
-          "ten" : "Chính trị xã hội",
-          "collections_name" : "chinh-tri-xa-hoi"
-       },
-       {
-          "ten" : "Kinh tế - Đời Sống",
-          "collections_name" : "kinh-te-doi-song"
-       },
-       {
-          "ten" : "Y Tế",
-          "collections_name" : "y-te"
        }
+
      ]
   }
 

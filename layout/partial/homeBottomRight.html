@@ -14,7 +14,6 @@
 
 
 <!-- <link type="text/css" href="/_CONTROLTEMPLATES/LacViet.CMS.ViewPageManager/css/style_left_menu.css" rel="stylesheet" /> -->
-<script type="text/javascript" src="_CONTROLTEMPLATES/LacViet.CMS.ViewPageManager/js/jquery-1.4.1.js"></script>
 
 
 <script type="text/javascript">
@@ -85,107 +84,13 @@ jLeftMenu(function($) {
 
 <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr>
-<td valign="top"><div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ4" width="100%" class="ms-WPBody noindex" onlyformepart="true" allowdelete="false" style=""><table id="ctl00_PlaceHolderMain_g_d7266b72_1986_4f87_9fe0_518f56ab4012" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
-<script language="javascript" type="text/javascript" src="SiteAssets/jquery-1.4.4.js" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">var a = 1;</script><script type="text/javascript" src="_LAYOUTS/LacVietBio/js/jwplayer.js" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">a = 1;</script><script type="text/javascript" src="SiteAssets/js/video/silverlight.js" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">var a = 1;</script><script type="text/javascript" src="SiteAssets/js/video/wmvplayer.js" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">var a = 1;</script><div class="videobox" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema"><div class="videobox-content"><div class="videobox-title"><a href="Lists/ThuVienVideo/quan-tri.aspx">Thư viện Video</a></div><div id="videobox-image" class="videobox-image" style="width:226px;height:250px"><div class="p-videobox-thumb"><img id="img-videobox-thumb" class="videobox-thumb" src="HinhDaiDienVideo/_w/toquoc_jpg.jpg" srcmedia="http://222.255.158.21:554/CentralMedia/Hoangsa/toquocnhintubien.wmv" alt=""></div><div class="p-videobox-thumb2"><img class="videobox-thumb21" src="Pages/_Layouts/lacvietbio/eofficeimg/play_icon.png" alt=""></div></div><div id="flvplayer">&nbsp;</div><div id="MediaPlayerZone">&nbsp;</div><div class="mediaItems"><ul class="ul-mediaItem"><li class="li-mediaItem" onclick="playMedia(this);" url="http://222.255.158.21:554/CentralMedia/Hoangsa/toquocnhintubien.wmv" urlimage="HinhDaiDienVideo/_w/toquoc_jpg.jpg">Tổ quốc nhìn từ Biển</li><li class="li-mediaItem" onclick="playMedia(this);" url="http://222.255.158.21:554/CentralMedia/WMV/tinhcadaknong.wmv" urlimage="HinhDaiDienVideo/_w/tinhca_jpg.jpg">Tình ca Đăk Nông</li></ul></div></div></div><script xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">
-		function playMedia(mediaItem) {
-			urlVideo = mediaItem.getAttribute("Url");
-			urlImage = mediaItem.getAttribute("UrlImage");
-
-			if (isFLV(urlVideo)) {
-
-				$('.videobox-image').hide();
-				$("#MediaPlayerZone").hide();
-
-				jwplayer("flvplayer").setup({
-						flashplayer: "/_LAYOUTS/LacVietBio/UserControls/LacViet.VideoServer/player4.6.swf",
-						file: urlVideo,
-						image: urlImage,
-						autostart: true,
-						height: 200,
-						width: 300
-				});
-			}
-			else
-			{
-				$('.videobox-image').hide();
-				$("#MediaPlayerZone").show();
-	$('#flvplayer').hide();
-
-				var cnt = document.getElementById("MediaPlayerZone");
-						var src = '/SiteAssets/js/video/wmvplayer.xaml';
-						var cfg = {
-						file: urlVideo,
-									autoplay:true,
-						height:200,
-						width:300
-						};
-						var ply = new jeroenwijering.Player(cnt,src,cfg);
-			}
-		};
-		function isFLV(videoUrl) {
-			return videoUrl.substr(videoUrl.length - 3, 3).toLowerCase() == 'flv';
-		}
-		$(document).ready(function(){
-
-				$("#MediaPlayerZone").hide();
-
-				$(".videobox-image").click(function(){
-
-						var urlVideo = $(this).children("div.p-videobox-thumb").children("img.videobox-thumb").attr("srcMedia");
-						var urlImage = $(this).children("div.p-videobox-thumb").children("img.videobox-thumb").attr("src");
-
-						if (isFLV(urlVideo)) {
-							$("#MediaPlayerZone").hide();
-							$('.videobox-image').hide();
-
-							jwplayer("flvplayer").setup({
-									flashplayer: "/_LAYOUTS/LacVietBio/UserControls/LacViet.VideoServer/player4.6.swf",
-									file: urlVideo,
-									image: urlImage,
-									height: 200,
-									width: 300
-							});
-						}
-						else
-						{
-							$("#MediaPlayerZone").show();
-							$('.videobox-image').hide();
-							$('#flvplayer').hide();
-
-
-								var cnt = document.getElementById("MediaPlayerZone");
-						var src = '/SiteAssets/js/video/wmvplayer.xaml';
-						var cfg = {
-						file: urlVideo,
-						height:200,
-									autoplay:true,
-						width:300
-						};
-						var ply = new jeroenwijering.Player(cnt,src,cfg);
-						}
-				});
-		});
-
-		var urlVideo = $('#videobox-image').children("div.p-videobox-thumb").children("img.videobox-thumb").attr("srcMedia");
-		var urlImage = $('#videobox-image').children("div.p-videobox-thumb").children("img.videobox-thumb").attr("src");
-
-		if (isFLV(urlVideo)) {
-			$("#MediaPlayerZone").hide();
-			$('.videobox-image').hide();
-
-			jwplayer("flvplayer").setup({
-					flashplayer: "/_LAYOUTS/LacVietBio/UserControls/LacViet.VideoServer/player4.6.swf",
-					file: urlVideo,
-					image: urlImage,
-					height: 200,
-					width: 300
-			});
-		}
-		else
-		{
-		}
-
-	</script>
+<td valign="top"><div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ4" width="100%" class="ms-WPBody noindex" onlyformepart="true" allowdelete="false" style="">
+  <table id="ctl00_PlaceHolderMain_g_d7266b72_1986_4f87_9fe0_518f56ab4012" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
+<script type="text/javascript" src="_LAYOUTS/LacVietBio/js/jwplayer.js" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">a = 1;</script>
+<script type="text/javascript" src="SiteAssets/js/video/silverlight.js" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">var a = 1;</script><script type="text/javascript" src="SiteAssets/js/video/wmvplayer.js" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">var a = 1;</script>
+<div class="videobox" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">
+  <div class="videobox-content"><div class="videobox-title"><a href="Lists/ThuVienVideo/quan-tri.aspx">Thư viện Video</a></div><div id="videobox-image" class="videobox-image" style="width:226px;height:250px"><div class="p-videobox-thumb"><img id="img-videobox-thumb" class="videobox-thumb" src="HinhDaiDienVideo/_w/toquoc_jpg.jpg" srcmedia="http://222.255.158.21:554/CentralMedia/Hoangsa/toquocnhintubien.wmv" alt=""></div><div class="p-videobox-thumb2"><img class="videobox-thumb21" src="Pages/_Layouts/lacvietbio/eofficeimg/play_icon.png" alt=""></div></div><div id="flvplayer">&nbsp;</div><div id="MediaPlayerZone">&nbsp;</div><div class="mediaItems"><ul class="ul-mediaItem"><li class="li-mediaItem" onclick="playMedia(this);" url="http://222.255.158.21:554/CentralMedia/Hoangsa/toquocnhintubien.wmv" urlimage="HinhDaiDienVideo/_w/toquoc_jpg.jpg">Tổ quốc nhìn từ Biển</li><li class="li-mediaItem" onclick="playMedia(this);" url="http://222.255.158.21:554/CentralMedia/WMV/tinhcadaknong.wmv" urlimage="HinhDaiDienVideo/_w/tinhca_jpg.jpg">Tình ca Đăk Nông</li></ul></div></div></div>
+  
 </td></tr></tbody></table></div></td>
 </tr>
 </tbody></table>

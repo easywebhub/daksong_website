@@ -3,12 +3,22 @@
 const PROD = !!(require('yargs').argv.production);
 let site = require('./site');
 const gulp = require('gulp');
-const $ = require('gulp-load-plugins')({camelize: true});
 const browser = require('browser-sync');
 const Metalsmith = require('metalsmith');
 const Handlebars = require('handlebars');
 require('./handlebars-helper')(Handlebars);
 
+// load metalsmith plugin
+const $ = {
+    plumber:      require('gulp-plumber'),
+    sourcemaps:   require('gulp-sourcemaps'),
+    uglify:       require('gulp-uglify'),
+    cssnano:      require('gulp-cssnano'),
+    autoprefixer: require('gulp-autoprefixer'),
+    inlineSource: require('gulp-inline-source'),
+    babel:        require('gulp-babel'),
+    concat:       require('gulp-concat')
+};
 
 const MetalSmithProductionPlugins = [
     'metalsmith-html-minifier'
@@ -65,34 +75,6 @@ function metalsmith(done) {
         } else
             done();
     });
-}
-
-/**
- * build site's sass file, xử lý autoprefixer
- * tạo source map nếu ở chế độ debug
- * ở chế độ production apply các plugin: uncss, cssnano, autoprefixer
- */
-function sass() {
-    let task = gulp.src(`${site.styleRoot}/**/*.{scss,sass}`)
-        .pipe($.plumber());
-    if (!PROD)
-        task = task.pipe($.sourcemaps.init());
-
-    if (site.style.sass) {
-        let sassConfig = Object.assign({}, site.style.sass);
-        sassConfig.outputStyle = 'expanded';
-        task = task.pipe($.sass(sassConfig).on('error', $.sass.logError));
-    }
-
-    if (PROD) {
-        if (site.style.autoprefixer)
-            task = task.pipe($.autoprefixer(site.style.autoprefixer));
-        task = task.pipe($.cssnano({safe: true}));
-    } else {
-        task = task.pipe($.sourcemaps.write());
-    }
-    return task.pipe(gulp.dest(`${site.buildRoot}/css`))
-        .pipe(browser.reload({stream: true}));
 }
 
 /**
@@ -163,10 +145,19 @@ function server(done) {
     done();
 }
 
+function serverForApp(done) {
+    browser.init({
+        server: site.buildRoot,
+        ui:     false,
+        open:   false
+    });
+    done();
+}
+
 // Xóa ${buildRoot} (metalsmith tự động xóa)
-// build metalsmith, sass, javascript, image
+// build metalsmith, javascript, image
 // copy tất cả qua ${buildRoot}
-gulp.task('build', gulp.series(metalsmith, gulp.parallel(asset, script, sass), inlineSource));
+gulp.task('build', gulp.series(metalsmith, gulp.parallel(asset, script), inlineSource));
 
 function reload(done) {
     browser.reload();
@@ -174,10 +165,9 @@ function reload(done) {
 }
 
 function watch() {
-    gulp.watch(['site.js','handlebars-helper.js'], gulp.series(reloadSiteConfig, 'build', reload));
+    gulp.watch(['site.js'], gulp.series(reloadSiteConfig, 'build', reload));
 
     gulp.watch(`${site.assetRoot}/**/*`, gulp.series(asset, reload));      // watch asset
-    gulp.watch(`${site.styleRoot}/**/*.{scss,sass}`, sass);                // watch style
     gulp.watch(`${site.scriptRoot}/**/*.js`, gulp.series(script, reload)); // watch script
     gulp.watch([
         `${site.contentRoot}/**/*`,
@@ -187,3 +177,4 @@ function watch() {
 
 // Build the site, run the server, and watch for file changes
 gulp.task('default', gulp.series('build', server, watch));
+gulp.task('app-watch', gulp.series('build', serverForApp, watch));

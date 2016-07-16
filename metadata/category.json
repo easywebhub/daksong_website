@@ -1,11 +1,41 @@
 {
   "title": "Data cho các trang danh mục được định nghĩa ở đây",
-  
+
   "blog" : {
     "title": "Trang danh mục blog được định nghĩa trong category.json",
     "url": "blog",
     "description": "trang blog",
     "banner" : "định nghĩa banner"
+  },
+
+  "block-1" : {
+     "ten" : "Block đầu tiên của danh mục trong trang chủ",
+     "danh-sach": [
+       {
+          "ten" : "Chính trị xã hội",
+          "collections_name" : "chinh-tri-xa-hoi"
+       },
+       {
+          "ten" : "Kinh tế - Đời Sống",
+          "collections_name" : "kinh-te-doi-song"
+       },
+       {
+          "ten" : "Y Tế",
+          "collections_name" : "y-te"
+       },
+       {
+          "ten" : "Chính trị xã hội",
+          "collections_name" : "chinh-tri-xa-hoi"
+       },
+       {
+          "ten" : "Kinh tế - Đời Sống",
+          "collections_name" : "kinh-te-doi-song"
+       },
+       {
+          "ten" : "Y Tế",
+          "collections_name" : "y-te"
+       }
+     ]
   }
 
 }

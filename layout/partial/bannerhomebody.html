@@ -28,40 +28,7 @@
 									<tr>
 										<td>
 											<div xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">
-												<link rel="stylesheet" type="text/css" href="_layouts/LacVietBio/css/news_css.css">
-												<link rel="stylesheet" type="text/css" href="_layouts/LacVietBio/css/jquery.contextMenu.css">
-												<script type="text/javascript" src="_layouts/LacVietBio/js/jquery-1.5.1.js">
-													var i1 = 0;
-												</script>
-												<script type="text/javascript" src="_layouts/LacVietBio/js/jquery.contextMenu.js">
-													var i2 = 0;
-												</script>
-												<script type="text/javascript">
-													$(document).ready(function() {
-
-														// Xử lý hiệu ứng khi click chuột phải để edit bài viết :: BEGIN
-														$(".allowMenu").contextMenu({
-																menu: 'myMenu'
-															},
-															function(action, el, pos) {
-
-																if (action == "postbyword") {
-																	parent.location = 'Hinh lien ket trang chu/Forms/Chinhsua.aspx';
-																}
-																if (action == 'postbyweb') {
-																	parent.location = '';
-																}
-																if (action == 'editbyweb') {
-																	parent.location = '';
-																}
-
-															});
-													});
-													// Xử lý hiệu ứng khi click chuột phải để edit bài viết :: END
-												</script>
-												<ul style="DISPLAY: none" id="myMenu" class="contextMenu" jquery151018400330402658094="3">
-													<li class="edit"><a href="#postbyword">Chỉnh sửa liên kết ảnh</a></li>
-												</ul>
+												
 												<div id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_Chinh" class="ndiv">
 													<div class="div-image">
 														<div class="allowMenu">

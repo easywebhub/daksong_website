@@ -2,7 +2,7 @@
 	<div id="ctl00_m_g_5f3067fd_aea8_4cdd_9e63_0a9b866e98e7_ctl00_tabs" class="ui-tabs ui-widget ui-widget-content ui-corner-all">
 		<ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
 			{{#each category.block-1.danh-sach}}
-			<li class="tabs-0 ui-state-default ui-corner-top ui-tabs-selected ui-state-active">
+			<li class="tabs-{{@index}} ui-state-default ui-corner-top {{#if @first}} ui-tabs-selected ui-state-active {{/if}}">
 				<a href="{{this.collections_name}}">{{this.ten}}</a>
 			</li>
 			{{/each}}

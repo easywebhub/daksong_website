@@ -5,7 +5,8 @@
 "description": "Huyện Đăk Song tích cực chuẩn bị cho năm học 2014 - 2015",
 "layout": "tin-kinh-te.html",
 "date": "2015-11-04",
-"draft": "false"
+"draft": "false",
+"hinhAnh": "hinh-anh/tin-kinh-te/10 kgiang krong no 05092012.jpg"
 }
 ---
 

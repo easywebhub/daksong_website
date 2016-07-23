@@ -6,7 +6,7 @@
 "layout": "tin-kinh-te.html",
 "date": "2015-11-04",
 "draft": "false",
-"banner" : "data/image (1)_jpg.jpg"
+"banner" : "hinh-anh/tin-kinh-te/nop-thue-qua-mang.jpg"
 }
 ---
 

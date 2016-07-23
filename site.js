@@ -97,6 +97,11 @@ site.metalsmith = {
             'sortBy': 'date',
             'reverse': true,
         },
+        'thongTinDieuHanh': {
+            'pattern': 'thong-tin-dieu-hanh/**/*.html',
+            'sortBy': 'date',
+            'reverse': true,
+        },
         // collection theo key trong metadata `"collection": "baiviet"`
         'baiviet': {
             'sortBy': 'date',
@@ -127,51 +132,67 @@ site.metalsmith = {
             'pageMetadata': {
                 'title': 'Tin kinh tế'
             }
-        }
 
-        // // test filter
-        // 'collections.baiviet': {
-        //     'perPage':   1,
-        //     'layout':    'blog.html',
-        //     'first':     'baiviet/index.html',
-        //     'path':      'baiviet/:num/index.html',
-        //     'filter':    meta => {
-        //         return meta.dacbiet === false;
-        //     },
-        //     'noPageOne': true
-        // }
-    },
-
-    'metalsmith-permalinks': {
-        '_enable': true,
-        // default config
-        'pattern': ':url',
-        'relative': false,
-        // config rieng cho 1 collection
-        linksets: [{
-            match: { collection: 'blog' },
-            pattern: 'blog/:url'
         },
-            {
-                match: { collection: 'tinKinhTe' },
-                pattern: 'tin-kinh-te/:url'
-            }
-        ]
+        'collections.thongTinDieuHanh': {
+            'perPage': 1,
+            'layout': 'thong-tin-dieu-hanh.html',
+            'first': 'thong-tin-dieu-hanh/index.html',
+            'path': 'thong-tin-dieu-hanh/:num/index.html',
+            'noPageOne': true,
+            'pageMetadata': {
+                'title': 'Chỉ đạo điều hành'
+        }
     },
 
-    'metalsmith-layouts': {
-        '_enable': true,
-        'engine': 'handlebars',
-        'directory': `${site.layoutRoot}`,
-        'partials': `${site.layoutRoot}/partial`
-    },
+            // // test filter
+            // 'collections.baiviet': {
+            //     'perPage':   1,
+            //     'layout':    'blog.html',
+            //     'first':     'baiviet/index.html',
+            //     'path':      'baiviet/:num/index.html',
+            //     'filter':    meta => {
+            //         return meta.dacbiet === false;
+            //     },
+            //     'noPageOne': true
+            // }
+        },
 
-    'metalsmith-html-minifier': {
-        '_enable': true,
-        'removeAttributeQuotes': false,
-        'keepClosingSlash': true,
-        'removeRedundantAttributes': false
+        'metalsmith-permalinks': {
+            '_enable': true,
+            // default config
+            'pattern': ':url',
+            'relative': false,
+            // config rieng cho 1 collection
+            linksets: [{
+                match: { collection: 'blog' },
+                pattern: 'blog/:url'
+            },
+                {
+                    match: { collection: 'tinKinhTe' },
+                    pattern: 'tin-kinh-te/:url'
+                },
+                {
+                    match: { collection: 'thongTinDieuHanh' },
+                    pattern: 'thong-tin-dieu-hanh/:url'
+                }
+            ]
+        },
+
+        'metalsmith-layouts': {
+            '_enable': true,
+            'engine': 'handlebars',
+            'directory': `${site.layoutRoot}`,
+            'partials': `${site.layoutRoot}/partial`
+        },
+
+        'metalsmith-html-minifier': {
+            '_enable': true,
+            'removeAttributeQuotes': false,
+            'keepClosingSlash': true,
+            'removeRedundantAttributes': false
+        }
     }
-};
+
 
 module.exports = site;

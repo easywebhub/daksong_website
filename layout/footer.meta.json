@@ -1,0 +1,17 @@
+[
+    {
+        "name": "title",
+        "displayName": "title",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "items",
+        "displayName": "items",
+        "type": "Array",
+        "validations": [],
+        "required": false
+    }
+]

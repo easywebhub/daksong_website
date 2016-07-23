@@ -147,7 +147,17 @@ site.metalsmith = {
             'noPageOne': true,
             'pageMetadata': {
                 'title': 'Chỉ đạo điều hành'
+        }},
+         'collections.tinVanHoa': {
+            'perPage': 1,
+           'layout': 'tin_van_hoa_layout.html',
+            'first': 'tin_van_hoa/index.html',
+            'path': 'tin_van_hoa/:num/index.html',
+            'noPageOne': true,
+            'pageMetadata': {
+                'title': 'tin van hoa'
         }
+    
     },
 
             // // test filter
@@ -184,7 +194,7 @@ site.metalsmith = {
                 {
                     match: { collection: 'tinVanHoa' },
                     pattern: 'tin_van_hoa/:url'
-                },
+                }
             ]
         },
 

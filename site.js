@@ -103,7 +103,7 @@ site.metalsmith = {
             'reverse': true,
         },
          'tinVanHoa': {
-            'pattern': 'tin-van-hoa/**/*.html',
+            'pattern': 'tin_van_hoa/**/*.html',
             'sortBy': 'date',
             'reverse': true,
         },
@@ -180,7 +180,11 @@ site.metalsmith = {
                 {
                     match: { collection: 'thongTinDieuHanh' },
                     pattern: 'thong-tin-dieu-hanh/:url'
-                }
+                },
+                {
+                    match: { collection: 'tinVanHoa' },
+                    pattern: 'tin_van_hoa/:url'
+                },
             ]
         },
 

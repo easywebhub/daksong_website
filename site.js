@@ -102,6 +102,11 @@ site.metalsmith = {
             'sortBy': 'date',
             'reverse': true,
         },
+         'tinVanHoa': {
+            'pattern': 'tin-van-hoa/**/*.html',
+            'sortBy': 'date',
+            'reverse': true,
+        },
         // collection theo key trong metadata `"collection": "baiviet"`
         'baiviet': {
             'sortBy': 'date',

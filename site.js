@@ -149,7 +149,7 @@ site.metalsmith = {
                 'title': 'Chỉ đạo điều hành'
         }},
          'collections.tinVanHoa': {
-            'perPage': 1,
+            'perPage': 5,
            'layout': 'tin_van_hoa_layout.html',
             'first': 'tin_van_hoa/index.html',
             'path': 'tin_van_hoa/:num/index.html',

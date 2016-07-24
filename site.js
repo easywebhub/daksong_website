@@ -1,5 +1,5 @@
 const site = {
-    port: 8088,        // cổng server local sẻ sử dụng
+    port: 3000,        // cổng server local sẻ sử dụng
     contentRoot: './content', // thư mục chứa content file cho metalsmith
     buildRoot: './build',   // thư mục chứa output của metalsmith
     layoutRoot: './layout',  // thư mục layout của handlebars
@@ -102,6 +102,11 @@ site.metalsmith = {
             'sortBy': 'date',
             'reverse': true,
         },
+         'tinVanHoa': {
+            'pattern': 'tin_van_hoa/**/*.html',
+            'sortBy': 'date',
+            'reverse': true,
+        },
         // collection theo key trong metadata `"collection": "baiviet"`
         'baiviet': {
             'sortBy': 'date',
@@ -142,7 +147,17 @@ site.metalsmith = {
             'noPageOne': true,
             'pageMetadata': {
                 'title': 'Chỉ đạo điều hành'
+        }},
+         'collections.tinVanHoa': {
+            'perPage': 5,
+           'layout': 'tin_van_hoa_layout.html',
+            'first': 'tin_van_hoa/index.html',
+            'path': 'tin_van_hoa/:num/index.html',
+            'noPageOne': true,
+            'pageMetadata': {
+                'title': 'tin van hoa'
         }
+    
     },
 
             // // test filter
@@ -175,6 +190,10 @@ site.metalsmith = {
                 {
                     match: { collection: 'thongTinDieuHanh' },
                     pattern: 'thong-tin-dieu-hanh/:url'
+                },
+                {
+                    match: { collection: 'tinVanHoa' },
+                    pattern: 'tin_van_hoa/:url'
                 }
             ]
         },

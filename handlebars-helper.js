@@ -1,3 +1,4 @@
+﻿
 'use strict';
 
 var HandlebarsLayouts = require('handlebars-layouts');

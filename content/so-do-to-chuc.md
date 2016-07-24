@@ -1,14 +1,13 @@
 ---json
 {
     "title": "so-do-to-chuc",
-    "slug": "so-do-to-chuc",
+    "slug": "page/so-do-to-chuc",
     "description": "mo ta lanh dao co quan",
     "layout": "page.html",
     "date": "2016-07-24 15:25:34 +07:00",
     "permalink": true
 }
 ---
- 
 Nhiệm vụ của lãnh đạo cơ quan
 * Đ/c Nguyễn Thị Thanh Hà:
 - Năm sinh: 1966

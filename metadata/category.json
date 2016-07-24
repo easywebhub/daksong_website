@@ -14,17 +14,31 @@
        {
           "ten" : "Chính trị xã hội",
           "collections_name" : "chinh-tri-xa-hoi"
-       },
-       {
-          "ten" : "Kinh tế - Đời Sống",
-          "collections_name" : "kinh-te-doi-song"
-       },
-       {
-          "ten" : "Y Tế",
-          "collections_name" : "y-te"
        }
+     ]
+  },
+  "block-2" : {
+     "ten" : "",
+     "danh_sach": [
+       {
+          "ten" : "Thông tin đều hành",
+          "collections_name" : "thong-tin-dieu-hanh"
+       }
+      
+
+     ]
+  },
+  "tab_van_hoa" : {
+     "ten" : "",
+     "danh_sach": [
+       {
+          "ten" : "Tin văn hóa",
+          "collections_name" : "tinVanHoa"
+       }
+      
 
      ]
   }
+
 
 }

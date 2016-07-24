@@ -1,5 +1,5 @@
 const site = {
-    port: 8088,        // cổng server local sẻ sử dụng
+    port: 3000,        // cổng server local sẻ sử dụng
     contentRoot: './content', // thư mục chứa content file cho metalsmith
     buildRoot: './build',   // thư mục chứa output của metalsmith
     layoutRoot: './layout',  // thư mục layout của handlebars

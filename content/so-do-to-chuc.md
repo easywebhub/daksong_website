@@ -3,7 +3,7 @@
     "title": "so-do-to-chuc",
     "slug": "so-do-to-chuc",
     "description": "mo ta lanh dao co quan",
-    "layout": "blog-paging.html",
+    "layout": "page.html",
     "date": "2016-07-24 15:25:34 +07:00",
     "permalink": true
 }

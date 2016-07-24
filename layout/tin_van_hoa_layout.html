@@ -1,0 +1,116 @@
+{{#extend "tin-tuc"}}
+{{#content "main-body"}}
+   
+   <div class="snCenter">
+  
+<div class="allPost">
+    <table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tbody><tr>
+    <td id="MSOZoneCell_WebPartWPQ8" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody><tr>
+        <td valign="top"><div webpartid="aa634920-fe4a-47f4-960a-b8582cce1f43" haspers="false" id="WebPartWPQ8" width="100%" class="ms-WPBody noindex" allowdelete="false" style=""><div id="ctl00_m_g_aa634920_fe4a_47f4_960a_b8582cce1f43">
+          <div style="CURSOR: pointer" class="container_top_left1" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts">
+          <div class="div_header_style1"><a style="TEXT-TRANSFORM: uppercase; FONT-SIZE: 11px; FONT-WEIGHT: bold; TEXT-DECORATION: none" class="a_header_style1">Tin văn hóa</a></div></div>
+         
+
+          <table border="0" cellspacing="0" cellpadding="0" width="100%" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts">
+             <tbody>
+
+               {{#each pagination.files}}
+
+                <tr><td class="TitleFront"><a href="{{this.path}}">{{this.title}}<span class="ShowDate">
+                      ({{this.date}})
+                    </span></a></td></tr><tr><td style="PADDING-BOTTOM: 10px" class="tinHT"><table border="0" cellspacing="0" cellpadding="0" align="left"><tbody><tr><td><a href="{{this.path}}"><img style="BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" class="img-slidemenu" alt="" src="http://www.baodaknong.org.vn/database/image/2016/07/14/2295-KT-3.jpg" width="130" height="100"></a></td></tr></tbody>
+            </table>
+
+
+                    <div style="TEXT-ALIGN: justify" class="ContentText">{{this.description}}<br></div>
+              </td></tr>
+         
+           {{/each}}
+
+                            </tbody></table>
+
+
+                                 {{#if pagination}}
+      <nav class="pagination">
+        {{#if pagination.next}}
+          <a href="/{{removeIndex pagination.next.path}}" class="btn" style="margin-right:15px">Trước &gt;</a>
+        {{/if}}
+
+        {{#if pagination.previous}}
+          <a href="/{{removeIndex pagination.previous.path}}" class="btn" style="margin-right:15px">&lt; Sau</a>
+        {{/if}}
+      </nav>
+    {{/if}}
+
+
+                       
+
+
+                       </div></div></td>
+       </tr>
+    </tbody></table>
+
+    </td>
+  </tr>
+</tbody></table>
+</div>
+
+  </div>
+
+
+     <script type="text/javascript">
+     function get_ElementById(id) {
+      var tmp;
+      // detect browser
+      NS4 = (document.layers) ? 1 : 0;
+      IE4 = (document.all) ? 1 : 0;
+      // W3C stands for the W3C standard, implemented in Mozilla (and Netscape 6) and IE5
+      W3C = (document.getElementById) ? 1 : 0;
+      if (W3C) {
+          tmp = document.getElementById(id);
+      } else if (NS4) {
+          tmp = document.layers[id];
+      } else { // IE4
+          tmp = document.all[id];
+      }
+      return tmp;
+     }
+     function setposimg(id) {
+      tb = get_ElementById(id);
+      var scrOfX = 0, scrOfY = 0;
+      if (typeof (window.pageYOffset) == 'number') {
+          //Netscape compliant
+          scrOfY = window.pageYOffset;
+          scrOfX = window.pageXOffset;
+      } else if (document.body && (document.body.scrollLeft || document.body.scrollTop)) {
+          //DOM compliant
+          scrOfY = document.body.scrollTop;
+          scrOfX = document.body.scrollLeft;
+      } else if (document.documentElement && (document.documentElement.scrollLeft || document.documentElement.scrollTop)) {
+          //IE6 standards compliant mode
+          scrOfY = document.documentElement.scrollTop;
+          scrOfX = document.documentElement.scrollLeft;
+      }
+
+      x = (window.Event) ? this.pageX : event.clientX + scrOfX;
+      y = (window.Event) ? this.pageY : event.clientY + scrOfY;
+      tb.style.left = x;
+      tb.style.top = y;
+     }
+     function popupactiveLink(right, newsid, menuid, img) {
+      if (right == 'true') {
+          setposimg(img);
+
+          MMU_Open(byid(menuid), MMU_GetMenuFromClientId(img), event, false, null, 0);
+      }
+     }
+
+
+     </script>
+     <div id="ctl00_m_g_35ca937d_f24c_4b50_aec9_3ea1f56ddcae_ctl00_mainPanel">
+          <div><link href="/SiteAssets/css/redmond/jquery-ui-1.8.16.custom.css" rel="stylesheet" type="text/css"/><script src="/SiteAssets/js/jquery-1.4.4.min.js" type="text/javascript"></script><script src="/SiteAssets/js/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script>
+
+{{/content}}
+{{/extend}}

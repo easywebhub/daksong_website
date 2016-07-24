@@ -27,6 +27,18 @@
       
 
      ]
+  },
+  "tab_van_hoa" : {
+     "ten" : "",
+     "danh_sach": [
+       {
+          "ten" : "Tin văn hóa",
+          "collections_name" : "tinVanHoa"
+       }
+      
+
+     ]
   }
+
 
 }

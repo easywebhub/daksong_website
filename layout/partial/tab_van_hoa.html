@@ -1,11 +1,11 @@
 <div class="lacviet-tabsnews" style="">
 	<div id="ctl00_m_g_5f3067fd_aea8_4cdd_9e63_0a9b866e98e7_ctl00_tabs" class="ui-tabs ui-widget ui-widget-content ui-corner-all">
 		<ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
-			{{#eachBefore category.tab_van_hoa.danh_sach items="6"}}
+			{{#each category.tab_van_hoa.danh_sach}}
 			<li class="tabs-{{@index}} ui-state-default ui-corner-top {{#if @first}} ui-tabs-selected ui-state-active {{/if}}">
 				<a href="{{this.collections_name}}">{{this.ten}}</a>
 			</li>
-			{{/eachBefore}}
+			{{/each}}
 		</ul>
 
 		{{#each category.tab_van_hoa.danh_sach}} {{#if @first}}
@@ -15,7 +15,7 @@
 				{{/if}}
 
 				<div class="news-tab">
-					{{#each ../collections.tinVanHoa}} {{#if @first}}
+					{{#eachBefore ../collections.tinVanHoa items="6"}} {{#if @first}}
 					<div class="news-tab-thumb-item-0">
 						<div class="news-tab-thumb-item-left-0">
 							<a href="./{{path}}" class="news-tab-img-link-0">
@@ -52,7 +52,7 @@
 							</div>
 						</div>
 					</div>
-					{{/if}} {{/each}}
+					{{/if}} {{/eachBefore}}
 				</div>
 			</div>
 			{{/each}}

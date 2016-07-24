@@ -3,7 +3,7 @@
 
 var HandlebarsLayouts = require('handlebars-layouts');
 var moment = require('moment');
-
+var util = require('util');
 module.exports = function (Handlebars) {
     Handlebars.registerHelper(HandlebarsLayouts(Handlebars));
 
@@ -72,11 +72,83 @@ module.exports = function (Handlebars) {
      * take item number of array
      */
     Handlebars.registerHelper('eachBefore', function (context, options) {
-        let ret='';
-        let itemsNumber =  options.hash['items'];
-        for (var i = 0, j = context.length; i < j && i< itemsNumber; i++) {
-            ret = ret + options.fn(context[i]);                
+        //let ret = '';
+        let fn = options.fn,
+            inverse = options.inverse,
+            i = 0,
+            ret = '',
+            data;
+
+         if (util.isFunction(context)) { context = context.call(this); }
+
+        let extend = function (obj/* , ...source */) {
+            for (let i = 1; i < arguments.length; i++) {
+                for (let key in arguments[i]) {
+                    if (Object.prototype.hasOwnProperty.call(arguments[i], key)) {
+                        obj[key] = arguments[i][key];
+                    }
+                }
+            }
+
+            return obj;
         }
+        let createFrame = function (object) {
+            let frame = extend({}, object);
+            frame._parent = object;
+            return frame;
+        }
+
+        if (options.data) {
+            data = createFrame(options.data);
+        }
+
+        function execIteration(field, index, last) {
+            if (data) {
+                data.key = field;
+                data.index = index;
+                data.first = index === 0;
+                data.last = !!last;
+            }
+
+            ret = ret + fn(context[field], {
+                data: data,
+                blockParams: [context[field], field]
+            });
+        }
+
+        if (context && typeof context === 'object') {
+            if (util.isArray(context)) {
+                let itemsNumber = options.hash['items'];
+                for (let j = context.length; i < j && i< itemsNumber ; i++) {
+                    if (i in context) {
+                        execIteration(i, i, i === context.length - 1);
+                    }
+                }
+            } else {
+                let priorKey;
+
+                for (let key in context) {
+                    if (context.hasOwnProperty(key)) {
+                        // We're running the iterations one step out of sync so we can detect
+                        // the last iteration without have to scan the object twice and create
+                        // an itermediate keys array.
+                        if (priorKey !== undefined) {
+                            execIteration(priorKey, i - 1);
+                        }
+                        priorKey = key;
+                        i++;
+                    }
+                }
+                if (priorKey !== undefined) {
+                    execIteration(priorKey, i - 1, true);
+                }
+            }
+        }
+
+        if (i === 0) {
+            ret = inverse(this);
+        }
+        
         return ret;
     });
 

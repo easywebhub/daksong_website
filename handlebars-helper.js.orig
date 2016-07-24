@@ -1,4 +1,3 @@
-﻿
 'use strict';
 
 var HandlebarsLayouts = require('handlebars-layouts');
@@ -72,8 +71,13 @@ module.exports = function (Handlebars) {
      * take item number of array
      */
     Handlebars.registerHelper('eachBefore', function (context, options) {
+<<<<<<< HEAD
+        var itemsNumber =  options.hash['items'];
+        var ovrContext = context.slice(0, itemsNumber);
+=======
         let ret='';
         let itemsNumber =  options.hash['items'];
+>>>>>>> 414709179d8eb3ae3cb3a0fe158f6ae8eaa209ec
         for (var i = 0, j = context.length; i < j && i< itemsNumber; i++) {
             ret = ret + options.fn(context[i]);                
         }

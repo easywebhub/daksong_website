@@ -1,0 +1,14 @@
+{
+    "title": "EasyWeb Sample Website",
+    "description": "description of this site",
+<<<<<<< HEAD
+    "url": "http://localhost:3000",
+=======
+    "url": "http://easywebhub.github.io/daksong_website",
+>>>>>>> 584a282a0d17c10c657434b4d55538ead69d175a
+    "github-url": "http://localhost:3000",
+    "meta-tag": {
+        "keywords": "easy web, thiết kế web đơn giản,",
+        "author": "vinaas ltd.,co"
+    }
+}

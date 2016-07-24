@@ -38,20 +38,20 @@ module.exports = function (Handlebars) {
         var html = (isSub) ? '<div>' : ''; // Wrap with div if true
         html += '<ul>';
         for (var item in dt) {
-            html += `<li ${(typeof dt[item].id !=='undefined' )? 'id='+dt[item].id:''}>`;
+            html += `<li ${(typeof dt[item].id !== 'undefined') ? 'id=' + dt[item].id : ''}>`;
             if (typeof (dt[item].sub) === 'object') { // An array will return 'object'
                 if (isSub) {
                     //console.log('dt item =====================',dt[item]);
                     html += '<a href="' + dt[item].link + '">' + dt[item].name + '</a>';
                 } else {
-                    if (typeof dt !== 'undefined'&& dt) {
+                    if (typeof dt !== 'undefined' && dt) {
                         html += dt[item].id // No submenu
                     }
                     //html += dt[item].id;
                 }
                 html += buildList(dt[item].sub, isSub); // Submenu found. Calling recursively same method (and wrapping it in a div)
             } else {
-                if (typeof dt !== 'undefined'&& dt) {
+                if (typeof dt !== 'undefined' && dt) {
                     html += dt[item].id // No submenu
                 }
 
@@ -65,6 +65,20 @@ module.exports = function (Handlebars) {
     Handlebars.registerHelper('nav', obj => {
         //console.log('obj =====================',obj);
         return buildList(obj.data, true);
-    })
+    });
+
+    /**
+     * take item number of array
+     */
+    Handlebars.registerHelper('eachBefore', function (context, options) {
+        var itemsNumber =  options.hash['items'];
+        var ovrContext = context.slice(0, itemsNumber);
+        for (var i = 0, j = context.length; i < j && i< itemsNumber; i++) {
+            ret = ret + options.fn(context[i]);                
+        }
+        return ret;
+    });
+
+
 };
 

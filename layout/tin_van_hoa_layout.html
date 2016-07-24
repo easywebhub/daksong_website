@@ -16,7 +16,7 @@
           <table border="0" cellspacing="0" cellpadding="0" width="100%" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts">
              <tbody>
 
-               {{#each {{before  pagination.files 2}} }}
+               {{#eachBefore pagination.files items="5"}}
 
                 <tr><td class="TitleFront"><a href="{{this.path}}">{{this.title}}<span class="ShowDate">
                       ({{this.date}})
@@ -27,7 +27,7 @@
                     <div style="TEXT-ALIGN: justify" class="ContentText">{{this.description}}<br></div>
               </td></tr>
          
-           {{/each}}
+           {{/eachBefore}}
 
                             </tbody></table>
 

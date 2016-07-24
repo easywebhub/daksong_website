@@ -2,7 +2,7 @@
 {
     "title": "chuc-nang-nhiem-vu",
     "slug": "chuc-nang-nhiem-vu",
-    "description": "",
+    "description": "mo ta chuc nang nhiem vu",
     "layout": "page.html",
     "date": "2016-07-24 15:15:33 +07:00",
     "permalink": true

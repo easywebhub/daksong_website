@@ -71,8 +71,8 @@ module.exports = function (Handlebars) {
      * take item number of array
      */
     Handlebars.registerHelper('eachBefore', function (context, options) {
-        var itemsNumber =  options.hash['items'];
-        var ovrContext = context.slice(0, itemsNumber);
+        let ret='';
+        let itemsNumber =  options.hash['items'];
         for (var i = 0, j = context.length; i < j && i< itemsNumber; i++) {
             ret = ret + options.fn(context[i]);                
         }

@@ -4,6 +4,7 @@
     "slug": "ke-hoach-to-chuc-le-ky-niem",
     "description": "",
     "layout": "thong_tin_chi_dao_dieu_hanh.html",
+    "banner":"",
     "date": "2016-07-26 20:32:09 +07:00",
     "permalink": true
 }

@@ -35,11 +35,11 @@
                                  {{#if pagination}}
       <nav class="pagination">
         {{#if pagination.next}}
-          <a href="/{{removeIndex pagination.next.path}}" class="btn" style="margin-right:15px">Trước &gt;</a>
+          <a href="./{{removeIndex pagination.next.path}}" class="btn" style="margin-right:15px">Trước &gt;</a>
         {{/if}}
 
         {{#if pagination.previous}}
-          <a href="/{{removeIndex pagination.previous.path}}" class="btn" style="margin-right:15px">&lt; Sau</a>
+          <a href="./{{removeIndex pagination.previous.path}}" class="btn" style="margin-right:15px">&lt; Sau</a>
         {{/if}}
       </nav>
     {{/if}}

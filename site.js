@@ -129,7 +129,7 @@ site.metalsmith = {
             }
         },
         'collections.tinKinhTe': {
-            'perPage': 1,
+            'perPage': 5,
             'layout': 'tin-kinh-te-layout.html',
             'first': 'tin-kinh-te/index.html',
             'path': 'tin-kinh-te/:num/index.html',
@@ -140,7 +140,7 @@ site.metalsmith = {
 
         },
         'collections.thongTinDieuHanh': {
-            'perPage': 1,
+            'perPage': 5,
             'layout': 'thong-tin-dieu-hanh.html',
             'first': 'thong-tin-dieu-hanh/index.html',
             'path': 'thong-tin-dieu-hanh/:num/index.html',

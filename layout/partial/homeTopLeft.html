@@ -285,17 +285,19 @@
 														</script>
 														<div id="UnionNews_Container_mode2" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts">
 															<div id="UnionNews_main_mode2">
+																{{#eachBefore collections.tinNoiBat items="1"}}
 																<div id="ctl00_m_g_051ba609_ce62_4836_b8a3_981496ed23ce_ctl00_Panel_main_mode2">
-																	<div iditem="" class="union_main_image"><img src="http://daksong.daknong.gov.vn/sites/default/files/imagecache/img_tintuc_thumbnail_large/image003_0.jpg" border="0" align="middle" alt="">
+																	<div iditem="" class="union_main_image"><img src="{{this.banner}}" border="0" align="middle" alt="">
 																		<div class="Union_desc"><a href="javascript:void(0);" class="collapse">Đóng</a>
 																			<div class="Union_block" style="margin-bottom: 0px;">
-																				<h2><a href="TinTuc/tintuc/Lists/Posts/Post.aspx?CategoryId=24&amp;ItemId=4140&amp;PublishedDate=2016-06-03T10:45:00Z">GIẢI BÓNG ĐÁ MINI NỮ HUYỆN ĐĂK SONG LẦN THỨ II NĂM 2014 <br></a></h2>
-																				<p class="hot-content1">Trên cơ sở quy hoạch chung khu vực Tây Nguyên, ngày 14/8/2015, UBND tỉnh đã ban hành Quyết định số 1244/QĐ-UBND về việc phê duyệt quy hoạch phát triển hành lang kinh tế dọc tuyến quốc lộ 14, tỉnh Đắk Nông đến năm 2020 và định hướng
-																					đến năm 2030. Đây được xem là cơ sở để tỉnh Đắk Nông tập trung nguồn lực, khai thác tốt tiềm năng, lợi thế phục vụ phát triển nội vùng và khu vực.</p>
+																				<h2><a href="./{{path}}">{{this.title}} <br></a></h2>
+																				<p class="hot-content1"> {{this.description}}</p>
 																			</div>
 																		</div>
 																	</div>
 																</div>
+																{{/eachBefore}}
+																
 																<div class="button-link">
 																	<div id="Union_bttPrevious"><img src="_CONTROLTEMPLATES/LacViet.CMS.UnionNews/eofficeimg/Giaodien/cityweb/icon-pre.png"></div>
 																	<div id="Union_bttNext"><img src="_CONTROLTEMPLATES/LacViet.CMS.UnionNews/eofficeimg/Giaodien/cityweb/icon-next.png"></div>

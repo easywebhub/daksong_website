@@ -102,12 +102,8 @@
       },
       "subMenu": [
         {
-          "title": "Ý kiến chỉ đạo",
-          "url": "y_kien_chi_dao"
-        },
-        {
-          "title": "Ý kiến xử lý",
-          "url": "y_kien_xu_ly"
+          "title": "Thông tin chỉ đạo điều hành",
+          "url": "thong_tin_chi_dao_dieu_hanh"
         },
         {
           "title": "Thông tin khen thưởng xử phạt",

@@ -98,7 +98,7 @@ site.metalsmith = {
             'reverse': true,
         },
         'thongTinDieuHanh': {
-            'pattern': 'thong-tin-dieu-hanh/**/*.html',
+            'pattern': 'thong_tin_chi_dao_dieu_hanh/**/*.html',
             'sortBy': 'date',
             'reverse': true,
         },
@@ -141,9 +141,9 @@ site.metalsmith = {
         },
         'collections.thongTinDieuHanh': {
             'perPage': 5,
-            'layout': 'thong-tin-dieu-hanh.html',
-            'first': 'thong-tin-dieu-hanh/index.html',
-            'path': 'thong-tin-dieu-hanh/:num/index.html',
+            'layout': 'thong_tin_chi_dao_dieu_hanh_layout.html',
+            'first': 'thong_tin_chi_dao_dieu_hanh/index.html',
+            'path': 'thong_tin_chi_dao_dieu_hanh/:num/index.html',
             'noPageOne': true,
             'pageMetadata': {
                 'title': 'Chỉ đạo điều hành'
@@ -189,7 +189,7 @@ site.metalsmith = {
                 },
                 {
                     match: { collection: 'thongTinDieuHanh' },
-                    pattern: 'thong-tin-dieu-hanh/:url'
+                    pattern: 'thong_tin_chi_dao_dieu_hanh/:url'
                 },
                 {
                     match: { collection: 'tinVanHoa' },

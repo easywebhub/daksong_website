@@ -97,7 +97,7 @@ site.metalsmith = {
             'sortBy': 'date',
             'reverse': true,
         },
-        'thongTinDieuHanh': {
+        'thongTinChiDaoDieuHanh': {
             'pattern': 'thong_tin_chi_dao_dieu_hanh/**/*.html',
             'sortBy': 'date',
             'reverse': true,
@@ -139,7 +139,7 @@ site.metalsmith = {
             }
 
         },
-        'collections.thongTinDieuHanh': {
+        'collections.thongTinChiDaoDieuHanh': {
             'perPage': 5,
             'layout': 'thong_tin_chi_dao_dieu_hanh_layout.html',
             'first': 'thong_tin_chi_dao_dieu_hanh/index.html',
@@ -188,7 +188,7 @@ site.metalsmith = {
                     pattern: 'tin-kinh-te/:url'
                 },
                 {
-                    match: { collection: 'thongTinDieuHanh' },
+                    match: { collection: 'thongTinChiDaoDieuHanh' },
                     pattern: 'thong_tin_chi_dao_dieu_hanh/:url'
                 },
                 {

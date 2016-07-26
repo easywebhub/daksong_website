@@ -38,7 +38,18 @@
       
 
      ]
-  }
+     
+  },
+   "tab_thong_tin_dieu_hanh" : {
+     "ten" : "Thông tin chỉ đạo điều hành",
+     "danh_sach": [
+       {
+          "ten" : "Thông tin chỉ đạo điều hành",
+          "collections_name" : "thongTinChiDaoDieuHanh"
+       }
+      
 
+     ]
 
+   }
 }

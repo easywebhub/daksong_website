@@ -107,6 +107,11 @@ site.metalsmith = {
             'sortBy': 'date',
             'reverse': true,
         },
+         'tinNoiBat': {
+            'pattern': 'tin_noi_bat/**/*.html',
+            'sortBy': 'date',
+            'reverse': true,
+        },
         // collection theo key trong metadata `"collection": "baiviet"`
         'baiviet': {
             'sortBy': 'date',
@@ -159,6 +164,17 @@ site.metalsmith = {
         }
     
     },
+     'collections.tinNoiBat': {
+            'perPage': 5,
+           'layout': 'tin_noi_bat_layout.html',
+            'first': 'tin_noi_bat/index.html',
+            'path': 'tin_noi_bat/:num/index.html',
+            'noPageOne': true,
+            'pageMetadata': {
+                'title': 'Tin nổi bật'
+        }
+    
+    },
 
             // // test filter
             // 'collections.baiviet': {
@@ -194,6 +210,10 @@ site.metalsmith = {
                 {
                     match: { collection: 'tinVanHoa' },
                     pattern: 'tin_van_hoa/:url'
+                },
+                {
+                    match: { collection: 'tinNoiBat' },
+                    pattern: 'tin_noi_bat/:url'
                 }
             ]
         },

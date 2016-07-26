@@ -319,15 +319,16 @@
 																			<td>
 																				<div id="divNew1" class="union_image_thumb">
 																					<ul>
+																						{{#eachBefore collections.tinNoiBat items="5"}}
 																						<li class="firstflag active">
-																							<a href="TinTuc/tintuc/Lists/Posts/Post.aspx?CategoryId=24&amp;ItemId=4140&amp;PublishedDate=2016-06-03T10:45:00Z" class="hiddenThumbnail"><img src="http://daksong.daknong.gov.vn/sites/default/files/imagecache/img_tintuc_thumbnail_large/image003_0.jpg" alt=""></a>
+																							<a href="./{{path}}" class="hiddenThumbnail"><img src="{{this.banner}}" alt=""></a>
 																							<div class="Union_block">
-																								<h2><a href="TinTuc/tintuc/Lists/Posts/Post.aspx?CategoryId=24&amp;ItemId=4140&amp;PublishedDate=2016-06-03T10:45:00Z">GIẢI BÓNG ĐÁ MINI NỮ HUYỆN ĐĂK SONG LẦN THỨ II NĂM 2014 <br></a></h2>
-																								<p class="hot-content1" style="display:none;">Trên cơ sở quy hoạch chung khu vực Tây Nguyên, ngày 14/8/2015, UBND tỉnh đã ban hành Quyết định số 1244/QĐ-UBND về việc phê duyệt quy hoạch phát triển hành lang kinh tế dọc tuyến quốc lộ 14, tỉnh Đắk Nông đến năm 2020 và định hướng
-																									đến năm 2030. Đây được xem là cơ sở để tỉnh Đắk Nông tập trung nguồn lực, khai thác tốt tiềm năng, lợi thế phục vụ phát triển nội vùng và khu vực.</p>
+																								<h2><a href="./{{path}}">{{this.title}}<br></a></h2>
+																								<p class="hot-content1" style="display:none;">{{this.description}} </p>
 																							</div>
 																						</li>
-																						<li class=" ">
+																						{{/eachBefore}}
+																						<!--<li class=" ">
 																							<a href="TinTuc/tintuc/Lists/Posts/Post.aspx?CategoryId=32&amp;ItemId=4132&amp;PublishedDate=2016-06-02T09:05:00Z" class="hiddenThumbnail"><img src="http://www.baodaknong.org.vn/database/image/2016/06/02/2265-XH-2.jpg" alt=""></a>
 																							<div class="Union_block">
 																								<h2><a href="TinTuc/tintuc/Lists/Posts/Post.aspx?CategoryId=32&amp;ItemId=4132&amp;PublishedDate=2016-06-02T09:05:00Z">HIỆU QUẢ CUỘC VẬN ĐỘNG XÂY DỰNG MÔ HÌNH 5 KHÔNG 3 SẠCH Ở HỘI LHPN XÃ THUẬN HÀ –ĐAK SONG
@@ -359,7 +360,7 @@
 																									niên, học sinh và quần chúng nhân dân trên địa bàn.
 																								</p>
 																							</div>
-																						</li>
+																						</li>-->
 																					</ul>
 																				</div>
 																			</td>

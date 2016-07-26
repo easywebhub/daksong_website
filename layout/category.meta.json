@@ -1,0 +1,38 @@
+[
+    {
+        "name": "title",
+        "displayName": "title",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "blog",
+        "displayName": "blog",
+        "type": "Object",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "block-1",
+        "displayName": "block-1",
+        "type": "Object",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "block-2",
+        "displayName": "block-2",
+        "type": "Object",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "tab_van_hoa",
+        "displayName": "tab_van_hoa",
+        "type": "Object",
+        "validations": [],
+        "required": false
+    }
+]

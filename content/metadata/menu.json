@@ -16,7 +16,7 @@
         },
         {
           "title": "Sơ đồ, tổ chức",
-          "url": "page/so-do-to-chuc"
+          "url": "page/so-đo-to-chuc"
         },
         {
           "title": "Cơ cấu tổ chức",
@@ -28,7 +28,7 @@
         },
         {
           "title": "Lãnh đọa, cơ quan",
-          "url": "page/lanh-dao-co-quan"
+          "url": "page/lanh-đao-co-quan"
         }
       ]
     },
@@ -49,7 +49,7 @@
         },
         {
           "title": "Lịch sử hình thành",
-          "url": "page-lich-su-hinh-thanh"
+          "url": "page/lich-su-hinh-thanh"
         },
         {
           "title": "Văn hóa di tích",
@@ -57,7 +57,7 @@
         },
         {
           "title": "Điều kiện tự nhiên",
-          "url": "page/ddieu-kien-tu-nhien"
+          "url": "page/đieu-kien-tu-nhien"
         },
         {
           "title": "Đặc sản",

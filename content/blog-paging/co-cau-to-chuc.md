@@ -1,9 +1,9 @@
 ---json
 {
     "title": "Cơ cấu tổ chức",
-    "slug": "page/co-cau-to-chuc",
+    "slug": "co-cau-to-chuc",
     "description": "",
-    "layout": "blog-paging.html",
+    "layout": "page.html",
     "date": "2016-07-25 22:35:18 +07:00",
     "permalink": true
 }

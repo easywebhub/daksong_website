@@ -39,6 +39,18 @@
 
      ]
   }
+  ,
+  "tab_an_ninh" : {
+     "ten" : "",
+     "danh_sach": [
+       {
+          "ten" : "Tin an ninh trực tự",
+          "collections_name" : "tinAnNinhTrucTu"
+       }
+      
+
+     ]
+  }
 
 
 }

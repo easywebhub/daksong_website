@@ -122,6 +122,11 @@ site.metalsmith = {
             'sortBy': 'date',
             'reverse': true,
         },
+        'vanBanPhapLuat': {
+            'pattern': 'van_ban_phap_luat/**/*.html',
+            'sortBy': 'date',
+            'reverse': true,
+        },
         // collection theo key trong metadata `"collection": "baiviet"`
         'baiviet': {
             'sortBy': 'date',
@@ -208,6 +213,17 @@ site.metalsmith = {
             }
 
         },
+        'collections.vanBanPhapLuat': {
+            'perPage': 5,
+            'layout': 'van_ban_phap_luat_layout.html',
+            'first': 'van_ban_phap_luat/index.html',
+            'path': 'van_ban_phap_luat/:num/index.html',
+            'noPageOne': true,
+            'pageMetadata': {
+                'title': 'Văn bản pháp luật'
+            }
+
+        },
 
         // // test filter
         // 'collections.baiviet': {
@@ -255,6 +271,10 @@ site.metalsmith = {
             {
                 match: { collection: 'keHoachPhatTrien' },
                 pattern: 'ke_hoach_phat_trien/:url'
+            },
+             {
+                match: { collection: 'vanBanPhapLuat' },
+                pattern: 'van_ban_phap_luat/:url'
             }
         ]
     },

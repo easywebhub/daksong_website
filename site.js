@@ -102,13 +102,23 @@ site.metalsmith = {
             'sortBy': 'date',
             'reverse': true,
         },
-         'tinVanHoa': {
+        'tinVanHoa': {
             'pattern': 'tin_van_hoa/**/*.html',
             'sortBy': 'date',
             'reverse': true,
         },
-         'tinNoiBat': {
+        'tinNoiBat': {
             'pattern': 'tin_noi_bat/**/*.html',
+            'sortBy': 'date',
+            'reverse': true,
+        },
+        'lichLamViec': {
+            'pattern': 'lich_lam_viec/**/*.html',
+            'sortBy': 'date',
+            'reverse': true,
+        },
+        'keHoachPhatTrien': {
+            'pattern': 'ke_hoach_phat_trien/**/*.html',
             'sortBy': 'date',
             'reverse': true,
         },
@@ -152,86 +162,117 @@ site.metalsmith = {
             'noPageOne': true,
             'pageMetadata': {
                 'title': 'Chỉ đạo điều hành'
-        }},
-         'collections.tinVanHoa': {
+            }
+        },
+        'collections.tinVanHoa': {
             'perPage': 5,
-           'layout': 'tin_van_hoa_layout.html',
+            'layout': 'tin_van_hoa_layout.html',
             'first': 'tin_van_hoa/index.html',
             'path': 'tin_van_hoa/:num/index.html',
             'noPageOne': true,
             'pageMetadata': {
                 'title': 'tin van hoa'
-        }
-    
-    },
-     'collections.tinNoiBat': {
+            }
+
+        },
+        'collections.tinNoiBat': {
             'perPage': 5,
-           'layout': 'tin_noi_bat_layout.html',
+            'layout': 'tin_noi_bat_layout.html',
             'first': 'tin_noi_bat/index.html',
             'path': 'tin_noi_bat/:num/index.html',
             'noPageOne': true,
             'pageMetadata': {
                 'title': 'Tin nổi bật'
-        }
-    
+            }
+
+        },
+        'collections.lichLamViec': {
+            'perPage': 5,
+            'layout': 'lich_lam_viec_layout.html',
+            'first': 'lich_lam_viec/index.html',
+            'path': 'lich_lam_viec/:num/index.html',
+            'noPageOne': true,
+            'pageMetadata': {
+                'title': 'Lịch làm việc'
+            }
+
+        },
+        'collections.keHoachPhatTrien': {
+            'perPage': 5,
+            'layout': 'ke_hoach_phat_trien_layout.html',
+            'first': 'ke_hoach_phat_trien/index.html',
+            'path': 'ke_hoach_phat_trien/:num/index.html',
+            'noPageOne': true,
+            'pageMetadata': {
+                'title': 'Kế hoạch phát triển'
+            }
+
+        },
+
+        // // test filter
+        // 'collections.baiviet': {
+        //     'perPage':   1,
+        //     'layout':    'blog.html',
+        //     'first':     'baiviet/index.html',
+        //     'path':      'baiviet/:num/index.html',
+        //     'filter':    meta => {
+        //         return meta.dacbiet === false;
+        //     },
+        //     'noPageOne': true
+        // }
     },
 
-            // // test filter
-            // 'collections.baiviet': {
-            //     'perPage':   1,
-            //     'layout':    'blog.html',
-            //     'first':     'baiviet/index.html',
-            //     'path':      'baiviet/:num/index.html',
-            //     'filter':    meta => {
-            //         return meta.dacbiet === false;
-            //     },
-            //     'noPageOne': true
-            // }
+    'metalsmith-permalinks': {
+        '_enable': true,
+        // default config
+        'pattern': ':url',
+        'relative': false,
+        // config rieng cho 1 collection
+        linksets: [{
+            match: { collection: 'blog' },
+            pattern: 'blog/:url'
         },
-
-        'metalsmith-permalinks': {
-            '_enable': true,
-            // default config
-            'pattern': ':url',
-            'relative': false,
-            // config rieng cho 1 collection
-            linksets: [{
-                match: { collection: 'blog' },
-                pattern: 'blog/:url'
+            {
+                match: { collection: 'tinKinhTe' },
+                pattern: 'tin-kinh-te/:url'
             },
-                {
-                    match: { collection: 'tinKinhTe' },
-                    pattern: 'tin-kinh-te/:url'
-                },
-                {
-                    match: { collection: 'thongTinChiDaoDieuHanh' },
-                    pattern: 'thong_tin_chi_dao_dieu_hanh/:url'
-                },
-                {
-                    match: { collection: 'tinVanHoa' },
-                    pattern: 'tin_van_hoa/:url'
-                },
-                {
-                    match: { collection: 'tinNoiBat' },
-                    pattern: 'tin_noi_bat/:url'
-                }
-            ]
-        },
+            {
+                match: { collection: 'thongTinChiDaoDieuHanh' },
+                pattern: 'thong_tin_chi_dao_dieu_hanh/:url'
+            },
+            {
+                match: { collection: 'tinVanHoa' },
+                pattern: 'tin_van_hoa/:url'
+            },
+            {
+                match: { collection: 'tinNoiBat' },
+                pattern: 'tin_noi_bat/:url'
+            },
+            {
+                match: { collection: 'lichLamViec' },
+                pattern: 'lich_lam_viec/:url'
+            },
+            {
+                match: { collection: 'keHoachPhatTrien' },
+                pattern: 'ke_hoach_phat_trien/:url'
+            }
+        ]
+    },
 
-        'metalsmith-layouts': {
-            '_enable': true,
-            'engine': 'handlebars',
-            'directory': `${site.layoutRoot}`,
-            'partials': `${site.layoutRoot}/partial`
-        },
+    'metalsmith-layouts': {
+        '_enable': true,
+        'engine': 'handlebars',
+        'directory': `${site.layoutRoot}`,
+        'partials': `${site.layoutRoot}/partial`
+    },
 
-        'metalsmith-html-minifier': {
-            '_enable': true,
-            'removeAttributeQuotes': false,
-            'keepClosingSlash': true,
-            'removeRedundantAttributes': false
-        }
+    'metalsmith-html-minifier': {
+        '_enable': true,
+        'removeAttributeQuotes': false,
+        'keepClosingSlash': true,
+        'removeRedundantAttributes': false
     }
+}
 
 
 module.exports = site;

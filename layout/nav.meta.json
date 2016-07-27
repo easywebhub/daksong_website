@@ -1,0 +1,9 @@
+[
+    {
+        "name": "data",
+        "displayName": "data",
+        "type": "Array",
+        "validations": [],
+        "required": false
+    }
+]

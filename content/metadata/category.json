@@ -51,5 +51,17 @@
 
      ]
 
+   },
+   "tab_an_ninh" : {
+     "ten" : "An ninh trật tự",
+     "danh_sach": [
+       {
+          "ten" : "An ninh trật tự",
+          "collections_name" : "tinAnNinhTrucTu"
+       }
+      
+
+     ]
+
    }
 }

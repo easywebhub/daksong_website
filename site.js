@@ -293,6 +293,9 @@ site.metalsmith = {
              {
                 match: { collection: 'vanBanPhapLuat' },
                 pattern: 'van_ban_phap_luat/:url'
+            }, {
+                match: { collection: 'tinAnNinhTrucTu' },
+                pattern: 'tin_an_ninh_truc_tu/:url'
             }
         ]
     },

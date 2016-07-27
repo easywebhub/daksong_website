@@ -6,7 +6,7 @@
     "layout": "thong_tin_chi_dao_dieu_hanh.html",
     "date": "2016-07-27 21:13:47 +07:00",
     "permalink": true,
-    "banner": "hinh-danh/chi-dao-dieu-hanh/daksongtruso.jpg"
+    "banner": "hinh-anh/chi-dao-dieu-hanh/daksongtruso.jpg"
 }
 ---
 Căn cứ Luật Tiếp công dân số 42/2013/QH13 được Quốc hội Nước Cộng hòa xã hội chủ nghĩa Việt Nam thông qua ngày 25/11/2013;

@@ -12,7 +12,7 @@
     "loai_van_ban": "Nghị định",
     "nguoi_ky": "NGUYỄN TẤN DŨNG",
     "ngay_co_hieu_luc": "03/01/2014",
-    "tai_lieu_dinh_kem": "/img/Văn bản mẫu.docx",
+    "tai_lieu_dinh_kem": "/asset/img/Văn bản mẫu.docx",
     "so": "04/2014/NĐ-CP"
 }
 ---

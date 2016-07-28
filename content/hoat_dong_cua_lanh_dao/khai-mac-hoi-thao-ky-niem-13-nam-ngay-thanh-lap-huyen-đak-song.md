@@ -6,7 +6,7 @@
     "layout": "hoat_dong_cua_lanh_dao.html",
     "date": "2016-07-28 22:44:10 +07:00",
     "permalink": true,
-    "banner": "/asset/img/daksongtruso.jpg"
+    "banner": "/asset/img/2136-TT-4.jpg"
 }
 ---
 Tham gia hội thao lần này có 12 đoàn với trên 100 VĐV đại diện của các khối cơ quan, đơn vị, lực lượng vũ trang và các xã, thị trấn trong huyện. Hội thao diễn ra trong 5 ngày các vận Động viên tranh tài  ở 6 nội dung thi đấu bao gồm: Bóng đá nam; quần vợt nam; cầu lông nam nữ; bóng chuyền nam, nữ.

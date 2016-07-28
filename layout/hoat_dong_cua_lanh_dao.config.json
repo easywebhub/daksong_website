@@ -35,10 +35,7 @@
     {
         "name": "date",
         "displayName": "date",
-        "type": "Text",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
+        "type": "DateTime"
     },
     {
         "name": "permalink",

@@ -9,7 +9,9 @@
     "banner": "img/daksongtruso.jpg"
 }
 ---
-Tham gia hội thao lần này có 12 đoàn với trên 100 VĐV đại diện của các khối cơ quan, đơn vị, lực lượng vũ trang và các xã, thị trấn trong huyện. Hội thao diễn ra trong 5 ngày các vận Động viên tranh tài  ở 6 nội dung thi đấu bao gồm: Bóng đá nam; quần vợt nam; cầu lông nam nữ; bóng chuyền nam, nữ.
+Tham gia hội thao lần này có 12 đoàn với trên 100 VĐV đại diện của các khối cơ quan, đơn vị, lực lượng 
+vũ trang và các xã, thị trấn trong huyện. Hội thao diễn ra trong 5 ngày các vận Động viên tranh tài  ở 6 nội 
+dung thi đấu bao gồm: Bóng đá nam; quần vợt nam; cầu lông nam nữ; bóng chuyền nam, nữ.
   Sau lễ khai mạc các đoàn vận động viên đã đồng loạt ra sân thi đấu ở nội dung bóng đá và cầu lông.
  
                                                           Lê Xuân- Vương Hợp

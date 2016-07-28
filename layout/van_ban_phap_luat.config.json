@@ -97,10 +97,8 @@
     {
         "name": "tai_lieu_dinh_kem",
         "displayName": "tai_lieu_dinh_kem",
-        "type": "Text",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
+        "required": true,
+        "type": "Media"
     },
     {
         "name": "so",

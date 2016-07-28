@@ -152,6 +152,16 @@ site.metalsmith = {
             'pattern': 'chinh_sach/**/*.html',
             'sortBy': 'date',
             'reverse': true,
+        },
+         'tinAnToanGiaoThong': {
+            'pattern': 'tin_an_toan_giao_thong/**/*.html',
+            'sortBy': 'date',
+            'reverse': true,
+        },
+         'khenThuongXuPhat': {
+            'pattern': 'khen_thuong_xu_phat/**/*.html',
+            'sortBy': 'date',
+            'reverse': true,
         }
         
     },
@@ -292,6 +302,29 @@ site.metalsmith = {
             }
 
         },
+        'collections.tinAnToanGiaoThong': {
+            'perPage': 5,
+            'layout': 'tin_an_toan_giao_thong_layout.html',
+            'first': 'tin_an_toan_giao_thong/index.html',
+            'path': 'tin_an_toan_giao_thong/:num/index.html',
+            'noPageOne': true,
+            'pageMetadata': {
+                'title': 'tin an toàn giao thông'
+            }
+
+        },
+        'collections.khenThuongXuPhat': {
+            'perPage': 5,
+            'layout': 'khen_thuong_xu_phat_layout.html',
+            'first': 'khen_thuong_xu_phat/index.html',
+            'path': 'khen_thuong_xu_phat/:num/index.html',
+            'noPageOne': true,
+            'pageMetadata': {
+                'title': 'khen thưởng xử phạt'
+            }
+
+        },
+        
         
 
         // // test filter
@@ -359,6 +392,10 @@ site.metalsmith = {
              {
                 match: { collection: 'chinhSach' },
                 pattern: 'chinh_sach/:url'
+            },
+            {
+                match: { collection: 'tinAnToanGiaoThong' },
+                pattern: 'tin_an_toan_giao_thong/:url'
             }
         ]
     },

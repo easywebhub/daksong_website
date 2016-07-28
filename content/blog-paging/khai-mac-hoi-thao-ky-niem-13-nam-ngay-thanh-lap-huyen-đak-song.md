@@ -6,7 +6,7 @@
     "layout": "hoat_dong_cua_lanh_dao.html",
     "date": "2016-07-28 22:32:29 +07:00",
     "permalink": true,
-    "banner": "/asset/img/daksongtruso.jpg"
+    "banner": "./img/daksongtruso.jpg"
 }
 ---
 Sáng ngày 16/6 tại Nhà văn hóa UBND huyện đã tổ chức lễ khai mạc hội thao nhằm kỷ niệm 13 năm ngày thành lập huyện Đak Song (21/6/2001-21/6/2014). Đến dự lễ khai mạc có đ/c Nguyễn Thị Thu Hường –Phó Bí thư huyện ủy; Đ/c Nguyễn Văn Phò- Phó chủ tịch UBND huyện.

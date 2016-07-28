@@ -127,6 +127,12 @@ site.metalsmith = {
             'sortBy': 'date',
             'reverse': true,
         },
+        
+        'hoatDongCuaLanhDao': {
+            'pattern': 'hoat_dong_cua_lanh_dao/**/*.html',
+            'sortBy': 'date',
+            'reverse': true,
+        },
         // collection theo key trong metadata `"collection": "baiviet"`
         'baiviet': {
             'sortBy': 'date',
@@ -136,7 +142,18 @@ site.metalsmith = {
             'pattern': 'tin_an_ninh_truc_tu/**/*.html',
             'sortBy': 'date',
             'reverse': true,
+        },
+         'huongDan': {
+            'pattern': 'huong_dan/**/*.html',
+            'sortBy': 'date',
+            'reverse': true,
+        },
+        'chinhSach': {
+            'pattern': 'chinh_sach/**/*.html',
+            'sortBy': 'date',
+            'reverse': true,
         }
+        
     },
 
 
@@ -231,6 +248,28 @@ site.metalsmith = {
             }
 
         },
+        'collections.hoatDongCuaLanhDao': {
+            'perPage': 5,
+            'layout': 'hoat_dong_cua_lanh_dao_layout.html',
+            'first': 'hoat_dong_cua_lanh_dao/index.html',
+            'path': 'hoat_dong_cua_lanh_dao/:num/index.html',
+            'noPageOne': true,
+            'pageMetadata': {
+                'title': 'Hoạt động của lãnh đạo'
+            }
+
+        },
+        'collections.huongDan': {
+            'perPage': 5,
+            'layout': 'huong_dan_layout.html',
+            'first': 'huong_dan/index.html',
+            'path': 'huong_dan/:num/index.html',
+            'noPageOne': true,
+            'pageMetadata': {
+                'title': 'Hướng dẫn'
+            }
+
+        },
         'collections.vanBanPhapLuat': {
             'perPage': 5,
             'layout': 'van_ban_phap_luat_layout.html',
@@ -242,6 +281,18 @@ site.metalsmith = {
             }
 
         },
+         'collections.chinhSach': {
+            'perPage': 5,
+            'layout': 'chinh_sach_layout.html',
+            'first': 'chinh_sach/index.html',
+            'path': 'chinh_sach/:num/index.html',
+            'noPageOne': true,
+            'pageMetadata': {
+                'title': 'Chinh sách'
+            }
+
+        },
+        
 
         // // test filter
         // 'collections.baiviet': {
@@ -296,6 +347,18 @@ site.metalsmith = {
             }, {
                 match: { collection: 'tinAnNinhTrucTu' },
                 pattern: 'tin_an_ninh_truc_tu/:url'
+            },
+            {
+                match: { collection: 'hoatDongCuaLanhDao' },
+                pattern: 'hoat_dong_cua_lanh_dao/:url'
+            },
+             {
+                match: { collection: 'huongDan' },
+                pattern: 'huong_dan/:url'
+            },
+             {
+                match: { collection: 'chinhSach' },
+                pattern: 'chinh_sach/:url'
             }
         ]
     },

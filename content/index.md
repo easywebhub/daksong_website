@@ -2,8 +2,8 @@
 {
     "title": "EasyWebHub Home",
     "url": "",
-    "description": "Index Page",
-    "layout": "index.html",
+    "description": "Daksong Page",
+    "layout": "daksong.html",
     "permalink" : false
 }
 ---

@@ -47,7 +47,6 @@
     {
         "name": "banner",
         "displayName": "banner",
-        "required": true,
         "type": "Media"
     }
 ]

@@ -2,7 +2,9 @@
 {
     "title": "Quyết định về việc ban hành Quy chế tổ chức và hoạt động của Ban tiếp công dân huyện Đăk Song, tỉnh Đăk Nông",
     "slug": "quyet-đinh-ve-viec-ban-hanh-quy-che-to-chuc-va-hoat-đong-cua-ban-tiep-cong-dan-huyen-đak-song,-tinh-đak-nong",
+     "so": "04/2014/NĐ-CP",
     "description": "04/2014/NĐ-CP",
+    
     "layout": "van_ban_phap_luat.html",
     "date": "2016-07-28 11:12:15 +07:00",
     "permalink": true,

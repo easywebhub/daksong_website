@@ -6,7 +6,7 @@
     "layout": "hoat_dong_cua_lanh_dao.html",
     "date": "2016-07-28 22:15:46 +07:00",
     "permalink": true,
-    "banner": "/asset/img/hoc vien.jpg"
+    "banner": "img/hoc vien.jpg"
 }
 ---
 Hưởng ứng phong trào thi đua “Cả nước chung sức xây dựng nông thôn mới” thời gian quan Hội Liên hiệp Phụ nữ xã Thuận Hà huyện Đak Song đã tham gia chương trình bằng nhiều việc làm cụ thể, thiết thực. Trong đó nổi bật nhất là phụ nữ “Xây dựng gia đình 5 không, 3 sạch”.

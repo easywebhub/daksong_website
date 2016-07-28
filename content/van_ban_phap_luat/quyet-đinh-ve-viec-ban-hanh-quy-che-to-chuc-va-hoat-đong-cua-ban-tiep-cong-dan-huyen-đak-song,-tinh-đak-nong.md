@@ -2,9 +2,7 @@
 {
     "title": "Quyết định về việc ban hành Quy chế tổ chức và hoạt động của Ban tiếp công dân huyện Đăk Song, tỉnh Đăk Nông",
     "slug": "quyet-đinh-ve-viec-ban-hanh-quy-che-to-chuc-va-hoat-đong-cua-ban-tiep-cong-dan-huyen-đak-song,-tinh-đak-nong",
-     "so": "04/2014/NĐ-CP",
     "description": "04/2014/NĐ-CP",
-    
     "layout": "van_ban_phap_luat.html",
     "date": "2016-07-28 11:12:15 +07:00",
     "permalink": true,
@@ -14,7 +12,8 @@
     "loai_van_ban": "Nghị định",
     "nguoi_ky": "NGUYỄN TẤN DŨNG",
     "ngay_co_hieu_luc": "03/01/2014",
-    "tai_lieu_dinh_kem": "http://cujut.daknong.gov.vn/hethongvanban/Lists/VBPL_DanhSachVanBan/Attachments/87/tai-ve-van-ban-so-04_2014_N%C4%90-CP-(14347).pdf"
+    "tai_lieu_dinh_kem": "http://cujut.daknong.gov.vn/hethongvanban/Lists/VBPL_DanhSachVanBan/Attachments/87/tai-ve-van-ban-so-04_2014_N%C4%90-CP-(14347).pdf",
+    "so": "04/2014/NĐ-CP"
 }
 ---
-http://cujut.daknong.gov.vn/hethongvanban/Lists/VBPL_DanhSachVanBan/Attachments/87/tai-ve-van-ban-so-04_2014_N%C4%90-CP-(14347).pdf
+Nghị định số 04/2014/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 51/2010/NĐ-CP ngày 14 tháng 5 năm 2010 của Chính phủ quy định về hóa đơn bán hàng hóa, cung ứng dịch vụ.

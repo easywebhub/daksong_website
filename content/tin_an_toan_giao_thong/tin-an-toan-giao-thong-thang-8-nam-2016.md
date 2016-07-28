@@ -6,7 +6,7 @@
     "layout": "tin_an_toan_giao_thong.html",
     "date": "2016-07-28 23:00:49 +07:00",
     "permalink": true,
-    "banner": "/asset/img/13.jpg"
+    "banner": "./img/13.jpg"
 }
 ---
 chi tiết

@@ -2,7 +2,7 @@
 {
     "title": "HIỆU QUẢ CUỘC VẬN ĐỘNG XÂY DỰNG MÔ HÌNH 5 KHÔNG 3 SẠCH Ở HỘI LHPN XÃ THUẬN HÀ –ĐAK SONG",
     "slug": "hieu-qua-cuoc-van-đong-xay-dung-mo-hinh-5-khong-3-sach-o-hoi-lhpn-xa-thuan-ha-–đak-song",
-    "description": "",
+    "description": "Hưởng ứng phong trào thi đua “Cả nước chung sức xây dựng nông thôn mới” thời gian quan Hội Liên hiệp Phụ nữ xã Thuận Hà huyện Đak Song đã tham gia chương trình bằng nhiều việc làm cụ thể, thiết thực. Trong đó nổi bật nhất là phụ nữ “Xây dựng gia đình 5 không, 3 sạch”.",
     "layout": "hoat_dong_cua_lanh_dao.html",
     "date": "2016-07-28 22:15:46 +07:00",
     "permalink": true,

@@ -16,9 +16,10 @@
         "required": false
     },
     {
+        "type": "Text",
+        "displayType": "LongText",
         "name": "description",
         "displayName": "description",
-        "type": "Text",
         "validations": [],
         "viewOnly": false,
         "required": false

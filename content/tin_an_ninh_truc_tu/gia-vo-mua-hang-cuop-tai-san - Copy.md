@@ -1,15 +1,14 @@
 ---json
 {
-"title": "Bắt nhóm đối tượng giả vờ mua hàng để cướp tài sản",
-"url": "bat-doi-tuong-tuong-gia-vo-mua-hang-de-cuop-tai-san",
-"description": "Ngày 25-7, Cơ quan CSĐT Công an huyện Đắk G’long, tỉnh Đắk Nông cho biết, đã ra quyết định khởi tố vụ án, khởi tố bị can và ra lệnh tạm giam đối với Nguyễn Văn Trung (18 tuổi), trú tại xã Đạ Rsal, huyện Đam Rông, tỉnh Lâm Đồng và Hoàng Văn Tùng (19 tuổi), trú tại xã Krông Nô, huyện Lắk, tỉnh Đắk Lắk về hành vi cướp tài sản.",
-"layout": "tin_an_ninh_truc_tu.html",
-"date": "2015-25-07",
-"draft": "false",
-"banner":"hinh-anh/tin-van-hoa/nhac-cu-truyen-thong.jpg"
+    "title": "Bắt nhóm đối tượng giả vờ mua hàng để cướp tài sản",
+    "url": "bat-doi-tuong-tuong-gia-vo-mua-hang-de-cuop-tai-san",
+    "description": "Ngày 25-7, Cơ quan CSĐT Công an huyện Đắk G’long, tỉnh Đắk Nông cho biết, đã ra quyết định khởi tố vụ án, khởi tố bị can và ra lệnh tạm giam đối với Nguyễn Văn Trung (18 tuổi), trú tại xã Đạ Rsal, huyện Đam Rông, tỉnh Lâm Đồng và Hoàng Văn Tùng (19 tuổi), trú tại xã Krông Nô, \nhuyện Lắk, tỉnh Đắk Lắk về hành vi cướp tài sản.",
+    "layout": "tin_an_ninh_truc_tu.html",
+    "date": "2015-25-07",
+    "draft": "false",
+    "banner": "hinh-anh/tin-van-hoa/nhac-cu-truyen-thong.jpg"
 }
 ---
-
 Ngày 25-7, Cơ quan CSĐT Công an huyện Đắk G’long, tỉnh Đắk Nông cho biết, đã ra quyết định khởi tố vụ án, khởi tố bị can và ra lệnh tạm giam đối với Nguyễn Văn Trung (18 tuổi), trú tại xã Đạ Rsal, huyện Đam Rông, tỉnh Lâm Đồng và Hoàng Văn Tùng (19 tuổi), trú tại xã Krông Nô, huyện Lắk, tỉnh Đắk Lắk về hành vi cướp tài sản.
 Đối tượng Nguyễn Văn Trung và Hoàng Văn Tùng tại Công an huyện Đắk G’long
 Đây là những đối tượng có tiền án về tội trộm cắp tài sản và nghiện ma túy, nghiện game. Để có tiền tiêu xài, chiều ngày 20-5, chúng chở nhau đến khu vực quán tạp hóa của chị Nguyễn Thị Yêu ở bon R’bút, xã Quảng Sơn, huyện Đắk G’long, để cướp tài sản.

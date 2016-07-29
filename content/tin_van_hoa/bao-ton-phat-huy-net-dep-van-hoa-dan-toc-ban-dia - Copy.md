@@ -2,8 +2,7 @@
 {
 "title": "Bảo tồn, phát huy nét đẹp văn hóa dân tộc bản địa",
 "url": "bao-ton-phat-huy-net-dep-van-hoa",
-"description": "Trước nguy cơ mai một những néục hồi và tái tạo các giá trị văn hóa vật thể và phi vật thể, nhằm bảo tồn và phát huy tinh hoa văn hóa dân tộc bản địa.
-Huyện miền núi Krông Nô nằm ở phía Đông Bắc tỉnh Đăk Nông, gồm 20 dân tộc anh em sinh sống.",
+"description": "Trước nguy cơ mai một những néục hồi và tái tạo các giá trị văn hóa vật thể và phi vật thể, nhằm bảo tồn và phát huy tinh hoa văn hóa dân tộc bản địa.Huyện miền núi Krông Nô nằm ở phía Đông Bắc tỉnh Đăk Nông, gồm 20 dân tộc anh em sinh sống.",
 "layout": "tin_van_hoa.html",
 "date": "2016-23-07",
 "draft": "false",

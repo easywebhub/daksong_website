@@ -2,7 +2,7 @@
     "title": "Danh sách items trong menu",
     "items": [
         {
-            "title": "Trang chủ Bảo",
+            "title": "Trang chủ",
             "selected": "LvSelected",
             "url": "",
             "type": {

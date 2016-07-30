@@ -16,9 +16,10 @@
         "required": false
     },
     {
+        "type": "Text",
+        "displayType": "LongText",
         "name": "description",
         "displayName": "description",
-        "type": "Text",
         "validations": [],
         "viewOnly": false,
         "required": false
@@ -53,29 +54,6 @@
         "type": "Text",
         "validations": [],
         "viewOnly": false,
-        "required": false
-    },
-    {
-        "name": "hinhAnh",
-        "displayName": "hinhAnh",
-        "type": "Text",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
-    },
-    {
-        "name": "slug",
-        "displayName": "slug",
-        "type": "Text",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
-    },
-    {
-        "name": "permalink",
-        "displayName": "permalink",
-        "type": "Boolean",
-        "validations": [],
         "required": false
     }
 ]

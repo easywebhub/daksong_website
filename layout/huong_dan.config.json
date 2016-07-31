@@ -22,13 +22,13 @@
         "displayName": "tiêu đề",
         "validations": [],
         "viewOnly": false,
-        "required": true
+        "required": false
     },
     {
         "type": "Text",
-        "displayType": "LongText",
+        "displayType": "ShortText",
         "name": "description",
-        "displayName": "mô tả ngắn",
+        "displayName": "mô tả",
         "validations": [],
         "viewOnly": false,
         "required": false

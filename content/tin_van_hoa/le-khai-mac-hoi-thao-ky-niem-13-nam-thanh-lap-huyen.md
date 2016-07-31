@@ -4,7 +4,7 @@
     "slug": "le-khai-mac-hoi-thao-ky-niem-13-nam-thanh-lap-huyen",
     "title": "LỄ KHAI MẠC HỘI THAO KỶ NIỆM 13 NĂM THÀNH LẬP HUYỆN",
     "description": "Từ ngày 16/6/2014 đến ngày 20/6/2014 Ủy ban\nnhân dân huyện Đăk Song tổ chức Hội thao chào mừng kỷ niệm 13 năm ngày thành\nlập huyện Đăk Song",
-    "date": "2016-07-31 23:19:22 +07:00",
+    "date": "31-07-2016 11:19:22 PM",
     "draft": "",
     "banner": "/asset/img/daksongtruso.jpg",
     "permalink": true

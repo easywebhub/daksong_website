@@ -1,21 +1,21 @@
 <div class="lacviet-tabsnews" style="">
 	<div id="ctl00_m_g_5f3067fd_aea8_4cdd_9e63_0a9b866e98e7_ctl00_tabs" class="ui-tabs ui-widget ui-widget-content ui-corner-all">
 		<ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
-			{{#each category.tab_van_hoa.danh_sach}}
+			{{#each category.tab_an_ninh.danh_sach}}
 			<li class="tabs-{{@index}} ui-state-default ui-corner-top {{#if @first}} ui-tabs-selected ui-state-active {{/if}}">
 				<a href="{{this.collections_name}}">{{this.ten}}</a>
 			</li>
 			{{/each}}
 		</ul>
 
-		{{#each category.tab_van_hoa.danh_sach}} {{#if @first}}
+		{{#each category.tab_an_ninh.danh_sach}} {{#if @first}}
 		<div categoryname="{{this.ten}}" class="ui-tabs-panel ui-widget-content ui-corner-bottom">
 			{{else}}
 			<div style="display:none" categoryname="{{this.ten}}" class="ui-tabs-panel ui-widget-content ui-corner-bottom">
 				{{/if}}
 
 				<div class="news-tab">
-					{{#eachBefore ../collections.tinVanHoa items="6"}} {{#if @first}}
+					{{#eachBefore ../collections.tinAnNinhTrucTu items="6"}} {{#if @first}}
 					<div class="news-tab-thumb-item-0">
 						<div class="news-tab-thumb-item-left-0">
 							<a href="./{{path}}" class="news-tab-img-link-0">
@@ -47,9 +47,9 @@
 
 							<div class="news-tab-other">
 								<div class="news-tab-rss">
-									<a href="./tin_van_hoa" class="news-tab-rss-link">RSS</a></div>
+									<a href="./tin_an_ninh_truc_tu" class="news-tab-rss-link">RSS</a></div>
 								<div class="news-tab-xemtiep">
-									<a href="./tin_van_hoa" class="news-tab-xemtiep-link">Xem tiếp</a></div>
+									<a href="./tin_an_ninh_truc_tu" class="news-tab-xemtiep-link">Xem tiếp</a></div>
 							</div>
 						</div>
 					</div>

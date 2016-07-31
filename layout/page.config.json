@@ -1,11 +1,12 @@
 [
     {
-        "name": "title",
-        "displayName": "title",
         "type": "Text",
+        "displayType": "ShortText",
+        "name": "title",
+        "displayName": "tiêu đề",
         "validations": [],
         "viewOnly": false,
-        "required": false
+        "required": true
     },
     {
         "name": "slug",
@@ -16,9 +17,10 @@
         "required": false
     },
     {
-        "name": "description",
-        "displayName": "description",
         "type": "Text",
+        "displayType": "LongText",
+        "name": "description",
+        "displayName": "mô tả ngắn",
         "validations": [],
         "viewOnly": false,
         "required": false
@@ -33,8 +35,9 @@
     },
     {
         "name": "date",
-        "displayName": "date",
-        "type": "Text",
+        "displayName": "ngày đăng",
+        "displayType": "DateTime",
+        "type": "DateTime",
         "validations": [],
         "viewOnly": false,
         "required": false

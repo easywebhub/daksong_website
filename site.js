@@ -127,11 +127,48 @@ site.metalsmith = {
             'sortBy': 'date',
             'reverse': true,
         },
+        
+        'hoatDongCuaLanhDao': {
+            'pattern': 'hoat_dong_cua_lanh_dao/**/*.html',
+            'sortBy': 'date',
+            'reverse': true,
+        },
         // collection theo key trong metadata `"collection": "baiviet"`
         'baiviet': {
             'sortBy': 'date',
             'reverse': true
+        },
+        'tinAnNinhTrucTu': {
+            'pattern': 'tin_an_ninh_truc_tu/**/*.html',
+            'sortBy': 'date',
+            'reverse': true,
+        },
+         'huongDan': {
+            'pattern': 'huong_dan/**/*.html',
+            'sortBy': 'date',
+            'reverse': true,
+        },
+        'chinhSach': {
+            'pattern': 'chinh_sach/**/*.html',
+            'sortBy': 'date',
+            'reverse': true,
+        },
+         'tinAnToanGiaoThong': {
+            'pattern': 'tin_an_toan_giao_thong/**/*.html',
+            'sortBy': 'date',
+            'reverse': true,
+        },
+         'khenThuongXuPhat': {
+            'pattern': 'khen_thuong_xu_phat/**/*.html',
+            'sortBy': 'date',
+            'reverse': true,
+        },
+         'tinYTeGiaoDuc': {
+            'pattern': 'tin_y_te_giao_duc/**/*.html',
+            'sortBy': 'date',
+            'reverse': true,
         }
+        
     },
 
 
@@ -148,6 +185,19 @@ site.metalsmith = {
                 'title': 'Title of metalsmith-pagination file site.js'
             }
         },
+        
+        'collections.tinAnNinhTrucTu': {
+            'perPage': 5,
+            'layout': 'tin_an_ninh_truc_tu_layout.html',
+            'first': 'tin_an_ninh_truc_tu/index.html',
+            'path': 'tin_an_ninh_truc_tu/:num/index.html',
+            'noPageOne': true,
+            'pageMetadata': {
+                'title': 'Tin an ninh trực tự'
+            }
+
+        },
+
         'collections.tinKinhTe': {
             'perPage': 5,
             'layout': 'tin-kinh-te-layout.html',
@@ -213,6 +263,28 @@ site.metalsmith = {
             }
 
         },
+        'collections.hoatDongCuaLanhDao': {
+            'perPage': 5,
+            'layout': 'hoat_dong_cua_lanh_dao_layout.html',
+            'first': 'hoat_dong_cua_lanh_dao/index.html',
+            'path': 'hoat_dong_cua_lanh_dao/:num/index.html',
+            'noPageOne': true,
+            'pageMetadata': {
+                'title': 'Hoạt động của lãnh đạo'
+            }
+
+        },
+        'collections.huongDan': {
+            'perPage': 5,
+            'layout': 'huong_dan_layout.html',
+            'first': 'huong_dan/index.html',
+            'path': 'huong_dan/:num/index.html',
+            'noPageOne': true,
+            'pageMetadata': {
+                'title': 'Hướng dẫn'
+            }
+
+        },
         'collections.vanBanPhapLuat': {
             'perPage': 5,
             'layout': 'van_ban_phap_luat_layout.html',
@@ -224,6 +296,52 @@ site.metalsmith = {
             }
 
         },
+         'collections.chinhSach': {
+            'perPage': 5,
+            'layout': 'chinh_sach_layout.html',
+            'first': 'chinh_sach/index.html',
+            'path': 'chinh_sach/:num/index.html',
+            'noPageOne': true,
+            'pageMetadata': {
+                'title': 'Chinh sách'
+            }
+
+        },
+        'collections.tinAnToanGiaoThong': {
+            'perPage': 5,
+            'layout': 'tin_an_toan_giao_thong_layout.html',
+            'first': 'tin_an_toan_giao_thong/index.html',
+            'path': 'tin_an_toan_giao_thong/:num/index.html',
+            'noPageOne': true,
+            'pageMetadata': {
+                'title': 'tin an toàn giao thông'
+            }
+
+        },
+        'collections.khenThuongXuPhat': {
+            'perPage': 5,
+            'layout': 'khen_thuong_xu_phat_layout.html',
+            'first': 'khen_thuong_xu_phat/index.html',
+            'path': 'khen_thuong_xu_phat/:num/index.html',
+            'noPageOne': true,
+            'pageMetadata': {
+                'title': 'khen thưởng xử phạt'
+            }
+
+        },
+        'collections.tinYTeGiaoDuc': {
+            'perPage': 5,
+            'layout': 'tin_y_te_giao_duc_layout.html',
+            'first': 'tin_y_te_giao_duc/index.html',
+            'path': 'tin_y_te_giao_duc/:num/index.html',
+            'noPageOne': true,
+            'pageMetadata': {
+                'title': 'tin y tế giáo dục'
+            }
+
+        },
+        
+        
 
         // // test filter
         // 'collections.baiviet': {
@@ -275,7 +393,35 @@ site.metalsmith = {
              {
                 match: { collection: 'vanBanPhapLuat' },
                 pattern: 'van_ban_phap_luat/:url'
+            }, {
+                match: { collection: 'tinAnNinhTrucTu' },
+                pattern: 'tin_an_ninh_truc_tu/:url'
+            },
+            {
+                match: { collection: 'hoatDongCuaLanhDao' },
+                pattern: 'hoat_dong_cua_lanh_dao/:url'
+            },
+             {
+                match: { collection: 'huongDan' },
+                pattern: 'huong_dan/:url'
+            },
+             {
+                match: { collection: 'chinhSach' },
+                pattern: 'chinh_sach/:url'
+            },
+            {
+                match: { collection: 'tinAnToanGiaoThong' },
+                pattern: 'tin_an_toan_giao_thong/:url'
+            },
+            {
+                match: { collection: 'tinYTeGiaoDuc' },
+                pattern: 'tin_y_te_giao_duc/:url'
+            },
+             {
+                match: { collection: 'khenThuongXuPhat' },
+                pattern: 'khen_thuong_xu_phat/:url'
             }
+            
         ]
     },
 

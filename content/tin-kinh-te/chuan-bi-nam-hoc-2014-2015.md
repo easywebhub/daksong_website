@@ -1,15 +1,16 @@
 ---json
 {
-"title": "Huyện Đăk Song tích cực chuẩn bị cho năm học 2014 - 2015",
-"url": "chuan-bi-nam-hoc-2014-2015",
-"description": "Huyện Đăk Song tích cực chuẩn bị cho năm học 2014 - 2015",
-"layout": "tin-kinh-te.html",
-"date": "2015-11-04",
-"draft": "false",
-"hinhAnh": "hinh-anh/tin-kinh-te/10 kgiang krong no 05092012.jpg"
+    "title": "Huyện Đăk Song tích cực chuẩn bị cho năm học 2014 - 2015",
+    "description": "Huyện Đăk Song tích cực chuẩn bị cho năm học 2014 - 2015",
+    "layout": "tin-kinh-te.html",
+    "date": "2015-11-04",
+    "draft": "false",
+    "banner": "/img/daksongtruso.jpg",
+    "slug": "chuan-bi-nam-hoc-2014-2015",
+    "permalink": "",
+    "url": "chuan-bi-nam-hoc-2014-2015"
 }
 ---
-
 Huyện Đăk Song Tích cực chuẩn bị cho năm học 2014 - 2015
 Chỉ còn 2 tuần là năm học 2104 - 2015 sẽ bắt đầu, cũng như nhiều địa phương khác trong cả nước, hiện nay Đăk Song đang gấp rút thực hiện công tác chuẩn bị cơ sở vật chất, trang thiết bị sẵn sàng cho năm học mới.
 Theo bàn trần Thị Thanh - Phó phòng Giáo dục và Đăò tạo huyện Đăk Song cho biết: Năm học 2014 - 2015 huyện dự kiến có khoảng trên 16.000 học sinh ở 44 điểm trường. Một trong những khó khăn nhất của huyện Đăk Song trong năm học này là còn thiếu phòng học, nhất là ở bật học mầm non. Một số xã đã mượn phòng học thôn để làm phòng học và thiếu các phòng học chức năng, các trang thiết bị phục vụ dạy học.

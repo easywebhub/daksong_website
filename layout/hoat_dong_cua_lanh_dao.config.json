@@ -1,0 +1,52 @@
+[
+    {
+        "name": "title",
+        "displayName": "title",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "slug",
+        "displayName": "slug",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "LongText",
+        "name": "description",
+        "displayName": "description",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "layout",
+        "displayName": "layout",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": true,
+        "required": false
+    },
+    {
+        "name": "date",
+        "displayName": "date",
+        "type": "DateTime"
+    },
+    {
+        "name": "permalink",
+        "displayName": "permalink",
+        "type": "Boolean",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "banner",
+        "displayName": "banner",
+        "type": "Media"
+    }
+]

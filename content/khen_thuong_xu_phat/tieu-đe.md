@@ -1,0 +1,12 @@
+---json
+{
+    "slug": "tieu-đe-thong-tin-xu-phat",
+    "layout": "khen_thuong_xu_phat.html",
+    "title": "tiêu đề chính sách",
+    "description": "mô tả ngắn",
+    "date": "2016-07-31 14:38:15 +07:00",
+    "permalink": true,
+    "banner": "/img/daksongtruso.jpg"
+}
+---
+nôi dung

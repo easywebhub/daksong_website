@@ -22,13 +22,13 @@
         "displayName": "tiêu đề",
         "validations": [],
         "viewOnly": false,
-        "required": false
+        "required": true
     },
     {
         "type": "Text",
         "displayType": "LongText",
         "name": "description",
-        "displayName": "mô tả",
+        "displayName": "mô tả ngắn",
         "validations": [],
         "viewOnly": false,
         "required": false
@@ -50,8 +50,12 @@
         "required": false
     },
     {
+        "type": "Text",
+        "displayType": "ShortText",
         "name": "banner",
         "displayName": "hình ảnh",
-        "type": "Media"
+        "validations": [],
+        "viewOnly": false,
+        "required": false
     }
 ]

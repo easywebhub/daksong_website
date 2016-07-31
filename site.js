@@ -416,7 +416,12 @@ site.metalsmith = {
             {
                 match: { collection: 'tinYTeGiaoDuc' },
                 pattern: 'tin_y_te_giao_duc/:url'
+            },
+             {
+                match: { collection: 'khenThuongXuPhat' },
+                pattern: 'khen_thuong_xu_phat/:url'
             }
+            
         ]
     },
 

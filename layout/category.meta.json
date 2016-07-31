@@ -34,5 +34,19 @@
         "type": "Object",
         "validations": [],
         "required": false
+    },
+    {
+        "name": "tab_thong_tin_dieu_hanh",
+        "displayName": "tab_thong_tin_dieu_hanh",
+        "type": "Object",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "tab_an_ninh",
+        "displayName": "tab_an_ninh",
+        "type": "Object",
+        "validations": [],
+        "required": false
     }
 ]

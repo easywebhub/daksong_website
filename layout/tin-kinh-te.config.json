@@ -1,24 +1,18 @@
 [
     {
+        "type": "Text",
+        "displayType": "ShortText",
         "name": "title",
-        "displayName": "title",
-        "type": "Text",
+        "displayName": "Tiêu đề",
         "validations": [],
         "viewOnly": false,
         "required": false
     },
     {
-        "name": "url",
-        "displayName": "url",
         "type": "Text",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
-    },
-    {
+        "displayType": "ShortText",
         "name": "description",
-        "displayName": "description",
-        "type": "Text",
+        "displayName": "Mô tả",
         "validations": [],
         "viewOnly": false,
         "required": false
@@ -32,9 +26,10 @@
         "required": false
     },
     {
-        "name": "date",
-        "displayName": "date",
         "type": "Text",
+        "displayType": "ShortText",
+        "name": "date",
+        "displayName": "Ngày đăng",
         "validations": [],
         "viewOnly": false,
         "required": false
@@ -49,19 +44,8 @@
     },
     {
         "name": "banner",
-        "displayName": "banner",
-        "type": "Text",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
-    },
-    {
-        "name": "hinhAnh",
-        "displayName": "hinhAnh",
-        "type": "Text",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
+        "displayName": "hình ảnh",
+        "type": "Media"
     },
     {
         "name": "slug",
@@ -76,6 +60,22 @@
         "displayName": "permalink",
         "type": "Boolean",
         "validations": [],
+        "required": false
+    },
+    {
+        "name": "url",
+        "displayName": "url",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "hinhAnh",
+        "displayName": "hinhAnh",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
         "required": false
     }
 ]

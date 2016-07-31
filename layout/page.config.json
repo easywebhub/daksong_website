@@ -1,8 +1,9 @@
 [
     {
-        "name": "title",
-        "displayName": "title",
         "type": "Text",
+        "displayType": "ShortText",
+        "name": "title",
+        "displayName": "Tiêu đề",
         "validations": [],
         "viewOnly": false,
         "required": false
@@ -17,12 +18,12 @@
     },
     {
         "type": "Text",
-        "displayType": "LongText",
+        "displayType": "ShortText",
         "name": "description",
-        "displayName": "Mô tả ngắn",
+        "displayName": "Mô tả",
         "validations": [],
         "viewOnly": false,
-        "required": true
+        "required": false
     },
     {
         "name": "layout",

@@ -1,10 +1,11 @@
 ---json
 {
 "title": "Cây rừng mới trồng dọc quốc lộ 14 ở Đắk Song bị phá hoại",
-"url": "Cay-rung-moi-trong-doc-quoc-lo-14-bi-pah-hoai",
+"slug": "Cay-rung-moi-trong-doc-quoc-lo-14-bi-pah-hoai",
 "description": "Cây rừng mới trồng dọc quốc lộ 14 ở Đắk Song bị phá hoại",
 "layout": "tin-kinh-te.html",
 "date": "2015-11-04",
+"banner": "hinh-anh/tin-kinh-te/nop-thue-qua-mang.jpg",
 "draft": "false"
 }
 ---

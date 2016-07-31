@@ -1,5 +1,21 @@
 [
     {
+        "name": "layout",
+        "displayName": "layout",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": true,
+        "required": false
+    },
+    {
+        "name": "slug",
+        "displayName": "slug",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
         "type": "Text",
         "displayType": "ShortText",
         "name": "title",
@@ -9,28 +25,12 @@
         "required": true
     },
     {
-        "name": "url",
-        "displayName": "url",
-        "type": "Text",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
-    },
-    {
         "type": "Text",
         "displayType": "LongText",
         "name": "description",
         "displayName": "mô tả ngắn",
         "validations": [],
         "viewOnly": false,
-        "required": false
-    },
-    {
-        "name": "layout",
-        "displayName": "layout",
-        "type": "Text",
-        "validations": [],
-        "viewOnly": true,
         "required": false
     },
     {
@@ -54,5 +54,12 @@
         "name": "banner",
         "displayName": "banner",
         "type": "Media"
+    },
+    {
+        "name": "permalink",
+        "displayName": "permalink",
+        "type": "Boolean",
+        "validations": [],
+        "required": false
     }
 ]

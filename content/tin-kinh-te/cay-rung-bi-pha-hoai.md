@@ -5,7 +5,7 @@
     "layout": "tin-kinh-te.html",
     "date": "2015-11-04",
     "draft": "false",
-    "banner": "/asset/img/1898-CD-1.jpg",
+    "banner": "/img/1898-CD-1.jpg",
     "slug": "Cay-rung-moi-trong-doc-quoc-lo-14-bi-pah-hoai",
     "permalink": "",
     "url": ""

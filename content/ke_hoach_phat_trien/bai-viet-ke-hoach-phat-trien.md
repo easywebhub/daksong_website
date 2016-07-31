@@ -6,7 +6,7 @@
     "description": "mô tả",
     "date": "2016-07-31 15:09:11 +07:00",
     "permalink": true,
-    "banner": "/asset/img/daksongtruso.jpg"
+    "banner": "/img/daksongtruso.jpg"
 }
 ---
 nội dung

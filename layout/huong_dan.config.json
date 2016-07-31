@@ -50,12 +50,8 @@
         "required": false
     },
     {
-        "type": "Text",
-        "displayType": "ShortText",
         "name": "banner",
-        "displayName": "hình ảnh",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
+        "displayName": "banner",
+        "type": "Media"
     }
 ]

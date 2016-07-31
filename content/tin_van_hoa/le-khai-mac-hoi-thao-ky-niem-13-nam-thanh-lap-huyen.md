@@ -6,7 +6,7 @@
     "description": "Từ ngày 16/6/2014 đến ngày 20/6/2014 Ủy ban\nnhân dân huyện Đăk Song tổ chức Hội thao chào mừng kỷ niệm 13 năm ngày thành\nlập huyện Đăk Song",
     "date": "31-07-2016 11:19:22 PM",
     "draft": "",
-    "banner": "/asset/img/daksongtruso.jpg",
+    "banner": "/img/daksongtruso.jpg",
     "permalink": true
 }
 ---

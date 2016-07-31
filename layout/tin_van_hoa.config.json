@@ -16,12 +16,13 @@
         "required": false
     },
     {
-        "name": "description",
-        "displayName": "description",
         "type": "Text",
+        "displayType": "LongText",
+        "name": "description",
+        "displayName": "Mô tả ngắn",
         "validations": [],
         "viewOnly": false,
-        "required": false
+        "required": true
     },
     {
         "name": "layout",
@@ -32,9 +33,10 @@
         "required": false
     },
     {
-        "name": "date",
-        "displayName": "date",
         "type": "Text",
+        "displayType": "ShortText",
+        "name": "date",
+        "displayName": "Ngày đăng",
         "validations": [],
         "viewOnly": false,
         "required": false
@@ -50,9 +52,6 @@
     {
         "name": "banner",
         "displayName": "banner",
-        "type": "Text",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
+        "type": "Media"
     }
 ]

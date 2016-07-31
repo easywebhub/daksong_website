@@ -162,6 +162,11 @@ site.metalsmith = {
             'pattern': 'khen_thuong_xu_phat/**/*.html',
             'sortBy': 'date',
             'reverse': true,
+        },
+         'tinYTeGiaoDuc': {
+            'pattern': 'tin_y_te_giao_duc/**/*.html',
+            'sortBy': 'date',
+            'reverse': true,
         }
         
     },
@@ -324,6 +329,17 @@ site.metalsmith = {
             }
 
         },
+        'collections.tinYTeGiaoDuc': {
+            'perPage': 5,
+            'layout': 'tin_y_te_giao_duc_layout.html',
+            'first': 'tin_y_te_giao_duc/index.html',
+            'path': 'tin_y_te_giao_duc/:num/index.html',
+            'noPageOne': true,
+            'pageMetadata': {
+                'title': 'tin y tế giáo dục'
+            }
+
+        },
         
         
 
@@ -396,6 +412,10 @@ site.metalsmith = {
             {
                 match: { collection: 'tinAnToanGiaoThong' },
                 pattern: 'tin_an_toan_giao_thong/:url'
+            },
+            {
+                match: { collection: 'tinYTeGiaoDuc' },
+                pattern: 'tin_y_te_giao_duc/:url'
             }
         ]
     },

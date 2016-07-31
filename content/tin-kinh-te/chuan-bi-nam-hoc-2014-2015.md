@@ -5,7 +5,7 @@
     "layout": "tin-kinh-te.html",
     "date": "2015-11-04",
     "draft": "false",
-    "banner": "/asset/img/daksongtruso.jpg",
+    "banner": "/img/daksongtruso.jpg",
     "slug": "chuan-bi-nam-hoc-2014-2015",
     "permalink": "",
     "url": "chuan-bi-nam-hoc-2014-2015"

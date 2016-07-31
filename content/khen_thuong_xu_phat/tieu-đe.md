@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "tieu-đe",
+    "slug": "tieu-đe-chinh-sach",
     "layout": "khen_thuong_xu_phat.html",
     "title": "tiêu đề chính sách",
     "description": "mô tả ngắn",

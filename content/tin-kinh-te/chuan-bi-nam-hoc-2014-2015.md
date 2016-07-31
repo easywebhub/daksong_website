@@ -8,8 +8,7 @@
     "banner": "/asset/img/daksongtruso.jpg",
     "slug": "chuan-bi-nam-hoc-2014-2015",
     "permalink": "",
-    "url": "chuan-bi-nam-hoc-2014-2015",
-    "hinhAnh": ""
+    "url": "chuan-bi-nam-hoc-2014-2015"
 }
 ---
 Huyện Đăk Song Tích cực chuẩn bị cho năm học 2014 - 2015

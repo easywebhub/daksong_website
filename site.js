@@ -138,8 +138,8 @@ site.metalsmith = {
             'sortBy': 'date',
             'reverse': true
         },
-        'tinAnNinhTrucTu': {
-            'pattern': 'tin_an_ninh_truc_tu/**/*.html',
+        'tinAnNinhTratTu': {
+            'pattern': 'tin_an_ninh_trat_tu/**/*.html',
             'sortBy': 'date',
             'reverse': true,
         },
@@ -186,11 +186,11 @@ site.metalsmith = {
             }
         },
         
-        'collections.tinAnNinhTrucTu': {
+        'collections.tinAnNinhTratTu': {
             'perPage': 5,
-            'layout': 'tin_an_ninh_truc_tu_layout.html',
-            'first': 'tin_an_ninh_truc_tu/index.html',
-            'path': 'tin_an_ninh_truc_tu/:num/index.html',
+            'layout': 'tin_an_ninh_trat_tu_layout.html',
+            'first': 'tin_an_ninh_trat_tu/index.html',
+            'path': 'tin_an_ninh_trat_tu/:num/index.html',
             'noPageOne': true,
             'pageMetadata': {
                 'title': 'Tin an ninh trực tự'
@@ -394,8 +394,8 @@ site.metalsmith = {
                 match: { collection: 'vanBanPhapLuat' },
                 pattern: 'van_ban_phap_luat/:url'
             }, {
-                match: { collection: 'tinAnNinhTrucTu' },
-                pattern: 'tin_an_ninh_truc_tu/:url'
+                match: { collection: 'tinAnNinhTratTu' },
+                pattern: 'tin_an_ninh_trat_tu/:url'
             },
             {
                 match: { collection: 'hoatDongCuaLanhDao' },

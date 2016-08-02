@@ -2,7 +2,7 @@
 {
     "title": "THÔNG BÁO Về việc tiếp công dân của Chủ tịch UBND huyện Đăk Song",
     "slug": "thong-bao-ve-viec-tiep-cong-dan-cua-chu-tich-ubnd-huyen-đak-song",
-    "description": "THÔNG BÁO Về việc tiếp công dân của Chủ tịch UBND huyện Đăk Song",
+    "description": "",
     "layout": "thong_tin_chi_dao_dieu_hanh.html",
     "date": "2016-07-27 21:13:47 +07:00",
     "permalink": true,

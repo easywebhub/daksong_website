@@ -30,7 +30,7 @@ Thực hiện Lịch tiếp công dân định kỳ của Chủ tịch UBND huy�
 - Giao Trung tâm phát triển quỹ đất chuẩn bị hồ sơ liên quan đến nội dung khiếu kiện của hộ bà Dương Thị Hồng;
 - Giao Thanh tra huyện chuẩn bị hồ sơ liên quan đến nội dung khiếu kiện của bà Võ Thị Lan; phối hợp với Ban Tiếp công dân huyện và các đơn vị liên quan đảm bảo an ninh trật tự tại Phòng Tiếp công dân.
 Thông báo này thay cho Giấy mời, đề nghị Thủ trưởng các đơn vị liên quan và đại diện các hộ dân đến đúng thời gian, địa điểm nêu trên.
-¬
+
 Nơi nhận    TL. CHỦ TỊCH
 - Như thành phần tham gia;    
 - Lưu VT, HS các hộ dân.

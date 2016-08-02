@@ -6,7 +6,7 @@
 					<div WebPartID="2377286e-73a7-4ff0-a89f-306e4d88283f" HasPers="false" id="WebPartWPQ14" width="100%" class="ms-WPBody noindex" allowDelete="false" style="">
 						<table cellpadding="0" cellspacing="0" border="0" width="100%">
 							<tr>
-								<td align="center" valign="middle" style="background-color:transparent"><img border="0" id="MSOImageWebPart_WebPartWPQ14" src="./HinhAnhLienKet/Bau cu QH HDND.jpg" alt="" /></td>
+								<td align="center" valign="middle" style="background-color:transparent"> <a href="{{banner.banner_lon.duong_dan}}"> <img border="0" id="MSOImageWebPart_WebPartWPQ14" src="{{banner.banner_lon.hinh_anh}}" alt="" /></a> </td>
 							</tr>
 						</table>
 					</div>
@@ -30,36 +30,14 @@
 											<div xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">
 												
 												<div id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_Chinh" class="ndiv">
+													{{#each banner.danh_sach_banner_nho}}
 													<div class="div-image">
 														<div class="allowMenu">
-															<a href="http://daknong.gov.vn/Pages/default.aspx" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="http://daksong.daknong.gov.vn/sites/default/files/imagecache/img_banner_thumbnail/qc1.png"></a>
+															<a href="{{duong_dan}}" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="{{hinh_anh}}"></a>
 														</div>
 													</div>
-													<div class="div-image">
-														<div class="allowMenu">
-															<a href="http://mail.daknong.gov.vn/" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="http://daksong.daknong.gov.vn/sites/default/files/imagecache/img_banner_thumbnail/qc3_0.png"></a>
-														</div>
-													</div>
-													<div class="div-image">
-														<div class="allowMenu">
-															<a href="http://congbao.chinhphu.vn/" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="HinhAnhLienKet/img-congbao.jpg"></a>
-														</div>
-													</div>
-													<div class="div-image">
-														<div class="allowMenu">
-															<a href="http://thutuchanhchinh.daknong.gov.vn/" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="HinhAnhLienKet/chung tay cai cah.jpg"></a>
-														</div>
-													</div>
-													<div class="div-image">
-														<div class="allowMenu">
-															<a href="http://kyniem10nam.daknong.gov.vn/" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="http://daksong.daknong.gov.vn/sites/default/files/imagecache/img_banner_thumbnail/qc4.png"></a>
-														</div>
-													</div>
-													<div class="div-image">
-														<div class="allowMenu">
-															<a href="#" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="http://daksong.daknong.gov.vn/sites/default/files/imagecache/img_banner_thumbnail/mail_0.png"></a>
-														</div>
-													</div>
+													{{/each}}
+													
 												</div>
 												<div id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_openPopup">
 													<span style="DISPLAY: none">

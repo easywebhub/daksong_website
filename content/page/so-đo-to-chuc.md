@@ -19,6 +19,7 @@
 - Chức vụ: PBT Huyện ủy, CT UBND huyện
 - Chịu trách nhiệm lãnh đạo, chỉ đạo điều hành chung mọi mặt hoạt động kinh tế xã hội, an ninh quốc phòng tại địa phương
 - Chỉ đạo điều hành và quản lý chung mọi hoạt động của UBND huyện; lãnh đạo các thành viên UBND huyện, Thủ trưởng các Cơ quan thường trực thuộc; UBND các xã, thị trấn.
+
 * Đ/c Nguyễn Thiện Hoàn:
 - Năm sinh: 1961
 - Dân tộc: kinh

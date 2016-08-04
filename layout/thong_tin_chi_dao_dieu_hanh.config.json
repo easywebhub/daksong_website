@@ -1,26 +1,8 @@
 [
     {
-        "type": "Text",
-        "displayType": "ShortText",
-        "name": "title",
-        "displayName": "Tiêu đề bài viết",
-        "validations": [],
-        "viewOnly": false,
-        "required": true
-    },
-    {
         "name": "slug",
         "displayName": "slug",
         "type": "Text",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
-    },
-    {
-        "type": "Text",
-        "displayType": "LongText",
-        "name": "description",
-        "displayName": "Mô tả sơ lược",
         "validations": [],
         "viewOnly": false,
         "required": false
@@ -34,19 +16,30 @@
         "required": false
     },
     {
+        "type": "Text",
+        "displayType": "ShortText",
+        "name": "title",
+        "displayName": "Tiêu đề bài viết",
+        "validations": [],
+        "viewOnly": false,
+        "required": true
+    },
+    {
+        "type": "Text",
+        "displayType": "LongText",
+        "name": "description",
+        "displayName": "Mô tả sơ lược",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
         "name": "date",
         "displayName": "Ngày đăng tin",
         "displayType": "DateTime",
         "type": "DateTime",
         "validations": [],
         "viewOnly": false,
-        "required": false
-    },
-    {
-        "name": "permalink",
-        "displayName": "permalink",
-        "type": "Boolean",
-        "validations": [],
         "required": false
     },
     {

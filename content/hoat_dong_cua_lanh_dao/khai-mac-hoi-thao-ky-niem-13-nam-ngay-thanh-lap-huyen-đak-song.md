@@ -4,7 +4,7 @@
     "slug": "khai-mac-hoi-thao-ky-niem-13-nam-ngay-thanh-lap-huyen-đak-song",
     "description": "Sáng ngày 16/6 tại Nhà văn hóa UBND huyện đã tổ chức lễ khai mạc hội thao nhằm kỷ niệm 13 năm ngày thành lập huyện Đak Song (21/6/2001-21/6/2014). Đến dự lễ khai mạc có đ/c Nguyễn Thị Thu Hường –Phó Bí thư huyện ủy; Đ/c Nguyễn Văn Phò- Phó chủ tịch UBND huyện.",
     "layout": "hoat_dong_cua_lanh_dao.html",
-    "date": "2016-07-28 22:44:10 +07:00",
+    "date": "2016-07-28 22:44:10",
     "permalink": true,
     "banner": "img/daksongtruso.jpg"
 }
@@ -14,4 +14,4 @@ vũ trang và các xã, thị trấn trong huyện. Hội thao diễn ra trong 5
 dung thi đấu bao gồm: Bóng đá nam; quần vợt nam; cầu lông nam nữ; bóng chuyền nam, nữ.
   Sau lễ khai mạc các đoàn vận động viên đã đồng loạt ra sân thi đấu ở nội dung bóng đá và cầu lông.
  
-                                                          Lê Xuân- Vương Hợp
+                                                        Lê Xuân- Vương Hợp

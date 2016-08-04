@@ -4,8 +4,7 @@
     "slug": "page/co-cau-to-chuc",
     "description": "",
     "layout": "page.html",
-    "date": "2016-07-26 12:55:35",
-    "permalink": true
+    "date": "2016-07-26 12:55:35"
 }
 ---
 Đang bổ sung thông tin cơ cấu tổ chức

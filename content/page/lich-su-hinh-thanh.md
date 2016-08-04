@@ -4,8 +4,7 @@
     "slug": "lich-su-hinh-thanh",
     "description": "",
     "layout": "page.html",
-    "date": "2016-07-25 22:46:32 +07:00",
-    "permalink": true
+    "date": "2016-07-25 22:46:32 +07:00"
 }
 ---
 What is Lorem Ipsum?

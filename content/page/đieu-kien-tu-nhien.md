@@ -4,8 +4,7 @@
     "slug": "đieu-kien-tu-nhien",
     "description": "",
     "layout": "page.html",
-    "date": "2016-07-25 22:47:34 +07:00",
-    "permalink": true
+    "date": "2016-07-25 22:47:34"
 }
 ---
 Toàn huyện có diện tích tự nhiên rộng 80.810 ha (bằng 12,4 % diện tích tự nhiên tỉnh Đăk Nông ngày nay). Địa hình huyện Đăk Song chủ yếu là đồi núi, độ cao trung bình so với mặt biển từ 700 đến 800 m. Có thể chia thành 3 dạng địa hình chính của huyện, với các tiềm năng, thế mạnh khác nhau :

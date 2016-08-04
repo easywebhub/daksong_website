@@ -4,8 +4,7 @@
     "slug": "lanh-đao-co-quan",
     "description": "",
     "layout": "page.html",
-    "date": "2016-07-25 22:41:34 +07:00",
-    "permalink": true
+    "date": "2016-07-25 22:41:34"
 }
 ---
 

@@ -170,7 +170,7 @@ site.metalsmith = {
 
     'metalsmith-pagination': {
         '_enable': true,
-  
+
         'collections.tinAnNinhTratTu': {
             'perPage': 5,
             'layout': 'tin_an_ninh_trat_tu.html',
@@ -185,7 +185,7 @@ site.metalsmith = {
 
         'collections.tinKinhTe': {
             'perPage': 5,
-            'layout': 'tin-kinh-te-layout.html',
+            'layout': 'tin-kinh-te.html',
             'first': 'tin-kinh-te/index.html',
             'path': 'tin-kinh-te/:num/index.html',
             'noPageOne': true,

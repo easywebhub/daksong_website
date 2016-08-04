@@ -4,8 +4,7 @@
     "slug": "gioi-thieu-chung",
     "description": "",
     "layout": "page.html",
-    "date": "2016-07-25 22:45:00 +07:00",
-    "permalink": true
+    "date": "2016-07-25 22:45:00 +07:00"
 }
 ---
 Huyện Đăk Song được thành lập theo Nghò ñònh soá 30/2001/NÑ-CP ngày 21/6/2001 trên cơ sở các xã Trường Xuân, Đăk N’rung tách từ huyện Đăk Nông và xã Thuận Hạnh, Đăk Mol, Đăk Song tách từ huyện Đăk Mil. Khi mới thành lập Đăk Song nằm trong tỉnh Đăk Lăk. Khi tỉnh Đăk Nông được thành lập trên cơ sở tách từ tỉnh Đăk Lăk thì Đăk Song nằm trong tỉnh Đăk Nông. Huyện có 9 đơn vị hành chính gồm: thị trấn Đức An, xã Nam Bình( xã Đăk Song cũ), xã Thuận Hạnh, xã Thuận Hà, xã Trường Xuân, xã Đăk Mol, xã Đăk Hòa, xã Đăk N’Drung, xã Nâm N’Jang. Đăk Song giáp với huyện Đăk Mil ở phía bắc, huyện Krông Nô ở phía đông bắc, huyện Đăk Glong ở phía đông và đông nam, huyện Tuy Đức ở phía tây, thị xã Gia Nghĩa ở phía nam. Phía tây bắc huyện là đường biên giới Việt Nam – CamPuChia dài 24km giáp với huyện PíchChămĐa, tỉnh Mundulkiri, Vương quốc CamPuChia.

@@ -1,6 +1,6 @@
 ---json
 {
-    "title": "Kế hoạch tổ chức lễ kỷ niệm",
+    "title": "Kế hoạch tổ chức lễ kỷ niệm 12",
     "slug": "ke-hoach-to-chuc-le-ky-niem",
     "description": "Ngày 07/09/2012, UBND tỉnh ban hành Quyết định số 506/QĐ-UBND về việc ban hành Kế hoạch này",
     "layout": "thong_tin_chi_dao_dieu_hanh.html",

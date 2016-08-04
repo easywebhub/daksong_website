@@ -1,23 +1,7 @@
 [
     {
-        "name": "title",
-        "displayName": "title",
-        "type": "Text",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
-    },
-    {
         "name": "slug",
         "displayName": "slug",
-        "type": "Text",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
-    },
-    {
-        "name": "description",
-        "displayName": "description",
         "type": "Text",
         "validations": [],
         "viewOnly": false,
@@ -32,18 +16,27 @@
         "required": false
     },
     {
-        "name": "date",
-        "displayName": "date",
+        "name": "title",
+        "displayName": "title",
         "type": "Text",
         "validations": [],
         "viewOnly": false,
         "required": false
     },
     {
-        "name": "permalink",
-        "displayName": "permalink",
-        "type": "Boolean",
+        "name": "description",
+        "displayName": "description",
+        "type": "Text",
         "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "date",
+        "displayName": "date",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
         "required": false
     },
     {

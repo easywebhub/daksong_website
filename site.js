@@ -178,7 +178,7 @@ site.metalsmith = {
             'path': 'tin_an_ninh_trat_tu/:num/index.html',
             'noPageOne': true,
             'pageMetadata': {
-                'title': 'Tin an ninh trực tự'
+                'title': 'Tin an ninh trật tự'
             }
 
         },
@@ -211,7 +211,7 @@ site.metalsmith = {
             'path': 'tin_van_hoa/:num/index.html',
             'noPageOne': true,
             'pageMetadata': {
-                'title': 'tin van hoa'
+                'title': 'Tin Văn Hóa'
             }
 
         },

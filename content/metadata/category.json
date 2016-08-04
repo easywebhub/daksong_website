@@ -21,7 +21,7 @@
             },
             {
                 "ten": "Thông tin đều hành",
-                "name": "tinThongTinDieuHanh",
+                "name": "thongTinChiDaoDieuHanh",
                 "collections_name": "/thong_tin_dieu_hanh"
             }
         ]

@@ -4,8 +4,7 @@
     "slug": "page/van-hoa-di-tich",
     "description": "",
     "layout": "page.html",
-    "date": "2016-07-25 22:43:57 +07:00",
-    "permalink": true
+    "date": "2016-07-25 22:43:57"
 }
 ---
 What is Lorem Ipsum?

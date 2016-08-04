@@ -4,8 +4,7 @@
     "slug": "thong-bao-ve-viec-tiep-cong-dan-cua-chu-tich-ubnd-huyen-đak-song",
     "description": "",
     "layout": "thong_tin_chi_dao_dieu_hanh.html",
-    "date": "2016-07-27 21:13:47 +07:00",
-    "permalink": true,
+    "date": "2016-07-27 21:13:47",
     "banner": "hinh-anh/chi-dao-dieu-hanh/daksongtruso.jpg"
 }
 ---

@@ -19,5 +19,12 @@
         "type": "Array",
         "validations": [],
         "required": false
+    },
+    {
+        "name": "danh_sach_banner_nho",
+        "displayName": "danh_sach_banner_nho",
+        "type": "Array",
+        "validations": [],
+        "required": false
     }
 ]

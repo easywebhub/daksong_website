@@ -11,11 +11,18 @@
         "danh-sach": [
             {
                 "ten": "Tin kinh tế",
+                "name": "tinKinhTe",
                 "collections_name": "/tin-kinh-te"
             },
             {
                 "ten": "Tin văn hóa",
+                "name": "tinVanHoa",
                 "collections_name": "/tin_van_hoa"
+            },
+            {
+                "ten": "Thông tin đều hành",
+                "name": "thongTinChiDaoDieuHanh",
+                "collections_name": "/thong_tin_dieu_hanh"
             }
         ]
     },

@@ -3,19 +3,19 @@
         <ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
             {{#each category.block-1.danh-sach}}
             <li class="tabs-{{@index}} ui-state-default ui-corner-top {{#if @first}} ui-tabs-selected ui-state-active {{/if}}">
-                <a href="#" onclick="ShowTab('tab-{{this.collections_name}}')">{{this.ten}}</a>
+                <a onclick="ShowTab('tab-{{this.name}}')">{{this.ten}}</a>
             </li>
             {{/each}}
         </ul>
 
         {{#each category.block-1.danh-sach}}
         {{#if @first}}
-            <div id="tab-{{this.collections_name}}" categoryname="{{this.ten}}" class="ui-tabs-panel ui-widget-content ui-corner-bottom">
+            <div id="tab-{{this.name}}" categoryname="{{this.ten}}" class="ui-tabs-panel ui-widget-content ui-corner-bottom">
         {{else}}
-            <div id="tab-{{this.collections_name}}" style="display:none" categoryname="{{this.ten}}" class="ui-tabs-panel ui-widget-content ui-corner-bottom">
+            <div id="tab-{{this.name}}" style="display:none" categoryname="{{this.ten}}" class="ui-tabs-panel ui-widget-content ui-corner-bottom">
         {{/if}}
             <div class="news-tab">
-                {{#each ../collections.tinKinhTe}}
+                {{#each (lookup ../collections.tinKinhTe)}}
                 {{#if @first}}
                 <div class="news-tab-thumb-item-0">
                     <div class="news-tab-thumb-item-left-0">
@@ -63,8 +63,14 @@
 
 </div>
 <script>
-    function ShowTab() {
+    function ShowTab(id) {
+        // hide all child tab
+        $('div[id^="tab-"]').hide();
 
+        // remove all  ui-tabs-selected ui-state-active
+        // add  ui-tabs-selected ui-state-active to this
+
+        $('#' + id).show();
     }
 </script>
 </td>

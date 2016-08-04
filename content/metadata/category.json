@@ -11,12 +11,12 @@
         "danh-sach": [
             {
                 "ten": "Tin kinh tế",
-                "name": "tin-kinh-te",
+                "name": "tinKinhTe",
                 "collections_name": "/tin-kinh-te"
             },
             {
                 "ten": "Tin văn hóa",
-                "name": "tin-van-hoa",
+                "name": "tinVanHoa",
                 "collections_name": "/tin_van_hoa"
             }
         ]

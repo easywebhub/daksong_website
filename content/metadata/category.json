@@ -18,6 +18,11 @@
                 "ten": "Tin văn hóa",
                 "name": "tinVanHoa",
                 "collections_name": "/tin_van_hoa"
+            },
+            {
+                "ten": "Thông tin đều hành",
+                "name": "tinThongTinDieuHanh",
+                "collections_name": "/thong_tin_dieu_hanh"
             }
         ]
     },

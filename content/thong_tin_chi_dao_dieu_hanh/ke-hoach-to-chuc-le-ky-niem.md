@@ -4,7 +4,7 @@
     "slug": "ke-hoach-to-chuc-le-ky-niem",
     "description": "Ngày 07/09/2012, UBND tỉnh ban hành Quyết định số 506/QĐ-UBND về việc ban hành Kế hoạch này",
     "layout": "thong_tin_chi_dao_dieu_hanh.html",
-    "date": "2016-07-26 20:32:09 +07:00",
+    "date": "2016-07-26 20:32:09",
     "permalink": true,
     "banner": "hinh-anh/chi-dao-dieu-hanh/QuangTrungNguyenHue.jpg"
 }

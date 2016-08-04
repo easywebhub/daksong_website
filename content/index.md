@@ -1,10 +1,8 @@
 ---json
 {
     "title": "EasyWebHub Home",
-    "url": "",
+    "slug": "",
     "description": "Daksong Page",
-    "layout": "daksong.html",
-    "permalink" : false
+    "layout": "daksong.html"
 }
 ---
-

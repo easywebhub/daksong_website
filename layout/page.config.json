@@ -3,7 +3,7 @@
         "type": "Text",
         "displayType": "ShortText",
         "name": "title",
-        "displayName": "tiêu đề",
+        "displayName": "Tiêu đề bài viết",
         "validations": [],
         "viewOnly": false,
         "required": true
@@ -20,7 +20,7 @@
         "type": "Text",
         "displayType": "LongText",
         "name": "description",
-        "displayName": "mô tả ngắn",
+        "displayName": "Mô tả sơ lược",
         "validations": [],
         "viewOnly": false,
         "required": false
@@ -35,7 +35,7 @@
     },
     {
         "name": "date",
-        "displayName": "ngày đăng",
+        "displayName": "Ngày đăng tin",
         "displayType": "DateTime",
         "type": "DateTime",
         "validations": [],

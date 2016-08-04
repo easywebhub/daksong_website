@@ -1,14 +1,22 @@
 [
     {
-        "name": "title",
-        "displayName": "title",
+        "name": "layout",
+        "displayName": "layout",
         "type": "Text",
         "validations": [],
         "required": false
     },
     {
-        "name": "url",
-        "displayName": "url",
+        "name": "slug",
+        "displayName": "slug",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "title",
+        "displayName": "title",
         "type": "Text",
         "validations": [],
         "required": false
@@ -17,20 +25,6 @@
         "name": "description",
         "displayName": "description",
         "type": "Text",
-        "validations": [],
-        "required": false
-    },
-    {
-        "name": "layout",
-        "displayName": "layout",
-        "type": "Text",
-        "validations": [],
-        "required": false
-    },
-    {
-        "name": "permalink",
-        "displayName": "permalink",
-        "type": "Boolean",
         "validations": [],
         "required": false
     }

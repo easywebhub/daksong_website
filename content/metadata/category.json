@@ -1,67 +1,58 @@
 {
-  "title": "Data cho các trang danh mục được định nghĩa ở đây",
-
-  "blog" : {
-    "title": "Trang danh mục blog được định nghĩa trong category.json",
-    "url": "blog",
-    "description": "trang blog",
-    "banner" : "định nghĩa banner"
-  },
-
-  "block-1" : {
-     "ten" : "Block đầu tiên của danh mục trong trang chủ",
-     "danh-sach": [
-       {
-          "ten" : "Tin kinh tế",
-          "collections_name" : "/tin-kinh-te"
-       }
-     ]
-  },
-  "block-2" : {
-     "ten" : "",
-     "danh_sach": [
-       {
-          "ten" : "Thông tin đều hành",
-          "collections_name" : "/thong_tin_dieu_hanh"
-       }
-      
-
-     ]
-  },
-  "tab_van_hoa" : {
-     "ten" : "",
-     "danh_sach": [
-       {
-          "ten" : "Tin văn hóa",
-          "collections_name" : "/tin_van_hoa"
-       }
-      
-
-     ]
-     
-  },
-   "tab_thong_tin_dieu_hanh" : {
-     "ten" : "Thông tin chỉ đạo điều hành",
-     "danh_sach": [
-       {
-          "ten" : "Thông tin chỉ đạo điều hành",
-          "collections_name" : "/thong_tin_chi_dao_dieu_hanh"
-       }
-      
-
-     ]
-
-   },
-   "tab_an_ninh" : {
-     "ten" : "An ninh trật tự",
-     "danh_sach": [
-       {
-          "ten" : "An ninh trật tự",
-          "collections_name" : "/tin_an_ninh_trat_tu"
-       }
-      
-
-     ]
-
-   }
+    "title": "Data cho các trang danh mục được định nghĩa ở đây",
+    "blog": {
+        "title": "Trang danh mục blog được định nghĩa trong category.json",
+        "url": "blog",
+        "description": "trang blog",
+        "banner": "định nghĩa banner"
+    },
+    "block-1": {
+        "ten": "Block đầu tiên của danh mục trong trang chủ",
+        "danh-sach": [
+            {
+                "ten": "Tin kinh tế",
+                "collections_name": "/tin-kinh-te"
+            },
+            {
+                "ten": "Tin văn hóa",
+                "collections_name": "/tin_van_hoa"
+            }
+        ]
+    },
+    "block-2": {
+        "ten": "",
+        "danh_sach": [
+            {
+                "ten": "Thông tin đều hành",
+                "collections_name": "/thong_tin_dieu_hanh"
+            }
+        ]
+    },
+    "tab_van_hoa": {
+        "ten": "",
+        "danh_sach": [
+            {
+                "ten": "Tin văn hóa",
+                "collections_name": "/tin_van_hoa"
+            }
+        ]
+    },
+    "tab_thong_tin_dieu_hanh": {
+        "ten": "Thông tin chỉ đạo điều hành",
+        "danh_sach": [
+            {
+                "ten": "Thông tin chỉ đạo điều hành",
+                "collections_name": "/thong_tin_chi_dao_dieu_hanh"
+            }
+        ]
+    },
+    "tab_an_ninh": {
+        "ten": "An ninh trật tự",
+        "danh_sach": [
+            {
+                "ten": "An ninh trật tự",
+                "collections_name": "/tin_an_ninh_trat_tu"
+            }
+        ]
+    }
 }

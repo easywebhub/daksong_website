@@ -86,12 +86,7 @@ site.metalsmith = {
 
     'metalsmith-collections': {
         '_enable': true,
-        // collection theo file pattern + test limit
-        'blog': {
-            'pattern': 'blog/**/*.html',
-            'sortBy': 'date',
-            'reverse': true,
-        },
+
         'tinKinhTe': {
             'pattern': 'tin-kinh-te/**/*.html',
             'sortBy': 'date',
@@ -127,7 +122,7 @@ site.metalsmith = {
             'sortBy': 'date',
             'reverse': true,
         },
-        
+
         'hoatDongCuaLanhDao': {
             'pattern': 'hoat_dong_cua_lanh_dao/**/*.html',
             'sortBy': 'date',
@@ -168,27 +163,17 @@ site.metalsmith = {
             'sortBy': 'date',
             'reverse': true,
         }
-        
+
     },
 
 
 
     'metalsmith-pagination': {
         '_enable': true,
-        'collections.blog': {
-            'perPage': 3,
-            'layout': 'blog.html',
-            'first': 'blog/index.html',
-            'path': 'blog/:num/index.html',
-            'noPageOne': true,
-            'pageMetadata': {
-                'title': 'Title of metalsmith-pagination file site.js'
-            }
-        },
-        
+  
         'collections.tinAnNinhTratTu': {
             'perPage': 5,
-            'layout': 'tin_an_ninh_trat_tu_layout.html',
+            'layout': 'tin_an_ninh_trat_tu.html',
             'first': 'tin_an_ninh_trat_tu/index.html',
             'path': 'tin_an_ninh_trat_tu/:num/index.html',
             'noPageOne': true,
@@ -211,7 +196,7 @@ site.metalsmith = {
         },
         'collections.thongTinChiDaoDieuHanh': {
             'perPage': 5,
-            'layout': 'thong_tin_chi_dao_dieu_hanh_layout.html',
+            'layout': 'thong_tin_chi_dao_dieu_hanh.html',
             'first': 'thong_tin_chi_dao_dieu_hanh/index.html',
             'path': 'thong_tin_chi_dao_dieu_hanh/:num/index.html',
             'noPageOne': true,
@@ -221,7 +206,7 @@ site.metalsmith = {
         },
         'collections.tinVanHoa': {
             'perPage': 5,
-            'layout': 'tin_van_hoa_layout.html',
+            'layout': 'tin_van_hoa.html',
             'first': 'tin_van_hoa/index.html',
             'path': 'tin_van_hoa/:num/index.html',
             'noPageOne': true,
@@ -232,7 +217,7 @@ site.metalsmith = {
         },
         'collections.tinNoiBat': {
             'perPage': 5,
-            'layout': 'tin_noi_bat_layout.html',
+            'layout': 'tin_noi_bat.html',
             'first': 'tin_noi_bat/index.html',
             'path': 'tin_noi_bat/:num/index.html',
             'noPageOne': true,
@@ -243,7 +228,7 @@ site.metalsmith = {
         },
         'collections.lichLamViec': {
             'perPage': 5,
-            'layout': 'lich_lam_viec_layout.html',
+            'layout': 'lich_lam_viec.html',
             'first': 'lich_lam_viec/index.html',
             'path': 'lich_lam_viec/:num/index.html',
             'noPageOne': true,
@@ -254,7 +239,7 @@ site.metalsmith = {
         },
         'collections.keHoachPhatTrien': {
             'perPage': 5,
-            'layout': 'ke_hoach_phat_trien_layout.html',
+            'layout': 'ke_hoach_phat_trien.html',
             'first': 'ke_hoach_phat_trien/index.html',
             'path': 'ke_hoach_phat_trien/:num/index.html',
             'noPageOne': true,
@@ -265,7 +250,7 @@ site.metalsmith = {
         },
         'collections.hoatDongCuaLanhDao': {
             'perPage': 5,
-            'layout': 'hoat_dong_cua_lanh_dao_layout.html',
+            'layout': 'hoat_dong_cua_lanh_dao.html',
             'first': 'hoat_dong_cua_lanh_dao/index.html',
             'path': 'hoat_dong_cua_lanh_dao/:num/index.html',
             'noPageOne': true,
@@ -276,7 +261,7 @@ site.metalsmith = {
         },
         'collections.huongDan': {
             'perPage': 5,
-            'layout': 'huong_dan_layout.html',
+            'layout': 'huong_dan.html',
             'first': 'huong_dan/index.html',
             'path': 'huong_dan/:num/index.html',
             'noPageOne': true,
@@ -287,7 +272,7 @@ site.metalsmith = {
         },
         'collections.vanBanPhapLuat': {
             'perPage': 5,
-            'layout': 'van_ban_phap_luat_layout.html',
+            'layout': 'van_ban_phap_luat.html',
             'first': 'van_ban_phap_luat/index.html',
             'path': 'van_ban_phap_luat/:num/index.html',
             'noPageOne': true,
@@ -298,7 +283,7 @@ site.metalsmith = {
         },
          'collections.chinhSach': {
             'perPage': 5,
-            'layout': 'chinh_sach_layout.html',
+            'layout': 'chinh_sach.html',
             'first': 'chinh_sach/index.html',
             'path': 'chinh_sach/:num/index.html',
             'noPageOne': true,
@@ -309,7 +294,7 @@ site.metalsmith = {
         },
         'collections.tinAnToanGiaoThong': {
             'perPage': 5,
-            'layout': 'tin_an_toan_giao_thong_layout.html',
+            'layout': 'tin_an_toan_giao_thong.html',
             'first': 'tin_an_toan_giao_thong/index.html',
             'path': 'tin_an_toan_giao_thong/:num/index.html',
             'noPageOne': true,
@@ -320,7 +305,7 @@ site.metalsmith = {
         },
         'collections.khenThuongXuPhat': {
             'perPage': 5,
-            'layout': 'khen_thuong_xu_phat_layout.html',
+            'layout': 'khen_thuong_xu_phat.html',
             'first': 'khen_thuong_xu_phat/index.html',
             'path': 'khen_thuong_xu_phat/:num/index.html',
             'noPageOne': true,
@@ -331,7 +316,7 @@ site.metalsmith = {
         },
         'collections.tinYTeGiaoDuc': {
             'perPage': 5,
-            'layout': 'tin_y_te_giao_duc_layout.html',
+            'layout': 'tin_y_te_giao_duc.html',
             'first': 'tin_y_te_giao_duc/index.html',
             'path': 'tin_y_te_giao_duc/:num/index.html',
             'noPageOne': true,
@@ -340,8 +325,8 @@ site.metalsmith = {
             }
 
         },
-        
-        
+
+
 
         // // test filter
         // 'collections.baiviet': {
@@ -421,7 +406,7 @@ site.metalsmith = {
                 match: { collection: 'khenThuongXuPhat' },
                 pattern: 'khen_thuong_xu_phat/:url'
             }
-            
+
         ]
     },
 

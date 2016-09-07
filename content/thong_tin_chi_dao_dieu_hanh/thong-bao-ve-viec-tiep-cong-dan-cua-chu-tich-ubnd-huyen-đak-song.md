@@ -1,11 +1,13 @@
 ---json
 {
+    "slug": "thong-bao-ve-viec-tiep-cong-dan-cua-chu-tich",
+    "layout": "public.category.html",
     "title": "THÔNG BÁO Về việc tiếp công dân của Chủ tịch UBND huyện Đăk Song",
-    "slug": "thong-bao-ve-viec-tiep-cong-dan-cua-chu-tich-ubnd-huyen-đak-song",
-    "description": "",
-    "layout": "thong_tin_chi_dao_dieu_hanh.html",
+    "description":"",
     "date": "2016-07-27 21:13:47",
-    "banner": "hinh-anh/chi-dao-dieu-hanh/daksongtruso.jpg"
+    "banner": "hinh-anh/chi-dao-dieu-hanh/daksongtruso.jpg",
+    "category": "thong-tin-ieu-hanh.thong-tin-chi-ao-ieu-hanh"
+   
 }
 ---
 Căn cứ Luật Tiếp công dân số 42/2013/QH13 được Quốc hội Nước Cộng hòa xã hội chủ nghĩa Việt Nam thông qua ngày 25/11/2013;

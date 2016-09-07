@@ -30,5 +30,47 @@
         "validations": [],
         "viewOnly": false,
         "required": false
+    },
+    {
+        "name": "block-1",
+        "displayName": "block-1",
+        "type": "Object",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "block-2",
+        "displayName": "block-2",
+        "type": "Object",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "tabVanHoa",
+        "displayName": "tabVanHoa",
+        "type": "Object",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "tab_thong_tin_dieu_hanh",
+        "displayName": "tab_thong_tin_dieu_hanh",
+        "type": "Object",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "tab_an_ninh",
+        "displayName": "tab_an_ninh",
+        "type": "Object",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "tinTucNoiBat",
+        "displayName": "tinTucNoiBat",
+        "type": "Array",
+        "validations": [],
+        "required": false
     }
 ]

@@ -131,14 +131,15 @@
                             <table class="ds_VBPL" rules="rows" cellpadding="0" cellspacing="0" border="0">
                                 <tr>
                                     <td class="td_vanbanmoi">
-                                        VĂN BẢN PHÁP LUẬT
+                                        VĂN BẢN PHÁP LUẬT 
                                     </td>
                                 </tr>
                             </table>
                             <table class="ds_VBPL" rules="rows" cellpadding="0" cellspacing="0" border="0">
-                                {{#each collections.vanBanPhapLuat}}
+                                
+                               {{#each (lookup (lookupCategory AllCategory 'van-ban-phap-luat') 'files')}}
                                  <DIV class="divvanbanmoi">
-                                    <A href="{{path}}">
+                                    <A href="{{slug}}">
                                         <DIV class="divskhnbh">
                                             <DIV class="divvbm_sokihieu">
                                                 <DIV class="div_SoKiHieu">

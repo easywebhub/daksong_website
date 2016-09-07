@@ -2,13 +2,14 @@
 {
     "title": "Huyện Đăk Song tích cực chuẩn bị cho năm học 2014 - 2015",
     "description": "Huyện Đăk Song tích cực chuẩn bị cho năm học 2014 - 2015",
-    "layout": "tin-kinh-te.html",
+    "layout": "public.category.html",
     "date": "2015-11-04",
     "draft": "false",
     "banner": "/img/daksongtruso.jpg",
     "slug": "chuan-bi-nam-hoc-2014-2015",
-    "permalink": "",
-    "url": "chuan-bi-nam-hoc-2014-2015"
+   
+    "url": "chuan-bi-nam-hoc-2014-2015",
+    "category": "tin-tuc-su-kien.tin-kinh-te"
 }
 ---
 Huyện Đăk Song Tích cực chuẩn bị cho năm học 2014 - 2015

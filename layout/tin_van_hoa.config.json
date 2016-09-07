@@ -69,5 +69,13 @@
         "validations": [],
         "viewOnly": false,
         "required": false
+    },
+    {
+        "name": "category",
+        "displayName": "category",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
     }
 ]

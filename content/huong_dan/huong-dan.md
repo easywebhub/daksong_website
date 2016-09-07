@@ -1,11 +1,11 @@
 ---json
 {
     "slug": "huong-dan",
-    "layout": "huong_dan.html",
+    "layout": "default.category.html",
     "title": "hướng dẫn",
+    "category":"thong-tin-tuyen-truyen.huong-dan",
     "description": "mô tả",
     "date": "2016-07-31 14:48:05 +07:00",
-    "permalink": true,
     "banner": "/img/daksongtruso.jpg"
 }
 ---

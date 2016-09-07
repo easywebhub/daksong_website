@@ -1,12 +1,12 @@
 ---json
 {
-    "slug": "huyen-ta-phong-trao-khuyen-hoc--khuyen-tai-co-buoc-phat-trien",
-    "layout": "tin_y_te_giao_duc.html",
+    "slug": "huyen-ta-phong-trao-khuyen-hoc-khuyen-tai-co-buoc-phat-trien",
+    "layout": "public.category.html",
     "title": "Huyện ta phong trào khuyến học- khuyến tài có bước phát triển",
     "description": "Trong những năm qua, phong trào khuyến học- khuyến tài đã được các cấp, các ngành của huyện ta chú trọng, từ đó đã xuất hiện nhiều gia đình hiếu học, dòng họ hiếu học, cộng đồng khuyến học đã góp phần nâng cao chất lượng giáo dục và đào tạo của huyện nhà.",
     "date": "2016-07-31 14:32:32 +07:00",
-    "permalink": true,
-    "banner": "/img/1457-XH-2.jpg"
+    "banner": "/img/1457-XH-2.jpg",
+    "category": "tin-tuc-su-kien.tin-y-te-giao-duc"
 }
 ---
 Trong những năm qua, phong trào khuyến học- khuyến tài đã được các cấp, các ngành của huyện ta chú trọng, từ đó đã xuất hiện nhiều gia đình hiếu học, dòng họ hiếu học, cộng đồng khuyến học đã góp phần nâng cao chất lượng giáo dục và đào tạo của huyện nhà.

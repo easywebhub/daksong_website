@@ -13,5 +13,12 @@
         "type": "Array",
         "validations": [],
         "required": false
+    },
+    {
+        "name": "menuList",
+        "displayName": "menuList",
+        "type": "Array",
+        "validations": [],
+        "required": false
     }
 ]

@@ -1,0 +1,10 @@
+{
+    "sortBy": "date",
+    "reverse": false,
+    "displayName":"Chiến lượt phát triển",
+    "perPage": 10,
+    "noPageOne": true,
+    "layout": "public.category.html",
+    "first": ":categoryPath/index.html",
+    "path": ":categoryPath/page/:num/index.html"
+}

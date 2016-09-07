@@ -78,29 +78,23 @@
 																<ul class="ms-quickLaunch" id="menuproduct_9f2b9b58-4b06-43c8-b46d-161f531860da" onload="collapseMenu(null,'menuproduct_9f2b9b58-4b06-43c8-b46d-161f531860da')">
 																	<li class="ms-navSubMenu" id="li0_78817b75-6268-49f4-b91a-f81c20f4d413">
 																		<div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
-																			<div class="div-link-navheader"><span class="linkEmpty">Quản lý nhà nước</span></div>
+																			<div class="div-link-navheader"><span class="linkEmpty">Quản lý nhà nước</span>
+																			
+																			  
+																			  
+																			</div>
+																			
 																		</div>
 																		<ul class="classshow" lienket="" id="ul0_78817b75-6268-49f4-b91a-f81c20f4d413">
-																			<li id="li1_84352c89-d781-4c48-873a-3c156adafdaf" class="classshow">
+																			 {{#each (lookup (lookupCategory AllCategory 'quan-ly-nha-nuoc')'children')}}
+																			    <li id="li1_84352c89-d781-4c48-873a-3c156adafdaf" class="classshow">
 																				<div class="ms-navItem first-ms-navItem">
-																					<div class="div-leftsubmenu"><a href="thutuchanhchinh/Pages/default.aspx" class="leftsubmenu" target="_self">Thủ tục hành chính</a></div>
+																					<div class="div-leftsubmenu"><a href="{{href}}" class="leftsubmenu" target="_self">{{displayName}}</a></div>
 																				</div>
 																			</li>
-																			<li id="li1_27a54b2d-f45c-4d2d-b0e2-ec8ff4688343">
-																				<div class="ms-navItem">
-																					<div class="div-leftsubmenu"><a href="TinTuc/quanlynhanuoc/Lists/Posts/AllPosts.aspx?CategoryId=1" class="leftsubmenu" target="_self">Chiến lược phát triển</a></div>
-																				</div>
-																			</li>
-																			<li id="li1_94037859-c909-4416-8cbf-4828d5ca7708">
-																				<div class="ms-navItem">
-																					<div class="div-leftsubmenu"><a href="TinTuc/quanlynhanuoc/Lists/Posts/AllPosts.aspx?CategoryId=2" class="leftsubmenu" target="_self">Thông tin dự án</a></div>
-																				</div>
-																			</li>
-																			<li id="li1_bc05ca22-72ec-4a2e-b35e-2fc0de64b52b">
-																				<div class="ms-navItem">
-																					<div class="div-leftsubmenu"><a href="TinTuc/quanlynhanuoc/Lists/Posts/AllPosts.aspx?CategoryId=8" class="leftsubmenu" target="_self">Quy hoạch - Kế hoạch</a></div>
-																				</div>
-																			</li>
+																			 {{/each}}
+																			
+																			
 																		</ul>
 																	</li>
 																</ul>
@@ -147,8 +141,10 @@
 												<div id="MediaPlayerZone">&nbsp;</div>
 												<div class="mediaItems">
 													<ul class="ul-mediaItem">
-														<li class="li-mediaItem" onclick="playMedia(this);" url="http://222.255.158.21:554/CentralMedia/Hoangsa/toquocnhintubien.wmv" urlimage="HinhDaiDienVideo/_w/toquoc_jpg.jpg">Tổ quốc nhìn từ Biển</li>
-														<li class="li-mediaItem" onclick="playMedia(this);" url="http://222.255.158.21:554/CentralMedia/WMV/tinhcadaknong.wmv" urlimage="HinhDaiDienVideo/_w/tinhca_jpg.jpg">Tình ca Đăk Nông</li>
+														 {{#each (lookup (lookupCategory AllCategory 'thu-vien-video') 'files') }}
+														   <li class="li-mediaItem" onclick="playMedia(this);" url="http://222.255.158.21:554/CentralMedia/Hoangsa/toquocnhintubien.wmv" urlimage="HinhDaiDienVideo/_w/toquoc_jpg.jpg">{{title}}</li>
+													     {{/each}}
+														
 													</ul>
 												</div>
 											</div>

@@ -53,5 +53,13 @@
         "name": "banner",
         "displayName": "banner",
         "type": "Media"
+    },
+    {
+        "name": "category",
+        "displayName": "category",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
     }
 ]

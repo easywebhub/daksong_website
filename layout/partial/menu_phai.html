@@ -3,16 +3,19 @@
         <ul class="ms-quickLaunch" id="menuproduct_b897631c-a511-436c-b5d3-28b75b851864" onload="collapseMenu(null,'menuproduct_b897631c-a511-436c-b5d3-28b75b851864')">
             <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
                 <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
-                    <div class="div-link-navheader"><span class="linkEmpty">TIN TỨC SỰ KIỆN</span></div>
+                    <div class="div-link-navheader"><span class="linkEmpty">TIN TỨC SỰ KIỆN 
+                    
+                        </span></div>
                 </div>
                 <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                    {{#each (last (first menu.items 3) 1) }} {{#each subMenu}}
+                   
+                    {{#each (lookup (lookupCategory AllCategory 'tin-tuc-su-kien')'children')}}
                     <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
                         <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="{{url}}" class="leftsubmenu" target="_self"> {{title}}</a></div>
+                            <div class="div-leftsubmenu"><a href="{{href}}" class="leftsubmenu" target="_self"> {{displayName}}</a></div>
                         </div>
                     </li>
-                    {{/each}} {{/each}}
+                    {{/each}} 
 
                 </ul>
             </li>
@@ -21,13 +24,15 @@
                     <div class="div-link-navheader"><span class="linkEmpty">Thông tin điều hành</span></div>
                 </div>
                 <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                    {{#each (last (first menu.items 4) 1) }} {{#each subMenu}}
+                   {{#each (lookup (lookupCategory AllCategory 'thong-tin-ieu-hanh')'children')}}
                     <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
                         <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="{{url}}" class="leftsubmenu" target="_self"> {{title}}</a></div>
+                            <div class="div-leftsubmenu"><a href="{{href}}" class="leftsubmenu" target="_self"> {{displayName}}</a></div>
                         </div>
                     </li>
-                    {{/each}} {{/each}}
+                    {{/each}} 
+
+                    
 
                 </ul>
             </li>
@@ -36,13 +41,13 @@
                     <div class="div-link-navheader"><span class="linkEmpty">Thông tin tuyên truyền</span></div>
                 </div>
                 <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                    {{#each (last (first menu.items 5) 1) }} {{#each subMenu}}
+                   {{#each (lookup (lookupCategory AllCategory 'thong-tin-tuyen-truyen')'children')}}
                     <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
                         <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="{{url}}" class="leftsubmenu" target="_self"> {{title}}</a></div>
+                            <div class="div-leftsubmenu"><a href="{{href}}" class="leftsubmenu" target="_self"> {{displayName}}</a></div>
                         </div>
                     </li>
-                    {{/each}} {{/each}}
+                    {{/each}} 
 
                 </ul>
             </li>

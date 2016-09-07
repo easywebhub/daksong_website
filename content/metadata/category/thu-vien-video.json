@@ -1,0 +1,11 @@
+{
+    "sortBy": "date",
+    "reverse": false,
+
+    "displayName": "Thư viện Video",
+    "perPage": 10,
+    "noPageOne": true,
+    "layout": "page.html",
+    "first": ":categoryPath/index.html",
+    "path": ":categoryPath/page/:num/index.html"
+}

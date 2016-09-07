@@ -69,6 +69,47 @@ module.exports = function (Handlebars) {
         //console.log('obj =====================',obj);
         return buildList(obj.data, true);
     });
+    Handlebars.registerHelper('lookupCategory', function(obj, childPath) {
+        var chunks = childPath.split('.');
+        var count = 0;
+        var node = obj;
+        chunks.some(function(name) {
+            count++;
+            var fullCategoryName = chunks.slice(0, count).join('.');
+            var found = node.children.some(function(childNode) {
+                if (childNode.category == fullCategoryName) {
+                    node = childNode;
+                    return true;
+                }
+                return false;
+            });
+
+            if (!found) {
+                node = undefined;
+                return true;
+            }
+            return false;
+        });
+
+        return node;
+    });
+
+    Handlebars.registerHelper('indexOfFiles', function(files, slug) {
+        return files.filter(x => x.slug == slug);
+    });
+
+    /**
+     * Lookup nested object
+     */
+    Handlebars.registerHelper('lookupEx', function(obj, propertyPath) {
+        var props = propertyPath.split('.');
+        var current = obj;
+        while (props.length) {
+            if (typeof current !== 'object') return undefined;
+            current = current[props.shift()];
+        }
+        return current;
+    });
 
     /**
      * take item number of array

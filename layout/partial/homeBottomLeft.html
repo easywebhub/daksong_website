@@ -36,13 +36,15 @@
 																<DIV style="POSITION: relative; OVERFLOW: hidden" class="jcarousel-clip jcarousel-clip-horizontal">
 																	<UL style="POSITION: relative; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 1900px; PADDING-RIGHT: 0px; OVERFLOW: hidden; TOP: 0px; PADDING-TOP: 0px; LEFT: 0px" id="lv_topnews_mode3_idul" class="  jcarousel-list jcarousel-list-horizontal"
 																					sizcache="8390" sizset="0" jQuery1309175597526="64">
-
-									{{#each collections.hoatDongCuaLanhDao}}
+                                  
+								
+								
+									{{#each (lookup ( lookupCategory AllCategory 'hoat-ong-cua-lanh-ao') 'files')}}
                                     <li style="LIST-STYLE-TYPE: none; FLOAT: left; LIST-STYLE-IMAGE: none"
                                     class="lv_topnews_mode3_ul_li jcarousel-item jcarousel-item-horizontal jcarousel-item-1 jcarousel-item-1-horizontal"
                                     valign="top" jcarouselindex="1">
                                       <div class="lv_topnews_mode3_ul_li_divImg">
-                                        <a href="{{path}}">
+                                        <a href="{{slug}}">
 
                                           <img style="BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
                                           class="img-slidemenu" alt="" src="{{banner}}"
@@ -50,7 +52,7 @@
                                         </a>
                                       </div>
                                       <div class="lv_topnews_mode3_ul_li_divTitle">
-                                        <a href="{{path}}">
+                                        <a href="{{slug}}">
                                         {{title}}</a>
                                       </div>
                                     </li>

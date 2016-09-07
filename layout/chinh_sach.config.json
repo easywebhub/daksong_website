@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "name": "slug",
         "displayName": "slug",
@@ -14,6 +14,7 @@
         "validations": [],
         "viewOnly": true,
         "required": false
+
     },
     {
         "type": "Text",

@@ -33,5 +33,22 @@
         "type": "Boolean",
         "validations": [],
         "required": false
+    },
+    {
+        "name": "slug",
+        "displayName": "slug",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "date",
+        "displayName": "date",
+        "displayType": "DateTime",
+        "type": "DateTime",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
     }
 ]

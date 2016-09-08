@@ -1,12 +1,14 @@
 ---json
 {
     "title": "Tập huấn khai thuế qua mạng",
-    "url": "tap-huan-khai-thue-qua-mang",
     "description": "Sáng ngày 17/10 Chi Cục thuế đã tổ chức hội nghị tập huấn khai thuế qua mạng Intenet cho 124 công ty, doanh nghiệp trên địa bàn huyện ta.",
-    "layout": "tin-kinh-te.html",
+    "layout": "public.category.html",
     "date": "2015-11-04",
     "draft": "false",
-    "banner": "hinh-anh/tin-kinh-te/nop-thue-qua-mang.jpg"
+    "banner": "hinh-anh/tin-kinh-te/nop-thue-qua-mang.jpg",
+    "slug": "tap-huan-khai-thue-qua-mang",
+   
+    "category": "tin-tuc-su-kien.tin-kinh-te"
 }
 ---
 Sáng ngày 17/10 Chi Cục thuế đã tổ chức hội nghị tập huấn khai thuế qua mạng Intenet cho 124 công ty, doanh nghiệp trên địa bàn huyện ta.

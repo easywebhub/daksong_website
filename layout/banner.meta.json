@@ -1,0 +1,30 @@
+[
+    {
+        "name": "banner_lon",
+        "displayName": "banner_lon",
+        "type": "Object",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "banner_nho",
+        "displayName": "banner_nho",
+        "type": "Array",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "banner_goc_phai_trang_chu",
+        "displayName": "banner_goc_phai_trang_chu",
+        "type": "Array",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "danh_sach_banner_nho",
+        "displayName": "danh_sach_banner_nho",
+        "type": "Array",
+        "validations": [],
+        "required": false
+    }
+]

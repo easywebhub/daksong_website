@@ -1,14 +1,24 @@
 ---json
 {
-    "title": "so-do-to-chuc",
-    "slug": "page/so-do-to-chuc",
-    "description": "mo ta lanh dao co quan",
+    "slug": "Sơ đồ tổ chức",
     "layout": "page.html",
-    "date": "2016-07-24 15:25:34 +07:00",
-    "permalink": true
+    "title": "Sơ đồ tổ chức",
+    "description": "Chức vụ: PBT Huyện ủy, CT UBND huyện",
+    "date": "2016-07-25 22:34:03",
+    "permalink": true,
+    "category": "",
+    "trich_yeu": "",
+    "co_quan_ban_hanh": "",
+    "linh_vuc": "",
+    "loai_van_ban": "",
+    "nguoi_ky": "",
+    "ngay_co_hieu_luc": "",
+    "tai_lieu_dinh_kem": "",
+    "so": "",
+    "tag": ""
 }
 ---
-Nhiệm vụ của lãnh đạo cơ quan
+#### Nhiệm vụ của lãnh đạo cơ quan
 * Đ/c Nguyễn Thị Thanh Hà:
 - Năm sinh: 1966
 - Dân tộc: kinh
@@ -19,6 +29,7 @@ Nhiệm vụ của lãnh đạo cơ quan
 - Chức vụ: PBT Huyện ủy, CT UBND huyện
 - Chịu trách nhiệm lãnh đạo, chỉ đạo điều hành chung mọi mặt hoạt động kinh tế xã hội, an ninh quốc phòng tại địa phương
 - Chỉ đạo điều hành và quản lý chung mọi hoạt động của UBND huyện; lãnh đạo các thành viên UBND huyện, Thủ trưởng các Cơ quan thường trực thuộc; UBND các xã, thị trấn.
+
 * Đ/c Nguyễn Thiện Hoàn:
 - Năm sinh: 1961
 - Dân tộc: kinh

@@ -1,23 +1,7 @@
 [
     {
-        "name": "title",
-        "displayName": "title",
-        "type": "Text",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
-    },
-    {
         "name": "slug",
         "displayName": "slug",
-        "type": "Text",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
-    },
-    {
-        "name": "description",
-        "displayName": "description",
         "type": "Text",
         "validations": [],
         "viewOnly": false,
@@ -32,9 +16,28 @@
         "required": false
     },
     {
-        "name": "date",
-        "displayName": "date",
         "type": "Text",
+        "displayType": "ShortText",
+        "name": "title",
+        "displayName": "Tiêu đề bài viết",
+        "validations": [],
+        "viewOnly": false,
+        "required": true
+    },
+    {
+        "type": "Text",
+        "displayType": "LongText",
+        "name": "description",
+        "displayName": "Mô tả sơ lược",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "date",
+        "displayName": "Ngày đăng tin",
+        "displayType": "DateTime",
+        "type": "DateTime",
         "validations": [],
         "viewOnly": false,
         "required": false
@@ -43,6 +46,85 @@
         "name": "permalink",
         "displayName": "permalink",
         "type": "Boolean",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "category",
+        "displayName": "category",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "trich_yeu",
+        "displayName": "trich_yeu",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "co_quan_ban_hanh",
+        "displayName": "co_quan_ban_hanh",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "linh_vuc",
+        "displayName": "linh_vuc",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "loai_van_ban",
+        "displayName": "loai_van_ban",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "nguoi_ky",
+        "displayName": "nguoi_ky",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "ngay_co_hieu_luc",
+        "displayName": "ngay_co_hieu_luc",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "tai_lieu_dinh_kem",
+        "displayName": "tai_lieu_dinh_kem",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "so",
+        "displayName": "so",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "tag",
+        "displayName": "tag",
+        "type": "Array",
         "validations": [],
         "required": false
     }

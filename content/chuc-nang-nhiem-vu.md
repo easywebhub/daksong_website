@@ -1,11 +1,12 @@
 ---json
 {
-    "title": "chuc-nang-nhiem-vu",
     "slug": "chuc-nang-nhiem-vu",
-    "description": "mo ta chuc nang nhiem vu",
     "layout": "page.html",
+    "title": "Chức năng nhiệm vụ",
+    "description": "mo ta chuc nang nhiem vu",
     "date": "2016-07-24 15:15:33 +07:00",
     "permalink": true
+   
 }
 ---
 I. Trong lĩnh vực kinh tế, Uỷ ban nhân dân huyện thực hiện những nhiệm vụ, quyền hạn sau đây:

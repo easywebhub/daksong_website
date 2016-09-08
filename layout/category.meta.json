@@ -41,5 +41,12 @@
         "type": "Object",
         "validations": [],
         "required": false
+    },
+    {
+        "name": "tab_an_ninh",
+        "displayName": "tab_an_ninh",
+        "type": "Object",
+        "validations": [],
+        "required": false
     }
 ]

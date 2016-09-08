@@ -285,7 +285,7 @@
 														</script>
 														<div id="UnionNews_Container_mode2" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts">
 															<div id="UnionNews_main_mode2">
-																{{#eachBefore collections.tinNoiBat items="1"}}
+																{{#eachBefore this.tinTucNoiBat items="1"}}
 																<div id="ctl00_m_g_051ba609_ce62_4836_b8a3_981496ed23ce_ctl00_Panel_main_mode2">
 																	<div iditem="" class="union_main_image"><img src="{{this.banner}}" border="0" align="middle" alt="">
 																		<div class="Union_desc"><a href="javascript:void(0);" class="collapse">Đóng</a>
@@ -297,11 +297,7 @@
 																	</div>
 																</div>
 																{{/eachBefore}}
-																
-																<div class="button-link">
-																	<div id="Union_bttPrevious"><img src="_CONTROLTEMPLATES/LacViet.CMS.UnionNews/eofficeimg/Giaodien/cityweb/icon-pre.png"></div>
-																	<div id="Union_bttNext"><img src="_CONTROLTEMPLATES/LacViet.CMS.UnionNews/eofficeimg/Giaodien/cityweb/icon-next.png"></div>
-																</div>
+
 															</div>
 															<div id="UnionNews_menu_mode2">
 																<table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -321,15 +317,15 @@
 																			<td>
 																				<div id="divNew1" class="union_image_thumb">
 																					<ul>
-																						{{#eachBefore collections.tinNoiBat items="5"}}
+																						{{#each this.tinTucNoiBat}}
 																						<li class="firstflag active">
-																							<a href="./{{path}}" class="hiddenThumbnail"><img src="{{this.banner}}" alt=""></a>
+																							<a href="./{{slug}}" class="hiddenThumbnail"><img src="{{banner}}" alt=""></a>
 																							<div class="Union_block">
-																								<h2><a href="./{{path}}">{{this.title}}<br></a></h2>
-																								<p class="hot-content1" style="display:none;">{{this.description}} </p>
+																								<h2><a href="./{{slug}}">{{title}}<br></a></h2>
+																								<p class="hot-content1" style="display:none;">{{description}} </p>
 																							</div>
 																						</li>
-																						{{/eachBefore}}
+																						{{/each}}
 																						<!--<li class=" ">
 																							<a href="TinTuc/tintuc/Lists/Posts/Post.aspx?CategoryId=32&amp;ItemId=4132&amp;PublishedDate=2016-06-02T09:05:00Z" class="hiddenThumbnail"><img src="http://www.baodaknong.org.vn/database/image/2016/06/02/2265-XH-2.jpg" alt=""></a>
 																							<div class="Union_block">

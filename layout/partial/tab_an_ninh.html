@@ -1,0 +1,78 @@
+<div class="lacviet-tabsnews" style="">
+	<div id="ctl00_m_g_5f3067fd_aea8_4cdd_9e63_0a9b866e98e7_ctl00_tabs" class="ui-tabs ui-widget ui-widget-content ui-corner-all">
+		<ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
+			{{#each this.tab_an_ninh.danh_sach}}
+			  
+			<li class="tabs-{{@index}} ui-state-default ui-corner-top {{#if @first}} ui-tabs-selected ui-state-active {{/if}}">
+				<a href="#">{{this.ten}}</a>
+			</li>
+			  
+			{{/each}}
+		</ul>
+		
+		{{#each this.tab_an_ninh.danh_sach}} {{#if @first}}
+		<div categoryname="{{this.ten}}" class="ui-tabs-panel ui-widget-content ui-corner-bottom">
+			{{else}}
+			<div style="display:none" categoryname="{{this.ten}}" class="ui-tabs-panel ui-widget-content ui-corner-bottom">
+				{{/if}}
+
+				<div class="news-tab">
+					{{#each (last (lookup ( lookupCategory ../AllCategory 'tin-tuc-su-kien.tin-an-ninh-trat-tu') 'files') 6 )}} {{#if @first}}
+					<div class="news-tab-thumb-item-0">
+						<div class="news-tab-thumb-item-left-0">
+							<a href="{{slug}}" class="news-tab-img-link-0">
+								<img alt="" src="./{{this.banner}}" class="news-tab-img-0"></a>
+						</div>
+						<div class="news-tab-thumb-item-right-0">
+							<div class="news-tab-thumb-item-title-0">
+								<a href="{{slug}}" class="news-tab-title-link-0">
+												{{this.title}}({{this.date}}) </a>
+							</div>
+							<div class="news-tab-thumb-item-content-0">
+								{{this.description}}
+							</div>
+						</div>
+					</div>
+					{{else}}
+					<div class="news-tab-thumb">
+						<div class="news-tab-li">
+							<div class="news-tab-li-item">
+								<div class="news-tab-li-item-title">
+									<span class="news-tab-sp-item-title">
+														<a class="news-tab-li-link" href="{{slug}}">
+															{{this.title}}<span class="news-tab-li-item-datetime">({{this.date}})</span>
+
+									</a>
+									</span>
+								</div>
+							</div>
+
+							<div class="news-tab-other">
+								<div class="news-tab-rss">
+									<a href="./tin_an_ninh_truc_tu" class="news-tab-rss-link">RSS</a></div>
+								<div class="news-tab-xemtiep">
+									<a href="./tin_an_ninh_truc_tu" class="news-tab-xemtiep-link">Xem tiếp</a></div>
+							</div>
+						</div>
+					</div>
+					{{/if}} {{/each}}
+				</div>
+			</div>
+			{{/each}}
+
+		</div>
+	</div>
+
+</div>
+</td>
+</tr>
+</table>
+<div class="ms-PartSpacingVertical"></div>
+</td>
+</tr>
+<tr>
+	<td id="MSOZoneCell_WebPartWPQ12" valign="top" class="s4-wpcell-plain">
+		<table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td valign="top">
+					<div WebPartID="36584df4-3787-41f2-9a8d-e8133766e7d6" HasPers="false" id="WebPartWPQ12" width="100%" class="ms-WPBody noindex" allowDelete="false" style="">

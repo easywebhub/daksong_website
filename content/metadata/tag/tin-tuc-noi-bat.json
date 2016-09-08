@@ -1,0 +1,11 @@
+{
+    "sortBy": "date",
+    "reverse": false,
+    "metadata": {},
+    "displayName": "Tin tức nổi bật",
+    "perPage": 10,
+    "noPageOne": true,
+    "layout": "default.tag.html",
+    "first": "tag/:tag/index.html",
+    "path": "tag/:tag/page/:num/index.html"
+}

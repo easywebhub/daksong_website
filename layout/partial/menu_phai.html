@@ -1,0 +1,140 @@
+<div id="ctl00_g_5a98f478_4f49_4a9d_acad_af6c773cdc07_ctl00_myPanel">
+    <div class="navList">
+        <ul class="ms-quickLaunch" id="menuproduct_b897631c-a511-436c-b5d3-28b75b851864" onload="collapseMenu(null,'menuproduct_b897631c-a511-436c-b5d3-28b75b851864')">
+            <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+                    <div class="div-link-navheader"><span class="linkEmpty">TIN TỨC SỰ KIỆN 
+                    
+                        </span></div>
+                </div>
+                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                   
+                    {{#each (lookup (lookupCategory AllCategory 'tin-tuc-su-kien')'children')}}
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="{{href}}" class="leftsubmenu" target="_self"> {{displayName}}</a></div>
+                        </div>
+                    </li>
+                    {{/each}} 
+
+                </ul>
+            </li>
+            <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+                    <div class="div-link-navheader"><span class="linkEmpty">Thông tin điều hành</span></div>
+                </div>
+                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                   {{#each (lookup (lookupCategory AllCategory 'thong-tin-ieu-hanh')'children')}}
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="{{href}}" class="leftsubmenu" target="_self"> {{displayName}}</a></div>
+                        </div>
+                    </li>
+                    {{/each}} 
+
+                    
+
+                </ul>
+            </li>
+            <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+                    <div class="div-link-navheader"><span class="linkEmpty">Thông tin tuyên truyền</span></div>
+                </div>
+                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                   {{#each (lookup (lookupCategory AllCategory 'thong-tin-tuyen-truyen')'children')}}
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="{{href}}" class="leftsubmenu" target="_self"> {{displayName}}</a></div>
+                        </div>
+                    </li>
+                    {{/each}} 
+
+                </ul>
+            </li>
+            <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+                    <div class="div-link-navheader"><span class="linkEmpty">Giới thiệu</span></div>
+                </div>
+                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                    {{#each (last (first menu.items 1) 1) }} {{#each subMenu}}
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="{{url}}" class="leftsubmenu" target="_self"> {{title}}</a></div>
+                        </div>
+                    </li>
+                    {{/each}} {{/each}}
+
+                </ul>
+            </li>
+            <!--<li class="ms-navSubMenu" id="li0_dbd69f15-257a-4ca0-b4cd-800c65568a8e">
+                <div class="ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+                    <div class="div-link-navheader"><span class="linkEmpty">QUẢN L&#221; NH&#192; NƯỚC</span></div>
+                </div>
+                <ul class="classshow" lienket="" id="ul0_dbd69f15-257a-4ca0-b4cd-800c65568a8e">
+                    <li id="li1_bd661323-68d7-46e5-a829-4fcee1501502">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="/thutuchanhchinh/Pages/default.aspx" class="leftsubmenu" target="_self">Thủ tục h&#224;nh ch&#237;nh</a></div>
+                        </div>
+                    </li>
+                    <li id="li1_d6c5bd41-8779-4106-9d19-fd0152d448c5">
+                        <div class="ms-navItem">
+                            <div class="div-leftsubmenu"><a href="/TinTuc/quanlynhanuoc/Lists/Posts/AllPosts.aspx?CategoryId=1" class="leftsubmenu" target="_self">Chiến lược ph&#225;t triển</a></div>
+                        </div>
+                    </li>
+                    <li id="li1_91c0b76e-98e5-4088-8a7e-644395962934">
+                        <div class="ms-navItem">
+                            <div class="div-leftsubmenu"><a href="/TinTuc/quanlynhanuoc/Lists/Posts/AllPosts.aspx?CategoryId=2" class="leftsubmenu" target="_self">Th&#244;ng tin dự &#225;n</a></div>
+                        </div>
+                    </li>
+                    <li id="li1_da3a756b-cabe-444e-a35b-94942b03f576">
+                        <div class="ms-navItem">
+                            <div class="div-leftsubmenu"><a href="/TinTuc/quanlynhanuoc/Lists/Posts/AllPosts.aspx?CategoryId=8" class="leftsubmenu" target="_self">Quy hoạch – Kế hoạch</a></div>
+                        </div>
+                    </li>
+                </ul>
+            </li>
+            <li class="ms-navSubMenu" id="li0_c65b7cb4-9b63-432f-baec-4d54e38b2448">
+                <div class="ms-navheader">
+                    <div class="div-link-navheader"><a href="/TinTuc/quanlynhanuoc/Lists/Posts/AllPosts.aspx?CategoryId=9" target="_self">HOẠT ĐỘNG THƯỜNG TRỰC CỦA UBND HUYỆN</a></div>
+                </div>
+            </li>
+            <li class="ms-navSubMenu" id="li0_7b892b34-afd8-41a6-90d8-45408635d976">
+                <div class="ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+                    <div class="div-link-navheader"><span class="linkEmpty">C&#212;NG TR&#204;NH PH&#218;C LỢI X&#195; HỘI</span></div>
+                </div>
+                <ul class="classhide" lienket="" id="ul0_7b892b34-afd8-41a6-90d8-45408635d976">
+                    <li id="li1_0fcfc15e-4651-49f5-b59d-95704e1a4482">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="/TinTuc/phucloixahoi/Lists/Posts/AllPosts.aspx?CategoryId=1" class="leftsubmenu" target="_self">Trung t&#226;m văn h&#243;a</a></div>
+                        </div>
+                    </li>
+                    <li id="li1_e40647ea-1705-4d9b-95c2-1f49056ed47e">
+                        <div class="ms-navItem">
+                            <div class="div-leftsubmenu"><a href="/TinTuc/phucloixahoi/Lists/Posts/AllPosts.aspx?CategoryId=2" class="leftsubmenu" target="_self">Nh&#224; thiếu nhi</a></div>
+                        </div>
+                    </li>
+                    <li id="li1_460864d8-0d78-4666-a6ce-63906103a1d6">
+                        <div class="ms-navItem">
+                            <div class="div-leftsubmenu"><a href="/TinTuc/phucloixahoi/Lists/Posts/AllPosts.aspx?CategoryId=4" class="leftsubmenu" target="_self">Bệnh viện</a></div>
+                        </div>
+                    </li>
+                    <li id="li1_d5e3505f-e35a-422e-87fc-20973c72f681">
+                        <div class="ms-navItem">
+                            <div class="div-leftsubmenu"><a href="/TinTuc/phucloixahoi/Lists/Posts/AllPosts.aspx?CategoryId=5" class="leftsubmenu" target="_self">Trường dạy nghề</a></div>
+                        </div>
+                    </li>
+                </ul>
+            </li>
+            <li class="ms-navSubMenu" id="li0_5eda3f6c-5dc4-4c23-b32a-f4e13c5d9eaa">
+                <div class="ms-navheader">
+                    <div class="div-link-navheader"><a href="/TinTuc/quanlynhanuoc/Lists/Posts/AllPosts.aspx?CategoryId=11" target="_self">TH&#212;NG TIN CẦN BIẾT</a></div>
+                </div>
+            </li>
+            <li class="ms-navSubMenu" id="li0_70db122c-fdbe-478d-98d7-94150bf1b64d">
+                <div class="ms-navheader">
+                    <div class="div-link-navheader"><a href="/TinTuc/quanlynhanuoc/Lists/Posts/Post.aspx?CategoryId=10" target="_self">LỊCH L&#192;M VIỆC</a></div>
+                </div>
+            </li>-->
+        </ul>
+    </div>
+</div>

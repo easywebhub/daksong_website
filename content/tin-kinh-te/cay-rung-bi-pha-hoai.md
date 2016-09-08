@@ -1,14 +1,15 @@
 ---json
 {
-"title": "Cây rừng mới trồng dọc quốc lộ 14 ở Đắk Song bị phá hoại",
-"url": "Cay-rung-moi-trong-doc-quoc-lo-14-bi-pah-hoai",
-"description": "Cây rừng mới trồng dọc quốc lộ 14 ở Đắk Song bị phá hoại",
-"layout": "tin-kinh-te.html",
-"date": "2015-11-04",
-"draft": "false"
+    "title":"Cây rừng mới trồng dọc quốc lộ 14 ở Đắk Song bị phá hoại",
+    "description":"Cây rừng mới trồng dọc quốc lộ 14 ở Đắk Song bị phá hoại",
+    "layout":"public.category.html",
+    "date": "2015-11-04",
+    "draft": "false",
+    "banner": "/img/1898-CD-1.jpg",
+    "slug": "Cay-rung-moi-trong-doc-quoc-lo-14-bi-pah-hoai",
+    "category": "tin-tuc-su-kien.tin-kinh-te"
 }
 ---
-
 Cây rừng mới trồng dọc quốc lộ 14 ở Đắk Song bị phá hoại
 Chỉ còn 2 tuần là năm học 2104 - 2015 sẽ bắt đầu, cũng như nhiều địa phương khác trong cả nước, hiện nay Đăk Song đang gấp rút thực hiện công tác chuẩn bị cơ sở vật chất, trang thiết bị sẵn sàng cho năm học mới.
 Theo bàn trần Thị Thanh - Phó phòng Giáo dục và Đăò tạo huyện Đăk Song cho biết: Năm học 2014 - 2015 huyện dự kiến có khoảng trên 16.000 học sinh ở 44 điểm trường. Một trong những khó khăn nhất của huyện Đăk Song trong năm học này là còn thiếu phòng học, nhất là ở bật học mầm non. Một số xã đã mượn phòng học thôn để làm phòng học và thiếu các phòng học chức năng, các trang thiết bị phục vụ dạy học.

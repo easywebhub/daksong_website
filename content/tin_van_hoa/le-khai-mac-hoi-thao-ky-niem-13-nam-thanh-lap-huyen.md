@@ -1,0 +1,27 @@
+---json
+{
+    "layout": "public.category.html",
+    "slug": "le-khai-mac-hoi-thao-ky-niem-13-nam-thanh-lap-huyen",
+    "title": "LỄ KHAI MẠC HỘI THAO KỶ NIỆM 13 NĂM THÀNH LẬP HUYỆN",
+    "description": "Từ ngày 16/6/2014 đến ngày 20/6/2014 Ủy ban\nnhân dân huyện Đăk Song tổ chức Hội thao chào mừng kỷ niệm 13 năm ngày thành\nlập huyện Đăk Song",
+    "date": "31-07-2016 11:19:22 PM",
+    "draft": "",
+    "banner": "/img/daksongtruso.jpg",
+ 
+     "category": "tin-tuc-su-kien.tin-van-hoa"
+}
+---
+Từ ngày 16/6/2014 đến ngày 20/6/2014 Ủy ban
+nhân dân huyện Đăk Song tổ chức Hội thao chào mừng kỷ niệm 13 năm ngày thành
+lập huyện Đăk Song (21/6/2001 – 21/6/2014) và hướng tới kỷ niệm 67 năm ngày Thương
+binh Liệt sỹ. Có hơn 200 vận động viên thuộc 12 đoàn về tham dự và thi đấu ở
+các môn: bóng đá mini nam; bóng chuyền nam, nữ; quần vợt nam; cầu lông nam, nữ
+
+Hội thao lần này nhằm tạo không khí vui
+tươi phấn khởi để cho cán bộ, chiến sỹ và nhân dân trong toàn huyện có dịp giao
+lưu học hỏi lẫn nhau tạo phong trào rèn luyện thể dục thể thao theo gương Bác
+Hồ vĩ đại, nhằm xây dựng huyện nhà ngày càng phát triển mọi mặt cũng như không
+ngừng nâng cao đời sống vật chất và tinh thần của nhân dân trong toàn huyện.
+Đồng chí Nguyễn Thị Thu Hường – Phó Bí thư
+Huyện ủy và đồng chí Nguyễn Văn Phò – Phó Chủ tịch Ủy ban nhân dân huyện trao
+cờ lưu niệm cho đại diện các đoàn về tham dự.

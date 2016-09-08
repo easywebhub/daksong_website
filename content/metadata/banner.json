@@ -1,0 +1,50 @@
+{
+    "banner_lon": {
+        "hinh_anh": "./HinhAnhLienKet/Bau cu QH HDND.jpg",
+        "duong_dan": "#"
+    },
+    "danh_sach_banner_nho": [
+        {
+            "hinh_anh": "/sites/default/files/imagecache/img_banner_thumbnail/qc1.png",
+            "duong_dan": "#"
+        },
+        {
+            "hinh_anh": "/sites/default/files/imagecache/img_banner_thumbnail/qc3_0.png",
+            "duong_dan": "#"
+        },
+        {
+            "hinh_anh": "HinhAnhLienKet/img-congbao.jpg",
+            "duong_dan": "#"
+        },
+        {
+            "hinh_anh": "HinhAnhLienKet/chung tay cai cah.jpg",
+            "duong_dan": "#"
+        },
+        {
+            "hinh_anh": "/sites/default/files/imagecache/img_banner_thumbnail/qc4.png",
+            "duong_dan": "#"
+        },
+        {
+            "hinh_anh": "/sites/default/files/imagecache/img_banner_thumbnail/mail_0.png",
+            "duong_dan": "#"
+        }
+    ],
+    "banner_goc_phai_trang_chu": [
+        {
+            "hinh_anh": "HinhAnhLienKet/lichlamviecld.png",
+            "duong_dan": ""
+        },
+        {
+            "hinh_anh": "HinhAnhLienKet/33.jpg",
+            "duong_dan": ""
+        },
+        {
+            "hinh_anh": "HinhAnhLienKet/hoc tap va lam theo.jpg",
+            "duong_dan": ""
+        },
+        {
+            "hinh_anh": "HinhAnhLienKet/XDNTM.png",
+            "duong_dan": ""
+        }
+    ]
+}

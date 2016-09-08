@@ -1,29 +1,5 @@
 [
     {
-        "name": "title",
-        "displayName": "title",
-        "type": "Text",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
-    },
-    {
-        "name": "url",
-        "displayName": "url",
-        "type": "Text",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
-    },
-    {
-        "name": "description",
-        "displayName": "description",
-        "type": "Text",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
-    },
-    {
         "name": "layout",
         "displayName": "layout",
         "type": "Text",
@@ -32,10 +8,39 @@
         "required": false
     },
     {
+        "name": "slug",
+        "displayName": "slug",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "ShortText",
+        "name": "title",
+        "displayName": "tiêu đề",
+        "validations": [],
+        "viewOnly": false,
+        "required": true
+    },
+    {
+        "type": "Text",
+        "displayType": "LongText",
+        "name": "description",
+        "displayName": "mô tả ngắn",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
         "name": "date",
-        "displayName": "date",
-        "displayType": "Date",
-        "type": "DateTime"
+        "displayName": "ngày đăng",
+        "displayType": "DateTime",
+        "type": "DateTime",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
     },
     {
         "name": "draft",
@@ -48,6 +53,26 @@
     {
         "name": "banner",
         "displayName": "banner",
+        "type": "Media"
+    },
+    {
+        "name": "permalink",
+        "displayName": "permalink",
+        "type": "Boolean",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "url",
+        "displayName": "url",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "category",
+        "displayName": "category",
         "type": "Text",
         "validations": [],
         "viewOnly": false,

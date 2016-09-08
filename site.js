@@ -83,147 +83,30 @@ site.metalsmith = {
         'gfm': true,
         'tables': true
     },
+     'metalsmith-category': {
+		'_enable': true,
+		'directory': `${site.metadataRoot}/category`
+    },
 
+    'metalsmith-tag': {
+		'_enable': true,
+		'directory': `${site.metadataRoot}/tag`
+    },
     'metalsmith-collections': {
-        '_enable': true,
-        // collection theo file pattern + test limit
-        'blog': {
-            'pattern': 'blog/**/*.html',
-            'sortBy': 'date',
-            'reverse': true,
-        },
-        'tinKinhTe': {
-            'pattern': 'tin-kinh-te/**/*.html',
-            'sortBy': 'date',
-            'reverse': true,
-        },
-        'thongTinChiDaoDieuHanh': {
-            'pattern': 'thong_tin_chi_dao_dieu_hanh/**/*.html',
-            'sortBy': 'date',
-            'reverse': true,
-        },
-        'tinVanHoa': {
-            'pattern': 'tin_van_hoa/**/*.html',
-            'sortBy': 'date',
-            'reverse': true,
-        },
-        'tinNoiBat': {
-            'pattern': 'tin_noi_bat/**/*.html',
-            'sortBy': 'date',
-            'reverse': true,
-        },
-        'lichLamViec': {
-            'pattern': 'lich_lam_viec/**/*.html',
-            'sortBy': 'date',
-            'reverse': true,
-        },
-        'keHoachPhatTrien': {
-            'pattern': 'ke_hoach_phat_trien/**/*.html',
-            'sortBy': 'date',
-            'reverse': true,
-        },
-        'vanBanPhapLuat': {
-            'pattern': 'van_ban_phap_luat/**/*.html',
-            'sortBy': 'date',
-            'reverse': true,
-        },
+        '_enable': true
+
+       
         // collection theo key trong metadata `"collection": "baiviet"`
-        'baiviet': {
-            'sortBy': 'date',
-            'reverse': true
-        }
+       
+
     },
 
 
 
     'metalsmith-pagination': {
-        '_enable': true,
-        'collections.blog': {
-            'perPage': 3,
-            'layout': 'blog.html',
-            'first': 'blog/index.html',
-            'path': 'blog/:num/index.html',
-            'noPageOne': true,
-            'pageMetadata': {
-                'title': 'Title of metalsmith-pagination file site.js'
-            }
-        },
-        'collections.tinKinhTe': {
-            'perPage': 5,
-            'layout': 'tin-kinh-te-layout.html',
-            'first': 'tin-kinh-te/index.html',
-            'path': 'tin-kinh-te/:num/index.html',
-            'noPageOne': true,
-            'pageMetadata': {
-                'title': 'Tin kinh tế'
-            }
+        '_enable': true
 
-        },
-        'collections.thongTinChiDaoDieuHanh': {
-            'perPage': 5,
-            'layout': 'thong_tin_chi_dao_dieu_hanh_layout.html',
-            'first': 'thong_tin_chi_dao_dieu_hanh/index.html',
-            'path': 'thong_tin_chi_dao_dieu_hanh/:num/index.html',
-            'noPageOne': true,
-            'pageMetadata': {
-                'title': 'Chỉ đạo điều hành'
-            }
-        },
-        'collections.tinVanHoa': {
-            'perPage': 5,
-            'layout': 'tin_van_hoa_layout.html',
-            'first': 'tin_van_hoa/index.html',
-            'path': 'tin_van_hoa/:num/index.html',
-            'noPageOne': true,
-            'pageMetadata': {
-                'title': 'tin van hoa'
-            }
-
-        },
-        'collections.tinNoiBat': {
-            'perPage': 5,
-            'layout': 'tin_noi_bat_layout.html',
-            'first': 'tin_noi_bat/index.html',
-            'path': 'tin_noi_bat/:num/index.html',
-            'noPageOne': true,
-            'pageMetadata': {
-                'title': 'Tin nổi bật'
-            }
-
-        },
-        'collections.lichLamViec': {
-            'perPage': 5,
-            'layout': 'lich_lam_viec_layout.html',
-            'first': 'lich_lam_viec/index.html',
-            'path': 'lich_lam_viec/:num/index.html',
-            'noPageOne': true,
-            'pageMetadata': {
-                'title': 'Lịch làm việc'
-            }
-
-        },
-        'collections.keHoachPhatTrien': {
-            'perPage': 5,
-            'layout': 'ke_hoach_phat_trien_layout.html',
-            'first': 'ke_hoach_phat_trien/index.html',
-            'path': 'ke_hoach_phat_trien/:num/index.html',
-            'noPageOne': true,
-            'pageMetadata': {
-                'title': 'Kế hoạch phát triển'
-            }
-
-        },
-        'collections.vanBanPhapLuat': {
-            'perPage': 5,
-            'layout': 'van_ban_phap_luat_layout.html',
-            'first': 'van_ban_phap_luat/index.html',
-            'path': 'van_ban_phap_luat/:num/index.html',
-            'noPageOne': true,
-            'pageMetadata': {
-                'title': 'Văn bản pháp luật'
-            }
-
-        },
+      
 
         // // test filter
         // 'collections.baiviet': {
@@ -241,7 +124,7 @@ site.metalsmith = {
     'metalsmith-permalinks': {
         '_enable': true,
         // default config
-        'pattern': ':url',
+        'pattern':':slug',
         'relative': false,
         // config rieng cho 1 collection
         linksets: [{
@@ -275,7 +158,35 @@ site.metalsmith = {
              {
                 match: { collection: 'vanBanPhapLuat' },
                 pattern: 'van_ban_phap_luat/:url'
+            }, {
+                match: { collection: 'tinAnNinhTratTu' },
+                pattern: 'tin_an_ninh_trat_tu/:url'
+            },
+            {
+                match: { collection: 'hoatDongCuaLanhDao' },
+                pattern: 'hoat_dong_cua_lanh_dao/:url'
+            },
+             {
+                match: { collection: 'huongDan' },
+                pattern: 'huong_dan/:url'
+            },
+             {
+                match: { collection: 'chinhSach' },
+                pattern: 'chinh_sach/:url'
+            },
+            {
+                match: { collection: 'tinAnToanGiaoThong' },
+                pattern: 'tin_an_toan_giao_thong/:url'
+            },
+            {
+                match: { collection: 'tinYTeGiaoDuc' },
+                pattern: 'tin_y_te_giao_duc/:url'
+            },
+             {
+                match: { collection: 'khenThuongXuPhat' },
+                pattern: 'khen_thuong_xu_phat/:url'
             }
+
         ]
     },
 

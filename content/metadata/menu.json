@@ -1,150 +1,164 @@
 {
-  "title": "Danh sách items trong menu",
-  "items": [
-    {
-      "title": "Trang chủ",
-      "selected" : "LvSelected",
-      "url": "",
-      "type": {
-        "isMulti": true,
-        "float": "left"
-      },
-      "subMenu": [
+    "title": "Danh sách items trong menu",
+    "menuList":[
         {
-          "title": "Chức năng , nhiệm vụ",
-          "url": "page/chuc-nang-nhiem-vu"
+            "category": "trang-chu",
+            "type": "files"
         },
         {
-          "title": "Sơ đồ, tổ chức",
-          "url": "page/so-đo-to-chuc"
+            "category": "gioi-thieu",
+            "type": "files"
         },
         {
-          "title": "Cơ cấu tổ chức",
-          "url": "page/co-cau-to-chuc"
-        },
-        {
-          "title": "Danh bạ",
-          "url": "page/danh-ba"
-        },
-        {
-          "title": "Lãnh đọa, cơ quan",
-          "url": "page/lanh-đao-co-quan"
+            "category": "thong-tin-dieu-hanh",
+            "type": "children"
         }
-      ]
-    },
-    {
-      "title": "Giới thiệu",
-      "url": "page/gioi-thieu",
-      "type": {
-        "isMulti": true
-      },
-      "subMenu": [
+    ],
+    "items": [
         {
-          "title": "Bộ máy hành chính",
-          "url": "page/bo-may-hanh-chinh"
+            "title": "Trang chủ",
+            "selected": "LvSelected",
+            "url": "",
+            "type": {
+                "isMulti": true,
+                "float": "left"
+            },
+            "subMenu": [
+                {
+                    "title": "Chức năng , nhiệm vụ",
+                    "url": "chuc-nang-nhiem-vu"
+                },
+                {
+                    "title": "Sơ đồ, tổ chức",
+                    "url": "so-do-to-chuc"
+                },
+                {
+                    "title": "Cơ cấu tổ chức",
+                    "url": "co-cau-to-chuc"
+                },
+                {
+                    "title": "Danh bạ",
+                    "url": "danh-ba"
+                },
+                {
+                    "title": "Lãnh đạo, cơ quan",
+                    "url": "lanh-dao-co-quan"
+                }
+            ]
         },
         {
-          "title": "Giới thiệu chung",
-          "url": "page/gioi-thieu-chung"
+            "title": "Giới thiệu",
+            "url": "gioi-thieu",
+            "type": {
+                "isMulti": true
+            },
+            "subMenu": [
+                {
+                    "title": "Bộ máy hành chính",
+                    "url": "bo-may-hanh-chinh"
+                },
+                {
+                    "title": "Giới thiệu chung",
+                    "url": "gioi-thieu-chung"
+                },
+                {
+                    "title": "Lịch sử hình thành",
+                    "url": "lich-su-hinh-thanh"
+                },
+                {
+                    "title": "Văn hóa di tích",
+                    "url": "van-hoa-di-tich"
+                },
+                {
+                    "title": "Điều kiện tự nhiên",
+                    "url": "dieu-kien-tu-nhien"
+                },
+                {
+                    "title": "Đặc sản",
+                    "url": "dac-san"
+                }
+            ]
         },
         {
-          "title": "Lịch sử hình thành",
-          "url": "page/lich-su-hinh-thanh"
+            "title": "Tin tức sự kiện",
+            "url": "tin-tuc-su-kien",
+            "type": {
+                "isMulti": true
+            },
+            "subMenu": [
+                {
+                    "title": "Tin kinh tế",
+                    "url": "tin-tuc-su-kien/tin-kinh-te"
+                },
+                {
+                    "title": "Tin văn hóa",
+                    "url": "tin-tuc-su-kien/tin-van-hoa"
+                },
+                {
+                    "title": "Tin y tế giáo dục",
+                    "url": "tin-tuc-su-kien/tin-y-te-giao-duc"
+                },
+                {
+                    "title": "Tin an ninh trật tự",
+                    "url": "tin-tuc-su-kien/tin-an-ninh-trat-tu"
+                },
+                {
+                    "title": "Tin an toàn giao thông",
+                    "url": "tin-tuc-su-kien/tin-an-toan-giao-thong"
+                }
+            ]
         },
         {
-          "title": "Văn hóa di tích",
-          "url": "page/van-hoa-di-tich"
+            "title": "Thông tin điều hành",
+            "url": "thong-tin-ieu-hanh",
+            "type": {
+                "isMulti": true
+            },
+            "subMenu": [
+                {
+                    "title": "Thông tin chỉ đạo điều hành",
+                    "url": "thong-tin-ieu-hanh/thong-tin-chi-ao-ieu-hanh"
+                },
+                {
+                    "title": "Thông tin khen thưởng xử phạt",
+                    "url": "thong-tin-ieu-hanh/thong-tin-khen-thuong-xu-phat"
+                },
+                {
+                    "title": "Lịch làm việc",
+                    "url": "thong-tin-ieu-hanh/lich-lam-viec"
+                }
+            ]
         },
         {
-          "title": "Điều kiện tự nhiên",
-          "url": "page/đieu-kien-tu-nhien"
+            "title": "Thông tin tuyên truyền",
+            "url": "thong-tin-tuyen-truyen",
+            "type": {
+                "isMulti": true
+            },
+            "subMenu": [
+                {
+                    "title": "Hướng dẫn",
+                    "url": "thong-tin-tuyen-truyen/huong-dan"
+                },
+                {
+                    "title": "Chính sách",
+                    "url": "thong-tin-tuyen-truyen/chinh-sach"
+                }
+            ]
         },
         {
-          "title": "Đặc sản",
-          "url": "page/đac-san"
+            "title": "Kế hoạch phát triển",
+            "url": "ke-hoach-phat-trien",
+            "type": {
+                "isMulti": false
+            }
+        },
+        {
+            "title": "Văn bản pháp luật",
+            "url": "van-ban-phap-luat",
+            "type": {
+                "isMulti": false
+            }
         }
-      ]
-    },
-    {
-      "title": "Tin tức sự kiện",
-      "url": "page/tin-tuc-su-kien",
-      "type": {
-        "isMulti": true
-      },
-      "subMenu": [
-        {
-          "title": "Tin kinh tế",
-          "url": "tin-kinh-te"
-        },
-        {
-          "title": "Tin văn hóa",
-          "url": "tin_van_hoa"
-        },
-        {
-          "title": "Tin ý tế giáo dục",
-          "url": "tin_y_te_giao_duc"
-        },
-        {
-          "title": "Tin an ninh trật tự",
-          "url": "tin_an_ninh_trat_tu"
-        },
-        {
-          "title": "Tin an toàn giao thông",
-          "url": "tin_an_toan_giao_thong"
-        }
-      ]
-    },
-    {
-      "title": "Thông tin điều hành",
-      "url": "thong_tin_dieu_hanh",
-      "type": {
-        "isMulti": true
-      },
-      "subMenu": [
-        {
-          "title": "Thông tin chỉ đạo điều hành",
-          "url": "thong_tin_chi_dao_dieu_hanh"
-        },
-        {
-          "title": "Thông tin khen thưởng xử phạt",
-          "url": "thong_tin_khen_thuong_xu_phat"
-        },
-        {
-          "title": "Lịch làm việc",
-          "url": "lich_lam_viec"
-        }
-      ]
-    },
-    {
-      "title": "Thông tin tuyên truyền",
-      "url": "thong_tin_tuyen_truyen",
-      "type": {
-        "isMulti": true
-      },
-      "subMenu": [
-        {
-          "title": "Hướng dẫn",
-          "url": "huong_dan"
-        },
-        {
-          "title": "Chính sách",
-          "url": "chinh_sach"
-        }
-      ]
-    },
-    {
-      "title": "Kế hoạch phát triển",
-      "url": "ke_hoach_phat_trien",
-      "type": {
-        "isMulti": false
-      }
-    },
-    {
-      "title": "Văn bản pháp luật",
-      "url": "van_ban_phap_luat",
-      "type": {
-        "isMulti": false
-      }
-    }
-  ]
+    ]
 }

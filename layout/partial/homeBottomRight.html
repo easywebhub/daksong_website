@@ -1,174 +1,279 @@
 <div class="hRight">
 
-<menu class="ms-SrvMenuUI">
-<ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
+	<menu class="ms-SrvMenuUI">
+		<ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
 
-</ie:menuitem>
-</menu>
-<div class="wpgioithieu">
+		</ie:menuitem>
+	</menu>
+	<div class="wpgioithieu">
 
-<table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-<td valign="top"><div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ3" width="100%" class="ms-WPBody noindex" onlyformepart="true" allowdelete="false" style=""><table id="ctl00_PlaceHolderMain_g_30177a82_2ef5_4214_a072_2171f1075900" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
-
-
-
-<!-- <link type="text/css" href="/_CONTROLTEMPLATES/LacViet.CMS.ViewPageManager/css/style_left_menu.css" rel="stylesheet" /> -->
-
-
-<script type="text/javascript">
-
-var jLeftMenu = jQuery.noConflict();
-jLeftMenu(function($) {
-
-	$(document).ready(function() {
-
-			$('div.ms-navheader').each(function() {
-			var childs = $(this).siblings('ul');
-			if (childs.html() == null || childs.html() == "")
-					$(this).attr("onclick", "#");
-
-			});
-
-			var CurrentPath = jLeftMenu.trim(jLeftMenu("div#LeftMenuWebName").text());
-			var CurrentHomeChild = jLeftMenu("a.leftsubmenu[href*='" + CurrentPath + "']");
-			CurrentHomeChild.parent().parent().parent().addClass("classshow");
-
-	});
-
-
-	$("div.ms-navheader").mouseover(function() {
-
-			$(this).addClass("heading-hover");
-
-	}).mouseout(function() {
-			$(this).removeClass("heading-hover");
-	});
-	$("div.ms-navheader-icon").mouseover(function() {
-			$(this).addClass("heading-hover");
-
-	}).mouseout(function() {
-			$(this).removeClass("heading-hover");
-	});
-	$("div.ms-navItem").mouseover(function() {
-			$(this).addClass("ms-navItem-hover");
-	}).mouseout(function() {
-			$(this).removeClass("ms-navItem-hover");
-	});
-	$("div.ms-navItem-icon").mouseover(function() {
-			$(this).addClass("ms-navItem-hover");
-	}).mouseout(function() {
-			$(this).removeClass("ms-navItem-hover");
-	});
-});
-
-
-</script>
-<div id="LeftMenuWebName" style="display:none">
-/Pages/default.aspx
-</div>
-<table id="ctl00_PlaceHolderMain_g_30177a82_2ef5_4214_a072_2171f1075900_ctl00_myPanel" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
-	<div class="navList"><ul class="ms-quickLaunch" id="menuproduct_9f2b9b58-4b06-43c8-b46d-161f531860da" onload="collapseMenu(null,'menuproduct_9f2b9b58-4b06-43c8-b46d-161f531860da')"><li class="ms-navSubMenu" id="li0_78817b75-6268-49f4-b91a-f81c20f4d413"><div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])"><div class="div-link-navheader"><span class="linkEmpty">Quản lý nhà nước</span></div></div><ul class="classshow" lienket="" id="ul0_78817b75-6268-49f4-b91a-f81c20f4d413"><li id="li1_84352c89-d781-4c48-873a-3c156adafdaf" class="classshow"><div class="ms-navItem first-ms-navItem"><div class="div-leftsubmenu"><a href="thutuchanhchinh/Pages/default.aspx" class="leftsubmenu" target="_self">Thủ tục hành chính</a></div></div></li><li id="li1_27a54b2d-f45c-4d2d-b0e2-ec8ff4688343"><div class="ms-navItem"><div class="div-leftsubmenu"><a href="TinTuc/quanlynhanuoc/Lists/Posts/AllPosts.aspx?CategoryId=1" class="leftsubmenu" target="_self">Chiến lược phát triển</a></div></div></li><li id="li1_94037859-c909-4416-8cbf-4828d5ca7708"><div class="ms-navItem"><div class="div-leftsubmenu"><a href="TinTuc/quanlynhanuoc/Lists/Posts/AllPosts.aspx?CategoryId=2" class="leftsubmenu" target="_self">Thông tin dự án</a></div></div></li><li id="li1_bc05ca22-72ec-4a2e-b35e-2fc0de64b52b"><div class="ms-navItem"><div class="div-leftsubmenu"><a href="TinTuc/quanlynhanuoc/Lists/Posts/AllPosts.aspx?CategoryId=8" class="leftsubmenu" target="_self">Quy hoạch - Kế hoạch</a></div></div></li></ul></li></ul></div>
-</td></tr></tbody></table>
+		<table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody>
+				<tr>
+					<td valign="top">
+						<div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ3" width="100%" class="ms-WPBody noindex" onlyformepart="true" allowdelete="false" style="">
+							<table id="ctl00_PlaceHolderMain_g_30177a82_2ef5_4214_a072_2171f1075900" cellpadding="0" cellspacing="0" border="0" width="100%">
+								<tbody>
+									<tr>
+										<td>
 
 
 
-</td></tr></tbody></table></div></td>
-</tr>
-</tbody></table>
-
-</div>
+											<!-- <link type="text/css" href="/_CONTROLTEMPLATES/LacViet.CMS.ViewPageManager/css/style_left_menu.css" rel="stylesheet" /> -->
 
 
+											<script type="text/javascript">
+												var jLeftMenu = jQuery.noConflict();
+												jLeftMenu(function($) {
+
+													$(document).ready(function() {
+
+														$('div.ms-navheader').each(function() {
+															var childs = $(this).siblings('ul');
+															if (childs.html() == null || childs.html() == "")
+																$(this).attr("onclick", "#");
+
+														});
+
+														var CurrentPath = jLeftMenu.trim(jLeftMenu("div#LeftMenuWebName").text());
+														var CurrentHomeChild = jLeftMenu("a.leftsubmenu[href*='" + CurrentPath + "']");
+														CurrentHomeChild.parent().parent().parent().addClass("classshow");
+
+													});
 
 
-<table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-<td valign="top"><div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ4" width="100%" class="ms-WPBody noindex" onlyformepart="true" allowdelete="false" style="">
-  <table id="ctl00_PlaceHolderMain_g_d7266b72_1986_4f87_9fe0_518f56ab4012" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
-<div class="videobox" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">
-  <div class="videobox-content"><div class="videobox-title"><a href="Lists/ThuVienVideo/quan-tri.aspx">Thư viện Video</a></div><div id="videobox-image" class="videobox-image" style="width:226px;height:250px"><div class="p-videobox-thumb"><img id="img-videobox-thumb" class="videobox-thumb" src="HinhDaiDienVideo/_w/toquoc_jpg.jpg" srcmedia="http://222.255.158.21:554/CentralMedia/Hoangsa/toquocnhintubien.wmv" alt=""></div><div class="p-videobox-thumb2"><img class="videobox-thumb21" src="Pages/_Layouts/lacvietbio/eofficeimg/play_icon.png" alt=""></div></div><div id="flvplayer">&nbsp;</div><div id="MediaPlayerZone">&nbsp;</div><div class="mediaItems"><ul class="ul-mediaItem"><li class="li-mediaItem" onclick="playMedia(this);" url="http://222.255.158.21:554/CentralMedia/Hoangsa/toquocnhintubien.wmv" urlimage="HinhDaiDienVideo/_w/toquoc_jpg.jpg">Tổ quốc nhìn từ Biển</li><li class="li-mediaItem" onclick="playMedia(this);" url="http://222.255.158.21:554/CentralMedia/WMV/tinhcadaknong.wmv" urlimage="HinhDaiDienVideo/_w/tinhca_jpg.jpg">Tình ca Đăk Nông</li></ul></div></div></div>
+													$("div.ms-navheader").mouseover(function() {
 
-</td></tr></tbody></table></div></td>
-</tr>
-</tbody></table>
+														$(this).addClass("heading-hover");
+
+													}).mouseout(function() {
+														$(this).removeClass("heading-hover");
+													});
+													$("div.ms-navheader-icon").mouseover(function() {
+														$(this).addClass("heading-hover");
+
+													}).mouseout(function() {
+														$(this).removeClass("heading-hover");
+													});
+													$("div.ms-navItem").mouseover(function() {
+														$(this).addClass("ms-navItem-hover");
+													}).mouseout(function() {
+														$(this).removeClass("ms-navItem-hover");
+													});
+													$("div.ms-navItem-icon").mouseover(function() {
+														$(this).addClass("ms-navItem-hover");
+													}).mouseout(function() {
+														$(this).removeClass("ms-navItem-hover");
+													});
+												});
+											</script>
+											<div id="LeftMenuWebName" style="display:none">
+												/Pages/default.aspx
+											</div>
+											<table id="ctl00_PlaceHolderMain_g_30177a82_2ef5_4214_a072_2171f1075900_ctl00_myPanel" cellpadding="0" cellspacing="0" border="0" width="100%">
+												<tbody>
+													<tr>
+														<td>
+															<div class="navList">
+																<ul class="ms-quickLaunch" id="menuproduct_9f2b9b58-4b06-43c8-b46d-161f531860da" onload="collapseMenu(null,'menuproduct_9f2b9b58-4b06-43c8-b46d-161f531860da')">
+																	<li class="ms-navSubMenu" id="li0_78817b75-6268-49f4-b91a-f81c20f4d413">
+																		<div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+																			<div class="div-link-navheader"><span class="linkEmpty">Quản lý nhà nước</span>
+																			
+																			  
+																			  
+																			</div>
+																			
+																		</div>
+																		<ul class="classshow" lienket="" id="ul0_78817b75-6268-49f4-b91a-f81c20f4d413">
+																			 {{#each (lookup (lookupCategory AllCategory 'quan-ly-nha-nuoc')'children')}}
+																			    <li id="li1_84352c89-d781-4c48-873a-3c156adafdaf" class="classshow">
+																				<div class="ms-navItem first-ms-navItem">
+																					<div class="div-leftsubmenu"><a href="{{href}}" class="leftsubmenu" target="_self">{{displayName}}</a></div>
+																				</div>
+																			</li>
+																			 {{/each}}
+																			
+																			
+																		</ul>
+																	</li>
+																</ul>
+															</div>
+														</td>
+													</tr>
+												</tbody>
+											</table>
+
+
+
+										</td>
+									</tr>
+								</tbody>
+							</table>
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+
+	</div>
 
 
 
 
-<table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-<td valign="top"><div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ5" width="100%" class="ms-WPBody noindex" onlyformepart="true" allowdelete="false" style=""><table id="ctl00_PlaceHolderMain_g_9c2fcdee_c49c_4175_beef_663ce9f36f9c" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
-<div xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">
+	<table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody>
+			<tr>
+				<td valign="top">
+					<div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ4" width="100%" class="ms-WPBody noindex" onlyformepart="true" allowdelete="false" style="">
+						<table id="ctl00_PlaceHolderMain_g_d7266b72_1986_4f87_9fe0_518f56ab4012" cellpadding="0" cellspacing="0" border="0" width="100%">
+							<tbody>
+								<tr>
+									<td>
+										<div class="videobox" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">
+											<div class="videobox-content">
+												<div class="videobox-title"><a href="Lists/ThuVienVideo/quan-tri.aspx">Thư viện Video</a></div>
+												<div id="videobox-image" class="videobox-image" style="width:226px;height:250px">
+													<div class="p-videobox-thumb"><img id="img-videobox-thumb" class="videobox-thumb" src="HinhDaiDienVideo/_w/toquoc_jpg.jpg" srcmedia="http://222.255.158.21:554/CentralMedia/Hoangsa/toquocnhintubien.wmv" alt=""></div>
+													<div class="p-videobox-thumb2"><img class="videobox-thumb21" src="Pages/_Layouts/lacvietbio/eofficeimg/play_icon.png" alt=""></div>
+												</div>
+												<div id="flvplayer">&nbsp;</div>
+												<div id="MediaPlayerZone">&nbsp;</div>
+												<div class="mediaItems">
+													<ul class="ul-mediaItem">
+														 {{#each (lookup (lookupCategory AllCategory 'thu-vien-video') 'files') }}
+														   <li class="li-mediaItem" onclick="playMedia(this);" url="http://222.255.158.21:554/CentralMedia/Hoangsa/toquocnhintubien.wmv" urlimage="HinhDaiDienVideo/_w/toquoc_jpg.jpg">{{title}}</li>
+													     {{/each}}
+														
+													</ul>
+												</div>
+											</div>
+										</div>
 
-    <div id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_Chinh" class="ndiv"><div class="div-image"><div class="allowMenu"><a href="TinTuc/quanlynhanuoc/Lists/Posts/AllPosts.aspx?CategoryId=10" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="HinhAnhLienKet/lichlamviecld.png"></a></div></div><div class="div-image"><div class="allowMenu"><a href="#" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="HinhAnhLienKet/33.jpg"></a></div></div><div class="div-image"><div class="allowMenu"><a href="TinTuc/tintuc/Lists/Posts/AllPosts.aspx?CategoryId=13" target="_self" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="HinhAnhLienKet/hoc tap va lam theo.jpg"></a>
-    </div></div><div class="div-image">
-      <div class="allowMenu"><a href="http://nongthonmoi.daknong.gov.vn/" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="HinhAnhLienKet/XDNTM.png"></a></div></div></div>
-<div id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_openPopup">
-	<span style="DISPLAY: none">
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+
+
+
+
+	<table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody>
+			<tr>
+				<td valign="top">
+					<div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ5" width="100%" class="ms-WPBody noindex" onlyformepart="true" allowdelete="false" style="">
+						<table id="ctl00_PlaceHolderMain_g_9c2fcdee_c49c_4175_beef_663ce9f36f9c" cellpadding="0" cellspacing="0" border="0" width="100%">
+							<tbody>
+								<tr>
+									<td>
+										<div xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">
+
+											<div id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_Chinh" class="ndiv">
+												{{#each banner.banner_goc_phai_trang_chu}}
+												<div class="div-image">
+													<div class="allowMenu">
+														<a href="TinTuc/quanlynhanuoc/Lists/Posts/AllPosts.aspx?CategoryId=10" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="{{this.hinh_anh}}"></a>
+													</div>
+												</div>
+												{{/each}}
+												<!--<div class="div-image">
+													<div class="allowMenu">
+														<a href="#" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="HinhAnhLienKet/33.jpg"></a>
+													</div>
+												</div>
+												<div class="div-image">
+													<div class="allowMenu">
+														<a href="TinTuc/tintuc/Lists/Posts/AllPosts.aspx?CategoryId=13" target="_self" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="HinhAnhLienKet/hoc tap va lam theo.jpg"></a>
+													</div>
+												</div>
+												<div class="div-image">
+													<div class="allowMenu">
+														<a href="http://nongthonmoi.daknong.gov.vn/" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="HinhAnhLienKet/XDNTM.png"></a>
+													</div>
+												</div>
+											</div>-->
+											<div id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_openPopup">
+												<span style="DISPLAY: none">
 			<menu id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_MnPopupLinkLienKet">
 				<ie:menuitem id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_mitAdminLinkLienket" menugroupid="2147483647" text="Quản trị" onmenuclick="STSNavigate2(event,'#postbyword');" iconsrc="/_LAYOUTS/LacVietBio/EOFFICEIMG/editnews.gif" type="option"></ie:menuitem>
 			</menu>
-		</span><table border="0" cellspacing="0" cellpadding="0" width="100%" height="100%">
+		</span>
+												<table border="0" cellspacing="0" cellpadding="0" width="100%" height="100%">
 
+												</table>
+											</div>
+											<img style="POSITION: absolute; BORDER-RIGHT-WIDTH: 0px; WIDTH: 1px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 1px; BORDER-LEFT-WIDTH: 0px" id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_img_hinh" src="_layouts/images/blank.gif">
+										</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</td>
+			</tr>
+		</tbody>
 	</table>
-</div>
-<img style="POSITION: absolute; BORDER-RIGHT-WIDTH: 0px; WIDTH: 1px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 1px; BORDER-LEFT-WIDTH: 0px" id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_img_hinh" src="_layouts/images/blank.gif">
-</div>
-</td></tr></tbody></table></div></td>
-</tr>
-</tbody></table>
 
 
 
 
-<table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-<td valign="top"><div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ6" width="100%" class="ms-WPBody noindex" onlyformepart="true" allowdelete="false" style=""><table id="ctl00_PlaceHolderMain_g_c1fe138c_a453_4212_b4af_4856238be783" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
+	<table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody>
+			<tr>
+				<td valign="top">
+					<div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ6" width="100%" class="ms-WPBody noindex" onlyformepart="true" allowdelete="false" style="">
+						<table id="ctl00_PlaceHolderMain_g_c1fe138c_a453_4212_b4af_4856238be783" cellpadding="0" cellspacing="0" border="0" width="100%">
+							<tbody>
+								<tr>
+									<td>
 
 
-<script type="text/javascript">
+										<script type="text/javascript">
+											$(document).ready(function() {
 
-$(document).ready(function() {
+												$('#ctl00_PlaceHolderMain_g_c1fe138c_a453_4212_b4af_4856238be783_ctl00_DropDownList1').change(function() {
+													var codelocation = $(this).val();
 
-	$('#ctl00_PlaceHolderMain_g_c1fe138c_a453_4212_b4af_4856238be783_ctl00_DropDownList1').change(function() {
-			var codelocation = $(this).val();
+													// Mở ra một trang mới ngay tại trang hiện hành
+													//window.location = codelocation;
+													// Mở ra một tab mới kế bên trang hiện hành
+													// window.open(codelocation)
+													// Mở ra một popup
+													//window.open(codelocation, "poop", "height=200,width=200,modal=yes,alwaysRaised=yes");
 
-			// Mở ra một trang mới ngay tại trang hiện hành
-			//window.location = codelocation;
-			// Mở ra một tab mới kế bên trang hiện hành
-			// window.open(codelocation)
-			// Mở ra một popup
-			//window.open(codelocation, "poop", "height=200,width=200,modal=yes,alwaysRaised=yes");
+													if (codelocation != '') {
 
-			if (codelocation != '') {
+														var expression = '1';
+														switch (expression) {
+															case '0':
+																window.location = codelocation;
+																break;
+															case '1':
+																window.open(codelocation);
+																break;
+															case '2':
+																window.open(codelocation, "poop", "height=600,width=800,modal=yes,alwaysRaised=yes");
+																break;
+															default:
+																alert('Ko co gi het');
+														}
+													}
 
-					var expression = '1';
-					switch (expression) {
-							case '0':
-									window.location = codelocation;
-									break;
-							case '1':
-									window.open(codelocation);
-									break;
-							case '2':
-									window.open(codelocation, "poop", "height=600,width=800,modal=yes,alwaysRaised=yes");
-									break;
-							default: alert('Ko co gi het');
-					}
-			}
-
-	});
-});
-
-
-</script>
-<div class="linkweb">
-<div class="linkweb-title">
-	Liên kết Website
-</div>
-<div class="linkweb-cnt">
-	<select name="ctl00$PlaceHolderMain$g_c1fe138c_a453_4212_b4af_4856238be783$ctl00$DropDownList1" id="ctl00_PlaceHolderMain_g_c1fe138c_a453_4212_b4af_4856238be783_ctl00_DropDownList1" class="dvnduyLinkWeb">
+												});
+											});
+										</script>
+										<div class="linkweb">
+											<div class="linkweb-title">
+												Liên kết Website
+											</div>
+											<div class="linkweb-cnt">
+												<select name="ctl00$PlaceHolderMain$g_c1fe138c_a453_4212_b4af_4856238be783$ctl00$DropDownList1" id="ctl00_PlaceHolderMain_g_c1fe138c_a453_4212_b4af_4856238be783_ctl00_DropDownList1" class="dvnduyLinkWeb">
 	<option value="">-------- Liên kết web --------</option>
 	<option value="http://daitruyenthanhcujut.daknong.gov.vn/">Đài TT huyện Cư Jút</option>
 	<option value="http://taichinhcujut.daknong.gov.vn/">Phòng TC - KH huyện Cư Jút</option>
@@ -179,200 +284,266 @@ $(document).ready(function() {
 	<option value="http://cujut.myftp.org/webos/searchrecords.iws">Một cửa huyện Cư Jút</option>
 
 </select>
-</div>
-</div>
+											</div>
+										</div>
 
 
-</td></tr></tbody></table></div></td>
-</tr>
-</tbody></table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</td>
+			</tr>
+		</tbody>
+	</table>
 
-<table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-<td valign="top"><div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ7" width="100%" class="ms-WPBody noindex" onlyformepart="true" allowdelete="false" style=""><table id="ctl00_PlaceHolderMain_g_e16dc05d_a599_462d_bb33_17883515a2c5" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
+	<table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody>
+			<tr>
+				<td valign="top">
+					<div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ7" width="100%" class="ms-WPBody noindex" onlyformepart="true" allowdelete="false" style="">
+						<table id="ctl00_PlaceHolderMain_g_e16dc05d_a599_462d_bb33_17883515a2c5" cellpadding="0" cellspacing="0" border="0" width="100%">
+							<tbody>
+								<tr>
+									<td>
 
 
 
 
-<div class="TruyCapOnLine">
-<div class="ThongKeTruyCap">
-<div class="dvHit-main">
-<div class="divHitCount">
-	<div class="HitTitle">
-			<h3>
+										<div class="TruyCapOnLine">
+											<div class="ThongKeTruyCap">
+												<div class="dvHit-main">
+													<div class="divHitCount">
+														<div class="HitTitle">
+															<h3>
 					SỐ LƯỢT TRUY CẬP</h3>
-	</div>
-	<div class="HitCount-content">
-			<table cellpadding="0" cellspacing="0" width="100%">
-					<tbody><tr>
-							<td class="Hit-solan" align="center">
-									<table id="ctl00_PlaceHolderMain_g_e16dc05d_a599_462d_bb33_17883515a2c5_ctl00_dtlHitCounter" cellspacing="0" border="0" height="10">
-	<tbody><tr>
-		<td align="center" height="10">
-													<table cellpadding="0" cellspacing="0" class="tb-HitCount">
-															<tbody><tr>
-																	<td align="center" valign="top" class="background-img">
-																			<div class="font-number">
-																					2</div>
-																	</td>
-															</tr>
-													</tbody></table>
-											</td><td align="center" height="10">
-													<table cellpadding="0" cellspacing="0" class="tb-HitCount">
-															<tbody><tr>
-																	<td align="center" valign="top" class="background-img">
-																			<div class="font-number">
-																					5</div>
-																	</td>
-															</tr>
-													</tbody></table>
-											</td><td align="center" height="10">
-													<table cellpadding="0" cellspacing="0" class="tb-HitCount">
-															<tbody><tr>
-																	<td align="center" valign="top" class="background-img">
-																			<div class="font-number">
-																					1</div>
-																	</td>
-															</tr>
-													</tbody></table>
-											</td><td align="center" height="10">
-													<table cellpadding="0" cellspacing="0" class="tb-HitCount">
-															<tbody><tr>
-																	<td align="center" valign="top" class="background-img">
-																			<div class="font-number">
-																					0</div>
-																	</td>
-															</tr>
-													</tbody></table>
-											</td><td align="center" height="10">
-													<table cellpadding="0" cellspacing="0" class="tb-HitCount">
-															<tbody><tr>
-																	<td align="center" valign="top" class="background-img">
-																			<div class="font-number">
-																					2</div>
-																	</td>
-															</tr>
-													</tbody></table>
-											</td><td align="center" height="10">
-													<table cellpadding="0" cellspacing="0" class="tb-HitCount">
-															<tbody><tr>
-																	<td align="center" valign="top" class="background-img">
-																			<div class="font-number">
-																					8</div>
-																	</td>
-															</tr>
-													</tbody></table>
-											</td><td align="center" height="10">
-													<table cellpadding="0" cellspacing="0" class="tb-HitCount">
-															<tbody><tr>
-																	<td align="center" valign="top" class="background-img">
-																			<div class="font-number">
-																					3</div>
-																	</td>
-															</tr>
-													</tbody></table>
-											</td>
-	</tr>
-</tbody></table>
-							</td>
-					</tr>
-			</tbody></table>
-	</div>
-</div>
-</div>
+														</div>
+														<div class="HitCount-content">
+															<table cellpadding="0" cellspacing="0" width="100%">
+																<tbody>
+																	<tr>
+																		<td class="Hit-solan" align="center">
+																			<table id="ctl00_PlaceHolderMain_g_e16dc05d_a599_462d_bb33_17883515a2c5_ctl00_dtlHitCounter" cellspacing="0" border="0" height="10">
+																				<tbody>
+																					<tr>
+																						<td align="center" height="10">
+																							<table cellpadding="0" cellspacing="0" class="tb-HitCount">
+																								<tbody>
+																									<tr>
+																										<td align="center" valign="top" class="background-img">
+																											<div class="font-number">
+																												2</div>
+																										</td>
+																									</tr>
+																								</tbody>
+																							</table>
+																						</td>
+																						<td align="center" height="10">
+																							<table cellpadding="0" cellspacing="0" class="tb-HitCount">
+																								<tbody>
+																									<tr>
+																										<td align="center" valign="top" class="background-img">
+																											<div class="font-number">
+																												5</div>
+																										</td>
+																									</tr>
+																								</tbody>
+																							</table>
+																						</td>
+																						<td align="center" height="10">
+																							<table cellpadding="0" cellspacing="0" class="tb-HitCount">
+																								<tbody>
+																									<tr>
+																										<td align="center" valign="top" class="background-img">
+																											<div class="font-number">
+																												1</div>
+																										</td>
+																									</tr>
+																								</tbody>
+																							</table>
+																						</td>
+																						<td align="center" height="10">
+																							<table cellpadding="0" cellspacing="0" class="tb-HitCount">
+																								<tbody>
+																									<tr>
+																										<td align="center" valign="top" class="background-img">
+																											<div class="font-number">
+																												0</div>
+																										</td>
+																									</tr>
+																								</tbody>
+																							</table>
+																						</td>
+																						<td align="center" height="10">
+																							<table cellpadding="0" cellspacing="0" class="tb-HitCount">
+																								<tbody>
+																									<tr>
+																										<td align="center" valign="top" class="background-img">
+																											<div class="font-number">
+																												2</div>
+																										</td>
+																									</tr>
+																								</tbody>
+																							</table>
+																						</td>
+																						<td align="center" height="10">
+																							<table cellpadding="0" cellspacing="0" class="tb-HitCount">
+																								<tbody>
+																									<tr>
+																										<td align="center" valign="top" class="background-img">
+																											<div class="font-number">
+																												8</div>
+																										</td>
+																									</tr>
+																								</tbody>
+																							</table>
+																						</td>
+																						<td align="center" height="10">
+																							<table cellpadding="0" cellspacing="0" class="tb-HitCount">
+																								<tbody>
+																									<tr>
+																										<td align="center" valign="top" class="background-img">
+																											<div class="font-number">
+																												3</div>
+																										</td>
+																									</tr>
+																								</tbody>
+																							</table>
+																						</td>
+																					</tr>
+																				</tbody>
+																			</table>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+														</div>
+													</div>
+												</div>
 
 
 
-<div class="dvHit-main">
-<div class="divHitCount-online">
-	<div class="HitTitle">
-			<h3>
+												<div class="dvHit-main">
+													<div class="divHitCount-online">
+														<div class="HitTitle">
+															<h3>
 					SỐ LƯỢT ĐANG ONLINE</h3>
-	</div>
-	<div class="HitCount-content">
-			<table cellpadding="0" cellspacing="0" width="100%">
-					<tbody><tr>
-							<td class="Hit-solan" align="center">
-									<table id="ctl00_PlaceHolderMain_g_e16dc05d_a599_462d_bb33_17883515a2c5_ctl00_DataList1" cellspacing="0" border="0" height="10">
-	<tbody><tr>
-		<td align="center" height="10">
-													<table cellpadding="0" cellspacing="0" class="tb-HitCount">
-															<tbody><tr>
-																	<td align="center" valign="top" class="background-img">
-																			<div class="font-number">
-																					0</div>
-																	</td>
-															</tr>
-													</tbody></table>
-											</td><td align="center" height="10">
-													<table cellpadding="0" cellspacing="0" class="tb-HitCount">
-															<tbody><tr>
-																	<td align="center" valign="top" class="background-img">
-																			<div class="font-number">
-																					0</div>
-																	</td>
-															</tr>
-													</tbody></table>
-											</td><td align="center" height="10">
-													<table cellpadding="0" cellspacing="0" class="tb-HitCount">
-															<tbody><tr>
-																	<td align="center" valign="top" class="background-img">
-																			<div class="font-number">
-																					0</div>
-																	</td>
-															</tr>
-													</tbody></table>
-											</td><td align="center" height="10">
-													<table cellpadding="0" cellspacing="0" class="tb-HitCount">
-															<tbody><tr>
-																	<td align="center" valign="top" class="background-img">
-																			<div class="font-number">
-																					0</div>
-																	</td>
-															</tr>
-													</tbody></table>
-											</td><td align="center" height="10">
-													<table cellpadding="0" cellspacing="0" class="tb-HitCount">
-															<tbody><tr>
-																	<td align="center" valign="top" class="background-img">
-																			<div class="font-number">
-																					0</div>
-																	</td>
-															</tr>
-													</tbody></table>
-											</td><td align="center" height="10">
-													<table cellpadding="0" cellspacing="0" class="tb-HitCount">
-															<tbody><tr>
-																	<td align="center" valign="top" class="background-img">
-																			<div class="font-number">
-																					0</div>
-																	</td>
-															</tr>
-													</tbody></table>
-											</td><td align="center" height="10">
-													<table cellpadding="0" cellspacing="0" class="tb-HitCount">
-															<tbody><tr>
-																	<td align="center" valign="top" class="background-img">
-																			<div class="font-number">
-																					2</div>
-																	</td>
-															</tr>
-													</tbody></table>
-											</td>
-	</tr>
-</tbody></table>
-							</td>
-					</tr>
-			</tbody></table>
-	</div>
-</div>
-</div>
-</div>
-</div>
+														</div>
+														<div class="HitCount-content">
+															<table cellpadding="0" cellspacing="0" width="100%">
+																<tbody>
+																	<tr>
+																		<td class="Hit-solan" align="center">
+																			<table id="ctl00_PlaceHolderMain_g_e16dc05d_a599_462d_bb33_17883515a2c5_ctl00_DataList1" cellspacing="0" border="0" height="10">
+																				<tbody>
+																					<tr>
+																						<td align="center" height="10">
+																							<table cellpadding="0" cellspacing="0" class="tb-HitCount">
+																								<tbody>
+																									<tr>
+																										<td align="center" valign="top" class="background-img">
+																											<div class="font-number">
+																												0</div>
+																										</td>
+																									</tr>
+																								</tbody>
+																							</table>
+																						</td>
+																						<td align="center" height="10">
+																							<table cellpadding="0" cellspacing="0" class="tb-HitCount">
+																								<tbody>
+																									<tr>
+																										<td align="center" valign="top" class="background-img">
+																											<div class="font-number">
+																												0</div>
+																										</td>
+																									</tr>
+																								</tbody>
+																							</table>
+																						</td>
+																						<td align="center" height="10">
+																							<table cellpadding="0" cellspacing="0" class="tb-HitCount">
+																								<tbody>
+																									<tr>
+																										<td align="center" valign="top" class="background-img">
+																											<div class="font-number">
+																												0</div>
+																										</td>
+																									</tr>
+																								</tbody>
+																							</table>
+																						</td>
+																						<td align="center" height="10">
+																							<table cellpadding="0" cellspacing="0" class="tb-HitCount">
+																								<tbody>
+																									<tr>
+																										<td align="center" valign="top" class="background-img">
+																											<div class="font-number">
+																												0</div>
+																										</td>
+																									</tr>
+																								</tbody>
+																							</table>
+																						</td>
+																						<td align="center" height="10">
+																							<table cellpadding="0" cellspacing="0" class="tb-HitCount">
+																								<tbody>
+																									<tr>
+																										<td align="center" valign="top" class="background-img">
+																											<div class="font-number">
+																												0</div>
+																										</td>
+																									</tr>
+																								</tbody>
+																							</table>
+																						</td>
+																						<td align="center" height="10">
+																							<table cellpadding="0" cellspacing="0" class="tb-HitCount">
+																								<tbody>
+																									<tr>
+																										<td align="center" valign="top" class="background-img">
+																											<div class="font-number">
+																												0</div>
+																										</td>
+																									</tr>
+																								</tbody>
+																							</table>
+																						</td>
+																						<td align="center" height="10">
+																							<table cellpadding="0" cellspacing="0" class="tb-HitCount">
+																								<tbody>
+																									<tr>
+																										<td align="center" valign="top" class="background-img">
+																											<div class="font-number">
+																												2</div>
+																										</td>
+																									</tr>
+																								</tbody>
+																							</table>
+																						</td>
+																					</tr>
+																				</tbody>
+																			</table>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
 
 
-</td></tr></tbody></table></div></td>
-</tr>
-</tbody></table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</td>
+			</tr>
+		</tbody>
+	</table>
 
 </div>

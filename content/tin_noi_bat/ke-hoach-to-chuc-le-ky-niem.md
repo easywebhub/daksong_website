@@ -4,7 +4,7 @@
     "slug": "ke-hoach-to-chuc-le-ky-niem",
     "description": "Ngày 07/09/2012, UBND tỉnh ban hành Quyết định số 506/QĐ-UBND về việc ban hành Kế hoạch này. ",
     "layout": "tin_noi_bat.html",
-    "date": "2016-07-26 21:53:14 +07:00",
+    "date": "2016-07-26",
     "permalink": true,
     "banner": "hinh-anh/tin-noi-bat/vua-quang-trung-1455255270.jpg"
 }

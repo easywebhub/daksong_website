@@ -34,10 +34,8 @@
     {
         "name": "date",
         "displayName": "date",
-        "type": "Text",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
+        "displayType": "Date",
+        "type": "DateTime"
     },
     {
         "name": "draft",

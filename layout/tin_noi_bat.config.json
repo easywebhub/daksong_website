@@ -34,8 +34,11 @@
     {
         "name": "date",
         "displayName": "date",
-        "displayType": "Date",
-        "type": "DateTime"
+        "displayType": "DateTime",
+        "type": "DateTime",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
     },
     {
         "name": "permalink",

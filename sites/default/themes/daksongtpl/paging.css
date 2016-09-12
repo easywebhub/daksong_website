@@ -1,0 +1,22 @@
+/* CSS Document */
+
+.pager {
+    padding: 1em 0;
+    text-align: left;
+	float:left;
+}
+ul.pager li {
+    margin: 0;
+    padding: 0 5px;
+	float:left;
+}
+ul.pager a {
+    color: #2E6AB1;
+}
+ul.pager a:hover {
+    text-decoration:underline;
+}
+.pager li.pager-current {
+    background-color: #2E6AB1;
+    color: #FFFFFF;
+}

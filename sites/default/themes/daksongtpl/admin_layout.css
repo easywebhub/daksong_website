@@ -1,0 +1,83 @@
+/* 
+    Document   : admin_layout
+    Created on : May 23, 2012, 4:56:02 PM
+    Author     : Administrator
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+#middle {
+        width: 740px;
+}
+#middle #user-login, #user-pass, .profile, #user-profile-form, #contact-mail-user, .sticky-enabled {
+        width: 100%;
+}
+#middle #block-admin-display-form .form-submit {
+        margin-left: 10px;
+}
+#middle .ct_chum {
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-bottom: 5px;
+}
+#middle #block-admin-display-form #blocks {
+        margin-right: 0;
+}
+#middle #tabs-wrapper {
+        margin: 0;
+        margin-bottom: 5px;
+        padding-left: 0;
+}
+#middle ul.secondary {
+        margin: 0;
+        margin-bottom: 5px;
+        padding-left: 0;
+}
+#middle #user-admin-account .form-checkboxes {
+        clear: both;
+}
+#middle .sticky-enabled {
+        padding-left: 0;
+}
+#middle .view-content .views-table th.views-field-nid {
+        width: 40px;
+        padding-right: 0.5em;
+}
+#middle .view-content .views-table th.views-field-nid img {
+        margin-left: 3px;
+}
+#middle .view-content .views-table th.views-field-status {
+        width: 60px;
+}
+#middle .view-content .views-table th.views-field-created {
+        width: 120px;
+}
+#middle .view-content .views-table th.views-field-edit-node {
+        width: 60px;
+}
+#middle .view-header {
+        margin-top: 5px;
+        margin-bottom: 10px;
+}
+#middle .sticky-enabled {
+    clear: both;
+    float: none;
+}
+#middle #group_banners_values .content-multigroup-cell-field-banner-url input,
+#middle #group_banners_values .content-multigroup-cell-field-banner-info input {
+        width: 230px;
+}
+#middle #group_banners_values .content-multigroup-cell-field-banner-image .widget-preview {
+        max-width: 99%;
+}
+#main_menu .block-region {
+    display: none;
+}

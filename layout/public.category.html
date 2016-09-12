@@ -60,22 +60,28 @@
             <tr><td style="PADDING-BOTTOM: 10px" class="tinHT"><table border="0" cellspacing="0" cellpadding="0" align="left"><tbody><tr><td><a href="{{slug}}"><img style="BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" class="img-slidemenu" alt="" src="{{banner}}" width="130" height="100"></a></td></tr></tbody></table><div style="TEXT-ALIGN: justify" class="ContentText">{{description}}<br></div></td></tr>
             
             {{/each}}
-            
-            
+
+            {{#each pagination}}
+                        <h1>            {{@key}}=>{{this}}</h1>
+
+            {{/each}}
             <TR><TD class="Other" width="100%"><UL /></TD></TR></TBODY></TABLE>
              <div class="pagination-container">
                 <hr>
                 <ul class="pagination">
 
                     <li>
-                      {{#if pagination.previous}}
-                      	<a href="/{{pagination.previous.path}}"><span>Pre</span></a>
-                      {{/if}}
-                    </li>
-                    <li>
-                      {{#if pagination.next}}
-                      <a href="/{{pagination.next.path}}"><span>Next</span></a>
-                      {{/if}}
+                      {{#if pagination}}
+                        <nav class="pagination">
+                            {{#if pagination.next}}
+                            <a href="/{{removeIndex pagination.next.path}}" class="btn">&lt; Prev</a>
+                            {{/if}}
+
+                            {{#if pagination.previous}}
+                            <a href="/{{removeIndex pagination.previous.path}}" class="btn">Next &gt;</a>
+                            {{/if}}
+                        </nav>
+                        {{/if}}
                     </li>
                 </ul>
                 

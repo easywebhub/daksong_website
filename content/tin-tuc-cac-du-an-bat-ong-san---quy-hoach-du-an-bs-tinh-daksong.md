@@ -4,7 +4,7 @@
     "slug": "tin-tuc-cac-du-an-bat-ong-san-quy-hoach-du-an-bs-tinh-daksong",
     "description": "",
     "category": "quan-ly-nha-nuoc.thong-tin-du-an",
-      "layout": "public.category.html",
+      "layout": "post.html",
     "date": "2016-09-05 14:01:48"
 }
 ---

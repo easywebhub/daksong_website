@@ -16,17 +16,19 @@
         "required": false
     },
     {
-        "name": "title",
-        "displayName": "title",
         "type": "Text",
+        "displayType": "ShortText",
+        "name": "title",
+        "displayName": "tiêu đề",
         "validations": [],
         "viewOnly": false,
         "required": false
     },
     {
-        "name": "description",
-        "displayName": "description",
         "type": "Text",
+        "displayType": "ShortText",
+        "name": "description",
+        "displayName": "mô tả",
         "validations": [],
         "viewOnly": false,
         "required": false

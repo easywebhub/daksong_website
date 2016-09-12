@@ -82,5 +82,13 @@
         "validations": [],
         "viewOnly": false,
         "required": false
+    },
+    {
+        "name": "permalink",
+        "displayName": "permalink",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
     }
 ]

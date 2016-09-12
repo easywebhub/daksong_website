@@ -62,7 +62,24 @@
             {{/each}}
             
             
-            <TR><TD class="Other" width="100%"><UL /></TD></TR></TBODY></TABLE><TABLE class="tbtinkhac" border="0" cellSpacing="0" cellPadding="0" width="100%">
+            <TR><TD class="Other" width="100%"><UL /></TD></TR></TBODY></TABLE>
+             <div class="pagination-container">
+                <hr>
+                <ul class="pagination">
+
+                    <li>
+                      {{#if pagination.previous}}
+                      	<a href="/{{pagination.previous.path}}"><span>Pre</span></a>
+                      {{/if}}
+                    </li>
+                    <li>
+                      {{#if pagination.next}}
+                      <a href="/{{pagination.next.path}}"><span>Next</span></a>
+                      {{/if}}
+                    </li>
+                </ul>
+            </div>
+            <TABLE class="tbtinkhac" border="0" cellSpacing="0" cellPadding="0" width="100%">
 					<TBODY><TR><TD class="OtherTitle"><P class="OtherTitle">TIN ĐÃ ĐƯA</P></TD></TR></TBODY></TABLE><TABLE border="0" cellSpacing="0" cellPadding="0" width="100%">
 				<TBODY><TR><TD class="Other" width="100%"><UL>
 						{{#each pagination.files}}
@@ -72,6 +89,7 @@
 			             {{/each}}
 
           </UL></TD></TR></TBODY></TABLE>
+
 		<DIV class="css_Xemtiep"><a href="/TinTuc/tintuc/Lists/Posts/AllPosts.aspx?CategoryId=16&amp;PublishedDate=2015-08-25T13:35:00Z"><IMG alt="Xem tiếp" src="/_layouts/LacVietBio/eofficeimg/news/xemtiep.gif" /></a></DIV></DIV>
       </div></div></td>
      </tr>

@@ -3,7 +3,7 @@
     "reverse": false,
 
     "displayName": "Tin tức sự kiện",
-    "perPage": 2,
+    "perPage": 1,
     "noPageOne": true,
     "layout": "public.category.html",
     "first": ":categoryPath/index.html",

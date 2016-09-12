@@ -127,65 +127,8 @@ site.metalsmith = {
         'pattern':':slug',
         'relative': false,
         // config rieng cho 1 collection
-        linksets: [{
-            match: { collection: 'blog' },
-            pattern: 'blog/:url'
-        },
-            {
-                match: { collection: 'tinKinhTe' },
-                pattern: 'tin-kinh-te/:url'
-            },
-            {
-                match: { collection: 'thongTinChiDaoDieuHanh' },
-                pattern: 'thong_tin_chi_dao_dieu_hanh/:url'
-            },
-            {
-                match: { collection: 'tinVanHoa' },
-                pattern: 'tin_van_hoa/:url'
-            },
-            {
-                match: { collection: 'tinNoiBat' },
-                pattern: 'tin_noi_bat/:url'
-            },
-            {
-                match: { collection: 'lichLamViec' },
-                pattern: 'lich_lam_viec/:url'
-            },
-            {
-                match: { collection: 'keHoachPhatTrien' },
-                pattern: 'ke_hoach_phat_trien/:url'
-            },
-             {
-                match: { collection: 'vanBanPhapLuat' },
-                pattern: 'van_ban_phap_luat/:url'
-            }, {
-                match: { collection: 'tinAnNinhTratTu' },
-                pattern: 'tin_an_ninh_trat_tu/:url'
-            },
-            {
-                match: { collection: 'hoatDongCuaLanhDao' },
-                pattern: 'hoat_dong_cua_lanh_dao/:url'
-            },
-             {
-                match: { collection: 'huongDan' },
-                pattern: 'huong_dan/:url'
-            },
-             {
-                match: { collection: 'chinhSach' },
-                pattern: 'chinh_sach/:url'
-            },
-            {
-                match: { collection: 'tinAnToanGiaoThong' },
-                pattern: 'tin_an_toan_giao_thong/:url'
-            },
-            {
-                match: { collection: 'tinYTeGiaoDuc' },
-                pattern: 'tin_y_te_giao_duc/:url'
-            },
-             {
-                match: { collection: 'khenThuongXuPhat' },
-                pattern: 'khen_thuong_xu_phat/:url'
-            }
+        linksets: [
+           
 
         ]
     },

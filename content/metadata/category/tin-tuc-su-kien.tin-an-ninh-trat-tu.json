@@ -3,7 +3,7 @@
     "reverse": false,
     
     "displayName": "Tin an ninh trật tự",
-    "perPage": 2,
+    "perPage": 10,
     "noPageOne": true,
     "layout": "public.category.html",
     "first": ":categoryPath/index.html",

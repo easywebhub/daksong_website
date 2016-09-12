@@ -55,7 +55,7 @@
 
             {{#each (first pagination.files 5)  }}
             <tr><td class="TitleFront"><a href="{{slug}}">{{title}}<span class="ShowDate">
-                      {{date}}
+                      ({{date}})
                     </span></a></td></tr>
             <tr><td style="PADDING-BOTTOM: 10px" class="tinHT"><table border="0" cellspacing="0" cellpadding="0" align="left"><tbody><tr><td><a href="{{slug}}"><img style="BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" class="img-slidemenu" alt="" src="{{banner}}" width="130" height="100"></a></td></tr></tbody></table><div style="TEXT-ALIGN: justify" class="ContentText">{{description}}<br></div></td></tr>
             
@@ -69,8 +69,8 @@
             <TABLE class="tbtinkhac" border="0" cellSpacing="0" cellPadding="0" width="100%">
 					<TBODY><TR><TD class="OtherTitle"><P class="OtherTitle">TIN ĐÃ ĐƯA</P></TD></TR></TBODY></TABLE><TABLE border="0" cellSpacing="0" cellPadding="0" width="100%">
 				<TBODY><TR><TD class="Other" width="100%"><UL>
-						{{#each pagination.files}}
-						 <li><a href="./{{slug}}">{{title}}</a>
+						{{#each    pagination.files  }}
+						 <li><a href="./{{slug}}"> {{title}}</a>
 							 <SPAN class="ShowDate">({{date}})</SPAN>
 						 </li>
 			             {{/each}}
@@ -204,5 +204,4 @@
      					</div>
 {{/content}}
 {{/extend}}
-Contact GitHub API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Status Help
+

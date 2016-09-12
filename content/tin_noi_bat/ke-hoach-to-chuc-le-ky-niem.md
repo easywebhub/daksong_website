@@ -1,6 +1,6 @@
 ---json
 {
-    "layout": "public.category.html",
+    "layout": "bai-viet.html",
     "slug": "ke-hoach-to-chuc-le-ky-niem",
     "category": "",
     "title": "Kế hoạch tổ chức lễ kỷ niệm",

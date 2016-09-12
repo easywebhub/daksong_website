@@ -5,7 +5,7 @@
     "description": "",
     "category": "ke-hoach-phat-trien",
     
-    "layout": "public.category.html",
+    "layout": "post.html",
     "date": "2016-09-05"
 }
 ---

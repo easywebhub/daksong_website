@@ -52,13 +52,9 @@
         "required": false
     },
     {
-        "type": "Text",
-        "displayType": "ShortText",
         "name": "banner",
         "displayName": "Ảnh",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
+        "type": "Media"
     },
     {
         "name": "tag",
@@ -86,9 +82,6 @@
     {
         "name": "permalink",
         "displayName": "permalink",
-        "type": "Text",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
+        "type": "Boolean"
     }
 ]

@@ -16,33 +16,36 @@
         "required": false
     },
     {
+        "type": "Text",
+        "displayType": "ShortText",
         "name": "category",
-        "displayName": "category",
-        "type": "Text",
+        "displayName": "danh mục",
         "validations": [],
         "viewOnly": false,
         "required": false
     },
     {
+        "type": "Text",
+        "displayType": "ShortText",
         "name": "title",
-        "displayName": "title",
-        "type": "Text",
+        "displayName": "tiêu đề",
         "validations": [],
         "viewOnly": false,
         "required": false
     },
     {
-        "name": "description",
-        "displayName": "description",
         "type": "Text",
+        "displayType": "ShortText",
+        "name": "description",
+        "displayName": "mô tả",
         "validations": [],
         "viewOnly": false,
         "required": false
     },
     {
         "name": "date",
-        "displayName": "date",
-        "displayType": "DateTime",
+        "displayName": "thời gian",
+        "displayType": "Date",
         "type": "DateTime",
         "validations": [],
         "viewOnly": false,
@@ -57,9 +60,10 @@
         "required": false
     },
     {
-        "name": "banner",
-        "displayName": "banner",
         "type": "Text",
+        "displayType": "ShortText",
+        "name": "banner",
+        "displayName": "ảnh",
         "validations": [],
         "viewOnly": false,
         "required": false

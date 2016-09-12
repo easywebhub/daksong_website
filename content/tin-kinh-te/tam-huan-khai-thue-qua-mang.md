@@ -2,7 +2,7 @@
 {
     "title": "Tập huấn khai thuế qua mạng",
     "description": "Sáng ngày 17/10 Chi Cục thuế đã tổ chức hội nghị tập huấn khai thuế qua mạng Intenet cho 124 công ty, doanh nghiệp trên địa bàn huyện ta.",
-    "layout": "public.category.html",
+    "layout": "post.html",
     "date": "2015-11-04",
     "draft": "false",
     "banner": "hinh-anh/tin-kinh-te/nop-thue-qua-mang.jpg",

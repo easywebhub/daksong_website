@@ -1,6 +1,6 @@
 ---json
 {
-    "layout": "public.category.html",
+    "layout": "post.html",
     "slug": "dan-da-nhac-cu-truyen-thong-co-nhat-cua-nguoi-tay-nguyen",
     "title": "Đàn đá - nhạc cụ truyền thống cổ nhất của người Tây nguyên",
     "description": "Từ hàng ngàn năm trước, trên vùng đất Tây nguyên đã xuất hiện và lưu truyền một loại nhạc cụ độc đáo, đó là loại nhạc cụ thuộc hệ gõ mà người ta thường gọi là đàn đá, người M’nông gọi là Goong lǔ (tức là cồng đá).",

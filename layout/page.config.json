@@ -36,7 +36,7 @@
     {
         "name": "date",
         "displayName": "Ngày đăng tin",
-        "displayType": "DateTime",
+        "displayType": "Date",
         "type": "DateTime",
         "validations": [],
         "viewOnly": false,
@@ -50,73 +50,82 @@
         "required": false
     },
     {
+        "type": "Text",
+        "displayType": "ShortText",
         "name": "category",
-        "displayName": "category",
-        "type": "Text",
+        "displayName": "danh mục",
         "validations": [],
         "viewOnly": false,
         "required": false
     },
     {
+        "type": "Text",
+        "displayType": "ShortText",
         "name": "trich_yeu",
-        "displayName": "trich_yeu",
-        "type": "Text",
+        "displayName": "trích yêu",
         "validations": [],
         "viewOnly": false,
         "required": false
     },
     {
+        "type": "Text",
+        "displayType": "ShortText",
         "name": "co_quan_ban_hanh",
-        "displayName": "co_quan_ban_hanh",
-        "type": "Text",
+        "displayName": "cơ quan ban hành",
         "validations": [],
         "viewOnly": false,
         "required": false
     },
     {
+        "type": "Text",
+        "displayType": "ShortText",
         "name": "linh_vuc",
-        "displayName": "linh_vuc",
-        "type": "Text",
+        "displayName": "lĩnh vực",
         "validations": [],
         "viewOnly": false,
         "required": false
     },
     {
+        "type": "Text",
+        "displayType": "ShortText",
         "name": "loai_van_ban",
-        "displayName": "loai_van_ban",
-        "type": "Text",
+        "displayName": "loại văn bản",
         "validations": [],
         "viewOnly": false,
         "required": false
     },
     {
+        "type": "Text",
+        "displayType": "ShortText",
         "name": "nguoi_ky",
-        "displayName": "nguoi_ky",
-        "type": "Text",
+        "displayName": "người ký",
         "validations": [],
         "viewOnly": false,
         "required": false
     },
     {
+        "type": "Text",
+        "displayType": "ShortText",
         "name": "ngay_co_hieu_luc",
-        "displayName": "ngay_co_hieu_luc",
-        "type": "Text",
+        "displayName": "ngày có hiệu lực",
         "validations": [],
         "viewOnly": false,
         "required": false
     },
     {
+        "type": "Text",
+        "displayType": "ShortText",
         "name": "tai_lieu_dinh_kem",
-        "displayName": "tai_lieu_dinh_kem",
-        "type": "Text",
+        "displayName": "tài liệu đính kèm",
         "validations": [],
         "viewOnly": false,
         "required": false
     },
     {
-        "name": "so",
-        "displayName": "so",
         "type": "Text",
+        "displayType": "ShortText",
+        "name": "so",
+        "displayName": "số",
         "validations": [],
         "viewOnly": false,
         "required": false

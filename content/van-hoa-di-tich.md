@@ -1,12 +1,21 @@
 ---json
 {
-    "title": "Văn hóa di tích",
     "slug": "van-hoa-di-tich",
-    "description": "",
     "layout": "page.html",
-    "date": "2016-07-25 22:43:57",
-     "permalink": true
-  
+    "title": "Văn hóa di tích",
+    "description": "",
+    "date": "09-09-2016",
+    "permalink": true,
+    "category": "",
+    "trich_yeu": "",
+    "co_quan_ban_hanh": "",
+    "linh_vuc": "",
+    "loai_van_ban": "",
+    "nguoi_ky": "",
+    "ngay_co_hieu_luc": "",
+    "tai_lieu_dinh_kem": "",
+    "so": "",
+    "tag": ""
 }
 ---
 What is Lorem Ipsum?

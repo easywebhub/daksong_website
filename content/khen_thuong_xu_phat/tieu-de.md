@@ -1,13 +1,16 @@
 ---json
 {
-    "slug": "tieu-de-thong-tin-xu-phat",
     "layout": "public.category.html",
+    "slug": "tieu-de-thong-tin-xu-phat",
+    "category": "thong-tin-ieu-hanh.thong-tin-khen-thuong-xu-phat",
     "title": "tiêu đề chính sách",
     "description": "mô tả ngắn",
-    "date": "2016-07-31 14:38:15 +07:00",
-
+    "date": "08-09-2016",
+    "draft": "",
     "banner": "/img/daksongtruso.jpg",
-    "category": "thong-tin-ieu-hanh.thong-tin-khen-thuong-xu-phat"
+    "permalink": "",
+    "url": "",
+    "tag": ""
 }
 ---
 nôi dung

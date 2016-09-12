@@ -1,10 +1,10 @@
 ---json
 {
-    "slug": "Sơ đồ tổ chức",
+    "slug": "so-do-to-chuc",
     "layout": "page.html",
     "title": "Sơ đồ tổ chức",
     "description": "Chức vụ: PBT Huyện ủy, CT UBND huyện",
-    "date": "2016-07-25 22:34:03",
+    "date": "08-09-2016",
     "permalink": true,
     "category": "",
     "trich_yeu": "",

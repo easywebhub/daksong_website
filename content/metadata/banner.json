@@ -5,11 +5,12 @@
     },
     "danh_sach_banner_nho": [
         {
-            "hinh_anh": "/sites/default/files/imagecache/img_banner_thumbnail/qc1.png",
+             
+            "hinh_anh": "/img/thudientu.jpg",
             "duong_dan": "#"
         },
         {
-            "hinh_anh": "/sites/default/files/imagecache/img_banner_thumbnail/qc3_0.png",
+            "hinh_anh": "/img/LHQC.png",
             "duong_dan": "#"
         },
         {
@@ -21,11 +22,11 @@
             "duong_dan": "#"
         },
         {
-            "hinh_anh": "/sites/default/files/imagecache/img_banner_thumbnail/qc4.png",
+            "hinh_anh": "/img/banner_daknong.jpg",
             "duong_dan": "#"
         },
         {
-            "hinh_anh": "/sites/default/files/imagecache/img_banner_thumbnail/mail_0.png",
+            "hinh_anh": "/img/img-congbao.jpg",
             "duong_dan": "#"
         }
     ],

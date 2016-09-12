@@ -4,7 +4,7 @@
     "slug": "dieu-kien-tu-nhien",
     "description": "",
     "layout": "page.html",
-    "date": "2016-07-25 22:47:34",
+    "date": "2016-07-25",
     "permalink": true
    
 }

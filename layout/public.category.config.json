@@ -42,7 +42,7 @@
     {
         "name": "date",
         "displayName": "date",
-        "displayType": "DateTime",
+        "displayType": "Date",
         "type": "DateTime",
         "validations": [],
         "viewOnly": false,

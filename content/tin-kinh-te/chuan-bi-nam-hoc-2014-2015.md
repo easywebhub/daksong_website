@@ -2,7 +2,7 @@
 {
     "title": "Huyện Đăk Song tích cực chuẩn bị cho năm học 2014 - 2015",
     "description": "Huyện Đăk Song tích cực chuẩn bị cho năm học 2014 - 2015",
-    "layout": "public.category.html",
+    "layout": "post.html",
     "date": "2015-11-04",
     "draft": "false",
     "banner": "/img/daksongtruso.jpg",

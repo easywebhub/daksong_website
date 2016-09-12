@@ -36,7 +36,7 @@
     {
         "name": "date",
         "displayName": "Ngày đăng tin",
-        "displayType": "DateTime",
+        "displayType": "Date",
         "type": "DateTime",
         "validations": [],
         "viewOnly": false,

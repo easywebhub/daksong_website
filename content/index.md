@@ -10,17 +10,20 @@
             {
                 "ten": "Tin kinh tế",
                 "name": "tinKinhTe",
-                "collections_name": "tin-tuc-su-kien.tin-kinh-te"
+                "collections_name": "tin-tuc-su-kien.tin-kinh-te",
+                "url":"tin-tuc-su-kien/tin-kinh-te"
             },
             {
                 "ten": "Thông tin đều hành",
                 "name": "thongTinChiDaoDieuHanh",
-                "collections_name": "thong-tin-ieu-hanh.thong-tin-chi-ao-ieu-hanh"
+                "collections_name": "thong-tin-ieu-hanh.thong-tin-chi-ao-ieu-hanh",
+                "url":"thong-tin-ieu-hanh/thong-tin-chi-ao-ieu-hanh"
             },
             {
                 "ten": "Tin y tế giáo dục",
                 "name": "tinYTe",
-                "collections_name": "tin-tuc-su-kien.tin-y-te-giao-duc"
+                "collections_name": "tin-tuc-su-kien.tin-y-te-giao-duc",
+                "url":"tin-tuc-su-kien/tin-y-te-giao-duc"
             }
             
         ]
@@ -40,12 +43,14 @@
             {
                 "ten": "Tin văn hóa",
                 "name": "tinVanHoa",
-                "collections_name": "tin-tuc-su-kien.tin-van-hoa"
+                "collections_name": "tin-tuc-su-kien.tin-van-hoa",
+                "url":"tin-tuc-su-kien/tin-van-hoa"
             },
             {
                 "ten": "Tin y tế giáo dục",
                 "name": "tinYTe1",
-                "collections_name": "tin-tuc-su-kien.tin-y-te-giao-duc"
+                "collections_name":"tin-tuc-su-kien.tin-y-te-giao-duc",
+                "url":"tin-tuc-su-kien/tin-y-te-giao-duc"
             }
             
         ]
@@ -55,7 +60,15 @@
         "danh_sach": [
             {
                 "ten": "Thông tin chỉ đạo điều hành",
-                "collections_name": "thong-tin-ieu-hanh.thong-tin-chi-ao-ieu-hanh"
+                "collections_name": "thong-tin-ieu-hanh.thong-tin-chi-ao-ieu-hanh",
+                "name":"thongTinDieuChiDaoDh",
+                "url":"thong-tin-ieu-hanh/thong-tin-chi-ao-ieu-hanh"
+            },
+             {
+                "ten": "Lịch làm việc",
+                "collections_name": "thong-tin-ieu-hanh.lich-lam-viec",
+                "name":"lichLamViec",
+                "url":"thong-tin-ieu-hanh/lich-lam-viec"
             }
         ]
     },
@@ -64,7 +77,9 @@
         "danh_sach": [
             {
                 "ten": "An ninh trật tự",
-                "collections_name": "tin-tuc-su-kien.tin-an-ninh-trat-tu"
+                "collections_name": "tin-tuc-su-kien.tin-an-ninh-trat-tu",
+                "name":"tinAnNinhTratTu",
+                "url":"tin-tuc-su-kien/tin-an-ninh-trat-tu"
             }
         ]
     },
@@ -77,7 +92,15 @@
     {"slug":"toa-an-nhan-dan-huyen-dua-ra-xet-xu-luu-dong-tai-xa-nam-binh-02-vu-an-trom-cap-tai-san",
     "title":"THÔNG BÁO Về việc tiếp công dân của Chủ tịch UBND huyện Đăk Song",
     "description": "Sáng ngày 21/9, Toà án nhân dân huyện đã đưa ra xét xử lưu động tại xã Nam Bình 02 vụ án trộm cắp tài sản đối với các bị báo: Nguyễn Huy Hùng, bị cáo Trần Văn Hưng và bị cáo Phan Văn Đức..",
-    "banner": "hinh-anh/tin-noi-bat/xetxu.jpg"}
+    "banner": "hinh-anh/tin-noi-bat/xetxu.jpg"},
+    {"slug":"nhung-net-noi-bat-trong-cuoi-thang-8/2016",
+    "title":"Tỉnh Đăk Song: những nét nổi bật trong cuối tháng 4/2016",
+    "banner": "img/01_650x434.JPG"},
+    {"slug":"trong-so-tai-nan-bi-thuong-trong-vu-tai-nan-kinh-hoanh-o-dak-song",
+    "title":"Trong số 21 nạn nhân bị thương trong vụ tai nạn kinh hoàng ở Đắk Sông hôm 2/5",
+    "description":"(ĐSPL) - Trong số 21 nạn nhân bị thương trong vụ tai nạn kinh hoàng ở Đắk Nông hôm 2/5, 14 bệnh nhân hiện vẫn đang tiếp tục được điều trị đặc biệt",
+    "banner": "img/tai-nan-5897-1462186261-dspl-352006.jpg"}
+
     ]
 }
 ---

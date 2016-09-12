@@ -1,0 +1,133 @@
+[
+    {
+        "name": "slug",
+        "displayName": "slug",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": true,
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "ShortText",
+        "name": "category",
+        "displayName": "danh mục",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "tag",
+        "displayName": "tag",
+        "type": "Array",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "layout",
+        "displayName": "layout",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": true,
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "ShortText",
+        "name": "title",
+        "displayName": "tiêu đề",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "ShortText",
+        "name": "description",
+        "displayName": "mô tả",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "date",
+        "displayName": "thời gian",
+        "displayType": "DateTime",
+        "type": "DateTime",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "ShortText",
+        "name": "so",
+        "displayName": "số",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "permalink",
+        "displayName": "permalink",
+        "type": "Boolean",
+        "validations": [],
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "ShortText",
+        "name": "trich_yeu",
+        "displayName": "trích yếu",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "ShortText",
+        "name": "co_quan_ban_hanh",
+        "displayName": "cơ quan ban hành",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "ShortText",
+        "name": "linh_vuc",
+        "displayName": "lĩnh vực",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "ShortText",
+        "name": "loai_van_ban",
+        "displayName": "loại văn bản",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "ShortText",
+        "name": "nguoi_ky",
+        "displayName": "người ký",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "ngay_co_hieu_luc",
+        "displayName": "ngay_co_hieu_luc",
+        "displayType": "Date",
+        "type": "DateTime"
+    },
+    {
+        "name": "tai_lieu_dinh_kem",
+        "displayName": "tài liệu đính kèm",
+        "type": "Media"
+    }
+]

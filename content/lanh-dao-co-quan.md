@@ -4,7 +4,7 @@
     "layout": "page.html",
     "title": "Lãnh đạo cơ quan",
     "description": "Nhiệm vụ của lãnh đạo cơ quan",
-    "date": "2016-07-25 22:41:34",
+    "date": "2016-07-25",
      "permalink": true
     
 }

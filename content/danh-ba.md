@@ -4,7 +4,7 @@
     "layout": "page.html",
     "title": "Danh bạ",
     "description": "mô tả danh bạ",
-    "date": "2016-07-24 15:46:30",
+    "date": "2016-07-24",
     "permalink": true
    
 }

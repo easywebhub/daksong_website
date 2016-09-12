@@ -4,7 +4,7 @@
     "slug": "tinh-ca-ak-nong",
     "description": "",
     "category": "thu-vien-video",
-    "layout": "public.category.html",
+    "layout": "post.html",
     "date": "2016-09-05 14:16:49"
 }
 ---

@@ -3,7 +3,7 @@
     "title": "Toà án nhân dân huyện: Đưa ra xét xử lưu động tại xã Nam Bình 02 vụ án trộm cắp tài sản",
     "slug": "toa-an-nhan-dan-huyen dua-ra-xet-xu-luu-dong-tai-xa-nam-binh-02-vu-an-trom-cap-tai-san",
     "description": "Sáng ngày 21/9, Toà án nhân dân huyện đã đưa ra xét xử lưu động tại xã Nam Bình 02 vụ án trộm cắp tài sản đối với các bị báo: Nguyễn Huy Hùng, bị cáo Trần Văn Hưng và bị cáo Phan Văn Đức..",
-    "layout": "public.category.html",
+    "layout": "post.html",
     "date": "2016-07-26 21:36:45 +07:00",
     "permalink": true,
     "banner": "hinh-anh/tin-noi-bat/xetxu.jpg"

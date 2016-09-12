@@ -64,22 +64,6 @@
         "required": false
     },
     {
-        "name": "draft",
-        "displayName": "draft",
-        "type": "Text",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
-    },
-    {
-        "name": "url",
-        "displayName": "url",
-        "type": "Text",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
-    },
-    {
         "name": "permalink",
         "displayName": "permalink",
         "type": "Boolean"

@@ -9,7 +9,7 @@
     "banner": "img/2306-TT-7.jpg",
     "tag": [],
     "permalink": true,
-    "draft": "",
-    "url": ""
+    "draft": ""
+   
 }
 ---

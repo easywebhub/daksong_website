@@ -8,7 +8,7 @@
     "date": "08-09-2016",
     "banner": "img/2140-TTSK-1.jpg",
     "tag": [],
-    "permalink": true,
+    "permalink": true
     
     
 }

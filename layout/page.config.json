@@ -4,7 +4,7 @@
         "displayName": "slug",
         "type": "Text",
         "validations": [],
-        "viewOnly": false,
+        "viewOnly": true,
         "required": false
     },
     {
@@ -16,27 +16,26 @@
         "required": false
     },
     {
-        "type": "Text",
-        "displayType": "ShortText",
         "name": "title",
-        "displayName": "Tiêu đề bài viết",
+        "displayName": "title",
+        "type": "Text",
         "validations": [],
         "viewOnly": false,
-        "required": true
+        "required": false
     },
     {
         "type": "Text",
-        "displayType": "LongText",
+        "displayType": "ShortText",
         "name": "description",
-        "displayName": "Mô tả sơ lược",
+        "displayName": "mô tả",
         "validations": [],
         "viewOnly": false,
         "required": false
     },
     {
         "name": "date",
-        "displayName": "Ngày đăng tin",
-        "displayType": "Date",
+        "displayName": "thời gian",
+        "displayType": "DateTime",
         "type": "DateTime",
         "validations": [],
         "viewOnly": false,
@@ -46,94 +45,6 @@
         "name": "permalink",
         "displayName": "permalink",
         "type": "Boolean",
-        "validations": [],
-        "required": false
-    },
-    {
-        "type": "Text",
-        "displayType": "ShortText",
-        "name": "category",
-        "displayName": "danh mục",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
-    },
-    {
-        "type": "Text",
-        "displayType": "ShortText",
-        "name": "trich_yeu",
-        "displayName": "trích yêu",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
-    },
-    {
-        "type": "Text",
-        "displayType": "ShortText",
-        "name": "co_quan_ban_hanh",
-        "displayName": "cơ quan ban hành",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
-    },
-    {
-        "type": "Text",
-        "displayType": "ShortText",
-        "name": "linh_vuc",
-        "displayName": "lĩnh vực",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
-    },
-    {
-        "type": "Text",
-        "displayType": "ShortText",
-        "name": "loai_van_ban",
-        "displayName": "loại văn bản",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
-    },
-    {
-        "type": "Text",
-        "displayType": "ShortText",
-        "name": "nguoi_ky",
-        "displayName": "người ký",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
-    },
-    {
-        "type": "Text",
-        "displayType": "ShortText",
-        "name": "ngay_co_hieu_luc",
-        "displayName": "ngày có hiệu lực",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
-    },
-    {
-        "type": "Text",
-        "displayType": "ShortText",
-        "name": "tai_lieu_dinh_kem",
-        "displayName": "tài liệu đính kèm",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
-    },
-    {
-        "type": "Text",
-        "displayType": "ShortText",
-        "name": "so",
-        "displayName": "số",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
-    },
-    {
-        "name": "tag",
-        "displayName": "tag",
-        "type": "Array",
         "validations": [],
         "required": false
     }

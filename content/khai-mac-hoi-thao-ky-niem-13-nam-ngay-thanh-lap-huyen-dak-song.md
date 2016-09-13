@@ -4,7 +4,7 @@
     "layout": "post.html",
     "category": "hoat-ong-cua-lanh-ao",
     "title": "KHAI MẠC HỘI THAO KỶ NIỆM 13 NĂM NGÀY THÀNH LẬP HUYỆN DAK SONG",
-    "description": "",
+    "description": "KHAI MẠC HỘI THAO KỶ NIỆM 13 NĂM NGÀY THÀNH LẬP HUYỆN DAK SONG",
     "date": "07-09-2016",
     "banner": "img/daksongtruso.jpg",
     "tag": [],

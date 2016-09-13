@@ -8,7 +8,7 @@
     "date": "2016-07-26 21:36:45 +07:00",
     "banner": "hinh-anh/tin-noi-bat/xetxu.jpg",
     "tag": "",
-    "permalink": true,
+    "permalink": true
     
     
 }

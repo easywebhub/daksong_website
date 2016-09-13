@@ -16,8 +16,8 @@
             {
                 "ten": "Thông tin đều hành",
                 "name": "thongTinChiDaoDieuHanh",
-                "collections_name": "thong-tin-ieu-hanh.thong-tin-chi-ao-ieu-hanh",
-                "url":"thong-tin-ieu-hanh/thong-tin-chi-ao-ieu-hanh"
+                "collections_name": "thong-tin-dieu-hanh.thong-tin-chi-dao-dieu-hanh",
+                "url":"thong-tin-dieu-hanh/thong-tin-chi-dao-dieu-hanh"
             },
             {
                 "ten": "Tin y tế giáo dục",
@@ -33,7 +33,7 @@
         "danh_sach": [
             {
                 "ten": "Thông tin đều hành",
-                "collections_name": "thong-tin-ieu-hanh"
+                "collections_name": "thong-tin-dieu-hanh"
             }
         ]
     },
@@ -60,13 +60,13 @@
         "danh_sach": [
             {
                 "ten": "Thông tin chỉ đạo điều hành",
-                "collections_name": "thong-tin-ieu-hanh.thong-tin-chi-ao-ieu-hanh",
+                "collections_name": "thong-tin-dieu-hanh.thong-tin-chi-dao-dieu-hanh",
                 "name":"thongTinDieuChiDaoDh",
-                "url":"thong-tin-ieu-hanh/thong-tin-chi-ao-ieu-hanh"
+                "url":"thong-tin-dieu-hanh/thong-tin-chi-dao-dieu-hanh"
             },
              {
                 "ten": "Lịch làm việc",
-                "collections_name": "thong-tin-ieu-hanh.lich-lam-viec",
+                "collections_name": "thong-tin-dieu-hanh.lich-lam-viec",
                 "name":"lichLamViec",
                 "url":"thong-tin-ieu-hanh/lich-lam-viec"
             }

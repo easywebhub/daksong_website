@@ -5,6 +5,6 @@
     "description": "",
     "category": "quan-ly-nha-nuoc.thong-tin-du-an",
       "layout": "post.html",
-    "date": "2016-09-05 14:01:48"
+    "date": "2016-09-05"
 }
 ---

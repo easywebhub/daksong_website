@@ -8,8 +8,8 @@
     "date": "13-09-2016",
     "banner": "",
     "tag": [],
-    "permalink": "",
-    "draft": "",
-    "url": ""
+    
+    "draft": ""
+   
 }
 ---

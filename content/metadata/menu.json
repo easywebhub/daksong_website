@@ -111,22 +111,22 @@
         },
         {
             "title": "Thông tin điều hành",
-            "url": "thong-tin-ieu-hanh",
+            "url": "thong-tin-dieu-hanh",
             "type": {
                 "isMulti": true
             },
             "subMenu": [
                 {
                     "title": "Thông tin chỉ đạo điều hành",
-                    "url": "thong-tin-ieu-hanh/thong-tin-chi-ao-ieu-hanh"
+                    "url": "thong-tin-dieu-hanh/thong-tin-chi-dao-dieu-hanh"
                 },
                 {
                     "title": "Thông tin khen thưởng xử phạt",
-                    "url": "thong-tin-ieu-hanh/thong-tin-khen-thuong-xu-phat"
+                    "url": "thong-tin-dieu-hanh/thong-tin-khen-thuong-xu-phat"
                 },
                 {
                     "title": "Lịch làm việc",
-                    "url": "thong-tin-ieu-hanh/lich-lam-viec"
+                    "url": "thong-tin-dieu-hanh/lich-lam-viec"
                 }
             ]
         },

@@ -2,7 +2,7 @@
 {
     "slug": "thong-bao-ve-viec-tiep-cong-dan-cua-chu-tich",
     "layout": "post.html",
-    "category": "thong-tin-ieu-hanh.thong-tin-chi-ao-ieu-hanh",
+    "category": "thong-tin-dieu-hanh.thong-tin-chi-dao-dieu-hanh",
     "title": "THÔNG BÁO Về việc tiếp công dân của Chủ tịch UBND huyện Đăk Song",
     "description": "",
     "date": "08-09-2026",

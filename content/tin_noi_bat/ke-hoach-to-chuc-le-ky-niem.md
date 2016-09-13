@@ -9,7 +9,7 @@
     
     "banner": "hinh-anh/tin-noi-bat/vua-quang-trung-1455255270.jpg",
     "permalink": "",
-    ,
+    
     "tag": ""
 }
 ---

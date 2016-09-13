@@ -75,13 +75,5 @@
         "validations": [],
         "viewOnly": false,
         "required": false
-    },
-    {
-        "name": "url",
-        "displayName": "url",
-        "type": "Text",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
     }
 ]

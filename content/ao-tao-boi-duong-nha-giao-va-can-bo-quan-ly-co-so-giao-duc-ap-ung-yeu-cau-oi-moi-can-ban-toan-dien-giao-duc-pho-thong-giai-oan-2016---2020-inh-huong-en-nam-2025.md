@@ -8,7 +8,7 @@
     "date": "2016-09-05",
     "banner": "img/tieu-giong-Gia-Lai.gif",
     "tag": "",
-    "permalink": "",
+    "permalink": ""
     
     
 }

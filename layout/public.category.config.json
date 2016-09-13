@@ -60,13 +60,9 @@
         "required": false
     },
     {
-        "type": "Text",
-        "displayType": "ShortText",
         "name": "banner",
         "displayName": "ảnh",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
+        "type": "Media"
     },
     {
         "name": "permalink",

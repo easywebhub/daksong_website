@@ -9,8 +9,7 @@
     "banner": "/img/daksongtruso.jpg",
     "tag": "",
     "permalink": true,
-    "draft": "",
-    "url": ""
+    "draft": ""
 }
 ---
 Từ ngày 16/6/2014 đến ngày 20/6/2014 Ủy ban

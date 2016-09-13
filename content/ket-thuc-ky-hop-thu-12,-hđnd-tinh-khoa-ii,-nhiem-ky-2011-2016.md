@@ -9,8 +9,8 @@
     "banner": "img/2140-TTSK-1.jpg",
     "tag": [],
     "permalink": true,
-    "draft": "",
-    "url": ""
+    
+    
 }
 ---
 Tiếp tục chương trình làm việc, ngày 10/12, kỳ họp thứ 12 HĐND tỉnh đã tiến hành các thủ tục miễn nhiệm và bầu bổ sung các chức danh: Phó Chủ tịch HĐND tỉnh, Chủ tịch UBND tỉnh, Phó Chủ tịch UBND tỉnh khóa II, nhiệm kỳ 2011-2016; miễn nhiệm thành viên Ban Văn hóa-Xã hội HĐND tỉnh khóa II, nhiệm kỳ 2011-2016.

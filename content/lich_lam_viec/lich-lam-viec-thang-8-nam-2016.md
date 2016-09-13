@@ -9,8 +9,8 @@
     "banner": "img/thumbnail.jpg",
     "tag": "",
     "permalink": true,
-    "draft": "",
-    "url": ""
+    
+    
 }
 ---
 lịch làm việc tháng 8

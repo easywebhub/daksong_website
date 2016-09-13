@@ -6,10 +6,10 @@
     "title": "tiêu đề chính sách",
     "description": "mô tả ngắn",
     "date": "08-09-2016",
-    "draft": "",
+    
     "banner": "/img/daksongtruso.jpg",
     "permalink": "",
-    "url": "",
+    ,
     "tag": ""
 }
 ---

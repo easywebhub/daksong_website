@@ -9,7 +9,7 @@
     "banner": "",
     "tag": "",
     "permalink": "",
-    "draft": "",
-    "url": ""
+    
+    
 }
 ---

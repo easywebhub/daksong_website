@@ -9,7 +9,7 @@
     "banner": "img/tieu-giong-Gia-Lai.gif",
     "tag": "",
     "permalink": "",
-    "draft": "",
-    "url": ""
+    
+    
 }
 ---

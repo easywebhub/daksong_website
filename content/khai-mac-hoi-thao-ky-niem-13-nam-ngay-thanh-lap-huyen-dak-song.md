@@ -9,7 +9,7 @@
     "banner": "img/daksongtruso.jpg",
     "tag": [],
     "permalink": true,
-    "draft": "",
-    "url": ""
+    
+    
 }
 ---

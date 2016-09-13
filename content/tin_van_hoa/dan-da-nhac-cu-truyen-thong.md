@@ -5,7 +5,7 @@
     "title": "Đàn đá - nhạc cụ truyền thống cổ nhất của người Tây nguyên",
     "description": "Từ hàng ngàn năm trước, trên vùng đất Tây nguyên đã xuất hiện và lưu truyền một loại nhạc cụ độc đáo, đó là loại nhạc cụ thuộc hệ gõ mà người ta thường gọi là đàn đá, người M’nông gọi là Goong lǔ (tức là cồng đá).",
     "date": "2015-11-04",
-    "draft": "false",
+   
     "banner": "hinh-anh/tin-van-hoa/nhac-cu-truyen-thong.jpg",
     
 

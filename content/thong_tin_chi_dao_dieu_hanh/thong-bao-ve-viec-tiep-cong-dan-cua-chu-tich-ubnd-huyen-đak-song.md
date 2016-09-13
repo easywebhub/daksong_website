@@ -8,8 +8,8 @@
     "date": "08-09-2026",
     "banner": "hinh-anh/chi-dao-dieu-hanh/daksongtruso.jpg",
     "tag": "",
-    "draft": "",
-    "url": ""
+    
+    
 }
 ---
 Căn cứ Luật Tiếp công dân số 42/2013/QH13 được Quốc hội Nước Cộng hòa xã hội chủ nghĩa Việt Nam thông qua ngày 25/11/2013;

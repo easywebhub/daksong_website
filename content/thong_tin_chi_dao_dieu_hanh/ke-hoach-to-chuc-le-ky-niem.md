@@ -7,7 +7,7 @@
     "description": "Ngày 07/09/2012, UBND tỉnh ban hành Quyết định số 506/QĐ-UBND về việc ban hành Kế hoạch này  ",
     "date": "08-09-2026",
     "banner": "hinh-anh/chi-dao-dieu-hanh/QuangTrungNguyenHue.jpg",
-    "tag": "",
+    "tag": ""
     
     
 }

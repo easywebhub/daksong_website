@@ -8,6 +8,7 @@
     "date": "08-09-2026",
     "banner": "hinh-anh/chi-dao-dieu-hanh/QuangTrungNguyenHue.jpg",
     "tag": "",
+    "permalink": true,
     "draft": "",
     "url": ""
 }

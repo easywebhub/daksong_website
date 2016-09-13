@@ -35,7 +35,7 @@
     },
     {
         "type": "Text",
-        "displayType": "ShortText",
+        "displayType": "LongText",
         "name": "description",
         "displayName": "mô tả",
         "validations": [],

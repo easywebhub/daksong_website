@@ -4,7 +4,7 @@
     "layout": "post.html",
     "category": "giay-moi",
     "title": " Giấy mời số 88/GM-UBND ngày 29/6/2016 của UBND huyện V/v Họp bàn biện pháp đẩy nhanh tiến độ thực hiện tiêu chí XDNTM xã Cư Knia năm 2016",
-    "description": "",
+    "description": " Giấy mời số 88/GM-UBND ngày 29/6/2016 của UBND huyện V/v Họp bàn biện pháp đẩy nhanh tiến độ thực hiện tiêu chí XDNTM xã Cư Knia năm 2016",
     "date": "13-09-2016",
     "banner": "",
     "tag": [],

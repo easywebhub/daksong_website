@@ -16,16 +16,17 @@
         "required": false
     },
     {
-        "name": "title",
-        "displayName": "title",
         "type": "Text",
+        "displayType": "ShortText",
+        "name": "title",
+        "displayName": "tiêu đề",
         "validations": [],
         "viewOnly": false,
         "required": false
     },
     {
         "type": "Text",
-        "displayType": "ShortText",
+        "displayType": "LongText",
         "name": "description",
         "displayName": "mô tả",
         "validations": [],
@@ -45,6 +46,21 @@
         "name": "permalink",
         "displayName": "permalink",
         "type": "Boolean",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "category",
+        "displayName": "category",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "tag",
+        "displayName": "tag",
+        "type": "Array",
         "validations": [],
         "required": false
     }

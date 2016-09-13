@@ -68,7 +68,7 @@
                 "ten": "Lịch làm việc",
                 "collections_name": "thong-tin-dieu-hanh.lich-lam-viec",
                 "name":"lichLamViec",
-                "url":"thong-tin-ieu-hanh/lich-lam-viec"
+                "url":"thong-tin-dieu-hanh/lich-lam-viec"
             }
         ]
     },

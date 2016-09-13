@@ -8,7 +8,7 @@
     "date": "08-09-2016",
     
     "banner": "/img/daksongtruso.jpg",
-    "permalink": "",
+    "permalink": ""
     ,
     "tag": ""
 }

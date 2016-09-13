@@ -1,0 +1,10 @@
+{
+    "sortBy": "date",
+    "reverse": false,
+    "displayName":"Thông tin điều hành",
+    "perPage": 10,
+    "noPageOne": true,
+    "layout": "public.category.html",
+    "first": ":categoryPath/index.html",
+    "path": ":categoryPath/page/:num/index.html"
+}

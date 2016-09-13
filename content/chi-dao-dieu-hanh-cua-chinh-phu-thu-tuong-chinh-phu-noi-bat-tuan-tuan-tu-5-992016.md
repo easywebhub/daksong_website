@@ -6,7 +6,7 @@
     "description": "Bảo đảm tăng trưởng từng ngành, từng lĩnh vực; chức năng, nhiệm vụ và cơ cấu tổ chức của Bộ, cơ quan ngang Bộ; áp dụng biểu thuế xuất nhập khẩu ưu đãi mới từ 1/9/2016; tăng cường kỷ luật, kỷ cương trong các cơ quan hành chính nhà nước... là những thông tin chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ nổi bật tuần từ 5-9/9/2016",
     "date": "13-09-2016 15:22:19",
     "permalink": true,
-    "category": "thong-tin-chi-ao-ieu-hanh",
+    "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": []
 }
 ---

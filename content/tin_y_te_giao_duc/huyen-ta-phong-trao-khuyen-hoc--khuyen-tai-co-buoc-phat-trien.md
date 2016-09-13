@@ -8,6 +8,7 @@
     "date": "2016-09-08",
     "banner": "/img/1457-XH-2.jpg",
     "tag": "",
+    "permalink": true,
     "draft": "",
     "url": ""
 }

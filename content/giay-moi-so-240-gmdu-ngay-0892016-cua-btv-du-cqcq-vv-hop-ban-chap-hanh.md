@@ -6,6 +6,6 @@
     "category": "giay-moi",
     "tag": [],
     "layout": "post.html",
-    "date": "13-09-2016 11:59:32"
+    "date": "13-09-2016"
 }
 ---

@@ -5,7 +5,7 @@
     "title": "Đặc sản",
     "description": "",
     "date": "08-09-2016",
-    "permalink": true,
+    "permalink": true
   
 }
 ---

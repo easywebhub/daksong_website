@@ -7,6 +7,9 @@
     "description": "",
     "date": "08-09-2016",
     "banner": "img/2306-TT-7.jpg",
-    "tag": []
+    "tag": [],
+    "permalink": true,
+    "draft": "",
+    "url": ""
 }
 ---

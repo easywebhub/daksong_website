@@ -8,7 +8,7 @@
     "date": "08-09-2016",
     "banner": "img/thumbnail.jpg",
     "tag": "",
-    "permalink": true,
+    "permalink": true
     
     
 }

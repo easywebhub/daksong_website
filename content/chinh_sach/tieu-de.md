@@ -1,7 +1,7 @@
 ---json
 {
     "slug": "tieu-de",
-    "layout": "default.category.html",
+    "layout": "post.html",
     "category": "thong-tin-tuyen-truyen.chinh-sach",
     "title": "tiêu đề",
     "description": "mô tả",

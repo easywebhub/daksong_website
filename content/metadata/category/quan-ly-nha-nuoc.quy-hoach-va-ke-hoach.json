@@ -1,6 +1,7 @@
 {
     "sortBy": "date",
     "reverse": false,
+    "metadata": {"title": "Quy hoạch và kế hoạch" },
     "displayName": "Quy hoạch và kế hoạch",
     "perPage": 10,
     "noPageOne": true,

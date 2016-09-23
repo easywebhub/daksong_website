@@ -1,6 +1,7 @@
 {
     "sortBy": "date",
     "reverse": false,
+     "metadata": {"title": "Thông tin chỉ đạo điều hành" },
     "displayName": "Thông tin chỉ đạo điều hành",
     "perPage": 10,
     "noPageOne": true,

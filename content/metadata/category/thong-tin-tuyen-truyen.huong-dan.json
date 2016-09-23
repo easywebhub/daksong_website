@@ -2,6 +2,7 @@
     "sortBy": "date",
     "reverse": false,
     "displayName":"Hướng dẫn",
+     "metadata": {"title": "Hướng dẫn" },
     "perPage": 10,
     "noPageOne": true,
     "layout": "default.category.html",

@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
     "reverse": false,
-    
+    "metadata": {"title": "Tin ý tế và giáo dục" },
     "displayName": "Tin ý tế và giáo dục",
     "perPage": 10,
     "noPageOne": true,

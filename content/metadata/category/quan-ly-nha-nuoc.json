@@ -1,6 +1,7 @@
 {
     "sortBy": "date",
     "reverse": false,
+    "metadata": {"title": "Quản lý nhà nước" },
     "displayName":"Quản lý nhà nước",
     "perPage": 10,
     "noPageOne": true,

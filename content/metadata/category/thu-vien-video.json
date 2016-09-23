@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
     "reverse": false,
-
+ "metadata": {"title": "Thư viện Video" },
     "displayName": "Thư viện Video",
     "perPage": 10,
     "noPageOne": true,

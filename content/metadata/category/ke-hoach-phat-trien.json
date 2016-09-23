@@ -1,6 +1,7 @@
 {
     "sortBy": "date",
     "reverse": false,
+    "metadata": {"title": "Kế hoạch phát triển" },
     "displayName":"Kế hoạch phát triển",
     "perPage": 10,
     "noPageOne": true,

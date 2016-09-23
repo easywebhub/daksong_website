@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
     "reverse": false,
-
+"metadata": {"title": "Tin văn hóa" },
     "displayName": "Tin văn hóa",
     "perPage": 10,
     "noPageOne": true,

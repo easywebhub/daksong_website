@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
     "reverse": false,
-   
+   "metadata": {"title": "Thông tin tuyên truyền" },
     "displayName":"Thông tin tuyên truyền",
     "perPage": 10,
     "noPageOne": true,

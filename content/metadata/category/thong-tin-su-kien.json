@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
     "reverse": false,
- 
+ "metadata": {"title": "Thông tin sự kiện" },
     "displayName": "Thông tin sự kiện",
     "perPage": 10,
     "noPageOne": true,

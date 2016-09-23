@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "title": "Nhân Đạo phát triển nông nghiệp theo hướng bền vững",
     "description": "",
-    "date": "23-09-2016 14:28:11",
+    "date": "23-09-2016",
     "banner": "",
     "tag": [],
     "permalink": "",

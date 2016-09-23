@@ -1,11 +1,11 @@
 {
     "sortBy": "date",
     "reverse": false,
-    "metadata": {"title": "Tin văn hóa" },
-    "displayName": "Tin văn hóa",
+    "metadata": {"title":"Văn bản của huyện" },
+    "displayName": "Văn bản của huyện",
     "perPage": 10,
     "noPageOne": true,
-    "layout": "public.category.html",
+    "layout": "vanban.category.html",
     "first": ":categoryPath/index.html",
     "path": ":categoryPath/page/:num/index.html"
 }

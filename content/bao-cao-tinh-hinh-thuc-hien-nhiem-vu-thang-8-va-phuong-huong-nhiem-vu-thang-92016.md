@@ -10,11 +10,11 @@
     "so": "",
     "permalink": "",
     "trich_yeu": "",
-    "co_quan_ban_hanh": "",
+    "co_quan_ban_hanh": "Uỷ ban nhân dân huyện Daksong",
     "linh_vuc": "",
     "loai_van_ban": "",
     "nguoi_ky": "",
     "ngay_co_hieu_luc": "",
-    "tai_lieu_dinh_kem": ""
+    "tai_lieu_dinh_kem": "img/báo cáo tháng 8 và phương hướng nhiệm vụ tháng 9 năm 2016(chuẩn).doc"
 }
 ---

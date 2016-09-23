@@ -155,11 +155,25 @@
             }
         },
         {
-            "title": "Văn bản pháp luật",
+            "title": "Văn bản & pháp luật",
             "url": "van-ban-phap-luat",
             "type": {
-                "isMulti": false
-            }
+                "isMulti": true
+            },
+            "subMenu": [
+                {
+                    "title": "Văn bản của tỉnh",
+                    "url": "van-ban-phap-luat/van-ban-cua-tinh"
+                },
+                {
+                    "title": "Văn bản của huyện",
+                    "url": "van-ban-phap-luat/van-ban-cua-huyen"
+                },
+                {
+                    "title": "Tiếp dân",
+                    "url": "van-ban-phap-luat/tiep-dan"
+                }
+            ]
         }
     ]
 }

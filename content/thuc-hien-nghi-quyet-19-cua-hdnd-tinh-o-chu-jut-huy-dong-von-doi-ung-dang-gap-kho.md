@@ -5,7 +5,7 @@
     "category": "hoat-dong-cua-lanh-dao",
     "title": "Thực hiện Nghị quyết 19 của HĐND tỉnh ở Chư Jút Huy động vốn đối ứng đang gặp khó",
     "description": "",
-    "date": "23-09-2016 15:29:11",
+    "date": "23-09-2016",
     "banner": "img/cầu_jpg.jpg",
     "tag": [],
     "permalink": "",

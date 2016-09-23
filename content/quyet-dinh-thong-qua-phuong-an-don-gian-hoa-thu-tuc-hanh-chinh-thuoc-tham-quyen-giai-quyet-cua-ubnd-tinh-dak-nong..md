@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "quyet-dinh-thong-qua-phuong-an-don-gian-hoa-thu-tuc-hanh-chinh-thuoc-tham-quyen-giai-quyet-cua-ubnd-tinh-dak-nong.",
+    "slug": "quyet-dinh-thong-qua-phuong-an-don-gian-hoa-thu-tuc-hanh-chinh-thuoc-tham-quyen-giai-quyet-cua-ubnd-tinh-dak-nong",
     "layout": "post.html",
     "category": "thong-tin-dieu-hanh.thong-tin-chi-dao-dieu-hanh",
     "title": "Quyết định thông qua Phương án đơn giản hoá thủ tục hành chính thuộc thẩm quyền giải quyết của UBND tỉnh Đắk Nông.",

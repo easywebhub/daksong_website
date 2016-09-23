@@ -4,7 +4,7 @@
     "category": "van-ban-phap-luat",
     "tag": [],
     "layout": "van-ban.html",
-    "title": "689/UBND-NN",
+    "title": "Công văn số: 689/UBND-NN, ngày 05/3/2014 của UBND tỉnh Đăk Nông về việc tổ chức Lễ Mittinh hưởng ứng Ngày Nước thế giới năm 2014 ",
     "description": "Số:689/UBND-NN",
     "date": "23-09-2016",
     "so": "689/UBND-NN",

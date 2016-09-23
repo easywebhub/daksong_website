@@ -16,8 +16,8 @@
             {
                 "ten": "Thông tin đều hành",
                 "name": "thongTinChiDaoDieuHanh",
-                "collections_name": "thong-tin-ieu-hanh.thong-tin-chi-ao-ieu-hanh",
-                "url":"thong-tin-ieu-hanh/thong-tin-chi-ao-ieu-hanh"
+                "collections_name": "thong-tin-dieu-hanh.thong-tin-chi-dao-dieu-hanh",
+                "url":"thong-tin-dieu-hanh/thong-tin-chi-dao-dieu-hanh"
             },
             {
                 "ten": "Tin y tế giáo dục",
@@ -33,7 +33,7 @@
         "danh_sach": [
             {
                 "ten": "Thông tin đều hành",
-                "collections_name": "thong-tin-ieu-hanh"
+                "collections_name": "thong-tin-dieu-hanh"
             }
         ]
     },
@@ -60,15 +60,15 @@
         "danh_sach": [
             {
                 "ten": "Thông tin chỉ đạo điều hành",
-                "collections_name": "thong-tin-ieu-hanh.thong-tin-chi-ao-ieu-hanh",
+                "collections_name": "thong-tin-dieu-hanh.thong-tin-chi-dao-dieu-hanh",
                 "name":"thongTinDieuChiDaoDh",
-                "url":"thong-tin-ieu-hanh/thong-tin-chi-ao-ieu-hanh"
+                "url":"thong-tin-dieu-hanh/thong-tin-chi-dao-dieu-hanh"
             },
              {
                 "ten": "Lịch làm việc",
-                "collections_name": "thong-tin-ieu-hanh.lich-lam-viec",
+                "collections_name": "thong-tin-dieu-hanh.lich-lam-viec",
                 "name":"lichLamViec",
-                "url":"thong-tin-ieu-hanh/lich-lam-viec"
+                "url":"thong-tin-dieu-hanh/lich-lam-viec"
             }
         ]
     },
@@ -93,13 +93,10 @@
     "title":"THÔNG BÁO Về việc tiếp công dân của Chủ tịch UBND huyện Đăk Song",
     "description": "Sáng ngày 21/9, Toà án nhân dân huyện đã đưa ra xét xử lưu động tại xã Nam Bình 02 vụ án trộm cắp tài sản đối với các bị báo: Nguyễn Huy Hùng, bị cáo Trần Văn Hưng và bị cáo Phan Văn Đức..",
     "banner": "hinh-anh/tin-noi-bat/xetxu.jpg"},
-    {"slug":"nhung-net-noi-bat-trong-cuoi-thang-8/2016",
-    "title":"Tỉnh Đăk Song: những nét nổi bật trong cuối tháng 4/2016",
-    "banner": "img/01_650x434.JPG"},
-    {"slug":"trong-so-tai-nan-bi-thuong-trong-vu-tai-nan-kinh-hoanh-o-dak-song",
-    "title":"Trong số 21 nạn nhân bị thương trong vụ tai nạn kinh hoàng ở Đắk Sông hôm 2/5",
-    "description":"(ĐSPL) - Trong số 21 nạn nhân bị thương trong vụ tai nạn kinh hoàng ở Đắk Nông hôm 2/5, 14 bệnh nhân hiện vẫn đang tiếp tục được điều trị đặc biệt",
-    "banner": "img/tai-nan-5897-1462186261-dspl-352006.jpg"}
+    {"slug":"bat-doi-tuong-tuong-gia-vo-mua-hang-de-cuop-tai-san",
+    "title":"Ngày 25-7, Cơ quan CSĐT Công an huyện Đắk G’long",
+    "banner": "hinh-anh/tin-an-ninh-truc-tu/cuop_tai_san.jpg",
+    "description":"Ngày 25-7, Cơ quan CSĐT Công an huyện Đắk G’long, tỉnh Đắk Nông cho biết, đã ra quyết định khởi tố vụ án, khởi tố bị can và ra lệnh tạm giam đối với Nguyễn Văn Trung (18 tuổi), trú tại xã Đạ Rsal, huyện Đam Rông, tỉnh Lâm Đồng và Hoàng Văn Tùng (19 tuổi), trú tại xã Krông Nô, huyện Lắk, tỉnh Đắk Lắk về hành vi cướp tài sản."}
 
     ]
 }

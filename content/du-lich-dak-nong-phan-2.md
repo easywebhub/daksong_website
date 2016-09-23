@@ -5,7 +5,7 @@
     "category": "thu-vien-video",
     "title": "Du lich Đăk Nông phần 2",
     "description": "Du lich Đăk Nông phần 2",
-    "date": "23-09-2016 14:58:24",
+    "date": "23-09-2016",
     "banner": "",
     "tag": [],
     "permalink": "",

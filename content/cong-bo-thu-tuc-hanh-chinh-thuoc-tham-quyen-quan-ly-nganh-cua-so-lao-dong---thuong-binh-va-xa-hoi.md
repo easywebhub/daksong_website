@@ -6,6 +6,6 @@
     "category": "thong-tin-dieu-hanh.thong-tin-chi-dao-dieu-hanh",
     "tag": [],
     "layout": "post.html",
-    "date": "23-09-2016 11:49:37"
+    "date": "23-09-2016"
 }
 ---

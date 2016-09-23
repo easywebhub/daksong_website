@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
     "reverse": false,
-    "metadata": {Văn bản của tỉnh},
+    "metadata": {"title": "Văn bản của tỉnh"},
     "displayName": "Văn bản của tỉnh",
     "perPage": 10,
     "noPageOne": true,

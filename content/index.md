@@ -96,7 +96,17 @@
     {"slug":"bat-doi-tuong-tuong-gia-vo-mua-hang-de-cuop-tai-san",
     "title":"Ngày 25-7, Cơ quan CSĐT Công an huyện Đắk G’long",
     "banner": "hinh-anh/tin-an-ninh-truc-tu/cuop_tai_san.jpg",
-    "description":"Ngày 25-7, Cơ quan CSĐT Công an huyện Đắk G’long, tỉnh Đắk Nông cho biết, đã ra quyết định khởi tố vụ án, khởi tố bị can và ra lệnh tạm giam đối với Nguyễn Văn Trung (18 tuổi), trú tại xã Đạ Rsal, huyện Đam Rông, tỉnh Lâm Đồng và Hoàng Văn Tùng (19 tuổi), trú tại xã Krông Nô, huyện Lắk, tỉnh Đắk Lắk về hành vi cướp tài sản."}
+    "description":"Ngày 25-7, Cơ quan CSĐT Công an huyện Đắk G’long, tỉnh Đắk Nông cho biết, đã ra quyết định khởi tố vụ án, khởi tố bị can và ra lệnh tạm giam đối với Nguyễn Văn Trung (18 tuổi), trú tại xã Đạ Rsal, huyện Đam Rông, tỉnh Lâm Đồng và Hoàng Văn Tùng (19 tuổi), trú tại xã Krông Nô, huyện Lắk, tỉnh Đắk Lắk về hành vi cướp tài sản."},
+      {"slug": "quyet-dinh-thong-qua-phuong-an-don-gian-hoa-thu-tuc-hanh-chinh-thuoc-tham-quyen-giai-quyet-cua-ubnd-tinh-dak-nong",
+    "title": "Quyết định thông qua Phương án đơn giản hoá thủ tục hành chính thuộc thẩm quyền giải quyết của UBND tỉnh Đắk Nông.",
+    "description": "Quyết định thông qua Phương án đơn giản hoá thủ tục hành chính thuộc thẩm quyền giải quyết của UBND tỉnh Đắk Nông.",
+    "banner": "img/img1.jpg"
+    },
+    {"slug": "33-nguoi-chet-vi-tai-nan-giao-thong-trong-3-ngay-nghi-le",
+    "title": "33 người chết vì tai nạn giao thông trong 3 ngày nghỉ lễ",
+    "description": "Trong 3 ngày nghỉ lễ từ 2 – 4/9, tình hình trật tự an toàn giao thông được đảm bảo, cơ bản đáp ứng nhu cầu đi lại của người dân. Đây là đánh giá chung của Ủy ban An toàn giao thông Quốc gia.\n \nHiện trường một vụ tai nạn giao thông nghiêm trọng. (Ảnh: TTXVN)\n\n \nTrong kỳ nghỉ lễ này, Bộ Giao thông vận tải, Bộ Công an, Ban An toàn giao thông các địa phương đã tăng cường công tác chỉ đạo, triển khai thực hiện nghiêm túc Công điện 1502/CĐ-TTg của Thủ tướng Chính phủ về bảo đảm trật tự, an toàn giao thông trong thời gian lễ Quốc khánh 2/9 và khai giảng năm học mới 2016 – 2017. Mặc dù nhu cầu đi lại và mật độ phương tiện giao thông tăng cao trong 3 ngày nghỉ lễ, nhưng hoạt động vận tải và bảo đảm trật tự, an toàn giao thông trên toàn quốc được duy trì ổn định đáp ứng nhu cầu đi lại của người dân. Công tác vận tải hành khách được tăng cường trên lĩnh vực đường bộ, đường sắt và hàng không; tình hình an ninh, trật tự tại các bến xe, nhà ga, cảng hàng không, trên các phương tiện vận tải hành khách được duy trì ổn định, thông suốt, không xảy ra ùn tắc nghiêm trọng. \n ",
+    "banner": "img/ttxvn_tngt7_20_58_36_857-21_03_46_358.jpg"
+    }
 
     ]
 }

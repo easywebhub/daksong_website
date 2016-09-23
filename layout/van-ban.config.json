@@ -129,5 +129,29 @@
         "name": "tai_lieu_dinh_kem",
         "displayName": "tài liệu đính kèm",
         "type": "Media"
+    },
+    {
+        "name": "banner",
+        "displayName": "banner",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "draft",
+        "displayName": "draft",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "url",
+        "displayName": "url",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
     }
 ]

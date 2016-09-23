@@ -1,14 +1,22 @@
 ---json
 {
     "slug": "thong-tu-lien-tich-so-062014ttlt-btp-ttcp-bqp-ngay-14022014-cua-bo-tu-phap-thanh-tra-chinh-phu-bo-quoc-phong",
-    "layout": "van-ban.html",
     "category": "van-ban-phap-luat",
+    "tag": [],
+    "layout": "van-ban.html",
     "title": "689/UBND-NN",
     "description": "Số:689/UBND-NN",
     "date": "23-09-2016",
-    "banner": "",
-    "tag": [],
+    "so": "689/UBND-NN",
     "permalink": "",
+    "trich_yeu": "",
+    "co_quan_ban_hanh": "",
+    "linh_vuc": "",
+    "loai_van_ban": "",
+    "nguoi_ky": "",
+    "ngay_co_hieu_luc": "",
+    "tai_lieu_dinh_kem": "",
+    "banner": "",
     "draft": "",
     "url": ""
 }

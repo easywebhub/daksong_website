@@ -1,24 +1,9 @@
 {
     "title": "Danh sách items trong menu",
-    "menuList":[
-        {
-            "category": "trang-chu",
-            "type": "files"
-        },
-        {
-            "category": "gioi-thieu",
-            "type": "files"
-        },
-        {
-            "category": "thong-tin-dieu-hanh",
-            "type": "children"
-        }
-    ],
     "items": [
         {
             "title": "Trang chủ",
             "selected": "LvSelected",
-            
             "type": {
                 "isMulti": true,
                 "float": "left"
@@ -105,7 +90,6 @@
                 {
                     "title": "Tin an toàn giao thông",
                     "url": "tin-tuc-su-kien/tin-an-toan-giao-thong"
-                    
                 }
             ]
         },
@@ -172,8 +156,26 @@
                 {
                     "title": "Tiếp dân",
                     "url": "van-ban-phap-luat/tiep-dan"
+                },
+                {
+                    "title": "Thủ tục hành chính",
+                    "url": "van-ban-phap-luat/thu-tuc-hanh-chinh"
                 }
             ]
+        }
+    ],
+    "menuList": [
+        {
+            "category": "trang-chu",
+            "type": "files"
+        },
+        {
+            "category": "gioi-thieu",
+            "type": "files"
+        },
+        {
+            "category": "thong-tin-dieu-hanh",
+            "type": "children"
         }
     ]
 }

@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "quyet-dinh-thu-hoi-giay-phep-khai-thac-quang-wolfram---thiec-tai-mo-quang-wolfram-dak-r’mang-ii-xa-dak-r’mang-huyen-dak-glong",
+    "slug": "quyet-dinh-thu-hoi-giay-phep-khai-thac-quang-wolfram-thiec-tai-mo-quang-wolfram-dak-r’mang-ii-xa-dak-r’mang-huyen-dak-glong",
     "layout": "post.html",
     "category": "thong-tin-dieu-hanh.thong-tin-chi-dao-dieu-hanh",
     "title": "Quyết định thu hồi Giấy phép khai thác quặng Wolfram - thiếc tại mỏ quặng Wolfram Đắk R’măng II, xã Đắk R’măng, huyện Đắk Glong",

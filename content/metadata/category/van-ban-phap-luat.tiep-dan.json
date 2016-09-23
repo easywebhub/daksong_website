@@ -1,0 +1,11 @@
+{
+    "sortBy": "date",
+    "reverse": false,
+    "metadata": {"title" : "Tiếp dân"},
+    "displayName": "Tiếp dân",
+    "perPage": 10,
+    "noPageOne": true,
+    "layout": "vanban.category.html",
+    "first": ":categoryPath/index.html",
+    "path": ":categoryPath/page/:num/index.html"
+}

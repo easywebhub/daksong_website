@@ -87,13 +87,13 @@ p{
 	padding: 0px 20px 0px 20px;
 }
 .mn-dangnhap:hover {
-	background: url("http://cujut.daknong.gov.vn/imgSonganh/menu-bgselect.png") repeat left 0px;
+	background: url("http://^%$#@!/imgSonganh/menu-bgselect.png") repeat left 0px;
 	display: inline-block;
 	border-left: 1px #606060 solid;
 	border-right: 1px #606060 solid;
 }
 .mn-dangnhap a:hover {
-	background: url("http://cujut.daknong.gov.vn/imgSonganh/menu-select.png") no-repeat center bottom;
+	background: url("http://^%$#@!/imgSonganh/menu-select.png") no-repeat center bottom;
 	display: block;
 }
 .logoS {
@@ -1696,7 +1696,7 @@ table.ds_VBPL {
 	margin-right: 2px!important;
 }
 .hlOBotzone3 .td_vanbanmoi {
-	background: url("http://cujut.daknong.gov.vn/imgSonganh/hot-bgtitle1.png") repeat-x 0px -1px;
+	background: url("http://^%$#@!/imgSonganh/hot-bgtitle1.png") repeat-x 0px -1px;
 	color: #fff!important;
 	font-size: 12px!important;
 	font-weight: bold;
@@ -1708,7 +1708,7 @@ table.ds_VBPL {
 	padding: 10px 10px 0px 10px;
 }
 .hlOBotzone3 .divvanbanmoi a {
-	background: url("http://cujut.daknong.gov.vn/imgSonganh/home-icon.png") no-repeat left 5px;
+	background: url("http://^%$#@!/imgSonganh/home-icon.png") no-repeat left 5px;
 	padding-left: 12px;
 	display: inline-block;
 }
@@ -1804,11 +1804,11 @@ a.print{
 	padding-left:20px;
 }
 css_Xemtiep{
-	background: url("http://cujut.daknong.gov.vn/soGDDTimage/xem.gif") no-repeat left top;
+	background: url("http://^%$#@!/soGDDTimage/xem.gif") no-repeat left top;
 	padding-top:10px;
 }
 .css_Xemtiep:hover{
-	background: url("http://cujut.daknong.gov.vn/soGDDTimage/xemH.gif") no-repeat left top;
+	background: url("http://^%$#@!/soGDDTimage/xemH.gif") no-repeat left top;
 }
 .css_Xemtiep img{
 	display:none;
@@ -2292,7 +2292,7 @@ html, body {height:100%; margin: 0; padding: 0; }
 h1, h2 { font-family: arial; padding: 0px; margin: 0 }
 
 #banner { padding: 15px; background-color: #06b; color: white; font-size: large; border-bottom: 1px solid #ccc;
-    background: url(http://cujut.daknong.gov.vn/Style%20Library/en-us/Core%20Styles/bg.gif) repeat-x; text-align: center }
+    background: url(http://^%$#@!/Style%20Library/en-us/Core%20Styles/bg.gif) repeat-x; text-align: center }
 #banner a { color: white; }
 
 .sitemap-title{

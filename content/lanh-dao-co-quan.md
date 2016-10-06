@@ -10,4 +10,4 @@
     "tag": []
 }
 ---
-Đồng Chí ABCDE
+Đồng Chí 

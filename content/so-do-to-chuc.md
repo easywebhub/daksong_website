@@ -11,56 +11,11 @@
 }
 ---
 I. Lãnh đạo HĐND huyện
-Chủtịch HĐND: Đ/c: NguyễnHữuKhánh
-
-PhóChủtịch HĐND
-
-
-
-
-
-
-
-
-Đ/c: Thị Trãi
-	PhóChủtịch HĐND
- 
-Đ/c: LêXuânTương
-- DanhsáchThườngtrực HĐND huyện 
-
-STT	Họvàtên	Chứcvụ	Sốđiệnthoạivănphòng
-1	NguyễnHữuKhánh	Phó Bí thư Huyện ủy- CT HĐND	05013710058
-2	Thị Trãi	Phó CT HĐND	05013710668
-3	LêXuânTương	Phó CT HĐND	05013083710
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-II. Lãnh đạo UBND huyện
-
-Chủtịch
-
- 
-
-NguyễnXuân Thanh
-
-Các Phó Chủ tịch:
- 
-
-Đ/c: NguyễnVăn Phò	 
-
-Đ/c: Nguyễn Ngọc Thân	 
-
-Đ/c: Lê Viết Sinh
+1. Chủ tịch HĐND: Đ/c: NguyễnHữuKhánh
+2. Phó Chủ tịch HĐND: Đ/c: Thị Trãi
+3. Phó Chủ tịch HĐND: Đ/c: LêXuânTương
+I. Lãnh đạo UBND huyện
+1. Chủ tịch UBND: Đ/c: NguyễnXuân Thanh
+2. Phó chủ tịch UBND huyện: Đ/c: NguyễnVăn Phò
+3. Phó chủ tịch UBND huyện: Đ/c: Nguyễn Ngọc Thân
+4. Phó chủ tịch UBND huyện: Đ/c: Lê Viết Sinh

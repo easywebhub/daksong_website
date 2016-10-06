@@ -10,7 +10,39 @@
     "tag": []
 }
 ---
-**LÃNH ĐẠO UBND HUYỆN**
+** A/ LÃNH ĐẠO HĐND HUYỆN**
+** I/ Đồng Chí: Nguyễn Hữu Khánh**
+- Sinh ngày:     tháng    năm 19  Giới tính: Nam
+- Quê quán: tỉnh Quảng Bình.
+- Dân tộc: Kinh    Tôn giáo: Không.
+- Chức vụ: Phó Bí thư Huyện ủy – Chủ tịch HĐND huyện Đăk Song.
+- Trình độ giáo dục phổ thông: 12/12
+- Trình độ chuyên môn: Cử nhân
+- Lý luận chính trị: Cao cấp 
+- Quản lý nhà nước: Chuyên viên chính
+- Công việc:
+** II/. Đồng Chí: Lê Xuân Tương**
+- Sinh ngày:  tháng  năm 19   Giới tính: Nam
+- Quê quán: .
+- Dân tộc: Kinh    Tôn giáo: Không.
+- Chức vụ: P.Chủ tịch HĐND huyện Đăk Song.
+- Trình độ giáo dục phổ thông: 12/12
+- Trình độ chuyên môn: Cử nhân 
+- Lý luận chính trị: Cao cấp 
+- Quản lý nhà nước: Chuyên viên chính
+- Công việc:
+** III/. Đồng Chí: Thị Trãi**
+- Sinh ngày:     tháng    năm 19  Giới tính: Nữ
+- Quê quán: .
+- Dân tộc: Kinh    Tôn giáo: Không.
+- Chức vụ: P.Chủ tịch HĐND huyện Đăk Song.
+- Trình độ giáo dục phổ thông: 12/12
+- Trình độ chuyên môn: Cử nhân 
+- Lý luận chính trị: Cao cấp 
+- Quản lý nhà nước: Chuyên viên chính
+- Công việc:
+
+**B/ LÃNH ĐẠO UBND HUYỆN**
 ** I/ Đồng Chí: Nguyễn Xuân Thanh**
 - Sinh ngày: 24 tháng 4 năm 1968  Giới tính: Nam
 - Quê quán: Phường Tứ Hạ, thị xã Hương Trà, tỉnh Thừa Thiên Huế.

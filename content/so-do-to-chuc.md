@@ -1,10 +1,10 @@
 ---json
 {
-    "layout": "daksong.html",
+    "layout": "page.html",
     "slug": "so-do-to-chuc",
     "title": "sơ đồ tổ chức",
     "description": "",
-    "category": "",
+    "category": "thong-tin-ieu-hanh",
     "tag": [],
     "date": "06-10-2016 14:20:33"
 }

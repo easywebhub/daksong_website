@@ -3,15 +3,14 @@
     "slug": "lanh-dao-co-quan",
     "layout": "page.html",
     "title": "Lãnh đạo cơ quan",
-    "description": "Mô tả lãnh đạo co quan",
+    "description": "Mô tả lãnh đạo cơ quan",
     "date": "06-10-2016 10:04:17",
     "permalink": "",
     "category": "",
     "tag": []
 }
 ---
-
-- Đồng Chí: Nguyễn Xuân Thanh
+ 1. Đồng Chí: Nguyễn Xuân Thanh
 - Sinh gày: 24 tháng 4 năm 1968  Giới tính: Nam
 - Quê quán: Phường Tứ Hạ, thị xã Hương Trà, tỉnh Thừa Thiên Huế.
 - Dân tộc: Kinh    Tôn giáo: Không.

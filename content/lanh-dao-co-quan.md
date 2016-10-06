@@ -10,7 +10,7 @@
     "tag": []
 }
 ---
-  1. Đồng Chí: Nguyễn Xuân Thanh
+1. Đồng Chí: Nguyễn Xuân Thanh
 - Sinh ngày: 24 tháng 4 năm 1968  Giới tính: Nam
 - Quê quán: Phường Tứ Hạ, thị xã Hương Trà, tỉnh Thừa Thiên Huế.
 - Dân tộc: Kinh    Tôn giáo: Không.

@@ -19,3 +19,4 @@ Trình độ giáo dục phổ thông: 12/12
 Trình độ chuyên môn: Cử nhân
 Lý luận chính trị: Cao cấp 
 Quản lý nhà nước: Chuyên viên chính
+- Công việc:

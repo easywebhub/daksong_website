@@ -20,13 +20,33 @@ I/ Đồng Chí: Nguyễn Xuân Thanh
 - Lý luận chính trị: Cao cấp 
 - Quản lý nhà nước: Chuyên viên chính
 - Công việc:
- II/. Đồng Chí: Nguyễn Ngọc Thân
+II/. Đồng Chí: Nguyễn Văn Phò
+- Sinh ngày:  tháng  năm 1968  Giới tính: Nam
+- Quê quán: xã Hải Chánh - huyện Hải Lăng – tỉnh Quảng Trị.
+- Dân tộc: Kinh    Tôn giáo: Không.
+- Chức vụ: HUV – P.Chủ tịch UBND huyện Đăk Song.
+- Trình độ giáo dục phổ thông: 12/12
+- Trình độ chuyên môn: Cử nhân kinh tế
+- Lý luận chính trị: Cao cấp 
+- Quản lý nhà nước: Chuyên viên chính
+- Công việc:
+ III/. Đồng Chí: Nguyễn Ngọc Thân
 - Sinh ngày: 19 tháng 5 năm 1969  Giới tính: Nam
 - Quê quán: xã Mỹ Châu - huyện Phù Mỹ – tỉnh Bình Định.
 - Dân tộc: Kinh    Tôn giáo: Không.
 - Chức vụ: HUV – P.Chủ tịch UBND huyện Đăk Song.
 - Trình độ giáo dục phổ thông: 12/12
 - Trình độ chuyên môn: Cử nhân Ngữ Văn
+- Lý luận chính trị: Cao cấp 
+- Quản lý nhà nước: Chuyên viên chính
+- Công việc:
+IV/. Đồng Chí: Lê Viết Sinh
+- Sinh ngày:     tháng    năm 1968  Giới tính: Nam
+- Quê quán: xã    - huyện    – tỉnh .
+- Dân tộc: Kinh    Tôn giáo: Không.
+- Chức vụ: P.Chủ tịch UBND huyện Đăk Song.
+- Trình độ giáo dục phổ thông: 12/12
+- Trình độ chuyên môn: Cử nhân
 - Lý luận chính trị: Cao cấp 
 - Quản lý nhà nước: Chuyên viên chính
 - Công việc:

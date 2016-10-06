@@ -10,7 +10,8 @@
     "tag": []
 }
 ---
-   I/ Đồng Chí: Nguyễn Xuân Thanh
+**LÃNH ĐẠO UBND HUYỆN**
+** I/ Đồng Chí: Nguyễn Xuân Thanh**
 - Sinh ngày: 24 tháng 4 năm 1968  Giới tính: Nam
 - Quê quán: Phường Tứ Hạ, thị xã Hương Trà, tỉnh Thừa Thiên Huế.
 - Dân tộc: Kinh    Tôn giáo: Không.
@@ -20,7 +21,7 @@
 - Lý luận chính trị: Cao cấp 
 - Quản lý nhà nước: Chuyên viên chính
 - Công việc:
-   II/. Đồng Chí: Nguyễn Văn Phò
+** II/. Đồng Chí: Nguyễn Văn Phò**
 - Sinh ngày:  tháng  năm 1968  Giới tính: Nam
 - Quê quán: xã Hải Chánh - huyện Hải Lăng – tỉnh Quảng Trị.
 - Dân tộc: Kinh    Tôn giáo: Không.
@@ -30,7 +31,7 @@
 - Lý luận chính trị: Cao cấp 
 - Quản lý nhà nước: Chuyên viên chính
 - Công việc:
-   III/. Đồng Chí: Nguyễn Ngọc Thân
+** III/. Đồng Chí: Nguyễn Ngọc Thân**
 - Sinh ngày: 19 tháng 5 năm 1969  Giới tính: Nam
 - Quê quán: xã Mỹ Châu - huyện Phù Mỹ – tỉnh Bình Định.
 - Dân tộc: Kinh    Tôn giáo: Không.
@@ -40,7 +41,7 @@
 - Lý luận chính trị: Cao cấp 
 - Quản lý nhà nước: Chuyên viên chính
 - Công việc:
-   IV/. Đồng Chí: Lê Viết Sinh
+** IV/. Đồng Chí: Lê Viết Sinh**
 - Sinh ngày:     tháng    năm 1968  Giới tính: Nam
 - Quê quán: xã    - huyện    – tỉnh .
 - Dân tộc: Kinh    Tôn giáo: Không.

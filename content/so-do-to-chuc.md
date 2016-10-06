@@ -1,12 +1,13 @@
 ---json
 {
-    "layout": "page.html",
     "slug": "so-do-to-chuc",
+    "layout": "page.html",
     "title": "sơ đồ tổ chức",
     "description": "",
-    "category": "thong-tin-ieu-hanh",
-    "tag": [],
-    "date": "06-10-2016 14:20:33"
+    "date": "06-10-2016 14:20:33",
+    "permalink": "",
+    "category": "quan-ly-nha-nuoc",
+    "tag": []
 }
 ---
 I. Lãnh đạo HĐND huyện

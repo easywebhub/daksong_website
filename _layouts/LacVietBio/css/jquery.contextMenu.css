@@ -54,9 +54,9 @@
 	classes to the respective LI element(s)
 */
 
-.contextMenu LI.edit A { background-image: url('http://^%$#@!/_layouts/LacVietBio/eofficeimg/page_white_edit.png'); }
+.contextMenu LI.edit A { background-image: url('http://cujut.daknong.gov.vn/_layouts/LacVietBio/eofficeimg/page_white_edit.png'); }
 .contextMenu LI.cut A { background-image: url('../eofficeimg/postbyweb.gif'); }
 .contextMenu LI.copy A { background-image: url('../eofficeimg/EDIT.GIF'); }
-.contextMenu LI.paste A { background-image: url('http://^%$#@!/_layouts/LacVietBio/eofficeimg/page_white_paste.png'); }
-.contextMenu LI.delete A { background-image: url('http://^%$#@!/_layouts/LacVietBio/eofficeimg/page_white_delete.png'); }
-.contextMenu LI.quit A { background-image: url('http://^%$#@!/_layouts/LacVietBio/eofficeimg/door.png'); }
+.contextMenu LI.paste A { background-image: url('http://cujut.daknong.gov.vn/_layouts/LacVietBio/eofficeimg/page_white_paste.png'); }
+.contextMenu LI.delete A { background-image: url('http://cujut.daknong.gov.vn/_layouts/LacVietBio/eofficeimg/page_white_delete.png'); }
+.contextMenu LI.quit A { background-image: url('http://cujut.daknong.gov.vn/_layouts/LacVietBio/eofficeimg/door.png'); }

@@ -10,10 +10,9 @@
     "tag": []
 }
 ---
+
 - Đồng Chí: Nguyễn Xuân Thanh
-
-- Sinh ngày: 24 tháng 4 năm 1968  Giới tính: Nam
-
+- Sinh gày: 24 tháng 4 năm 1968  Giới tính: Nam
 - Quê quán: Phường Tứ Hạ, thị xã Hương Trà, tỉnh Thừa Thiên Huế.
 - Dân tộc: Kinh    Tôn giáo: Không.
 - Chức vụ: Phó Bí thư Huyện ủy – Chủ tịch Ủy ban nhân dân huyện Đăk Song.

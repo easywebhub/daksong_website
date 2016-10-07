@@ -10,6 +10,7 @@
     "tag": ""
 }
 ---
+**I/ Lãnh Đạo HĐND&UBND huyện:**
 1. Nguyễn Hữu Khánh - Phó Bí Thư - CT HĐND - 
 2. Nguyễn Xuân Thanh - Phó Bí Thư - CT UBND - SĐT: 0913423492
 3. Lê Xuân Tương - Phó CT HĐND - SĐT: 0942408999
@@ -17,6 +18,7 @@
 5. Nguyễn Văn Phò - Phó CT UBND - SĐT: 0914018566
 6. Nguyễn Ngọc Thân - Phó CT UBND - SĐT: 0975616768
 7. Lê Viết Sinh - Phó CT UBND - SĐT: 0945933569
+**II/ Lãnh đạo các phòng, ban:**
 8. Huỳnh Tấn Tuấn - Chánh Văn phòng - SĐT: 0983142566
 9. Phùng Như Khương - Phó Chánh VP - SĐT: 0943710767
 10. Trần Đức Cường - Phó Chánh VP - SĐT: 0975211177
@@ -42,8 +44,8 @@
 30. Vũ Đình Trung - Trưởng phòng Kinh tế và Hạ tầng - SĐT: 0912181179
 31. Nguyễn Quốc Tư - Phó Trưởng phòng Kinh tế và Hạ tầng - SĐT: 0945903709
 32. Trần Bảo Lâm - Chánh Thanh tra huyện - SĐT: 0905107475
-26	Nguyễn Văn Đô	Phó Chánh Thanh tra huyện	0972582566
-27	Nguyễn Duy Hiển	Trưởng phòng Tài nguyên và môi trường	0985567347
-28	ĐồngVănGiáp	Phó Trưởng phòng TN và môi trường	0974712312
-29	Phạm Đức Bảy	Trưởng phòng Dân tộc	 0976717313
-30	RcomTơ Guan	Phó Trưởng phòng Dân tộc	0972693802
+33. Nguyễn Văn Đô - Phó Chánh Thanh tra huyện - SĐT: 0972582566
+34. Nguyễn Duy Hiển - Trưởng phòng Tài nguyên và môi trường - SĐT: 0985567347
+35. Đồng Văn Giáp - Phó Trưởng phòng TN và môi trường - SĐT: 0974712312
+36. Phạm Đức Bảy - Trưởng phòng Dân tộc - SĐT: 0976717313
+37. Rcom Tơ Guan - Phó Trưởng phòng Dân tộc - SĐT: 0972693802

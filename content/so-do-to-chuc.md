@@ -11,12 +11,12 @@
 }
 ---
 I. Lãnh đạo HĐND huyện
-1. Chủ tịch HĐND: Đ/c: Nguyễn Hữu Khánh
+1. Chủ tịch HĐND: Đ/c: Nguyễn Hữu Khánh 
 2. Phó Chủ tịch HĐND: Đ/c: Thị Trãi
 3. Phó Chủ tịch HĐND: Đ/c: Lê Xuân Tương
 
 II. Lãnh đạo UBND huyện
 1. Chủ tịch UBND: Đ/c: NguyễnXuân Thanh
-2. Phó chủ tịch UBND huyện: Đ/c: NguyễnVăn Phò
+2. Phó chủ tịch UBND huyện: Đ/c: Nguyễn Văn Phò
 3. Phó chủ tịch UBND huyện: Đ/c: Nguyễn Ngọc Thân
 4. Phó chủ tịch UBND huyện: Đ/c: Lê Viết Sinh

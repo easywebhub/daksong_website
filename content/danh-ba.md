@@ -18,6 +18,7 @@
 5. Nguyễn Văn Phò - Phó CT UBND - SĐT: 0914018566
 6. Nguyễn Ngọc Thân - Phó CT UBND - SĐT: 0975616768
 7. Lê Viết Sinh - Phó CT UBND - SĐT: 0945933569
+
 **II/ Lãnh đạo các phòng, ban:**
 8. Huỳnh Tấn Tuấn - Chánh Văn phòng - SĐT: 0983142566
 9. Phùng Như Khương - Phó Chánh VP - SĐT: 0943710767

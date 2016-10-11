@@ -10,7 +10,7 @@
     "tag": []
 }
 ---
-I. Lãnh đạo HĐND huyện
+[![CT UBND](Nguyễn Xuân Thanh "CT UBND")](C:\Users\HBC\Desktop\anh "CT UBND")I. Lãnh đạo HĐND huyện
 1. Chủ tịch HĐND: Đ/c: Nguyễn Hữu Khánh 
 2. Phó Chủ tịch HĐND: Đ/c: Thị Trãi
 3. Phó Chủ tịch HĐND: Đ/c: Lê Xuân Tương

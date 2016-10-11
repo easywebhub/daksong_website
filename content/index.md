@@ -92,7 +92,7 @@
             "slug": "thong-bao-ve-viec-tiep-cong-dan-cua-chu-tich",
             "title": "THÔNG BÁO Về việc tiếp công dân của Chủ tịch UBND huyện Đăk Song",
             "description": "THÔNG BÁO Về việc tiếp công dân của Chủ tịch UBND huyện Đăk Song",
-            "banner": "hinh-anh/tin-noi-bat/xetxu.jpg"
+            "banner": "hinh-anh/tin-noi-bat/TiepDan1.jpg"
         },
         {
             "slug": "nhung-net-noi-bat-trong-cuoi-thang-8/2016",

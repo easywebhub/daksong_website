@@ -3,7 +3,7 @@
     "layout": "daksong.html",
     "slug": "lichtiepdan",
     "title": "lichtiepdan",
-    "description": "",
+    "description": "Thông báo về việc tiếp công dân của Chủ tịch UBND huyện Đăk Song",
     "category": "tin-tuc-su-kien",
     "tag": [
         "tin-tuc-noi-bat"

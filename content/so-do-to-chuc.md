@@ -16,7 +16,7 @@ I. Lãnh đạo HĐND huyện
 3. Phó Chủ tịch HĐND: Đ/c: Lê Xuân Tương
 
 II. Lãnh đạo UBND huyện
-1. Chủ tịch UBND: Đ/c: NguyễnXuân Thanh
+1. Chủ tịch UBND: Đ/c: NguyễnXuân Thanh[![Chủ tịch UBND huyện Đăk Song](Nguyễn Xuân Thanh "Chủ tịch UBND huyện Đăk Song")](http://www.mediafire.com/view/apjj07io21blgwp/Untitled.png "Chủ tịch UBND huyện Đăk Song")
 2. Phó chủ tịch UBND huyện: Đ/c: Nguyễn Văn Phò
 3. Phó chủ tịch UBND huyện: Đ/c: Nguyễn Ngọc Thân
 4. Phó chủ tịch UBND huyện: Đ/c: Lê Viết Sinh

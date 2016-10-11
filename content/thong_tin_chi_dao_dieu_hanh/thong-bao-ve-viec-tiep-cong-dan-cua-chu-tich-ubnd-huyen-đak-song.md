@@ -7,7 +7,9 @@
     "description": "",
     "date": "11-10-2016",
     "banner": "hinh-anh/chi-dao-dieu-hanh/daksongtruso.jpg",
-    "tag": "",
+    "tag": [
+        "tin-tuc-noi-bat"
+    ],
     "permalink": ""
 }
 ---

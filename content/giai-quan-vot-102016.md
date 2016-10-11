@@ -2,7 +2,7 @@
 {
     "layout": "daksong.html",
     "slug": "giai-quan-vot-102016",
-    "title": "Giải quần vợt 10/2016",
+    "title": "Giải quần vợt chào mừng ngày Doanh nhân Việt Nam",
     "description": "Ngày 07/10/2016, UBND huyện Đăk Song tổ chức Giải quần vợt chào mừng ngày Doanh nhân Việt Nam",
     "category": "thong-tin-su-kien",
     "tag": [

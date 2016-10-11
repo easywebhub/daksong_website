@@ -89,9 +89,9 @@
             "banner": "hinh-anh/chi-dao-dieu-hanh/QuangTrungNguyenHue.jpg.jpg"
         },
         {
-            "slug": "toa-an-nhan-dan-huyen-dua-ra-xet-xu-luu-dong-tai-xa-nam-binh-02-vu-an-trom-cap-tai-san",
+            "slug": "thong-bao-ve-viec-tiep-cong-dan-cua-chu-tich",
             "title": "THÔNG BÁO Về việc tiếp công dân của Chủ tịch UBND huyện Đăk Song",
-            "description": "Sáng ngày 21/9, Toà án nhân dân huyện đã đưa ra xét xử lưu động tại xã Nam Bình 02 vụ án trộm cắp tài sản đối với các bị báo: Nguyễn Huy Hùng, bị cáo Trần Văn Hưng và bị cáo Phan Văn Đức..",
+            "description": "THÔNG BÁO Về việc tiếp công dân của Chủ tịch UBND huyện Đăk Song",
             "banner": "hinh-anh/tin-noi-bat/xetxu.jpg"
         },
         {

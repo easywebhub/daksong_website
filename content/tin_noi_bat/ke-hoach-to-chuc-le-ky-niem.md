@@ -3,11 +3,17 @@
     "slug": "ke-hoach-to-chuc-le-ky-niem",
     "layout": "post.html",
     "category": "",
-    "title": "Kế hoạch tổ chức lễ kỷ niệm",
-    "description": "Ngày 07/09/2012, UBND tỉnh ban hành Quyết định số 506/QĐ-UBND về việc ban hành Kế hoạch này. ",
-    "date": "03-02-2016 00:00:00",
+    "title": "Giải quần vợt chào mừng ngày Doanh nhân Việt Nam",
+    "description": "Ngày 07/10/2016, UBND huyện Đăk Song tổ chức Giải quần vợt chào mừng ngày Doanh nhân Việt Nam",
+    "date": "10-10-2016",
     "banner": "hinh-anh/tin-noi-bat/vua-quang-trung-1455255270.jpg",
     "tag": "",
     "permalink": ""
 }
 ---
+Giải quần vợt chào mừng ngày Doanh nhân Việt Nam tổ chức tại huyện Đăk Song
+
+Giải đựoc diễn ra từ ngày 07/10/2016 đến ngày 08/10/2016.
+Địa điểm tổ chức tại sân quần vợt huyện Đăk Song.
+
+Giải quần vợt chào mừng ngày Doanh nhân Việt Nam tổ chức với 10 đội tham gia tranh tài, sau 2 ngày thi đấu trên tinh thần giao lưu học hỏi đã kết thúc thành công tốt đẹp với chức vô địch thuộc về hai tay vợt Nguyễn Hữu Thắng và Nguyễn Thanh Hùng.

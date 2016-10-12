@@ -96,7 +96,7 @@
         },
         {
             "slug": "nhung-net-noi-bat-trong-cuoi-thang-8/2016",
-            "title": "Tỉnh Đăk Song: những nét nổi bật trong cuối tháng 4/2016",
+            "title": "Huyện Đăk Song: những nét nổi bật trong cuối tháng 4/2016",
             "banner": "img/01_650x434.JPG"
         },
         {

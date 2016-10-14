@@ -8,13 +8,13 @@
         "ten": "Block đầu tiên của danh mục trong trang chủ",
         "danh-sach": [
             {
-                "ten": "Tin kinh tế",
+                "ten": "Tin Kinh Tế",
                 "name": "tinKinhTe",
                 "collections_name": "tin-tuc-su-kien.tin-kinh-te",
                 "url": "tin-tuc-su-kien/tin-kinh-te"
             },
             {
-                "ten": "Thông tin đều hành",
+                "ten": "Thông Tin Đều Hành",
                 "name": "thongTinChiDaoDieuHanh",
                 "collections_name": "thong-tin-ieu-hanh.thong-tin-chi-ao-ieu-hanh",
                 "url": "thong-tin-ieu-hanh/thong-tin-chi-ao-ieu-hanh"

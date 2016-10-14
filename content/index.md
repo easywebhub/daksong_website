@@ -84,7 +84,7 @@
     "tinTucNoiBat": [
         {
             "slug": "ke-hoach-to-chuc-le-ky-niem",
-            "title": "Giải quần vợt Doanh Nhân VN tại huyện Đăk Song",
+            "title": "Giải quần vợt Doanh Nhân Việt Nam tại huyện Đăk Song",
             "description": "Ngày 07/10/2016, UBND huyện Đăk Song tỉnh Đăk Nông tổ chức giải quần vợt Doanh Nhân VN tại huyện Đăk Song ",
             "banner": "hinh-anh/tin-noi-bat/giaiquanvot.jpg"
         },
@@ -101,7 +101,7 @@
         },
         {
             "slug": "trong-so-tai-nan-bi-thuong-trong-vu-tai-nan-kinh-hoanh-o-dak-song",
-            "title": "Trong số 21 nạn nhân bị thương trong vụ tai nạn kinh hoàng ở Đắk Sông hôm 2/5",
+            "title": "Trong số 21 nạn nhân bị thương trong vụ tai nạn kinh hoàng ở Đắk Song hôm 2/5",
             "description": "(ĐSPL) - Trong số 21 nạn nhân bị thương trong vụ tai nạn kinh hoàng ở Đắk Nông hôm 2/5, 14 bệnh nhân hiện vẫn đang tiếp tục được điều trị đặc biệt",
             "banner": "img/tai-nan-5897-1462186261-dspl-352006.jpg"
         }

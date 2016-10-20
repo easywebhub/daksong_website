@@ -83,6 +83,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "thong-bao-tuyen-dung-vien-chuc-su-nghiep-giao-duc-va-su-nghiep-khac-nam-2016",
+            "title": "Thông báo: Tuyển dụng viên chức sự nghiệp giáo dục và sự nghiệp khác năm 2016",
+            "description": "UBND huyện Đăk Song thông báo: Tuyển dụng viên chức sự nghiệp giáo dục và sự nghiệp khác năm 2016 của UBND huyện Đăk Song ",
+            "banner": "hinh-anh/tin-noi-bat/TB tuyen dung.jpg"
+        },
+        {
             "slug": "ke-hoach-to-chuc-le-ky-niem",
             "title": "Giải quần vợt Doanh Nhân Việt Nam tại huyện Đăk Song",
             "description": "Ngày 07/10/2016, UBND huyện Đăk Song tỉnh Đăk Nông tổ chức giải quần vợt Doanh Nhân VN tại huyện Đăk Song ",
@@ -95,16 +101,14 @@
             "banner": "hinh-anh/tin-noi-bat/TiepDan1.jpg"
         },
         {
-            "slug": "nhung-net-noi-bat-trong-cuoi-thang-8/2016",
-            "title": "Đăk Song: những nét nổi bật trong cuối tháng 4/2016",
-            "banner": "img/01_650x434.JPG"
-        },
-        {
             "slug": "trong-so-tai-nan-bi-thuong-trong-vu-tai-nan-kinh-hoanh-o-dak-song",
             "title": "Trong số 21 nạn nhân bị thương trong vụ tai nạn kinh hoàng ở Đắk Song hôm 2/5",
             "description": "(ĐSPL) - Trong số 21 nạn nhân bị thương trong vụ tai nạn kinh hoàng ở Đắk Nông hôm 2/5, 14 bệnh nhân hiện vẫn đang tiếp tục được điều trị đặc biệt",
             "banner": "img/tai-nan-5897-1462186261-dspl-352006.jpg"
         }
-    ]
+    ],
+    "category": "",
+    "tag": "",
+    "date": ""
 }
 ---

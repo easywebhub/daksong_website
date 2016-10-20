@@ -1,6 +1,6 @@
 ---json
 {
-    "layout": "daksong.html",
+    "layout": "van-ban.html",
     "slug": "thong-bao-tuyen-dung-vien-chuc-su-nghiep-giao-duc-va-su-nghiep-khac-nam-2016",
     "title": "Thông báo: Tuyển dụng viên chức sự nghiệp giáo dục và sự nghiệp khác năm 2016",
     "description": "",

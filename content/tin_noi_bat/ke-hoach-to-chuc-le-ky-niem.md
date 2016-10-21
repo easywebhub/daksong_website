@@ -2,7 +2,7 @@
 {
     "slug": "ke-hoach-to-chuc-le-ky-niem",
     "layout": "post.html",
-    "category": "",
+    "category": "tin-tuc-su-kien.tin-van-hoa",
     "title": "Giải quần vợt chào mừng ngày Doanh nhân Việt Nam",
     "description": "Ngày 07/10/2016, UBND huyện Đăk Song tổ chức Giải quần vợt chào mừng ngày Doanh nhân Việt Nam",
     "date": "10-10-2016",
@@ -22,7 +22,7 @@ Giải đuợc diễn ra từ ngày 07/10/2016 đến ngày 08/10/2016. Địa �
 Giải quần vợt chào mừng ngày Doanh nhân Việt Nam do Ngân hàng Nông nghiệp và phát triển Nông thôn (Agribank) chi nhánh Đăk Song tài trợ tổ chức với 10 đội tham gia tranh tài, sau 2 ngày thi đấu trên tinh thần giao lưu học hỏi đã kết thúc thành công tốt đẹp với chức vô địch thuộc về hai tay vợt Nguyễn Hữu Khánh và Nguyễn Thanh Hùng. 
 
 ![](http://www.mediafire.com/convkey/5c93/28x2box6y83u2cozg.jpg)
-Lễ trao giải và Bế mạc giải.
+*Lễ trao giải và Bế mạc giải.*
 
 
 Nguồn Văn phòng HĐND và UBND huyện Đăk Song

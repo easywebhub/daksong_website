@@ -3,7 +3,7 @@
     "slug": "danh-ba",
     "layout": "page.html",
     "title": "Danh bạ",
-    "description": "Danh bạ các lãnh đạo HĐND&UBND huyện và lãnh đạo các phòng, ban.",
+    "description": "Danh bạ các lãnh đạo HĐND & UBND huyện và lãnh đạo các phòng, ban.",
     "date": "2016-07-24",
     "permalink": true,
     "category": "",

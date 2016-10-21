@@ -3,14 +3,15 @@
     "slug": "danh-ba",
     "layout": "page.html",
     "title": "Danh bạ",
-    "description": "mô tả danh bạ",
+    "description": "Danh bạ các lãnh đạo HĐND&UBND huyện và lãnh đạo các phòng, ban.",
     "date": "2016-07-24",
     "permalink": true,
     "category": "",
     "tag": ""
 }
 ---
-**I/ Lãnh Đạo HĐND&UBND huyện:**
+**I/ Lãnh đạo HĐND & UBND huyện:**
+
 1. Nguyễn Hữu Khánh - Phó Bí Thư - CT HĐND - 
 2. Nguyễn Xuân Thanh - Phó Bí Thư - CT UBND - SĐT: 0913423492
 3. Lê Xuân Tương - Phó CT HĐND - SĐT: 0942408999

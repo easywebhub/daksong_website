@@ -14,4 +14,6 @@
 Ngày 25 tháng 10 năm 2016
 UBND huyện Đăk Song thông báo 
 Về việc tuyển dụng công chức cấp xã trên địa bàn huyện Đăk Song năm 2016
+![](http://www.mediafire.com/convkey/e9ae/v83mdyl08vn6lm5zg.jpg)
+
 [Tải thông báo](http://www.mediafire.com/file/1vn668aghczhr65/TB_tuyen_dung_cong_chuc_cap_xa_Dak_Song_2016.pdf "Tải thông báo")

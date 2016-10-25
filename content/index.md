@@ -83,7 +83,7 @@
     },
     "tinTucNoiBat": [
         {
-            "slug": "thong-bao-ve-viec-tiep-cong-dan-cua-chu-tich",
+            "slug": "thong-bao-tuyen-dung-cong-chuc-cap-xa-tren-dia-ban-huyen-dak-song-nam-2016",
             "title": "THÔNG BÁO Về việc tuyển dụng công chức cấp xã trên địa bàn huyện Đăk Song",
             "description": "Ngày 25/10/2016 UBND huyện thông báo về việc tuyển dụng công chức cấp xã trên địa bàn huyện Đăk Song",
             "banner": "hinh-anh/tin-noi-bat/TB160.jpg"

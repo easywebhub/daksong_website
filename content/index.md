@@ -83,6 +83,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "thong-bao-ve-viec-tiep-cong-dan-cua-chu-tich",
+            "title": "THÔNG BÁO Về việc tuyển dụng công chức cấp xã trên địa bàn huyện Đăk Song",
+            "description": "Ngày 25/10/2016 UBND huyện thông báo về việc tuyển dụng công chức cấp xã trên địa bàn huyện Đăk Song",
+            "banner": "hinh-anh/tin-noi-bat/TB160.jpg"
+        },
+        {
             "slug": "thong-bao-tuyen-dung-vien-chuc-su-nghiep-giao-duc-va-su-nghiep-khac-nam-2016",
             "title": "Thông báo: Tuyển dụng viên chức sự nghiệp giáo dục và sự nghiệp khác năm 2016",
             "description": "UBND huyện Đăk Song thông báo: Tuyển dụng viên chức sự nghiệp giáo dục và sự nghiệp khác năm 2016 của UBND huyện Đăk Song ",
@@ -99,12 +105,6 @@
             "title": "THÔNG BÁO Về việc tiếp công dân của Chủ tịch UBND huyện Đăk Song",
             "description": "THÔNG BÁO Về việc tiếp công dân của Chủ tịch UBND huyện Đăk Song",
             "banner": "hinh-anh/tin-noi-bat/TiepDan1.jpg"
-        },
-        {
-            "slug": "trong-so-tai-nan-bi-thuong-trong-vu-tai-nan-kinh-hoanh-o-dak-song",
-            "title": "Trong số 21 nạn nhân bị thương trong vụ tai nạn kinh hoàng ở Đắk Song hôm 2/5",
-            "description": "(ĐSPL) - Trong số 21 nạn nhân bị thương trong vụ tai nạn kinh hoàng ở Đắk Nông hôm 2/5, 14 bệnh nhân hiện vẫn đang tiếp tục được điều trị đặc biệt",
-            "banner": "img/tai-nan-5897-1462186261-dspl-352006.jpg"
         }
     ],
     "category": "",

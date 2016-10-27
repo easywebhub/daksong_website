@@ -1,6 +1,6 @@
 {
     "sortBy": "date",
-    "reverse": false,
+    "reverse": true,
     
     "displayName": "Tin ý tế và giáo dục",
     "perPage": 10,

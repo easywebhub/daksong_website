@@ -1,6 +1,6 @@
 {
     "sortBy": "date",
-    "reverse": false,
+    "reverse": true,
    
     "displayName": "Thông tin khen thưởng xử phạt",
     "perPage": 10,

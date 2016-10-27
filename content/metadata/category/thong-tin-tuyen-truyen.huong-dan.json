@@ -1,6 +1,6 @@
 {
     "sortBy": "date",
-    "reverse": false,
+    "reverse": true,
     "displayName":"Hướng dẫn",
     "perPage": 10,
     "noPageOne": true,

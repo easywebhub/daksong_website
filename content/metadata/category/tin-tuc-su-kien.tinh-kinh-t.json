@@ -1,6 +1,6 @@
 {
     "sortBy": "date",
-    "reverse": false,
+    "reverse": true,
     
     "displayName": "Tinh kinh tế  2",
     "perPage": 10,

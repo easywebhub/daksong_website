@@ -1,6 +1,6 @@
 {
     "sortBy": "date",
-    "reverse": false,
+    "reverse": true,
     "displayName": "Quy hoạch và kế hoạch",
     "perPage": 10,
     "noPageOne": true,

@@ -1,16 +1,28 @@
 ---json
 {
-    "layout": "post.html",
     "slug": "ke-hoach-to-chuc-le-ky-niem",
-    "category": "",
-    "title": "Kế hoạch tổ chức lễ kỷ niệm",
-    "description": "Ngày 07/09/2012, UBND tỉnh ban hành Quyết định số 506/QĐ-UBND về việc ban hành Kế hoạch này. ",
-    "date": "03-02-2016 00:00:00",
-    
+    "layout": "post.html",
+    "category": "tin-tuc-su-kien.tin-van-hoa",
+    "title": "Giải quần vợt chào mừng ngày Doanh nhân Việt Nam",
+    "description": "Ngày 07/10/2016, UBND huyện Đăk Song tổ chức Giải quần vợt chào mừng ngày Doanh nhân Việt Nam",
+    "date": "10-10-2016",
     "banner": "hinh-anh/tin-noi-bat/vua-quang-trung-1455255270.jpg",
-    "permalink": "",
-    
-    "tag": ""
+    "tag": "",
+    "permalink": ""
 }
 ---
-Ngày 07/09/2012, UBND tỉnh ban hành Quyết định số 506/QĐ-UBND về việc ban hành Kế hoạch này. Mục đích của Kế hoạch là nhằm tưởng nhớ và tri ân công lao to lớn của vị anh hùng dân tộc Quang Trung – Nguyễn Huệ trong sự nghiệp đấu tranh dựng nước và giữ nước, ôn lại truyền thống quật khởi của phong trào nông dân Tây Sơn và tinh thần bách chiến, bách thắng của Hoàng đế Quang Trung - Nguyễn Huệ, góp phần giáo dục các tầng lớp nhân dân, đặc biệt là thế hệ trẻ hôm nay về lòng tự hào dân tộc, truyền thống yêu nước trong sự nghiệp đấu tranh chống giặc ngoại xâm, đóng góp tích cực xây dựng và bảo vệ Tổ quốc. Đồng thời cổ vũ, động viên toàn Đảng, toàn dân và toàn quân ra sức thi đua thực hiện thắng lợi các mục tiêu, nhiệm vụ phát triển kinh tế - xã hội năm 2012 và những năm tiếp theo. Thời gian tổ chức từ ngày 13 đến 14 tháng 9 năm 2012 tại Bảo tàng Quang Trung và Lễ dâng hương Đàn tế Trời Đất tại Núi Ấn thôn Hòa Sơn, xã Bình Tường, từ 8h00 đến 8h30 ngày 14/9/2012. Giao Sở Văn hóa, Thể thao và Du lịch là cơ quan thường trực, tham mưu UBND tỉnh về kế hoạch, kịch bản tổ chức chương trình Lễ kỷ niệm 220 năm ngày mất Hoàng đế Quang Trung, thực hiện các nghi thức lễ giỗ truyền thống tại Bảo tàng Quang Trung và các nghi thức tế lễ tại công trình Đàn tế Trời Đất. Giao Sở Kế hoạch và Đầu tư chủ trì, phối hợp với Ngân hàng TMCP Đầu tư và Phát triển Việt Nam xây dựng kế hoạch tổ chức, lập danh sách khách mời, chuẩn bị nội dung chương trình buổi gặp gỡ các doanh nhân người Bình Định đang sinh sống, làm việc và kinh doanh tại các địa phương trên cả nước những năm qua đã có đóng góp tích cực cho sự phát triển kinh tế, xã hội của tỉnh nhà, nhằm tiếp tục kêu gọi sự quan tâm hợp tác đầu tư, tài trợ cho Dự án mở rộng Bảo tàng Quang Trung. Giao UBND huyện Tây Sơn chỉ đạo các ngành liên quan của địa phương phối hợp với Sở Văn hóa, Thể thao và Du lịch, Bảo tàng Quang Trung, Ban Quản lý Dự án Đàn tế Trời Đất triển khai một số công tác như sau: Tổ chức hoạt động văn hóa, giao lưu, gặp mặt đại biểu Hội đồng hương Tây Sơn tại các tỉnh, thành phố nhân kỷ niệm 220 năm ngày mất Hoàng đế Quang Trung vào tối ngày 13/9/2012. Trung tâm Văn hoá - Thông tin và Thể thao huyện thực hiện công tác tuyên truyền trực quan, trang trí cờ hội, cờ chuối, khẩu hiệu dọc trục đường Nguyễn Huệ, cầu mới, 01 khung Panô trước cổng chính Bảo tàng và 01 panô ở đường rẽ vào Đàn tế Trời đất (xã Bình Tường). Phối hợp với UBND xã Bình Tường trang trí cờ hội, cờ chuối dọc đường vào Đàn tế và trong khuôn viên Đàn tế; dựng rạp mái che, bố trí bàn ghế phục vụ lễ ở sân Đền Ấn; bố trí âm thanh phục vụ lễ dâng hương ở Đàn tế và lễ dâng hoa tại Bảo tàng Quang Trung. Bố trí lắp đặt sân khấu trong khuôn viên Bảo tàng Quang Trung phục vụ biểu diễn ca múa nhạc và võ cổ truyển sau lễ giỗ.
+Giải quần vợt chào mừng ngày Doanh nhân Việt Nam tổ chức tại huyện Đăk Song.
+
+![](http://www.mediafire.com/convkey/75f4/iz7gxz14g5d37c4zg.jpg) 
+
+Đồng chí Nguyễn Ngọc Thân (Phó Chủ Tịch UBND huyện) phát biểu khai mạc.
+
+Giải đuợc diễn ra từ ngày 07/10/2016 đến ngày 08/10/2016. Địa điểm tổ chức tại sân quần vợt huyện Đăk Song. 
+
+Giải quần vợt chào mừng ngày Doanh nhân Việt Nam do Ngân hàng Nông nghiệp và phát triển Nông thôn (Agribank) chi nhánh Đăk Song tài trợ tổ chức với 10 đội tham gia tranh tài, sau 2 ngày thi đấu trên tinh thần giao lưu học hỏi đã kết thúc thành công tốt đẹp với chức vô địch thuộc về hai tay vợt Nguyễn Hữu Khánh và Nguyễn Thanh Hùng. 
+
+![](http://www.mediafire.com/convkey/5c93/28x2box6y83u2cozg.jpg)
+*Lễ trao giải và Bế mạc giải.*
+
+
+Nguồn Văn phòng HĐND và UBND huyện Đăk Song

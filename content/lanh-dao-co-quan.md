@@ -3,40 +3,90 @@
     "slug": "lanh-dao-co-quan",
     "layout": "page.html",
     "title": "Lãnh đạo cơ quan",
-    "description": "Nhiệm vụ của lãnh đạo cơ quan",
-    "date": "2016-07-25",
-     "permalink": true
-    
+    "description": "Mô tả lãnh đạo cơ quan",
+    "date": "06-10-2016 10:04:17",
+    "permalink": "",
+    "category": "",
+    "tag": []
 }
 ---
-Nhiệm vụ của lãnh đạo cơ quan
-* Đ/c Nguyễn Thị Thanh Hà:
-- Năm sinh: 1966
-- Dân tộc: kinh
-- Quê quán: Thái Bình
-+ Học vấn: 12/12
-+ Chuyên môn NV: Cử nhân kinh tế
-+ LLCT: Cao cấp​
-- Chức vụ: PBT Huyện ủy, CT UBND huyện
-- Chịu trách nhiệm lãnh đạo, chỉ đạo điều hành chung mọi mặt hoạt động kinh tế xã hội, an ninh quốc phòng tại địa phương
-- Chỉ đạo điều hành và quản lý chung mọi hoạt động của UBND huyện; lãnh đạo các thành viên UBND huyện, Thủ trưởng các Cơ quan thường trực thuộc; UBND các xã, thị trấn.
-* Đ/c Nguyễn Thiện Hoàn:
-- Năm sinh: 1961
-- Dân tộc: kinh
-- Quê quán: Hải Dương
-+ Học vấn: 12/12
-+ Chuyên môn NV: Cử nhân Lâm sinh, Hành chính
-+ LLCT: Cao cấp
-- Chức vụ: HU viên, PCT UBND huyện
-- Được Chủ tịch ủy quyền chủ trì các cuộc họp trong lĩnh vực được phân công phụ trách.
-- Trực tiếp phụ trách công tác Văn hóa - Xã hội và các lĩnh vực xã hội khác.
-* Đ/c Nghiêm Hồng Quang:
-- Năm sinh: 1968
-- Dân tộc: Kinh
-- Quê quán: Thanh Hóa
-+ Học Vấn 12/12
-+ Chuyên môn: Cử nhân kinh tế
-+ LLCT: Cao cấp
-- Chức vụ: HU viên, UVBTVHU, ĐUV,PCT UBND huyện,
-- Được Chủ tịch ủy quyền chủ trì các cuộc họp trong lĩnh vực được phân công phụ trách.
-- Trực tiếp phụ trách công tác Tài chính kế hoạch, thuế, thống kê, xây dựng, khoa học công nghệ, công nghiệp, tiểu thủ công nghiệp, giao thông vận tải, quản lý dô thị, thương mại du lịch, Ban quản lý các dự án huyện.
+** A/ LÃNH ĐẠO HĐND HUYỆN**
+
+** I/ Đồng Chí: Nguyễn Hữu Khánh**
+- Sinh ngày:     tháng    năm 19  Giới tính: Nam
+- Quê quán: tỉnh Quảng Bình.
+- Dân tộc: Kinh    Tôn giáo: Không.
+- Chức vụ: Phó Bí thư Huyện ủy – Chủ tịch HĐND huyện Đăk Song.
+- Trình độ giáo dục phổ thông: 12/12
+- Trình độ chuyên môn: Cử nhân
+- Lý luận chính trị: Cao cấp 
+- Quản lý nhà nước: Chuyên viên chính
+- Công việc:
+
+** II/. Đồng Chí: Lê Xuân Tương**
+- Sinh ngày:  tháng  năm 19   Giới tính: Nam
+- Quê quán: .
+- Dân tộc: Kinh    Tôn giáo: Không.
+- Chức vụ: P.Chủ tịch HĐND huyện Đăk Song.
+- Trình độ giáo dục phổ thông: 12/12
+- Trình độ chuyên môn: Cử nhân 
+- Lý luận chính trị: Cao cấp 
+- Quản lý nhà nước: Chuyên viên chính
+- Công việc:
+
+** III/. Đồng Chí: Thị Trãi**
+- Sinh ngày:     tháng    năm 19  Giới tính: Nữ
+- Quê quán: .
+- Dân tộc: Kinh    Tôn giáo: Không.
+- Chức vụ: P.Chủ tịch HĐND huyện Đăk Song.
+- Trình độ giáo dục phổ thông: 12/12
+- Trình độ chuyên môn: Cử nhân 
+- Lý luận chính trị: Cao cấp 
+- Quản lý nhà nước: Chuyên viên chính
+- Công việc:
+
+**B/ LÃNH ĐẠO UBND HUYỆN**
+
+** I/ Đồng Chí: Nguyễn Xuân Thanh**
+- Sinh ngày: 24 tháng 4 năm 1968  Giới tính: Nam
+- Quê quán: Phường Tứ Hạ, thị xã Hương Trà, tỉnh Thừa Thiên Huế.
+- Dân tộc: Kinh    Tôn giáo: Không.
+- Chức vụ: Phó Bí thư Huyện ủy – Chủ tịch Ủy ban nhân dân huyện Đăk Song.
+- Trình độ giáo dục phổ thông: 12/12
+- Trình độ chuyên môn: Cử nhân
+- Lý luận chính trị: Cao cấp 
+- Quản lý nhà nước: Chuyên viên chính
+- Công việc:
+
+** II/. Đồng Chí: Nguyễn Văn Phò**
+- Sinh ngày:  tháng  năm 1968  Giới tính: Nam
+- Quê quán: xã Hải Chánh - huyện Hải Lăng – tỉnh Quảng Trị.
+- Dân tộc: Kinh    Tôn giáo: Không.
+- Chức vụ: HUV – P.Chủ tịch UBND huyện Đăk Song.
+- Trình độ giáo dục phổ thông: 12/12
+- Trình độ chuyên môn: Cử nhân kinh tế
+- Lý luận chính trị: Cao cấp 
+- Quản lý nhà nước: Chuyên viên chính
+- Công việc:
+
+** III/. Đồng Chí: Nguyễn Ngọc Thân**
+- Sinh ngày: 19 tháng 5 năm 1969  Giới tính: Nam
+- Quê quán: xã Mỹ Châu - huyện Phù Mỹ – tỉnh Bình Định.
+- Dân tộc: Kinh    Tôn giáo: Không.
+- Chức vụ: HUV – P.Chủ tịch UBND huyện Đăk Song.
+- Trình độ giáo dục phổ thông: 12/12
+- Trình độ chuyên môn: Cử nhân Ngữ Văn
+- Lý luận chính trị: Cao cấp 
+- Quản lý nhà nước: Chuyên viên chính
+- Công việc:
+
+** IV/. Đồng Chí: Lê Viết Sinh**
+- Sinh ngày:     tháng    năm 1968  Giới tính: Nam
+- Quê quán: xã    - huyện    – tỉnh .
+- Dân tộc: Kinh    Tôn giáo: Không.
+- Chức vụ: P.Chủ tịch UBND huyện Đăk Song.
+- Trình độ giáo dục phổ thông: 12/12
+- Trình độ chuyên môn: Cử nhân
+- Lý luận chính trị: Cao cấp 
+- Quản lý nhà nước: Chuyên viên chính
+- Công việc:

@@ -1,6 +1,6 @@
 {
     "sortBy": "date",
-    "reverse": false,
+    "reverse": true,
    
     "displayName": "Thông tin chỉ đạo điều hành",
     "perPage": 10,

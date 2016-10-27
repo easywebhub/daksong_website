@@ -1,6 +1,6 @@
 {
     "sortBy": "date",
-    "reverse": false,
+    "reverse": true,
    
     "displayName":"Chính sách",
     "perPage": 10,

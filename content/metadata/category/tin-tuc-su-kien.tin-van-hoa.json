@@ -1,6 +1,6 @@
 {
     "sortBy": "date",
-    "reverse": false,
+    "reverse": true,
 
     "displayName": "Tin văn hóa",
     "perPage": 10,

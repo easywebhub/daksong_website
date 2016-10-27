@@ -1,6 +1,6 @@
 {
     "sortBy": "date",
-    "reverse": false,
+    "reverse": true,
     "displayName":"Hoạt động của lãnh đạo",
     "perPage": 10,
     "noPageOne": true,

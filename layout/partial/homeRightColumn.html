@@ -6,7 +6,7 @@
 <tbody><tr>
 	<td valign="top"><div webpartid="c96d4faa-fc96-4159-b7f9-6b2ad647ade0" haspers="false" id="WebPartWPQ19" class="ms-WPBody noindex" allowdelete="false" style="width:210px;overflow:auto;"><table id="ctl00_m_g_c96d4faa_fc96_4159_b7f9_6b2ad647ade0" cellpadding="0" cellspacing="0" border="0" width="210"><tbody><tr><td>
 		<div class="thongbao" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts"><div class="container_top1"><div style="CURSOR: pointer" class="container_top_left1"><div class="div_header_style1"><a style="TEXT-TRANSFORM: uppercase; FONT-SIZE: 11px; FONT-WEIGHT: bold; TEXT-DECORATION: none" class="a_header_style1" href="/giay-moi">Giấy mời</a></div></div><div class="container_top_right1"><div class="container_top_mid1"></div><marquee id="scroll_header1" direction="up" height="214px" scrollamount="1" scrolldelay="25" onmouseover="javascript:this.stop()" onmouseout="javascript:this.start()" style="height: 214px;"><div class="container_mid1"><div class="container_mid_main1"><div class="thongbao-detail"><table border="0" cellspacing="0" cellpadding="0"><tbody>
-			<h1>	{{length  (lookup (lookupCategory AllCategory 'giay-moi') 'files') }}</h1>
+		
 			{{#each (lookup (lookupCategory AllCategory 'giay-moi') 'files') }}
 			<tr><td style="FONT-SIZE: 9px" class="LItemDot" valign="top"></td><td class="LItem"><a class="LItem" title="" href="{{slug}}"> {{title}}</a></td></tr>
 			{{/each}}

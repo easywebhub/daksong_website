@@ -7,8 +7,8 @@
     "description": "",
     "date": "08-09-2016",
     "banner": "img/TRAMCHUAN1.jpg",
-    "tag": [],
-    "permalink": ""
+    "tag": []
+  
 }
 ---
 nội dung

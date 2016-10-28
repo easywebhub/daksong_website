@@ -1,6 +1,6 @@
 {
     "sortBy": "date",
-    "reverse": false,
+    "reverse": true,
     "metadata": {},
     "displayName": "Tin tức không nổi bật",
     "perPage": 10,

@@ -1,6 +1,6 @@
 {
     "sortBy": "date",
-    "reverse": false,
+    "reverse": true,
     
     "displayName": "Văn bản pháp luật",
     "perPage": 10,

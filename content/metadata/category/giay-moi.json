@@ -1,0 +1,11 @@
+{
+    "sortBy": "date",
+     "metadata": {"title": "Giấy mời" },
+    "reverse": false,
+    "displayName": "Giấy mời",
+    "perPage": 10,
+    "noPageOne": true,
+    "layout": "giayMoi.category.html",
+    "first": ":categoryPath/index.html",
+    "path": ":categoryPath/page/:num/index.html"
+}

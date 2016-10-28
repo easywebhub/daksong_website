@@ -1,0 +1,11 @@
+{
+    "sortBy": "date",
+    "reverse": false,
+    "metadata": {"title":"Văn bản của huyện" },
+    "displayName": "Văn bản của huyện",
+    "perPage": 10,
+    "noPageOne": true,
+    "layout": "vanban.category.html",
+    "first": ":categoryPath/index.html",
+    "path": ":categoryPath/page/:num/index.html"
+}

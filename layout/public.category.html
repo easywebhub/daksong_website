@@ -10,13 +10,9 @@
             <TABLE border="0" cellSpacing="0" cellPadding="0" width="100%">
             <TBODY><TR class="ms-news-header">
             <TD style="CURSOR: hand" class="FolderTitle" vAlign="top"> 
-                   {{#each pagination.files }}
-                       {{#if @first}}
-                         {{#with (lookupCategory ../AllCategory category) }}
-                            {{displayName}}
-                         {{/with}}
-                       {{/if}}
-                   {{/each}}
+                 
+                           
+                         {{metadata.title}}
                 </TD>
             <TD style="TEXT-ALIGN: right; FONT-WEIGHT: normal" class="Time" vAlign="top" align="right">{{date}}</TD></TR></TBODY>
           </TABLE>

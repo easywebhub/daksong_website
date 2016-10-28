@@ -1,6 +1,6 @@
 {
     "sortBy": "date",
-    "reverse": false,
+    "reverse": true,
     "displayName":"Quản lý nhà nước",
     "perPage": 10,
     "noPageOne": true,

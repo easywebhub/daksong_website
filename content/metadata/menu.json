@@ -1,24 +1,9 @@
 {
     "title": "Danh sách items trong menu",
-    "menuList":[
-        {
-            "category": "trang-chu",
-            "type": "files"
-        },
-        {
-            "category": "gioi-thieu",
-            "type": "files"
-        },
-        {
-            "category": "thong-tin-dieu-hanh",
-            "type": "children"
-        }
-    ],
     "items": [
         {
             "title": "Trang chủ",
             "selected": "LvSelected",
-            
             "type": {
                 "isMulti": true,
                 "float": "left"
@@ -105,28 +90,27 @@
                 {
                     "title": "Tin an toàn giao thông",
                     "url": "tin-tuc-su-kien/tin-an-toan-giao-thong"
-                    
                 }
             ]
         },
         {
             "title": "Thông tin điều hành",
-            "url": "thong-tin-ieu-hanh",
+            "url": "thong-tin-dieu-hanh",
             "type": {
                 "isMulti": true
             },
             "subMenu": [
                 {
                     "title": "Thông tin chỉ đạo điều hành",
-                    "url": "thong-tin-ieu-hanh/thong-tin-chi-ao-ieu-hanh"
+                    "url": "thong-tin-dieu-hanh/thong-tin-chi-dao-dieu-hanh"
                 },
                 {
                     "title": "Thông tin khen thưởng xử phạt",
-                    "url": "thong-tin-ieu-hanh/thong-tin-khen-thuong-xu-phat"
+                    "url": "thong-tin-dieu-hanh/thong-tin-khen-thuong-xu-phat"
                 },
                 {
                     "title": "Lịch làm việc",
-                    "url": "thong-tin-ieu-hanh/lich-lam-viec"
+                    "url": "thong-tin-dieu-hanh/lich-lam-viec"
                 }
             ]
         },
@@ -155,11 +139,43 @@
             }
         },
         {
-            "title": "Văn bản pháp luật",
+            "title": "Văn bản & pháp luật",
             "url": "van-ban-phap-luat",
             "type": {
-                "isMulti": false
-            }
+                "isMulti": true
+            },
+            "subMenu": [
+                {
+                    "title": "Văn bản của tỉnh",
+                    "url": "van-ban-phap-luat/van-ban-cua-tinh"
+                },
+                {
+                    "title": "Văn bản của huyện",
+                    "url": "van-ban-phap-luat/van-ban-cua-huyen"
+                },
+                {
+                    "title": "Tiếp dân",
+                    "url": "van-ban-phap-luat/tiep-dan"
+                },
+                {
+                    "title": "Thủ tục hành chính",
+                    "url": "van-ban-phap-luat/thu-tuc-hanh-chinh"
+                }
+            ]
+        }
+    ],
+    "menuList": [
+        {
+            "category": "trang-chu",
+            "type": "files"
+        },
+        {
+            "category": "gioi-thieu",
+            "type": "files"
+        },
+        {
+            "category": "thong-tin-dieu-hanh",
+            "type": "children"
         }
     ]
 }

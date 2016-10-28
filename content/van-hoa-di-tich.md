@@ -5,7 +5,7 @@
     "title": "Văn hóa di tích",
     "description": "",
     "date": "09-09-2016",
-    "permalink": true,
+    "permalink": true
 
 }
 ---

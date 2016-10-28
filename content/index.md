@@ -78,12 +78,6 @@
                 "collections_name": "tin-tuc-su-kien.tin-an-ninh-trat-tu",
                 "name": "tinAnNinhTratTu",
                 "url": "tin-tuc-su-kien/tin-an-ninh-trat-tu"
-            },
-            {
-                "ten": "Lịch làm việc",
-                "collections_name": "thong-tin-ieu-hanh.lich-lam-viec",
-                "name": "lichLamViec",
-                "url": "thong-tin-ieu-hanh/lich-lam-viec"
             }
         ]
     },

@@ -6,7 +6,6 @@
     "description": "",
     "date": "09-09-2016",
     "permalink": true
-
 }
 ---
 What is Lorem Ipsum?

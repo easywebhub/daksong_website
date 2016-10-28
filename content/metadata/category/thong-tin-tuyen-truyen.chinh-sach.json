@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
-    "reverse": false,
-   "metadata": {"title": "Chính sách" },
+    "reverse": true,
+   
     "displayName":"Chính sách",
     "perPage": 10,
     "noPageOne": true,

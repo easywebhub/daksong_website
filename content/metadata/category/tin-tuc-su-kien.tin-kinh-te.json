@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
-    "reverse": false,
-    "metadata": {"title": "Tin kinh tế" },
+    "reverse": true,
+    
     "displayName": "Tin kinh tế",
     "perPage": 10,
     "noPageOne": true,

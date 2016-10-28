@@ -1,6 +1,6 @@
 {
     "sortBy": "date",
-    "reverse": false,
+    "reverse": true,
     "displayName":"Hướng dẫn",
      "metadata": {"title": "Hướng dẫn" },
     "perPage": 10,

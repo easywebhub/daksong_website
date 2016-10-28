@@ -1,7 +1,6 @@
 {
     "sortBy": "date",
-    "reverse": false,
-     "metadata": {"title": "Thông tin điều hành" },
+    "reverse": true,
     "displayName":"Thông tin điều hành",
     "perPage": 10,
     "noPageOne": true,

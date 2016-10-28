@@ -4,12 +4,10 @@
     "layout": "post.html",
     "category": "ke-hoach-phat-trien",
     "title": "Đào tạo, bồi dưỡng nhà giáo và cán bộ quản lý cơ sở giáo dục đáp ứng yêu cầu đổi mới căn bản, toàn diện giáo dục phổ thông giai đoạn 2016 - 2020, định hướng đến năm 2016",
-    "description": "Đào tạo, bồi dưỡng nhà giáo và cán bộ quản lý cơ sở giáo dục đáp ứng yêu cầu đổi mới căn bản, toàn diện giáo dục phổ thông giai đoạn 2016 - 2020, định hướng đến năm 2016",
-    "date": "08-09-2016",
+    "description": "Đào tạo, bồi dưỡng nhà giáo và cán bộ quản lý cơ sở giáo dục đáp ứng yêu cầu đổi mới căn bản, toàn diện giáo dục phổ thông giai đoạn 2016 - 2020, định hướng đến năm 2016.",
+    "date": "2016-09-05",
     "banner": "img/tieu-giong-Gia-Lai.gif",
     "tag": "",
-    "permalink": true
-    
-    
+    "permalink": ""
 }
 ---

@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
-    "reverse": false,
-      "metadata": {"title": "Lịch làm việc" },
+    "reverse": true,
+    
     "displayName": "Lịch làm việc",
     "perPage": 10,
     "noPageOne": true,

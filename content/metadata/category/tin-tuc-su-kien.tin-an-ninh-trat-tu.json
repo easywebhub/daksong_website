@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
-    "reverse": false,
-    "metadata": {"title": "Tin an ninh trật tự" },
+    "reverse": true,
+    
     "displayName": "Tin an ninh trật tự",
     "perPage": 10,
     "noPageOne": true,

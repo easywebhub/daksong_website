@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
-    "reverse": false,
-    "metadata": {"title": "Thông tin khen thưởng xử phạt" },
+    "reverse": true,
+   
     "displayName": "Thông tin khen thưởng xử phạt",
     "perPage": 10,
     "noPageOne": true,

@@ -74,6 +74,12 @@
         "ten": "An ninh trật tự",
         "danh_sach": [
             {
+                "ten": "Tin văn hóa",
+                "name": "tinVanHoa",
+                "collections_name": "tin-tuc-su-kien.tin-van-hoa",
+                "url": "tin-tuc-su-kien/tin-van-hoa"
+            },
+            {
                 "ten": "An ninh trật tự",
                 "collections_name": "tin-tuc-su-kien.tin-an-ninh-trat-tu",
                 "name": "tinAnNinhTratTu",

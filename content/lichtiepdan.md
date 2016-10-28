@@ -1,6 +1,6 @@
 ---json
 {
-    "layout": "daksong.html",
+    "layout": "post.html",
     "slug": "lichtiepdan",
     "title": "lichtiepdan",
     "description": "Thông báo về việc tiếp công dân của Chủ tịch UBND huyện Đăk Song",

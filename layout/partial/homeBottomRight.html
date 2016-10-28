@@ -138,7 +138,7 @@
 												<div class="mediaItems">
 													<ul class="ul-mediaItem">
 														 {{#each (lookup (lookupCategory AllCategory 'thu-vien-video') 'files') }}
-														   <li class="li-mediaItem" onclick="playMedia(this);" url="http://222.255.158.21:554/CentralMedia/Hoangsa/toquocnhintubien.wmv" urlimage="HinhDaiDienVideo/_w/toquoc_jpg.jpg">{{title}}</li>
+														   <li class="li-mediaItem"  urlimage="HinhDaiDienVideo/_w/toquoc_jpg.jpg"> <a href="{{slug}}" >{{title}}</a></li>
 													     {{/each}}
 														
 													</ul>

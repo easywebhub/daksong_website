@@ -4,7 +4,7 @@
     "layout": "post.html",
     "category": "giay-moi",
     "title": "Kết quả lựa chọn nhà thầu gói thầu Chi phí thiết bị thuộc dự án Phần mềm văn phòng điện tử trong các cơ quan nhà nước tỉnh Đắk Nông",
-    "description": "Kết quả lựa chọn nhà thầu gói thầu Chi phí thiết bị thuộc dự án Phần mềm văn phòng điện tử trong các cơ quan nhà nước tỉnh Đắk Nông",
+    "description": "",
     "date": "23-09-2016",
     "banner": "",
     "tag": [],
@@ -13,3 +13,4 @@
     "url": ""
 }
 ---
+nội dung

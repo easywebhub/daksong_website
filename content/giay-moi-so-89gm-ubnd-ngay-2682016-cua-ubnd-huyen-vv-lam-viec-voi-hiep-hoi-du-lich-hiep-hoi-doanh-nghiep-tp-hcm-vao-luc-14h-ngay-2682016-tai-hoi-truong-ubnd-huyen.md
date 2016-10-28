@@ -9,6 +9,8 @@
     "banner": "",
     "tag": [],
     "permalink": true,
-    "draft": ""
+    "draft": "",
+    "url": ""
 }
 ---
+Nội dung giấy mời

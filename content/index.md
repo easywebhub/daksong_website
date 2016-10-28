@@ -80,10 +80,10 @@
                 "url": "tin-tuc-su-kien/tin-an-ninh-trat-tu"
             },
             {
-                "ten": "Tin văn hóa",
-                "name": "tinVanHoa",
-                "collections_name": "tin-tuc-su-kien.tin-van-hoa",
-                "url": "tin-tuc-su-kien/tin-van-hoa"
+                "ten": "Lịch làm việc",
+                "collections_name": "thong-tin-ieu-hanh.lich-lam-viec",
+                "name": "lichLamViec",
+                "url": "thong-tin-ieu-hanh/lich-lam-viec"
             }
         ]
     },

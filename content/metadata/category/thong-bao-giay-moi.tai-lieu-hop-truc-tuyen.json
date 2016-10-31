@@ -1,11 +1,11 @@
 {
     "sortBy": "date",
-    "reverse": false,
+    "reverse": true,
     "metadata": {},
-    "displayName": "thông báo giấy mời.tài liệu họp trực tuyến",
+    "displayName": "Tài liệu họp trực tuyến",
     "perPage": 10,
     "noPageOne": true,
-    "layout": "default.category.html",
+    "layout": "public.category.html",
     "first": ":categoryPath/index.html",
     "path": ":categoryPath/page/:num/index.html"
 }

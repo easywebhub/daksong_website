@@ -47,24 +47,24 @@
             },
             "subMenu": [
                 {
-                    "title": "Tin kinh tế",
+                    "title": "Tin chính trị -  Xã hội",
+                    "url": "tin-tuc-su-kien/tin-chinh-tri-xa-hoi"
+                },
+                {
+                    "title": "Tin kinh tế - Đời sống",
                     "url": "tin-tuc-su-kien/tin-kinh-te"
                 },
                 {
-                    "title": "Tin văn hóa",
+                    "title": "Tin văn hóa - Du lịch",
                     "url": "tin-tuc-su-kien/tin-van-hoa"
                 },
                 {
-                    "title": "Tin y tế giáo dục",
+                    "title": "Tin y tế - Giáo dục",
                     "url": "tin-tuc-su-kien/tin-y-te-giao-duc"
                 },
                 {
-                    "title": "Tin an ninh trật tự",
+                    "title": "Tin an ninh - Trật tự",
                     "url": "tin-tuc-su-kien/tin-an-ninh-trat-tu"
-                },
-                {
-                    "title": "Tin an toàn giao thông",
-                    "url": "tin-tuc-su-kien/tin-an-toan-giao-thong"
                 }
             ]
         },

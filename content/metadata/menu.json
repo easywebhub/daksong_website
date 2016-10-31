@@ -10,12 +10,12 @@
             },
             "subMenu": [
                 {
-                    "title": "Chức năng , nhiệm vụ",
-                    "url": "chuc-nang-nhiem-vu"
+                    "title": "Sơ đồ - tổ chức",
+                    "url": "so-do-to-chuc"
                 },
                 {
-                    "title": "Sơ đồ, tổ chức",
-                    "url": "so-do-to-chuc"
+                    "title": "Điều kiện tư nhiên",
+                    "url": "dieu-kien-tu-nhien"
                 },
                 {
                     "title": "Cơ cấu tổ chức",

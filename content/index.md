@@ -14,10 +14,10 @@
                 "url": "tin-tuc-su-kien/tin-kinh-te"
             },
             {
-                "ten": "Thông Tin Đều Hành",
+                "ten": "Thông tin chỉ đạo",
                 "name": "thongTinChiDaoDieuHanh",
-                "collections_name": "thong-tin-ieu-hanh.thong-tin-chi-ao-ieu-hanh",
-                "url": "thong-tin-ieu-hanh/thong-tin-chi-ao-ieu-hanh"
+                "collections_name": "thong-tin-chi-dao",
+                "url": "thong-tin-chi-dao"
             },
             {
                 "ten": "Tin y tế giáo dục",
@@ -54,19 +54,19 @@
         ]
     },
     "tab_thong_tin_dieu_hanh": {
-        "ten": "Thông tin chỉ đạo điều hành",
+        "ten": "Thông tin chỉ đạo",
         "danh_sach": [
             {
-                "ten": "Thông tin chỉ đạo điều hành",
-                "collections_name": "thong-tin-ieu-hanh.thong-tin-chi-ao-ieu-hanh",
+                "ten": "Thông tin chỉ đạo",
+                "collections_name": "thong-tin-chi-dao.y-kien-chi-dao-phan-hoi",
                 "name": "thongTinDieuChiDaoDh",
-                "url": "thong-tin-ieu-hanh/thong-tin-chi-ao-ieu-hanh"
+                "url": "thong-tin-chi-dao/y-kien-chi-dao-phan-hoi"
             },
             {
                 "ten": "Lịch làm việc",
-                "collections_name": "thong-tin-ieu-hanh.lich-lam-viec",
+                "collections_name": "thong-tin-chi-dao.lich-lam-viec-cua-lanh-dao",
                 "name": "lichLamViec",
-                "url": "thong-tin-ieu-hanh/lich-lam-viec"
+                "url": "thong-tin-chi-dao/lich-lam-viec-cua-lanh-dao"
             }
         ]
     },

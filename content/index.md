@@ -31,8 +31,8 @@
         "ten": "",
         "danh_sach": [
             {
-                "ten": "Thông tin đều hành",
-                "collections_name": "thong-tin-dieu-hanh"
+                "ten":"Thong tin chi dao",
+                "collections_name": "thong-tin-chi-dao"
             }
         ]
     },

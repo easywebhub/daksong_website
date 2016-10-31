@@ -2,7 +2,7 @@
 {
     "slug": "lich-lam-viec-thang-8-nam-2016",
     "layout":"post.html",
-    "category":"thong-tin-dieu-hanh.lich-lam-viec",
+    "category":"thong-tin-chi-dao.lich-lam-viec-cua-lanh-dao",
     "title": "Lịch làm việc Tháng 8 năm 2016",
     "description": "mô tả",
     "date": "08-09-2016",

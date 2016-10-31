@@ -1,11 +1,11 @@
 {
     "sortBy": "date",
-    "reverse": false,
+    "reverse": true,
     "metadata": {},
-    "displayName": "Thông tin chỉ đạo.Lịch làm việc của lãnh đạo",
+    "displayName": "Lịch làm việc của lãnh đạo",
     "perPage": 10,
     "noPageOne": true,
-    "layout": "default.category.html",
+    "layout": "public.category.html",
     "first": ":categoryPath/index.html",
     "path": ":categoryPath/page/:num/index.html"
 }

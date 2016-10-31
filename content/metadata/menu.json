@@ -40,39 +40,6 @@
             ]
         },
         {
-            "title": "Giới thiệu",
-            "url": "#",
-            "type": {
-                "isMulti": true
-            },
-            "subMenu": [
-                {
-                    "title": "Bộ máy hành chính",
-                    "url": "bo-may-hanh-chinh"
-                },
-                {
-                    "title": "Giới thiệu chung",
-                    "url": "gioi-thieu-chung"
-                },
-                {
-                    "title": "Lịch sử hình thành",
-                    "url": "lich-su-hinh-thanh"
-                },
-                {
-                    "title": "Văn hóa di tích",
-                    "url": "van-hoa-di-tich"
-                },
-                {
-                    "title": "Điều kiện tự nhiên",
-                    "url": "dieu-kien-tu-nhien"
-                },
-                {
-                    "title": "Đặc sản",
-                    "url": "dac-san"
-                }
-            ]
-        },
-        {
             "title": "Tin tức sự kiện",
             "url": "tin-tuc-su-kien",
             "type": {

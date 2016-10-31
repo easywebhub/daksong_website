@@ -70,22 +70,26 @@
         },
         {
             "title": "Thông tin chỉ đạo",
-            "url": "thong-tin-dieu-hanh",
+            "url": "thong-tin-chi-dao",
             "type": {
                 "isMulti": true
             },
             "subMenu": [
                 {
-                    "title": "Thông tin chỉ đạo điều hành",
-                    "url": "thong-tin-dieu-hanh/thong-tin-chi-dao-dieu-hanh"
+                    "title": "Ý kiến chỉ đạo, phản hồi",
+                    "url": "thong-tin-chi-dao/y-kien-chi-dao-phan-hoi"
                 },
                 {
-                    "title": "Thông tin khen thưởng xử phạt",
-                    "url": "thong-tin-dieu-hanh/thong-tin-khen-thuong-xu-phat"
+                    "title": "Khen thưởng xử phạt",
+                    "url": "thong-tin-chi-dao/khen-thuong-xu-phat"
                 },
                 {
-                    "title": "Lịch làm việc",
-                    "url": "thong-tin-dieu-hanh/lich-lam-viec"
+                    "title": "Thông tin tuyên truyền",
+                    "url": "thong-tin-chi-dao/thong-tin-tuyen-truyen"
+                },
+                {
+                    "title": "Lịch làm việc của lãnh đạo",
+                    "url": "thong-tin-chi-dao/lich-lam-viec-cua-lanh-dao"
                 }
             ]
         },

@@ -111,11 +111,25 @@
             ]
         },
         {
-            "title": "Kế hoạch phát triển",
-            "url": "ke-hoach-phat-trien",
+            "title": "Doanh nghiêp",
+            "url": "doanh-nghiep",
             "type": {
-                "isMulti": false
-            }
+                "isMulti": true
+            },
+            "subMenu": [
+                {
+                    "title": "Chính sách đầu tư",
+                    "url": "doanh-nghiep/chinh-sach-dau-tu"
+                },
+                {
+                    "title": "Kêu gọi đầu tư",
+                    "url": "doanh-nghiep/keu-goi-dau-tu"
+                },
+                {
+                    "title": "Dự án đầu tư",
+                    "url": "doanh-nghiep/du-an-dau-tu"
+                }
+            ]
         },
         {
             "title": "Văn bản & pháp luật",

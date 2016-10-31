@@ -15,7 +15,7 @@
         <div id="tab-content-{{this.name}}" style="display:none" categoryname="{{this.ten}}" class="ui-tabs-panel ui-widget-content ui-corner-bottom">
                 {{/if}}
                 <div class="news-tab">
-                    {{#each (lookup (lookupCategory ../AllCategory this.collections_name) 'files') }}
+                    {{#each (fitst (lookup (lookupCategory ../AllCategory this.collections_name) 'files') 6) }}
                     {{#if @first}}
                     <div class="news-tab-thumb-item-0">
                         <div class="news-tab-thumb-item-left-0">

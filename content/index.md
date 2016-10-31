@@ -8,7 +8,7 @@
         "ten": "Thông tin chỉ đạo",
         "danh_sach": [
             {
-                "ten": "Ý kiến chỉ đạo phản hồi",
+                "ten": "Ý kiến chỉ đạo, phản hồi",
                 "collections_name": "thong-tin-chi-dao.y-kien-chi-dao-phan-hoi",
                 "name": "thongTinDieuChiDaoDh",
                 "url": "thong-tin-chi-dao/y-kien-chi-dao-phan-hoi"
@@ -25,7 +25,7 @@
         "ten": "Tab kinh tế",
         "danh-sach": [
             {
-                "ten": "Tin Kinh Tế",
+                "ten": "Tin Kinh Tế - Đời sống",
                 "name": "tinKinhTe",
                 "collections_name": "tin-tuc-su-kien.tin-kinh-te",
                 "url": "tin-tuc-su-kien/tin-kinh-te"

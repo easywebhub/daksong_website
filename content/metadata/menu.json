@@ -132,6 +132,27 @@
             ]
         },
         {
+            "title": "Tiếp dân",
+            "url": "tiep-dan",
+            "type": {
+                "isMulti": true
+            },
+            "subMenu": [
+                {
+                    "title": "Quy chế tiếp dân",
+                    "url": "tiep-dan/quy-che-tiep-dan"
+                },
+                {
+                    "title": "Lịch tiếp công dân",
+                    "url": "tiep-dan/lich-tiep-cong-dan"
+                },
+                {
+                    "title": "Kết quả giải quyết",
+                    "url": "tiep-dan/ket-qua-giai-quyet"
+                }
+            ]
+        },
+        {
             "title": "Văn bản & pháp luật",
             "url": "van-ban-phap-luat",
             "type": {

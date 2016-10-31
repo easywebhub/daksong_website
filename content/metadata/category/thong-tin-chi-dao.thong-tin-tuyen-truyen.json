@@ -1,11 +1,11 @@
 {
     "sortBy": "date",
-    "reverse": false,
+    "reverse": true,
     "metadata": {},
-    "displayName": "Thông tin chỉ đạo.Thông tin tuyên truyền",
+    "displayName": "Thông tin tuyên truyền",
     "perPage": 10,
     "noPageOne": true,
-    "layout": "default.category.html",
+    "layout": "public.category.html",
     "first": ":categoryPath/index.html",
     "path": ":categoryPath/page/:num/index.html"
 }

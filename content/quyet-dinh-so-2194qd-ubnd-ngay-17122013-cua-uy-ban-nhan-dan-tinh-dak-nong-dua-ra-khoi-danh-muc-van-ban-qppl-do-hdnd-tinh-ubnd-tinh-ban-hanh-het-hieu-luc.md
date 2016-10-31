@@ -3,7 +3,7 @@
     "slug": "quyet-dinh-so-2194qd-ubnd-ngay-17122013-cua-uy-ban-nhan-dan-tinh-dak-nong-dua-ra-khoi-danh-muc-van-ban-qppl-do-hdnd-tinh-ubnd-tinh-ban-hanh-het-hieu-luc",
     "category": "thong-tin-chi-dao.khen-thuong-xu-phat",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "post.html",
     "title": "Quyết định số 2194/QĐ UBND ngày 17/12/2013 của ỦY BAN NHÂN DÂN TỈNH ĐĂK NÔNG Đưa ra khỏi Danh mục văn bản QPPL do HĐND tỉnh UBND tỉnh ban hành hết hiệu lực",
     "description": "2194/QĐ",
     "date": "23-09-2016",

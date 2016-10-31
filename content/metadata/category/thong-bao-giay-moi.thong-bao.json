@@ -1,11 +1,11 @@
 {
     "sortBy": "date",
-    "reverse": false,
+    "reverse": true,
     "metadata": {},
-    "displayName": "thông báo giấy mời.Thông báo",
+    "displayName": "Thông báo",
     "perPage": 10,
     "noPageOne": true,
-    "layout": "default.category.html",
+    "layout": "public.category.html",
     "first": ":categoryPath/index.html",
     "path": ":categoryPath/page/:num/index.html"
 }

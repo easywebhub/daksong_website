@@ -2,7 +2,7 @@
     "sortBy": "date",
     "reverse": false,
     "metadata": {},
-    "displayName": "văn bản pháp luật.Văn bản hành chính",
+    "displayName": "Văn bản hành chính",
     "perPage": 10,
     "noPageOne": true,
     "layout": "default.category.html",

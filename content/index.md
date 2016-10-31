@@ -14,10 +14,10 @@
                 "url": "thong-tin-chi-dao/y-kien-chi-dao-phan-hoi"
             },
             {
-                "ten": "Lịch làm việc",
-                "collections_name": "thong-tin-chi-dao.lich-lam-viec-cua-lanh-dao",
-                "name": "lichLamViec",
-                "url": "thong-tin-chi-dao/lich-lam-viec-cua-lanh-dao"
+                "ten": "Thông tin tuyên truyền",
+                "collections_name": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
+                "name": "thongTinTuyenTruyen",
+                "url": "thong-tin-chi-dao/thong-tin-tuyen-truyen"
             }
         ]
     },
@@ -31,13 +31,7 @@
                 "url": "tin-tuc-su-kien/tin-kinh-te"
             },
             {
-                "ten": "Thông tin chỉ đạo",
-                "name": "thongTinChiDaoDieuHanh",
-                "collections_name": "thong-tin-chi-dao",
-                "url": "thong-tin-chi-dao"
-            },
-            {
-                "ten": "Tin y tế giáo dục",
+                "ten": "Tin y tế - Giáo dục",
                 "name": "tinYTe",
                 "collections_name": "tin-tuc-su-kien.tin-y-te-giao-duc",
                 "url": "tin-tuc-su-kien/tin-y-te-giao-duc"
@@ -45,19 +39,13 @@
         ]
     },
     "tabVanHoa": {
-        "ten": "tab văn hóa",
+        "ten": "Tin văn hóa - Du lịch",
         "danhSach": [
             {
-                "ten": "Tin văn hóa",
+                "ten": "Tin văn hóa - Du lịch",
                 "name": "tinVanHoa",
                 "collections_name": "tin-tuc-su-kien.tin-van-hoa",
                 "url": "tin-tuc-su-kien/tin-van-hoa"
-            },
-            {
-                "ten": "Tin y tế giáo dục",
-                "name": "tinYTe1",
-                "collections_name": "tin-tuc-su-kien.tin-y-te-giao-duc",
-                "url": "tin-tuc-su-kien/tin-y-te-giao-duc"
             }
         ]
     },
@@ -66,6 +54,12 @@
         "ten": "An ninh trật tự",
         "danh_sach": [
             {
+                "ten": "Tin chính trị - Xã hội",
+                "collections_name": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
+                "name": "tinChinhTriXaHoi",
+                "url": "tin-tuc-su-kien/tin-chinh-tri-xa-hoi"
+            },
+             {
                 "ten": "An ninh trật tự",
                 "collections_name": "tin-tuc-su-kien.tin-an-ninh-trat-tu",
                 "name": "tinAnNinhTratTu",

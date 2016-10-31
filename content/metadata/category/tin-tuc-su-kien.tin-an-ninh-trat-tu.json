@@ -2,7 +2,7 @@
     "sortBy": "date",
     "reverse": true,
     
-    "displayName": "Tin an ninh trật tự",
+    "displayName": "Tin an ninh - Trật tự",
     "perPage": 10,
     "noPageOne": true,
     "layout": "public.category.html",

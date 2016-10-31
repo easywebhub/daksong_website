@@ -1,8 +1,8 @@
 {
     "sortBy": "date",
-    "reverse": false,
+    "reverse": true,
     "metadata": {},
-    "displayName": "văn bản pháp luật.Văn bản khác",
+    "displayName": "Văn bản khác",
     "perPage": 10,
     "noPageOne": true,
     "layout": "vanban.category.html",

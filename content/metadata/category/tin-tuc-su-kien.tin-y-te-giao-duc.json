@@ -2,7 +2,7 @@
     "sortBy": "date",
     "reverse": true,
     
-    "displayName": "Tin ý tế và giáo dục",
+    "displayName": "Tin ý tế - Giáo dục",
     "perPage": 10,
     "noPageOne": true,
     "layout": "public.category.html",

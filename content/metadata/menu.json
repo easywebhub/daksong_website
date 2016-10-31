@@ -18,16 +18,24 @@
                     "url": "dieu-kien-tu-nhien"
                 },
                 {
-                    "title": "Cơ cấu tổ chức",
-                    "url": "co-cau-to-chuc"
+                    "title": "Lịch sử - Truyền thống",
+                    "url": "lich-su-truyen-thong"
                 },
                 {
-                    "title": "Danh bạ",
-                    "url": "danh-ba"
+                    "title": "Di tích - Thắng cảnh",
+                    "url": "di-tich-thang-canh"
+                },
+                {
+                    "title": "Định hướng phát triển",
+                    "url": "dinh-huong-phat-trien"
                 },
                 {
                     "title": "Lãnh đạo, cơ quan",
                     "url": "lanh-dao-co-quan"
+                },
+                {
+                    "title": "Thông tin liên lạc",
+                    "url": "thong-tin-lien-lac"
                 }
             ]
         },

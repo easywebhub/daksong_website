@@ -4,8 +4,25 @@
     "layout": "trang-chu.html",
     "title": "EasyWebHub Home",
     "description": "Daksong Page",
+    "tab_thong_tin_dieu_hanh": {
+        "ten": "Thông tin chỉ đạo",
+        "danh_sach": [
+            {
+                "ten": "Ý kiến chỉ đạo phản hồi",
+                "collections_name": "thong-tin-chi-dao.y-kien-chi-dao-phan-hoi",
+                "name": "thongTinDieuChiDaoDh",
+                "url": "thong-tin-chi-dao/y-kien-chi-dao-phan-hoi"
+            },
+            {
+                "ten": "Lịch làm việc",
+                "collections_name": "thong-tin-chi-dao.lich-lam-viec-cua-lanh-dao",
+                "name": "lichLamViec",
+                "url": "thong-tin-chi-dao/lich-lam-viec-cua-lanh-dao"
+            }
+        ]
+    },
     "block-1": {
-        "ten": "Block đầu tiên của danh mục trong trang chủ",
+        "ten": "Tab kinh tế",
         "danh-sach": [
             {
                 "ten": "Tin Kinh Tế",
@@ -27,15 +44,6 @@
             }
         ]
     },
-    "block-2": {
-        "ten": "",
-        "danh_sach": [
-            {
-                "ten":"Thong tin chi dao",
-                "collections_name": "thong-tin-chi-dao"
-            }
-        ]
-    },
     "tabVanHoa": {
         "ten": "tab văn hóa",
         "danhSach": [
@@ -53,23 +61,7 @@
             }
         ]
     },
-    "tab_thong_tin_dieu_hanh": {
-        "ten": "Thông tin chỉ đạo",
-        "danh_sach": [
-            {
-                "ten": "Thông tin chỉ đạo",
-                "collections_name": "thong-tin-chi-dao.y-kien-chi-dao-phan-hoi",
-                "name": "thongTinDieuChiDaoDh",
-                "url": "thong-tin-chi-dao/y-kien-chi-dao-phan-hoi"
-            },
-            {
-                "ten": "Lịch làm việc",
-                "collections_name": "thong-tin-chi-dao.lich-lam-viec-cua-lanh-dao",
-                "name": "lichLamViec",
-                "url": "thong-tin-chi-dao/lich-lam-viec-cua-lanh-dao"
-            }
-        ]
-    },
+    
     "tab_an_ninh": {
         "ten": "An ninh trật tự",
         "danh_sach": [

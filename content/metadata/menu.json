@@ -164,16 +164,12 @@
                     "url": "van-ban-phap-luat/van-ban-cua-tinh"
                 },
                 {
-                    "title": "Văn bản của huyện",
-                    "url": "van-ban-phap-luat/van-ban-cua-huyen"
+                    "title": "Văn bản QPPL",
+                    "url": "van-ban-phap-luat/van-ban-qppl"
                 },
                 {
-                    "title": "Tiếp dân",
-                    "url": "van-ban-phap-luat/tiep-dan"
-                },
-                {
-                    "title": "Thủ tục hành chính",
-                    "url": "van-ban-phap-luat/thu-tuc-hanh-chinh"
+                    "title": "Văn bản khác",
+                    "url": "van-ban-phap-luat/van-ban-khac"
                 }
             ]
         }

@@ -1,11 +1,11 @@
 {
     "sortBy": "date",
-    "reverse": false,
+    "reverse": true,
     "metadata": {},
-    "displayName": "Thông tin chỉ đạo.Khen thướng xử phạt",
+    "displayName": "Khen thướng xử phạt",
     "perPage": 10,
     "noPageOne": true,
-    "layout": "default.category.html",
+    "layout": "public.category.html",
     "first": ":categoryPath/index.html",
     "path": ":categoryPath/page/:num/index.html"
 }

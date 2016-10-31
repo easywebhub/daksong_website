@@ -69,7 +69,7 @@
             ]
         },
         {
-            "title": "Thông tin điều hành",
+            "title": "Thông tin chỉ đạo",
             "url": "thong-tin-dieu-hanh",
             "type": {
                 "isMulti": true
@@ -90,19 +90,19 @@
             ]
         },
         {
-            "title": "Thông tin tuyên truyền",
-            "url": "thong-tin-tuyen-truyen",
+            "title": "Thông báo - Giấy mời",
+            "url": "thong-bao-giay-moi",
             "type": {
                 "isMulti": true
             },
             "subMenu": [
                 {
-                    "title": "Hướng dẫn",
-                    "url": "thong-tin-tuyen-truyen/huong-dan"
+                    "title": "Thông báo",
+                    "url": "thong-bao-giay-mo/thong-bao"
                 },
                 {
-                    "title": "Chính sách",
-                    "url": "thong-tin-tuyen-truyen/chinh-sach"
+                    "title": "Giấy mời",
+                    "url": "thong-bao-giay-moi/giay-moi"
                 }
             ]
         },

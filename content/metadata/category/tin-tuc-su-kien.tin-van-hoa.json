@@ -2,7 +2,7 @@
     "sortBy": "date",
     "reverse": true,
 
-    "displayName": "Tin văn hóa",
+    "displayName": "Tin văn hóa - Du lịch",
     "perPage": 10,
     "noPageOne": true,
     "layout": "public.category.html",

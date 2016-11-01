@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Lịch trực ban tiếp công dân",
     "description": "",
-    "date": "23-09-2016 11:16:46",
+    "date": "22-09-2016",
     "so": "",
     "permalink": "",
     "trich_yeu": "",
@@ -15,6 +15,9 @@
     "loai_van_ban": "",
     "nguoi_ky": "",
     "ngay_co_hieu_luc": "",
-    "tai_lieu_dinh_kem": "img/lich tiep dan.doc"
+    "tai_lieu_dinh_kem": "img/lich tiep dan.doc",
+    "banner": "",
+    "draft": "",
+    "url": ""
 }
 ---

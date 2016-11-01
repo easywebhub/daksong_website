@@ -164,16 +164,16 @@
             },
             "subMenu": [
                 {
-                    "title": "Văn bản hành chính",
-                    "url": "van-ban-phap-luat/van-ban-hanh-chinh"
+                    "title": "Văn bản Trung ương",
+                    "url": "van-ban-phap-luat/van-ban-trung-uong"
                 },
                 {
-                    "title": "Văn bản QPPL",
-                    "url": "van-ban-phap-luat/van-ban-qppl"
+                    "title": "Văn bản của tỉnh",
+                    "url": "van-ban-phap-luat/van-ban-cua-tinh"
                 },
                 {
-                    "title": "Văn bản khác",
-                    "url": "van-ban-phap-luat/van-ban-khac"
+                    "title": "Văn bản của huyện",
+                    "url": "van-ban-phap-luat/van-ban-cua-huyen"
                 }
             ]
         }

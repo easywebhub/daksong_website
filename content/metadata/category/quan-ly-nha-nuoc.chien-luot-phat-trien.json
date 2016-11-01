@@ -1,6 +1,7 @@
 {
     "sortBy": "date",
     "reverse": true,
+    "metadata": {"title":"Chiến lượt phát triển"},
     "displayName":"Chiến lượt phát triển",
     "perPage": 10,
     "noPageOne": true,

@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
     "reverse": true,
-    "metadata": {},
+    "metadata": {"title":"Khen thướng xử phạt"},
     "displayName": "Khen thướng xử phạt",
     "perPage": 10,
     "noPageOne": true,

@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
     "reverse": true,
-
+    "metadata": {"title":"Tin văn hóa - Du lịch"},
     "displayName": "Tin văn hóa - Du lịch",
     "perPage": 10,
     "noPageOne": true,

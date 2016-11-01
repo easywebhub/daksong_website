@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
     "reverse": true,
-    "metadata": {},
+    "metadata": {"title":"Lịch làm việc của lãnh đạo"},
     "displayName": "Lịch làm việc của lãnh đạo",
     "perPage": 10,
     "noPageOne": true,

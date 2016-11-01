@@ -1,6 +1,7 @@
 {
     "sortBy": "date",
     "reverse": true,
+            "metadata": {"title":"Thông tin dự án"},
     "displayName":"Thông tin dự án",
     "perPage": 10,
     "noPageOne": true,

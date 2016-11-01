@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
     "reverse": true,
-    "metadata": {},
+    "metadata": {"title":"Tài liệu họp trực tuyến"},
     "displayName": "Tài liệu họp trực tuyến",
     "perPage": 10,
     "noPageOne": true,

@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
     "reverse": true,
-    
+        "metadata": {"title":"Tin an toàn giao thông"},
     "displayName": "Tin an toàn giao thông",
     "perPage": 10,
     "noPageOne": true,

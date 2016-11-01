@@ -1,8 +1,8 @@
 {
     "sortBy": "date",
-    "reverse": false,
-    "metadata": {},
-    "displayName": "tiếp dân.Lịch tiếp công dân",
+    "reverse": true,
+    "metadata": {"title":"Lịch tiếp công dân"},
+    "displayName": "Lịch tiếp công dân",
     "perPage": 10,
     "noPageOne": true,
     "layout": "default.category.html",

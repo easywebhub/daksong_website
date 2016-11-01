@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
     "reverse": true,
-    "metadata": {},
+    "metadata": {"title":"Thông báo - Giấy mời"},
     "displayName": "Thông báo - Giấy mời",
     "perPage": 10,
     "noPageOne": true,

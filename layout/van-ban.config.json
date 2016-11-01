@@ -52,7 +52,7 @@
     {
         "name": "date",
         "displayName": "thời gian",
-        "displayType": "DateTime",
+        "displayType": "Date",
         "type": "DateTime",
         "validations": [],
         "viewOnly": false,

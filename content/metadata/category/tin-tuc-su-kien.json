@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
     "reverse": true,
-
+    "metadata": {"title":"Tin tức sự kiện"},
     "displayName": "Tin tức sự kiện",
     "perPage": 10,
     "noPageOne": true,

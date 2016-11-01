@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
     "reverse": true,
-    "metadata": {},
+    "metadata": {"title":"Giấy mời"},
     "displayName": "Giấy mời",
     "perPage": 10,
     "noPageOne": true,

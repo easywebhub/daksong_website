@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Thông báo về việc thay đổi thời gian họp",
     "description": "",
-    "date": "23-09-2016 11:29:19",
+    "date": "23-09-2016",
     "so": "97",
     "permalink": true,
     "trich_yeu": "Thông báo về việc thay đổi thời gian họp",

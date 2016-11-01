@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "BÁO CÁO  Tình hình thực hiện nhiệm vụ tháng 8  và phương hướng, nhiệm vụ tháng 9/2016",
     "description": "",
-    "date": "23-09-2016 10:37:55",
+    "date": "23-09-2016",
     "so": "",
     "permalink": "",
     "trich_yeu": "",

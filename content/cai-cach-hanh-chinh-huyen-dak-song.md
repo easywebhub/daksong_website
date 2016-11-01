@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Cải cách hành chính huyện Đak Sông ",
     "description": "Ủy ban nhân dân huyện thống nhất triển khai thực hiện công tác cải cách hành chính trên địa bàn huyện ",
-    "date": "23-09-2016 10:59:08",
+    "date": "24-09-2016",
     "so": "Số: \t  /BC - UBND ",
     "permalink": true,
     "trich_yeu": "",
@@ -15,10 +15,13 @@
     "loai_van_ban": "",
     "nguoi_ky": "",
     "ngay_co_hieu_luc": "",
-    "tai_lieu_dinh_kem": "img/cải cách hành chính.doc"
+    "tai_lieu_dinh_kem": "img/cải cách hành chính.doc",
+    "banner": "",
+    "draft": "",
+    "url": ""
 }
 ---
-          Kính gửi: 
+Kính gửi: 
  - Các phòng, ban, đơn vị;
  - Ủy ban nhân dân xã Nâm N’Jang; ĐăkN’Drung; Thuận Hà.
 

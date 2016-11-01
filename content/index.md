@@ -4,23 +4,6 @@
     "layout": "trang-chu.html",
     "title": "EasyWebHub Home",
     "description": "Daksong Page",
-    "tab_thong_tin_dieu_hanh": {
-        "ten": "Thông tin chỉ đạo",
-        "danh_sach": [
-            {
-                "ten": "Ý kiến chỉ đạo, phản hồi",
-                "collections_name": "thong-tin-chi-dao.y-kien-chi-dao-phan-hoi",
-                "name": "thongTinDieuChiDaoDh",
-                "url": "thong-tin-chi-dao/y-kien-chi-dao-phan-hoi"
-            },
-            {
-                "ten": "Thông tin tuyên truyền",
-                "collections_name": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
-                "name": "thongTinTuyenTruyen",
-                "url": "thong-tin-chi-dao/thong-tin-tuyen-truyen"
-            }
-        ]
-    },
     "block-1": {
         "ten": "Tab kinh tế",
         "danh-sach": [
@@ -38,6 +21,7 @@
             }
         ]
     },
+    "block-2": {},
     "tabVanHoa": {
         "ten": "Tin văn hóa - Du lịch",
         "danhSach": [
@@ -49,21 +33,37 @@
             }
         ]
     },
-    
+    "tab_thong_tin_dieu_hanh": {
+        "ten": "Thông tin chỉ đạo",
+        "danh_sach": [
+            {
+                "ten": "Ý kiến chỉ đạo, phản hồi",
+                "collections_name": "thong-tin-chi-dao.y-kien-chi-dao-phan-hoi",
+                "name": "thongTinDieuChiDaoDh",
+                "url": "thong-tin-chi-dao/y-kien-chi-dao-phan-hoi"
+            },
+            {
+                "ten": "Thông tin tuyên truyền",
+                "collections_name": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
+                "name": "thongTinTuyenTruyen",
+                "url": "thong-tin-chi-dao/thong-tin-tuyen-truyen"
+            }
+        ]
+    },
     "tab_an_ninh": {
         "ten": "An ninh trật tự",
         "danh_sach": [
+            {
+                "ten": "An ninh trật tự",
+                "collections_name": "tin-tuc-su-kien.tin-an-ninh-trat-tu",
+                "name": "tinAnNinhTratTu",
+                "url": "tin-tuc-su-kien/tin-an-ninh-trat-tu"
+            },
             {
                 "ten": "Tin chính trị - Xã hội",
                 "collections_name": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
                 "name": "tinChinhTriXaHoi",
                 "url": "tin-tuc-su-kien/tin-chinh-tri-xa-hoi"
-            },
-             {
-                "ten": "An ninh trật tự",
-                "collections_name": "tin-tuc-su-kien.tin-an-ninh-trat-tu",
-                "name": "tinAnNinhTratTu",
-                "url": "tin-tuc-su-kien/tin-an-ninh-trat-tu"
             }
         ]
     },

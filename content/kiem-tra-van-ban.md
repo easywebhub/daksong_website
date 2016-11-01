@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "kiem tra van ban",
     "description": "",
-    "date": "01-11-2016",
+    "date": "02-11-2016",
     "so": "",
     "permalink": "",
     "trich_yeu": "",

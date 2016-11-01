@@ -1,8 +1,8 @@
 {
     "sortBy": "date",
     "reverse": true,
-    "metadata": {"title": "Thủ tục hành chính"},
-    "displayName": "Thủ tục hành chính",
+    "metadata": {"title": "Văn bản Trung ương"},
+    "displayName": "Văn bản Trung ương",
     "perPage": 10,
     "noPageOne": true,
     "layout": "vanban.category.html",

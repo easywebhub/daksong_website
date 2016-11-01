@@ -1,8 +1,8 @@
 {
     "sortBy": "date",
     "reverse": true,
-    "metadata": {"title":"Văn bản QPPL"},
-    "displayName": "Văn bản QPPL",
+    "metadata": {"title":"Văn bản của tỉnh"},
+    "displayName": "Văn bản của tỉnh",
     "perPage": 10,
     "noPageOne": true,
     "layout": "vanban.category.html",

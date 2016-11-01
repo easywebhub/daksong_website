@@ -1,8 +1,8 @@
 {
     "sortBy": "date",
     "reverse": true,
-    "metadata": {"title":"Văn bản hành chính"},
-    "displayName": "Văn bản hành chính",
+    "metadata": {"title":"Văn bản của huyện"},
+    "displayName": "Văn bản của huyện",
     "perPage": 10,
     "noPageOne": true,
     "layout": "default.category.html",

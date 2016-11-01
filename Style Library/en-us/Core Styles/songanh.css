@@ -31,7 +31,6 @@ body.songanh,body.songanh-tintuc,body.v4master1{
 	background: url("../../../imgSonganh/2015_bg.png"); top left repeat-x; background-attachment :fixed;
 }
 #s4-bodyContainer{
-	background: url("../../../imgSonganh/bg_bao.png") no-repeat center 235px;
 }
 .masquantri #s4-workspace1{			
 	background-image:none;
@@ -334,6 +333,7 @@ div.menuF1 a:hover,div.home a:hover{
 	overflow:hidden;
 	margin-top:13px;
 	padding-top:11px;
+	background: white ; 
 }
 .hlOTop{
 	height:380px;

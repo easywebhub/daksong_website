@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
     "reverse": true,
-    "metadata": {},
+    "metadata": {"title":"Thông báo"},
     "displayName": "Thông báo",
     "perPage": 10,
     "noPageOne": true,

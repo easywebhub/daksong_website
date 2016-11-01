@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
     "reverse": true,
-    
+        "metadata": {"title":"Tin ý tế - Giáo dục"},
     "displayName": "Tin ý tế - Giáo dục",
     "perPage": 10,
     "noPageOne": true,

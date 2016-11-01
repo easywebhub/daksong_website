@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
     "reverse": true,
-    "metadata": {},
+    "metadata": {"title":"Kêu gọi đầu tư"},
     "displayName": "Kêu gọi đầu tư",
     "perPage": 10,
     "noPageOne": true,

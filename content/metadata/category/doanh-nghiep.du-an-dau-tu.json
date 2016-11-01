@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
     "reverse": true,
-    "metadata": {},
+    "metadata": {"title":"Dự án đầu tư"},
     "displayName": "Dự án đầu tư",
     "perPage": 10,
     "noPageOne": true,

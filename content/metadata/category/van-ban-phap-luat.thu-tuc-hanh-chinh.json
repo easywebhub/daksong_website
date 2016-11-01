@@ -1,6 +1,6 @@
 {
     "sortBy": "date",
-    "reverse": false,
+    "reverse": true,
     "metadata": {"title": "Thủ tục hành chính"},
     "displayName": "Thủ tục hành chính",
     "perPage": 10,

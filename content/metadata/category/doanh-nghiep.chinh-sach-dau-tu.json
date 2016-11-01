@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
     "reverse": true,
-    "metadata": {},
+    "metadata": {"title":"Chính sách đầu tư"},
     "displayName": "Chính sách đầu tư",
     "perPage": 10,
     "noPageOne": true,

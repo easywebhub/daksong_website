@@ -1,8 +1,8 @@
 {
     "sortBy": "date",
-    "reverse": false,
-    "metadata": {},
-    "displayName": "tiếp dân.Kết quả tiếp dân",
+    "reverse": true,
+    "metadata": {"title":"Kết quả tiếp dân"},
+    "displayName": "Kết quả tiếp dân",
     "perPage": 10,
     "noPageOne": true,
     "layout": "default.category.html",

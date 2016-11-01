@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
-    "reverse": false,
-    "metadata": {},
+    "reverse": true,
+    "metadata": {"title":"Văn bản QPPL"},
     "displayName": "Văn bản QPPL",
     "perPage": 10,
     "noPageOne": true,

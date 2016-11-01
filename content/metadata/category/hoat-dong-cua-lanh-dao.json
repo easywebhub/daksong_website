@@ -1,6 +1,7 @@
 {
     "sortBy": "date",
     "reverse": true,
+    "metadata": {"title":"Hoạt động của lãnh đạo"},
     "displayName":"Hoạt động của lãnh đạo",
     "perPage": 10,
     "noPageOne": true,

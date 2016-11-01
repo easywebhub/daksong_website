@@ -1,6 +1,6 @@
 {
     "sortBy": "date",
-    "reverse": false,
+    "reverse": true,
     "metadata": {"title" : "Tiếp dân"},
     "displayName": "Tiếp dân",
     "perPage": 10,

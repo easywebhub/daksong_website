@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
     "reverse": true,
-    "metadata": {},
+    "metadata": {"title":"Văn bản khác"},
     "displayName": "Văn bản khác",
     "perPage": 10,
     "noPageOne": true,

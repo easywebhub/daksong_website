@@ -1,7 +1,7 @@
 {
     "sortBy": "date",
     "reverse": true,
-    "metadata": {},
+    "metadata": {"title":"Tin chính trị - Xã hội"},
     "displayName": "Tin chính trị - Xã hội",
     "perPage": 10,
     "noPageOne": true,

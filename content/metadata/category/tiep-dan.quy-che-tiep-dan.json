@@ -1,8 +1,8 @@
 {
     "sortBy": "date",
-    "reverse": false,
-    "metadata": {},
-    "displayName": "tiếp dân.Quy chế tiếp dân",
+    "reverse": true,
+    "metadata": {"title":"Quy chế tiếp dân"},
+    "displayName": "Quy chế tiếp dân",
     "perPage": 10,
     "noPageOne": true,
     "layout": "default.category.html",

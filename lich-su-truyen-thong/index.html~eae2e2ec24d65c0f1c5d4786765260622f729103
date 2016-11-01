@@ -383,7 +383,7 @@
                                                    
                                                         <li class="parent " id="firstlist3" duy="3">
                                                             <div class="main-level" id="firstlist-div-3">
-                                                                <a class="tmenu" href="./van-ban-phap-luat"><span>Văn bản &amp; pháp luật</span></a>
+                                                                <a class="tmenu" href="./van-ban-phap-luat"><span>Văn bản Pháp luật</span></a>
                                                             </div>
                                                             <ul class="children" id="childrenlist3" style="display: none;">
                                                                 <div class="second-list">
@@ -951,31 +951,6 @@
                                         </a>
                                     </DIV>
                                 </DIV>
-                                 <DIV class="divvanbanmoi">
-                                    <A href="quyet-dinh-so-2194qd-ubnd-ngay-17122013-cua-uy-ban-nhan-dan-tinh-dak-nong-dua-ra-khoi-danh-muc-van-ban-qppl-do-hdnd-tinh-ubnd-tinh-ban-hanh-het-hieu-luc">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                    2194/QĐ </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>23-09-2016 </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClass54612D623D4A4D52B25DAED194B7A8ED">2194/QĐ</div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="quyet-dinh-so-2194qd-ubnd-ngay-17122013-cua-uy-ban-nhan-dan-tinh-dak-nong-dua-ra-khoi-danh-muc-van-ban-qppl-do-hdnd-tinh-ubnd-tinh-ban-hanh-het-hieu-luc">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>
                                
                                 <!--<DIV class="divvanbanmoi"
                                     <A href="/hethongvanban/Pages/default.aspx?SoID=76 ">
@@ -1147,14 +1122,25 @@
           <DIV class="container_top_mid2" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts">
             <TABLE border="0" cellSpacing="0" cellPadding="0" width="100%">
             <TBODY><TR class="ms-news-header">
-            <TD style="CURSOR: hand" class="FolderTitle" vAlign="top"> 
-                            Văn bản của huyện
-                </TD>
-            <TD style="TEXT-ALIGN: right; FONT-WEIGHT: normal" class="Time" vAlign="top" align="right"></TD></TR></TBODY>
+            <TD style="CURSOR: hand" class="FolderTitle" vAlign="top">
+             Lịch sử - Truyền thống 
+            </TD>
+            <TD style="TEXT-ALIGN: right; FONT-WEIGHT: normal" class="Time" vAlign="top" align="right">31-10-2016 10:07:09</TD></TR></TBODY>
           </TABLE>
           </DIV>
-           
+            <DIV id="part1" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts">
+            <TABLE id="tableforprint" border="0" cellSpacing="0" cellPadding="0" width="100%">
+            <TBODY><TR><TD width="100%">
 
+            <TR><TD style="TEXT-ALIGN: justify">
+               <B class="lv_description_mode1 allowMenu">
+               </B></TD></TR>
+           <TR><TD style="TEXT-ALIGN: justify">
+             <div class="ExternalClassD44D9F9779FB424380767EC8F35A4E72">
+                <p style="text-align:justify"><span style="font-size:14px"><br /></span></p>
+<div>
+
+</div></div></TD></TR><TR><TD /></TR></TBODY></TABLE><BR />
 <script>
 
             function linkFacebook(title) {
@@ -1183,31 +1169,15 @@
      </tr>
      </table><div class="ms-PartSpacingVertical"></div></td>
      </tr><tr>
-     <td id="MSOZoneCell_WebPartWPQ12" valign="top" class="s4-wpcell-plain"><table id="tableforprint" border="0" cellspacing="0" cellpadding="0" width="100%">
+     <td id="MSOZoneCell_WebPartWPQ12" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
      <tr>
       <td valign="top"><div WebPartID="8df91751-13bb-4d87-adcf-493d9b19d2cc" HasPers="false" id="WebPartWPQ12" width="100%" class="ms-WPBody noindex" allowDelete="false" style="" ><div id="ctl00_m_g_8df91751_13bb_4d87_adcf_493d9b19d2cc">
-        <DIV id="part2" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts"><TABLE  border="0" cellspacing="0" cellpadding="0" width="100%" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts"><TBODY>
-
-            Văn bản của huyện
-            
-            
-            <TR><TD class="Other" width="100%"><UL /></TD></TR></TBODY></TABLE><TABLE class="tbtinkhac" border="0" cellSpacing="0" cellPadding="0" width="100%">
-					<TBODY><TR><TD class="OtherTitle"><P class="OtherTitle">TIN ĐÃ ĐƯA</P></TD></TR></TBODY></TABLE><TABLE border="0" cellSpacing="0" cellPadding="0" width="100%">
+        <DIV id="part2" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts"><TABLE border="0" cellSpacing="0" cellPadding="0" width="100%"><TBODY><TR><TD class="Other" width="100%"><UL /></TD></TR></TBODY></TABLE><TABLE class="tbtinkhac" border="0" cellSpacing="0" cellPadding="0" width="100%">
+					<TBODY><TR><TD class="OtherTitle"></TD></TR></TBODY></TABLE><TABLE border="0" cellSpacing="0" cellPadding="0" width="100%">
 				<TBODY><TR><TD class="Other" width="100%"><UL>
-						 <li><a href="./bao-cao-tinh-hinh-thuc-hien-nhiem-vu-thang-8-va-phuong-huong-nhiem-vu-thang-92016">BÁO CÁO  Tình hình thực hiện nhiệm vụ tháng 8  và phương hướng, nhiệm vụ tháng 9/2016</a>
-							 <SPAN class="ShowDate">(23-09-2016 10:37:55)</SPAN>
-						 </li>
+						
 
-          </UL></TD></TR></TBODY></TABLE>          <hr>
-                <ul class="pagination">
-
-                    <li>
-                        <nav class="pagination">
-                        </nav>
-
-                    </li>
-                </ul>
-
+          </UL></TD></TR></TBODY></TABLE>
 		<DIV class="css_Xemtiep"><a href="/TinTuc/tintuc/Lists/Posts/AllPosts.aspx?CategoryId=16&amp;PublishedDate=2015-08-25T13:35:00Z"><IMG alt="Xem tiếp" src="/_layouts/LacVietBio/eofficeimg/news/xemtiep.gif" /></a></DIV></DIV>
       </div></div></td>
      </tr>
@@ -1251,6 +1221,7 @@
           scrOfY = document.documentElement.scrollTop;
           scrOfX = document.documentElement.scrollLeft;
       }
+
       x = (window.Event) ? this.pageX : event.clientX + scrOfX;
       y = (window.Event) ? this.pageY : event.clientY + scrOfY;
       tb.style.left = x;
@@ -1259,14 +1230,24 @@
      function popupactiveLink(right, newsid, menuid, img) {
       if (right == 'true') {
           setposimg(img);
+
           MMU_Open(byid(menuid), MMU_GetMenuFromClientId(img), event, false, null, 0);
       }
      }
+
+
      </script>
      <div id="ctl00_m_g_35ca937d_f24c_4b50_aec9_3ea1f56ddcae_ctl00_mainPanel">
           <div><link href="/SiteAssets/css/redmond/jquery-ui-1.8.16.custom.css" rel="stylesheet" type="text/css"/><script src="/SiteAssets/js/jquery-1.4.4.min.js" type="text/javascript"></script><script src="/SiteAssets/js/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script><script src="/SiteAssets/js/jquery.ui.datepicker-vi.js" type="text/javascript"></script><script language="javascript">
+
+
+
+
+
+
      //Hệ thống (không được sửa đổi)
      function getQueryStringName(name) {
+
      var m_Value = '';
      var url = document.URL
      //get the parameters
@@ -1276,10 +1257,12 @@
      // associative array
      var params = params.split("&");
      var queryStringList = {};
+
      for (var i = 0; i < params.length; i++) {
           var tmp = params[i].split("=");
           queryStringList[tmp[0]] = unescape(tmp[1]);
       }
+
       //check querystring
       for (var queryString in queryStringList) {
           if (queryString == name) {
@@ -1289,13 +1272,16 @@
       }
       return m_Value;
      }
+
      function xemTheoNgay() {
       var m_DateText = document.getElementById('datepicker2').value;
       if (m_DateText != '') {
           window.location = 'AllPosts.aspx?CategoryId=' + getQueryStringName('CategoryId', document.URL) + '&PublishedDate=' + document.getElementById('datepicker2').value;
      }
      }
+
      var j = jQuery.noConflict();
+
      j(function() {
      // Datepicker
      j("#datepicker").datepicker({
@@ -1311,9 +1297,9 @@
      altField: "#datepicker2",
      altFormat: "yy-mm-ddT00:00:00Z"
      });
-     });</script><div class="lv-pst-xtn"><div class="lv-pst-xtn-t">Xem theo ngày: </div>
-     <div class="lv-pst-xtn-dp"><input id="datepicker" type="text"/> <input id="datepicker2" type="hidden"/> </div>
-     <div class="lv-pst-xtn-btn"><input onclick="xemTheoNgay();" type="button" value="Xem"/> </div></div>
+     });</script><div class="lv-pst-xtn">
+      </div>
+     </div>
      ​</div>
      					</div>
 
@@ -1477,12 +1463,17 @@
             </li>
             <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
                 <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
-                    <div class="div-link-navheader"><span class="linkEmpty">Thông tin điều hành</span></div>
+                    <div class="div-link-navheader"><span class="linkEmpty">Thông tin chỉ đạo</span></div>
                 </div>
                 <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
                     <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
                         <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="thong-tin-ieu-hanh/thong-tin-chi-ao-ieu-hanh" class="leftsubmenu" target="_self"> Root</a></div>
+                            <div class="div-leftsubmenu"><a href="thong-tin-chi-dao/lich-lam-viec-cua-lanh-dao" class="leftsubmenu" target="_self"> Lịch làm việc của lãnh đạo</a></div>
+                        </div>
+                    </li>
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="thong-tin-chi-dao/y-kien-chi-dao-phan-hoi" class="leftsubmenu" target="_self"> Ý kiến chỉ đạo phản hồi</a></div>
                         </div>
                     </li>
 

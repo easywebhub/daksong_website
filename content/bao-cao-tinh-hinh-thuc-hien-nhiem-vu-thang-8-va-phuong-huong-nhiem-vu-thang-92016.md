@@ -15,6 +15,9 @@
     "loai_van_ban": "",
     "nguoi_ky": "",
     "ngay_co_hieu_luc": "",
-    "tai_lieu_dinh_kem": "img/báo cáo tháng 8 và phương hướng nhiệm vụ tháng 9 năm 2016(chuẩn).doc"
+    "tai_lieu_dinh_kem": "img/báo cáo tháng 8 và phương hướng nhiệm vụ tháng 9 năm 2016(chuẩn).doc",
+    "banner": "",
+    "draft": "",
+    "url": ""
 }
 ---

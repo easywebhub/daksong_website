@@ -15,6 +15,9 @@
     "loai_van_ban": "",
     "nguoi_ky": "",
     "ngay_co_hieu_luc": "",
-    "tai_lieu_dinh_kem": ""
+    "tai_lieu_dinh_kem": "",
+    "banner": "",
+    "draft": "",
+    "url": ""
 }
 ---

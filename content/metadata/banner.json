@@ -6,20 +6,16 @@
     "banner_nho": [],
     "banner_goc_phai_trang_chu": [
         {
+            "hinh_anh": "/hinh-anh/banner/email.jpg",
+            "duong_dan": "http://mail.daknong.gov.vn/"
+        },
+        {
             "hinh_anh": "/hinh-anh/banner/dvcong.jpg",
             "duong_dan": "http://dvc.daknong.gov.vn/"
         },
         {
-            "hinh_anh": "HinhAnhLienKet/33.jpg",
-            "duong_dan": ""
-        },
-        {
-            "hinh_anh": "HinhAnhLienKet/hoc tap va lam theo.jpg",
-            "duong_dan": ""
-        },
-        {
-            "hinh_anh": "HinhAnhLienKet/XDNTM.png",
-            "duong_dan": ""
+            "hinh_anh": "/hinh-anh/banner/cchc.jpg",
+            "duong_dan": "http://daknong.gov.vn/thutuchanhchinh"
         }
     ],
     "danh_sach_banner_nho": [

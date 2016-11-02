@@ -54,7 +54,7 @@
 </head>
 
 <body class="songanh" scroll="no" onload="if (typeof(_spBodyOnLoadWrapper) != 'undefined') _spBodyOnLoadWrapper();" class="v4master1">
-    <form name="aspnetForm" method="post" action="Pages/default.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+    <div name="aspnetForm" method="post" action="Pages/default.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
 
         <noscript><div class='noindex'>You may be trying to access this site from a secured browser on the server. Please enable scripts and reload this page.</div></noscript>
 
@@ -298,6 +298,7 @@
                                                                         <li class="first-element" id=""><a class="tmenu" href="./dinh-huong-phat-trien">Định hướng phát triển</a></li>
                                                                         <li class="first-element" id=""><a class="tmenu" href="./lanh-dao-co-quan">Lãnh đạo cơ quan</a></li>
                                                                         <li class="first-element" id=""><a class="tmenu" href="./thong-tin-lien-lac">Thông tin liên lạc</a></li>
+                                                                        <li class="first-element" id=""><a class="tmenu" href="./dong-gop-y-kien">Đóng góp ý kiến</a></li>
                                                                     </ul>
                                                                 </div>
                                                             </ul>
@@ -343,7 +344,7 @@
                                                             <ul class="children" id="childrenlist3" style="display: none;">
                                                                 <div class="second-list">
                                                                     <ul class="two-column">
-                                                                        <li class="first-element" id=""><a class="tmenu" href="./thong-bao-giay-mo/thong-bao">Thông báo</a></li>
+                                                                        <li class="first-element" id=""><a class="tmenu" href="./thong-bao-giay-moi/thong-bao">Thông báo</a></li>
                                                                         <li class="first-element" id=""><a class="tmenu" href="./thong-bao-giay-moi/giay-moi">Giấy mời</a></li>
                                                                         <li class="first-element" id=""><a class="tmenu" href="./thong-bao-giay-moi/tai-lieu-hop-truc-tuyen">Tài liệu họp trực tuyến</a></li>
                                                                     </ul>
@@ -388,9 +389,9 @@
                                                             <ul class="children" id="childrenlist3" style="display: none;">
                                                                 <div class="second-list">
                                                                     <ul class="two-column">
-                                                                        <li class="first-element" id=""><a class="tmenu" href="./van-ban-phap-luat/van-ban-hanh-chinh">Văn bản hành chính</a></li>
-                                                                        <li class="first-element" id=""><a class="tmenu" href="./van-ban-phap-luat/van-ban-qppl">Văn bản QPPL</a></li>
-                                                                        <li class="first-element" id=""><a class="tmenu" href="./van-ban-phap-luat/van-ban-khac">Văn bản khác</a></li>
+                                                                        <li class="first-element" id=""><a class="tmenu" href="./van-ban-phap-luat/van-ban-trung-uong">Văn bản Trung ương</a></li>
+                                                                        <li class="first-element" id=""><a class="tmenu" href="./van-ban-phap-luat/van-ban-cua-tinh">Văn bản của tỉnh</a></li>
+                                                                        <li class="first-element" id=""><a class="tmenu" href="./van-ban-phap-luat/van-ban-cua-huyen">Văn bản của huyện</a></li>
                                                                     </ul>
                                                                 </div>
                                                             </ul>
@@ -641,45 +642,13 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="searchR">
-                                    <div class="ms-search">
 
-                                        <div class="s4-search s4-rp" id="s4-searcharea">
+                                <form action="search" method="get">
+                                <input type="text" name="q" placeholder="Tìm kiếm">
+                                <a class="ms-sbgo"></a>
 
-                                            <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%" style="width:400px">
-                                                <tr>
-                                                    <td valign="top">
-                                                        <div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ2" class="noindex" OnlyForMePart="true" allowDelete="false" style="width:400px;">
-                                                            <div id="SRSB">
-                                                                <table id="ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e" cellpadding="0" cellspacing="0" border="0" width="400">
-                                                                    <tr>
-                                                                        <td>
-                                                                            <input name="ctl00$g_62b1b6bf_9557_4807_ae98_427bbc5d489e$ctl00" type="hidden" id="ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_ctl00" value="" />
-                                                                            <table class="ms-sbtable ms-sbtable-ex s4-search" cellpadding="0" cellspacing="0" border="0">
-                                                                                <tr class="ms-sbrow">
-                                                                                    <td class="ms-sbcell"><input name="ctl00$g_62b1b6bf_9557_4807_ae98_427bbc5d489e$S3F5AE4C3_InputKeywords" type="text" value="Search this site..." maxlength="200" id="ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_S3F5AE4C3_InputKeywords"
-                                                                                            accesskey="S" title="Search..." class="ms-sbplain" alt="Search..." onkeypress="javascript: return S3F5AE4C3_OSBEK(event);" onfocus="if (document.getElementById('ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_ctl04').value =='0') {this.value=''; if (this.className == 's4-searchbox-QueryPrompt') this.className = ''; else this.className = this.className.replace(' s4-searchbox-QueryPrompt',''); document.getElementById('ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_ctl04').value=1;}"
-                                                                                            onblur="if (this.value =='') {this.value='Search this site...'; if (this.className.indexOf('s4-searchbox-QueryPrompt') == -1) this.className += this.className?' s4-searchbox-QueryPrompt':'s4-searchbox-QueryPrompt'; document.getElementById('ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_ctl04').value = '0'} else {document.getElementById('ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_ctl04').value='1';}"
-                                                                                            style="width:170px;" /></td>
-                                                                                    <td class="ms-sbgo ms-sbcell">
-                                                                                        <a id="ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_S3F5AE4C3_go" title="Search" href="javascript:S3F5AE4C3_Submit()"><img title="Search" onmouseover="this.src='\u002f_layouts\u002fimages\u002fgosearchhover15.png'" onmouseout="this.src='\u002f_layouts\u002fimages\u002fgosearch15.png'"
-                                                                                                class="srch-gosearchimg" alt="Search" src="_layouts/images/gosearch15.png" border="0" /></a>
-                                                                                    </td>
-                                                                                    <td class="ms-sbLastcell"></td>
-                                                                                </tr>
-                                                                            </table><input name="ctl00$g_62b1b6bf_9557_4807_ae98_427bbc5d489e$ctl04" type="hidden" id="ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_ctl04" value="0" />
-                                                                        </td>
-                                                                    </tr>
-                                                                </table>
-                                                            </div>
-                                                        </div>
-                                                    </td>
-                                                </tr>
-                                            </table>
-
-                                        </div>
-                                    </div>
-                                </div>
+                               
+                                </form>
                             </div>
                         </div>
                     </div>
@@ -827,32 +796,7 @@
                             <table class="ds_VBPL" rules="rows" cellpadding="0" cellspacing="0" border="0">
                                 
                                  <DIV class="divvanbanmoi">
-                                    <A href="thong-bao-ve-viec-thay-doi-thoi-gian-hop">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                    97 </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>23-09-2016 11:29:19 </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClass54612D623D4A4D52B25DAED194B7A8ED"></div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="thong-bao-ve-viec-thay-doi-thoi-gian-hop">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>
-                                 <DIV class="divvanbanmoi">
-                                    <A href="lich-truc-ban-tiep-cong-dan">
+                                    <A href="kiem-tra-2">
                                         <DIV class="divskhnbh">
                                             <DIV class="divvbm_sokihieu">
                                                 <DIV class="div_SoKiHieu">
@@ -860,7 +804,7 @@
                                             </DIV>
                                             <DIV class="divvbm_ngaybanhanh">
                                                 Ngày:
-                                                <SPAN>23-09-2016 11:16:46 </SPAN>
+                                                <SPAN>31-10-2016 </SPAN>
                                             </DIV>
                                         </DIV>
                                         <DIV class="divvbm_trichyeu">
@@ -869,7 +813,32 @@
                                         <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
                                     </A>
                                     <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="lich-truc-ban-tiep-cong-dan">
+                                        <a class="htvb_ahref" target="_blank" href="kiem-tra-2">
+                                            <div class="htvb_Att_img">
+                                                <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
+                                            </div>
+                                        </a>
+                                    </DIV>
+                                </DIV>
+                                 <DIV class="divvanbanmoi">
+                                    <A href="kiem-tra-van-ban">
+                                        <DIV class="divskhnbh">
+                                            <DIV class="divvbm_sokihieu">
+                                                <DIV class="div_SoKiHieu">
+                                                     </DIV>
+                                            </DIV>
+                                            <DIV class="divvbm_ngaybanhanh">
+                                                Ngày:
+                                                <SPAN>30-10-2016 </SPAN>
+                                            </DIV>
+                                        </DIV>
+                                        <DIV class="divvbm_trichyeu">
+                                            <div class="ExternalClass54612D623D4A4D52B25DAED194B7A8ED"></div>
+                                        </DIV>
+                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
+                                    </A>
+                                    <DIV class="divvbm_dinhkem">
+                                        <a class="htvb_ahref" target="_blank" href="kiem-tra-van-ban">
                                             <div class="htvb_Att_img">
                                                 <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
                                             </div>
@@ -885,7 +854,7 @@
                                             </DIV>
                                             <DIV class="divvbm_ngaybanhanh">
                                                 Ngày:
-                                                <SPAN>23-09-2016 10:59:08 </SPAN>
+                                                <SPAN>24-09-2016 </SPAN>
                                             </DIV>
                                         </DIV>
                                         <DIV class="divvbm_trichyeu">
@@ -895,31 +864,6 @@
                                     </A>
                                     <DIV class="divvbm_dinhkem">
                                         <a class="htvb_ahref" target="_blank" href="cai-cach-hanh-chinh-huyen-dak-song">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>
-                                 <DIV class="divvanbanmoi">
-                                    <A href="bao-cao-tinh-hinh-thuc-hien-nhiem-vu-thang-8-va-phuong-huong-nhiem-vu-thang-92016">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                     </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>23-09-2016 10:37:55 </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClass54612D623D4A4D52B25DAED194B7A8ED"></div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="bao-cao-tinh-hinh-thuc-hien-nhiem-vu-thang-8-va-phuong-huong-nhiem-vu-thang-92016">
                                             <div class="htvb_Att_img">
                                                 <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
                                             </div>
@@ -945,6 +889,56 @@
                                     </A>
                                     <DIV class="divvbm_dinhkem">
                                         <a class="htvb_ahref" target="_blank" href="thong-tu-lien-tich-so-062014ttlt-btp-ttcp-bqp-ngay-14022014-cua-bo-tu-phap-thanh-tra-chinh-phu-bo-quoc-phong">
+                                            <div class="htvb_Att_img">
+                                                <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
+                                            </div>
+                                        </a>
+                                    </DIV>
+                                </DIV>
+                                 <DIV class="divvanbanmoi">
+                                    <A href="thong-bao-ve-viec-thay-doi-thoi-gian-hop">
+                                        <DIV class="divskhnbh">
+                                            <DIV class="divvbm_sokihieu">
+                                                <DIV class="div_SoKiHieu">
+                                                    97 </DIV>
+                                            </DIV>
+                                            <DIV class="divvbm_ngaybanhanh">
+                                                Ngày:
+                                                <SPAN>23-09-2016 </SPAN>
+                                            </DIV>
+                                        </DIV>
+                                        <DIV class="divvbm_trichyeu">
+                                            <div class="ExternalClass54612D623D4A4D52B25DAED194B7A8ED"></div>
+                                        </DIV>
+                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
+                                    </A>
+                                    <DIV class="divvbm_dinhkem">
+                                        <a class="htvb_ahref" target="_blank" href="thong-bao-ve-viec-thay-doi-thoi-gian-hop">
+                                            <div class="htvb_Att_img">
+                                                <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
+                                            </div>
+                                        </a>
+                                    </DIV>
+                                </DIV>
+                                 <DIV class="divvanbanmoi">
+                                    <A href="bao-cao-tinh-hinh-thuc-hien-nhiem-vu-thang-8-va-phuong-huong-nhiem-vu-thang-92016">
+                                        <DIV class="divskhnbh">
+                                            <DIV class="divvbm_sokihieu">
+                                                <DIV class="div_SoKiHieu">
+                                                     </DIV>
+                                            </DIV>
+                                            <DIV class="divvbm_ngaybanhanh">
+                                                Ngày:
+                                                <SPAN>23-09-2016 </SPAN>
+                                            </DIV>
+                                        </DIV>
+                                        <DIV class="divvbm_trichyeu">
+                                            <div class="ExternalClass54612D623D4A4D52B25DAED194B7A8ED"></div>
+                                        </DIV>
+                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
+                                    </A>
+                                    <DIV class="divvbm_dinhkem">
+                                        <a class="htvb_ahref" target="_blank" href="bao-cao-tinh-hinh-thuc-hien-nhiem-vu-thang-8-va-phuong-huong-nhiem-vu-thang-92016">
                                             <div class="htvb_Att_img">
                                                 <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
                                             </div>
@@ -1183,16 +1177,16 @@
         <DIV id="part2" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts"><TABLE border="0" cellSpacing="0" cellPadding="0" width="100%"><TBODY><TR><TD class="Other" width="100%"><UL /></TD></TR></TBODY></TABLE><TABLE class="tbtinkhac" border="0" cellSpacing="0" cellPadding="0" width="100%">
 					<TBODY><TR><TD class="OtherTitle"><P class="OtherTitle">TIN ĐÃ ĐƯA</P></TD></TR></TBODY></TABLE><TABLE border="0" cellSpacing="0" cellPadding="0" width="100%">
 				<TBODY><TR><TD class="Other" width="100%"><UL>
-						 <li><a href="./lich-truc-ban-tiep-cong-dan">Lịch trực ban tiếp công dân</a>
-							 <SPAN class="ShowDate">(23-09-2016 11:16:46)</SPAN>
+						 <li><a href="./kiem-tra-van-ban">kiem tra van ban</a>
+							 <SPAN class="ShowDate">(30-10-2016)</SPAN>
 						 </li>
 						 <li><a href="./cai-cach-hanh-chinh-huyen-dak-song">Cải cách hành chính huyện Đak Sông </a>
-							 <SPAN class="ShowDate">(23-09-2016 10:59:08)</SPAN>
-						 </li>
-						 <li><a href="./bao-cao-tinh-hinh-thuc-hien-nhiem-vu-thang-8-va-phuong-huong-nhiem-vu-thang-92016">BÁO CÁO  Tình hình thực hiện nhiệm vụ tháng 8  và phương hướng, nhiệm vụ tháng 9/2016</a>
-							 <SPAN class="ShowDate">(23-09-2016 10:37:55)</SPAN>
+							 <SPAN class="ShowDate">(24-09-2016)</SPAN>
 						 </li>
 						 <li><a href="./thong-tu-lien-tich-so-062014ttlt-btp-ttcp-bqp-ngay-14022014-cua-bo-tu-phap-thanh-tra-chinh-phu-bo-quoc-phong">Công văn số: 689/UBND-NN, ngày 05/3/2014 của UBND tỉnh Đăk Nông về việc tổ chức Lễ Mittinh hưởng ứng Ngày Nước thế giới năm 2014 </a>
+							 <SPAN class="ShowDate">(23-09-2016)</SPAN>
+						 </li>
+						 <li><a href="./thong-bao-ve-viec-thay-doi-thoi-gian-hop">Thông báo về việc thay đổi thời gian họp</a>
 							 <SPAN class="ShowDate">(23-09-2016)</SPAN>
 						 </li>
 
@@ -1492,7 +1486,7 @@
                     </li>
                     <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
                         <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="thong-tin-chi-dao/y-kien-chi-dao-phan-hoi" class="leftsubmenu" target="_self"> Ý kiến chỉ đạo phản hồi</a></div>
+                            <div class="div-leftsubmenu"><a href="thong-tin-chi-dao/y-kien-chi-dao-phan-hoi" class="leftsubmenu" target="_self"> Ý kiến chỉ đạo,phản hồi</a></div>
                         </div>
                     </li>
 
@@ -1500,14 +1494,7 @@
 
                 </ul>
             </li>
-            <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
-                    <div class="div-link-navheader"><span class="linkEmpty">Thông tin tuyên truyền</span></div>
-                </div>
-                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-
-                </ul>
-            </li>
+            
             <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
                 <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
                     <div class="div-link-navheader"><span class="linkEmpty">Giới thiệu</span></div>
@@ -1553,6 +1540,12 @@
                     <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
                         <div class="ms-navItem first-ms-navItem">
                             <div class="div-leftsubmenu"><a href="thong-tin-lien-lac" class="leftsubmenu" target="_self"> Thông tin liên lạc</a></div>
+                        </div>
+                    </li>
+                    
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="dong-gop-y-kien" class="leftsubmenu" target="_self"> Đóng góp ý kiến</a></div>
                         </div>
                     </li>
                      
@@ -2561,7 +2554,7 @@
                 //     //]]>
                 //
             </script>
-    </form>
+    </div>
 
 
 

@@ -54,7 +54,7 @@
 </head>
 
 <body class="songanh" scroll="no" onload="if (typeof(_spBodyOnLoadWrapper) != 'undefined') _spBodyOnLoadWrapper();" class="v4master1">
-    <form name="aspnetForm" method="post" action="Pages/default.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+    <div name="aspnetForm" method="post" action="Pages/default.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
 
         <noscript><div class='noindex'>You may be trying to access this site from a secured browser on the server. Please enable scripts and reload this page.</div></noscript>
 
@@ -298,6 +298,7 @@
                                                                         <li class="first-element" id=""><a class="tmenu" href="./dinh-huong-phat-trien">Định hướng phát triển</a></li>
                                                                         <li class="first-element" id=""><a class="tmenu" href="./lanh-dao-co-quan">Lãnh đạo cơ quan</a></li>
                                                                         <li class="first-element" id=""><a class="tmenu" href="./thong-tin-lien-lac">Thông tin liên lạc</a></li>
+                                                                        <li class="first-element" id=""><a class="tmenu" href="./dong-gop-y-kien">Đóng góp ý kiến</a></li>
                                                                     </ul>
                                                                 </div>
                                                             </ul>
@@ -343,7 +344,7 @@
                                                             <ul class="children" id="childrenlist3" style="display: none;">
                                                                 <div class="second-list">
                                                                     <ul class="two-column">
-                                                                        <li class="first-element" id=""><a class="tmenu" href="./thong-bao-giay-mo/thong-bao">Thông báo</a></li>
+                                                                        <li class="first-element" id=""><a class="tmenu" href="./thong-bao-giay-moi/thong-bao">Thông báo</a></li>
                                                                         <li class="first-element" id=""><a class="tmenu" href="./thong-bao-giay-moi/giay-moi">Giấy mời</a></li>
                                                                         <li class="first-element" id=""><a class="tmenu" href="./thong-bao-giay-moi/tai-lieu-hop-truc-tuyen">Tài liệu họp trực tuyến</a></li>
                                                                     </ul>
@@ -388,9 +389,9 @@
                                                             <ul class="children" id="childrenlist3" style="display: none;">
                                                                 <div class="second-list">
                                                                     <ul class="two-column">
-                                                                        <li class="first-element" id=""><a class="tmenu" href="./van-ban-phap-luat/van-ban-hanh-chinh">Văn bản hành chính</a></li>
-                                                                        <li class="first-element" id=""><a class="tmenu" href="./van-ban-phap-luat/van-ban-qppl">Văn bản QPPL</a></li>
-                                                                        <li class="first-element" id=""><a class="tmenu" href="./van-ban-phap-luat/van-ban-khac">Văn bản khác</a></li>
+                                                                        <li class="first-element" id=""><a class="tmenu" href="./van-ban-phap-luat/van-ban-trung-uong">Văn bản Trung ương</a></li>
+                                                                        <li class="first-element" id=""><a class="tmenu" href="./van-ban-phap-luat/van-ban-cua-tinh">Văn bản của tỉnh</a></li>
+                                                                        <li class="first-element" id=""><a class="tmenu" href="./van-ban-phap-luat/van-ban-cua-huyen">Văn bản của huyện</a></li>
                                                                     </ul>
                                                                 </div>
                                                             </ul>
@@ -641,45 +642,13 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="searchR">
-                                    <div class="ms-search">
 
-                                        <div class="s4-search s4-rp" id="s4-searcharea">
+                                <form action="search" method="get">
+                                <input type="text" name="q" placeholder="Tìm kiếm">
+                                <a class="ms-sbgo"></a>
 
-                                            <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%" style="width:400px">
-                                                <tr>
-                                                    <td valign="top">
-                                                        <div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ2" class="noindex" OnlyForMePart="true" allowDelete="false" style="width:400px;">
-                                                            <div id="SRSB">
-                                                                <table id="ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e" cellpadding="0" cellspacing="0" border="0" width="400">
-                                                                    <tr>
-                                                                        <td>
-                                                                            <input name="ctl00$g_62b1b6bf_9557_4807_ae98_427bbc5d489e$ctl00" type="hidden" id="ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_ctl00" value="" />
-                                                                            <table class="ms-sbtable ms-sbtable-ex s4-search" cellpadding="0" cellspacing="0" border="0">
-                                                                                <tr class="ms-sbrow">
-                                                                                    <td class="ms-sbcell"><input name="ctl00$g_62b1b6bf_9557_4807_ae98_427bbc5d489e$S3F5AE4C3_InputKeywords" type="text" value="Search this site..." maxlength="200" id="ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_S3F5AE4C3_InputKeywords"
-                                                                                            accesskey="S" title="Search..." class="ms-sbplain" alt="Search..." onkeypress="javascript: return S3F5AE4C3_OSBEK(event);" onfocus="if (document.getElementById('ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_ctl04').value =='0') {this.value=''; if (this.className == 's4-searchbox-QueryPrompt') this.className = ''; else this.className = this.className.replace(' s4-searchbox-QueryPrompt',''); document.getElementById('ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_ctl04').value=1;}"
-                                                                                            onblur="if (this.value =='') {this.value='Search this site...'; if (this.className.indexOf('s4-searchbox-QueryPrompt') == -1) this.className += this.className?' s4-searchbox-QueryPrompt':'s4-searchbox-QueryPrompt'; document.getElementById('ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_ctl04').value = '0'} else {document.getElementById('ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_ctl04').value='1';}"
-                                                                                            style="width:170px;" /></td>
-                                                                                    <td class="ms-sbgo ms-sbcell">
-                                                                                        <a id="ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_S3F5AE4C3_go" title="Search" href="javascript:S3F5AE4C3_Submit()"><img title="Search" onmouseover="this.src='\u002f_layouts\u002fimages\u002fgosearchhover15.png'" onmouseout="this.src='\u002f_layouts\u002fimages\u002fgosearch15.png'"
-                                                                                                class="srch-gosearchimg" alt="Search" src="_layouts/images/gosearch15.png" border="0" /></a>
-                                                                                    </td>
-                                                                                    <td class="ms-sbLastcell"></td>
-                                                                                </tr>
-                                                                            </table><input name="ctl00$g_62b1b6bf_9557_4807_ae98_427bbc5d489e$ctl04" type="hidden" id="ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_ctl04" value="0" />
-                                                                        </td>
-                                                                    </tr>
-                                                                </table>
-                                                            </div>
-                                                        </div>
-                                                    </td>
-                                                </tr>
-                                            </table>
-
-                                        </div>
-                                    </div>
-                                </div>
+                               
+                                </form>
                             </div>
                         </div>
                     </div>
@@ -827,32 +796,7 @@
                             <table class="ds_VBPL" rules="rows" cellpadding="0" cellspacing="0" border="0">
                                 
                                  <DIV class="divvanbanmoi">
-                                    <A href="thong-bao-ve-viec-thay-doi-thoi-gian-hop">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                    97 </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>23-09-2016 11:29:19 </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClass54612D623D4A4D52B25DAED194B7A8ED"></div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="thong-bao-ve-viec-thay-doi-thoi-gian-hop">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>
-                                 <DIV class="divvanbanmoi">
-                                    <A href="lich-truc-ban-tiep-cong-dan">
+                                    <A href="kiem-tra-2">
                                         <DIV class="divskhnbh">
                                             <DIV class="divvbm_sokihieu">
                                                 <DIV class="div_SoKiHieu">
@@ -860,7 +804,7 @@
                                             </DIV>
                                             <DIV class="divvbm_ngaybanhanh">
                                                 Ngày:
-                                                <SPAN>23-09-2016 11:16:46 </SPAN>
+                                                <SPAN>31-10-2016 </SPAN>
                                             </DIV>
                                         </DIV>
                                         <DIV class="divvbm_trichyeu">
@@ -869,7 +813,32 @@
                                         <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
                                     </A>
                                     <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="lich-truc-ban-tiep-cong-dan">
+                                        <a class="htvb_ahref" target="_blank" href="kiem-tra-2">
+                                            <div class="htvb_Att_img">
+                                                <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
+                                            </div>
+                                        </a>
+                                    </DIV>
+                                </DIV>
+                                 <DIV class="divvanbanmoi">
+                                    <A href="kiem-tra-van-ban">
+                                        <DIV class="divskhnbh">
+                                            <DIV class="divvbm_sokihieu">
+                                                <DIV class="div_SoKiHieu">
+                                                     </DIV>
+                                            </DIV>
+                                            <DIV class="divvbm_ngaybanhanh">
+                                                Ngày:
+                                                <SPAN>30-10-2016 </SPAN>
+                                            </DIV>
+                                        </DIV>
+                                        <DIV class="divvbm_trichyeu">
+                                            <div class="ExternalClass54612D623D4A4D52B25DAED194B7A8ED"></div>
+                                        </DIV>
+                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
+                                    </A>
+                                    <DIV class="divvbm_dinhkem">
+                                        <a class="htvb_ahref" target="_blank" href="kiem-tra-van-ban">
                                             <div class="htvb_Att_img">
                                                 <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
                                             </div>
@@ -885,7 +854,7 @@
                                             </DIV>
                                             <DIV class="divvbm_ngaybanhanh">
                                                 Ngày:
-                                                <SPAN>23-09-2016 10:59:08 </SPAN>
+                                                <SPAN>24-09-2016 </SPAN>
                                             </DIV>
                                         </DIV>
                                         <DIV class="divvbm_trichyeu">
@@ -895,31 +864,6 @@
                                     </A>
                                     <DIV class="divvbm_dinhkem">
                                         <a class="htvb_ahref" target="_blank" href="cai-cach-hanh-chinh-huyen-dak-song">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>
-                                 <DIV class="divvanbanmoi">
-                                    <A href="bao-cao-tinh-hinh-thuc-hien-nhiem-vu-thang-8-va-phuong-huong-nhiem-vu-thang-92016">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                     </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>23-09-2016 10:37:55 </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClass54612D623D4A4D52B25DAED194B7A8ED"></div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="bao-cao-tinh-hinh-thuc-hien-nhiem-vu-thang-8-va-phuong-huong-nhiem-vu-thang-92016">
                                             <div class="htvb_Att_img">
                                                 <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
                                             </div>
@@ -945,6 +889,56 @@
                                     </A>
                                     <DIV class="divvbm_dinhkem">
                                         <a class="htvb_ahref" target="_blank" href="thong-tu-lien-tich-so-062014ttlt-btp-ttcp-bqp-ngay-14022014-cua-bo-tu-phap-thanh-tra-chinh-phu-bo-quoc-phong">
+                                            <div class="htvb_Att_img">
+                                                <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
+                                            </div>
+                                        </a>
+                                    </DIV>
+                                </DIV>
+                                 <DIV class="divvanbanmoi">
+                                    <A href="thong-bao-ve-viec-thay-doi-thoi-gian-hop">
+                                        <DIV class="divskhnbh">
+                                            <DIV class="divvbm_sokihieu">
+                                                <DIV class="div_SoKiHieu">
+                                                    97 </DIV>
+                                            </DIV>
+                                            <DIV class="divvbm_ngaybanhanh">
+                                                Ngày:
+                                                <SPAN>23-09-2016 </SPAN>
+                                            </DIV>
+                                        </DIV>
+                                        <DIV class="divvbm_trichyeu">
+                                            <div class="ExternalClass54612D623D4A4D52B25DAED194B7A8ED"></div>
+                                        </DIV>
+                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
+                                    </A>
+                                    <DIV class="divvbm_dinhkem">
+                                        <a class="htvb_ahref" target="_blank" href="thong-bao-ve-viec-thay-doi-thoi-gian-hop">
+                                            <div class="htvb_Att_img">
+                                                <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
+                                            </div>
+                                        </a>
+                                    </DIV>
+                                </DIV>
+                                 <DIV class="divvanbanmoi">
+                                    <A href="bao-cao-tinh-hinh-thuc-hien-nhiem-vu-thang-8-va-phuong-huong-nhiem-vu-thang-92016">
+                                        <DIV class="divskhnbh">
+                                            <DIV class="divvbm_sokihieu">
+                                                <DIV class="div_SoKiHieu">
+                                                     </DIV>
+                                            </DIV>
+                                            <DIV class="divvbm_ngaybanhanh">
+                                                Ngày:
+                                                <SPAN>23-09-2016 </SPAN>
+                                            </DIV>
+                                        </DIV>
+                                        <DIV class="divvbm_trichyeu">
+                                            <div class="ExternalClass54612D623D4A4D52B25DAED194B7A8ED"></div>
+                                        </DIV>
+                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
+                                    </A>
+                                    <DIV class="divvbm_dinhkem">
+                                        <a class="htvb_ahref" target="_blank" href="bao-cao-tinh-hinh-thuc-hien-nhiem-vu-thang-8-va-phuong-huong-nhiem-vu-thang-92016">
                                             <div class="htvb_Att_img">
                                                 <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
                                             </div>
@@ -1125,7 +1119,7 @@
             <TD style="CURSOR: hand" class="FolderTitle" vAlign="top"> 
                  
                            
-                         
+                         Tin tức sự kiện
                 </TD>
             <TD style="TEXT-ALIGN: right; FONT-WEIGHT: normal" class="Time" vAlign="top" align="right"></TD></TR></TBODY>
           </TABLE>
@@ -1167,15 +1161,16 @@
                     </span></a></td></tr>
             <tr><td style="PADDING-BOTTOM: 10px" class="tinHT"><table border="0" cellspacing="0" cellpadding="0" align="left"><tbody><tr><td><a href="33-nguoi-chet-vi-tai-nan-giao-thong-trong-3-ngay-nghi-le"><img style="BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" class="img-slidemenu" alt="" src="img/ttxvn_tngt7_20_58_36_857-21_03_46_358.jpg" width="130" height="100"></a></td></tr></tbody></table><div style="TEXT-ALIGN: justify" class="ContentText">Trong 3 ngày nghỉ lễ từ 2 – 4/9, tình hình trật tự an toàn giao thông được đảm bảo, cơ bản đáp ứng nhu cầu đi lại của người dân. Đây là đánh giá chung của Ủy ban An toàn giao thông Quốc gia.<br></div></td></tr>
             
-            <tr><td class="TitleFront"><a href="bao-tang-lich-su-quoc-gia-don-nhan-huan-chuong-lao-dong-hang-nhat">Bảo tàng Lịch sử Quốc gia đón nhận Huân chương Lao động hạng Nhất<span class="ShowDate">
+            <tr><td class="TitleFront"><a href="bieu-thue-nhap-khau-uu-dai-dac-biet-thuc-hien-7-hiep-dinh">Biểu thuế nhập khẩu ưu đãi đặc biệt thực hiện 7 Hiệp định<span class="ShowDate">
                       (23-09-2016)
                     </span></a></td></tr>
-            <tr><td style="PADDING-BOTTOM: 10px" class="tinHT"><table border="0" cellspacing="0" cellpadding="0" align="left"><tbody><tr><td><a href="bao-tang-lich-su-quoc-gia-don-nhan-huan-chuong-lao-dong-hang-nhat"><img style="BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" class="img-slidemenu" alt="" src="img/ap_phich-17_05_02_383.jpg" width="130" height="100"></a></td></tr></tbody></table><div style="TEXT-ALIGN: justify" class="ContentText">Ngày 22/9, Bảo tàng Lịch sử Quốc gia tổ chức lễ kỷ niệm 5 năm sáp nhập từ Bảo tàng Lịch sử Việt Nam với Bảo tàng Cách mạng Việt Nam (26/9/2011 – 26/9/2016) và đón nhận Huân chương Lao động hạng Nhất.
- 
-Áp phích của Triển lãm &quot;Đổi mới hành trình của những ước mơ&quot;
- 
-
-Trong 5 năm, từ khi sáp nhập, Bảo tàng Lịch sử Quốc gia đã không ngừng lớn mạnh và có nhiều đóng góp trong hệ thống Bảo tàng Việt Nam. Thời gian qua, Bảo tàng không ngừng kết nối, mở rộng quy mô, phạm vi, nâng cao chất lượng, hiệu quả trong phối hợp với các bảo tàng, di tích trong cả nước trên tất cả các lĩnh vực hoạt động, đặc biệt là trưng bày, bảo quản, nghiên cứu khoa học, tổ chức hội thảo, tọa đàm, hợp tác quốc tế… Cũng trong 5 năm qua, Bảo tàng đã đón tiếp gần 1 triệu lượt khách tham quan, trong đó khách tham quan tại Bảo tàng có trên 600 ngàn lượt, khách tham quan triển lãm lưu động có trên 200 ngàn lượt và khách tham quan các trưng bày chuyên đề tại nước ngoài có 255.833 lượt. Với những nỗ lực đã đạt được, Bảo tàng Lịch sử quốc gia đang ngày càng khẳng định vị trí và góp phần quan trọng trong việc đổi mới, phát triển hệ thống bảo tàng Việt Nam.<br></div></td></tr>
+            <tr><td style="PADDING-BOTTOM: 10px" class="tinHT"><table border="0" cellspacing="0" cellpadding="0" align="left"><tbody><tr><td><a href="bieu-thue-nhap-khau-uu-dai-dac-biet-thuc-hien-7-hiep-dinh"><img style="BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" class="img-slidemenu" alt="" src="img/img4.jpg" width="130" height="100"></a></td></tr></tbody></table><div style="TEXT-ALIGN: justify" class="ContentText">Chính phủ vừa ban hành 7 Nghị định về Biểu thuế nhập khẩu ưu đãi đặt biệt của Việt Nam để thực hiện 7 Hiệp định.
+<br></div></td></tr>
+            
+            <tr><td class="TitleFront"><a href="nhan-dao-phat-trien-nong-nghiep-theo-huong-ben-vung">Nhân Đạo phát triển nông nghiệp theo hướng bền vững<span class="ShowDate">
+                      (23-09-2016)
+                    </span></a></td></tr>
+            <tr><td style="PADDING-BOTTOM: 10px" class="tinHT"><table border="0" cellspacing="0" cellpadding="0" align="left"><tbody><tr><td><a href="nhan-dao-phat-trien-nong-nghiep-theo-huong-ben-vung"><img style="BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" class="img-slidemenu" alt="" src="img/2347-KT-2.jpg" width="130" height="100"></a></td></tr></tbody></table><div style="TEXT-ALIGN: justify" class="ContentText">Tiết kiệm chi phí đầu vào, ứng dụng khoa học kỹ thuật vào trồng trọt, chăn nuôi, đó là cách làm mà người dân xã Nhân Đạo (huyện Đắk R’lấp, tỉnh Đắk Nông) triển khai để phát triển nông nghiệp theo hướng bền vững.<br></div></td></tr>
             
             <tr><td class="TitleFront"><a href="binh-doan-16-to-chuc-kham-benh-cap-phat-thuoc-va-tang-qua-tai-huyen-tuy-duc">Binh đoàn 16 tổ chức khám bệnh, cấp phát thuốc và tặng quà tại huyện Tuy Đức<span class="ShowDate">
                       (23-09-2016)
@@ -1186,11 +1181,6 @@ Trong 5 năm, từ khi sáp nhập, Bảo tàng Lịch sử Quốc gia đã khô
                       (23-09-2016)
                     </span></a></td></tr>
             <tr><td style="PADDING-BOTTOM: 10px" class="tinHT"><table border="0" cellspacing="0" cellpadding="0" align="left"><tbody><tr><td><a href="cam-ket-tang-cuong-trien-khai-cong-tac-giao-duc-an-toan-giao-thong-nam-hoc-2016-2017"><img style="BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" class="img-slidemenu" alt="" src="img/CAM-K---T-ATGT1.jpg" width="130" height="100"></a></td></tr></tbody></table><div style="TEXT-ALIGN: justify" class="ContentText">Tăng cường triển khai công tác giáo dục ATGT đầu năm học 2016-2017 ... thực hiện công tác giáo dục an toàn giao thông đầu năm học 2016-2017, ... học sinh để tuyên truyền, nhắc nhở và ký cam kết việc không giao xe máy <br></div></td></tr>
-            
-            <tr><td class="TitleFront"><a href="nhan-dao-phat-trien-nong-nghiep-theo-huong-ben-vung">Nhân Đạo phát triển nông nghiệp theo hướng bền vững<span class="ShowDate">
-                      (23-09-2016)
-                    </span></a></td></tr>
-            <tr><td style="PADDING-BOTTOM: 10px" class="tinHT"><table border="0" cellspacing="0" cellpadding="0" align="left"><tbody><tr><td><a href="nhan-dao-phat-trien-nong-nghiep-theo-huong-ben-vung"><img style="BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" class="img-slidemenu" alt="" src="img/2347-KT-2.jpg" width="130" height="100"></a></td></tr></tbody></table><div style="TEXT-ALIGN: justify" class="ContentText">Tiết kiệm chi phí đầu vào, ứng dụng khoa học kỹ thuật vào trồng trọt, chăn nuôi, đó là cách làm mà người dân xã Nhân Đạo (huyện Đắk R’lấp, tỉnh Đắk Nông) triển khai để phát triển nông nghiệp theo hướng bền vững.<br></div></td></tr>
             
 
             <TR><TD class="Other" width="100%"><UL /></TD></TR></TBODY></TABLE>
@@ -1204,7 +1194,10 @@ Trong 5 năm, từ khi sáp nhập, Bảo tàng Lịch sử Quốc gia đã khô
 						 <li><a href="./33-nguoi-chet-vi-tai-nan-giao-thong-trong-3-ngay-nghi-le"> 33 người chết vì tai nạn giao thông trong 3 ngày nghỉ lễ</a>
 							 <SPAN class="ShowDate">(23-09-2016)</SPAN>
 						 </li>
-						 <li><a href="./bao-tang-lich-su-quoc-gia-don-nhan-huan-chuong-lao-dong-hang-nhat"> Bảo tàng Lịch sử Quốc gia đón nhận Huân chương Lao động hạng Nhất</a>
+						 <li><a href="./bieu-thue-nhap-khau-uu-dai-dac-biet-thuc-hien-7-hiep-dinh"> Biểu thuế nhập khẩu ưu đãi đặc biệt thực hiện 7 Hiệp định</a>
+							 <SPAN class="ShowDate">(23-09-2016)</SPAN>
+						 </li>
+						 <li><a href="./nhan-dao-phat-trien-nong-nghiep-theo-huong-ben-vung"> Nhân Đạo phát triển nông nghiệp theo hướng bền vững</a>
 							 <SPAN class="ShowDate">(23-09-2016)</SPAN>
 						 </li>
 						 <li><a href="./binh-doan-16-to-chuc-kham-benh-cap-phat-thuoc-va-tang-qua-tai-huyen-tuy-duc"> Binh đoàn 16 tổ chức khám bệnh, cấp phát thuốc và tặng quà tại huyện Tuy Đức</a>
@@ -1213,16 +1206,13 @@ Trong 5 năm, từ khi sáp nhập, Bảo tàng Lịch sử Quốc gia đã khô
 						 <li><a href="./cam-ket-tang-cuong-trien-khai-cong-tac-giao-duc-an-toan-giao-thong-nam-hoc-2016-2017"> CAM KẾT TĂNG CƯỜNG TRIỂN KHAI CÔNG TÁC GIÁO DỤC AN TOÀN GIAO THÔNG NĂM HỌC 2016-2017</a>
 							 <SPAN class="ShowDate">(23-09-2016)</SPAN>
 						 </li>
-						 <li><a href="./nhan-dao-phat-trien-nong-nghiep-theo-huong-ben-vung"> Nhân Đạo phát triển nông nghiệp theo hướng bền vững</a>
-							 <SPAN class="ShowDate">(23-09-2016)</SPAN>
-						 </li>
 						 <li><a href="./doan-dai-bieu-quan-su-cap-cao-viet-nam-tham-huu-nghi-chinh-thuc-trung-quoc"> Đoàn đại biểu quân sự cấp cao Việt Nam thăm hữu nghị chính thức Trung Quốc</a>
 							 <SPAN class="ShowDate">(23-09-2016)</SPAN>
 						 </li>
 						 <li><a href="./don-bien-phong-tuy-duc-thuc-hien-tot-phuong-cham-vung-bien-cuong-yen-thon-bon"> Đồn biên phòng Tuy Đức Thực hiện tốt phương châm vững biên cương yên thôn bon</a>
 							 <SPAN class="ShowDate">(23-09-2016)</SPAN>
 						 </li>
-						 <li><a href="./bieu-thue-nhap-khau-uu-dai-dac-biet-thuc-hien-7-hiep-dinh"> Biểu thuế nhập khẩu ưu đãi đặc biệt thực hiện 7 Hiệp định</a>
+						 <li><a href="./bao-tang-lich-su-quoc-gia-don-nhan-huan-chuong-lao-dong-hang-nhat"> Bảo tàng Lịch sử Quốc gia đón nhận Huân chương Lao động hạng Nhất</a>
 							 <SPAN class="ShowDate">(23-09-2016)</SPAN>
 						 </li>
 						 <li><a href="./khai-thac-hieu-qua-tiem-nang-the-manh-de-phat-trien"> Khai thác hiệu quả tiềm năng, thế mạnh để phát triển</a>
@@ -1523,7 +1513,7 @@ Trong 5 năm, từ khi sáp nhập, Bảo tàng Lịch sử Quốc gia đã khô
                     </li>
                     <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
                         <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="thong-tin-chi-dao/y-kien-chi-dao-phan-hoi" class="leftsubmenu" target="_self"> Ý kiến chỉ đạo phản hồi</a></div>
+                            <div class="div-leftsubmenu"><a href="thong-tin-chi-dao/y-kien-chi-dao-phan-hoi" class="leftsubmenu" target="_self"> Ý kiến chỉ đạo,phản hồi</a></div>
                         </div>
                     </li>
 
@@ -1531,14 +1521,7 @@ Trong 5 năm, từ khi sáp nhập, Bảo tàng Lịch sử Quốc gia đã khô
 
                 </ul>
             </li>
-            <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
-                    <div class="div-link-navheader"><span class="linkEmpty">Thông tin tuyên truyền</span></div>
-                </div>
-                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-
-                </ul>
-            </li>
+            
             <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
                 <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
                     <div class="div-link-navheader"><span class="linkEmpty">Giới thiệu</span></div>
@@ -1584,6 +1567,12 @@ Trong 5 năm, từ khi sáp nhập, Bảo tàng Lịch sử Quốc gia đã khô
                     <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
                         <div class="ms-navItem first-ms-navItem">
                             <div class="div-leftsubmenu"><a href="thong-tin-lien-lac" class="leftsubmenu" target="_self"> Thông tin liên lạc</a></div>
+                        </div>
+                    </li>
+                    
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="dong-gop-y-kien" class="leftsubmenu" target="_self"> Đóng góp ý kiến</a></div>
                         </div>
                     </li>
                      
@@ -2592,7 +2581,7 @@ Trong 5 năm, từ khi sáp nhập, Bảo tàng Lịch sử Quốc gia đã khô
                 //     //]]>
                 //
             </script>
-    </form>
+    </div>
 
 
 

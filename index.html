@@ -54,7 +54,7 @@
 </head>
 
 <body class="songanh" scroll="no" onload="if (typeof(_spBodyOnLoadWrapper) != 'undefined') _spBodyOnLoadWrapper();" class="v4master1">
-    <form name="aspnetForm" method="post" action="Pages/default.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+    <div name="aspnetForm" method="post" action="Pages/default.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
 
         <noscript><div class='noindex'>You may be trying to access this site from a secured browser on the server. Please enable scripts and reload this page.</div></noscript>
 
@@ -298,6 +298,7 @@
                                                                         <li class="first-element" id=""><a class="tmenu" href="./dinh-huong-phat-trien">Định hướng phát triển</a></li>
                                                                         <li class="first-element" id=""><a class="tmenu" href="./lanh-dao-co-quan">Lãnh đạo cơ quan</a></li>
                                                                         <li class="first-element" id=""><a class="tmenu" href="./thong-tin-lien-lac">Thông tin liên lạc</a></li>
+                                                                        <li class="first-element" id=""><a class="tmenu" href="./dong-gop-y-kien">Đóng góp ý kiến</a></li>
                                                                     </ul>
                                                                 </div>
                                                             </ul>
@@ -343,7 +344,7 @@
                                                             <ul class="children" id="childrenlist3" style="display: none;">
                                                                 <div class="second-list">
                                                                     <ul class="two-column">
-                                                                        <li class="first-element" id=""><a class="tmenu" href="./thong-bao-giay-mo/thong-bao">Thông báo</a></li>
+                                                                        <li class="first-element" id=""><a class="tmenu" href="./thong-bao-giay-moi/thong-bao">Thông báo</a></li>
                                                                         <li class="first-element" id=""><a class="tmenu" href="./thong-bao-giay-moi/giay-moi">Giấy mời</a></li>
                                                                         <li class="first-element" id=""><a class="tmenu" href="./thong-bao-giay-moi/tai-lieu-hop-truc-tuyen">Tài liệu họp trực tuyến</a></li>
                                                                     </ul>
@@ -388,9 +389,9 @@
                                                             <ul class="children" id="childrenlist3" style="display: none;">
                                                                 <div class="second-list">
                                                                     <ul class="two-column">
-                                                                        <li class="first-element" id=""><a class="tmenu" href="./van-ban-phap-luat/van-ban-hanh-chinh">Văn bản hành chính</a></li>
-                                                                        <li class="first-element" id=""><a class="tmenu" href="./van-ban-phap-luat/van-ban-qppl">Văn bản QPPL</a></li>
-                                                                        <li class="first-element" id=""><a class="tmenu" href="./van-ban-phap-luat/van-ban-khac">Văn bản khác</a></li>
+                                                                        <li class="first-element" id=""><a class="tmenu" href="./van-ban-phap-luat/van-ban-trung-uong">Văn bản Trung ương</a></li>
+                                                                        <li class="first-element" id=""><a class="tmenu" href="./van-ban-phap-luat/van-ban-cua-tinh">Văn bản của tỉnh</a></li>
+                                                                        <li class="first-element" id=""><a class="tmenu" href="./van-ban-phap-luat/van-ban-cua-huyen">Văn bản của huyện</a></li>
                                                                     </ul>
                                                                 </div>
                                                             </ul>
@@ -641,45 +642,13 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="searchR">
-                                    <div class="ms-search">
 
-                                        <div class="s4-search s4-rp" id="s4-searcharea">
+                                <form action="search" method="get">
+                                <input type="text" name="q" placeholder="Tìm kiếm">
+                                <a class="ms-sbgo"></a>
 
-                                            <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%" style="width:400px">
-                                                <tr>
-                                                    <td valign="top">
-                                                        <div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ2" class="noindex" OnlyForMePart="true" allowDelete="false" style="width:400px;">
-                                                            <div id="SRSB">
-                                                                <table id="ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e" cellpadding="0" cellspacing="0" border="0" width="400">
-                                                                    <tr>
-                                                                        <td>
-                                                                            <input name="ctl00$g_62b1b6bf_9557_4807_ae98_427bbc5d489e$ctl00" type="hidden" id="ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_ctl00" value="" />
-                                                                            <table class="ms-sbtable ms-sbtable-ex s4-search" cellpadding="0" cellspacing="0" border="0">
-                                                                                <tr class="ms-sbrow">
-                                                                                    <td class="ms-sbcell"><input name="ctl00$g_62b1b6bf_9557_4807_ae98_427bbc5d489e$S3F5AE4C3_InputKeywords" type="text" value="Search this site..." maxlength="200" id="ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_S3F5AE4C3_InputKeywords"
-                                                                                            accesskey="S" title="Search..." class="ms-sbplain" alt="Search..." onkeypress="javascript: return S3F5AE4C3_OSBEK(event);" onfocus="if (document.getElementById('ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_ctl04').value =='0') {this.value=''; if (this.className == 's4-searchbox-QueryPrompt') this.className = ''; else this.className = this.className.replace(' s4-searchbox-QueryPrompt',''); document.getElementById('ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_ctl04').value=1;}"
-                                                                                            onblur="if (this.value =='') {this.value='Search this site...'; if (this.className.indexOf('s4-searchbox-QueryPrompt') == -1) this.className += this.className?' s4-searchbox-QueryPrompt':'s4-searchbox-QueryPrompt'; document.getElementById('ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_ctl04').value = '0'} else {document.getElementById('ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_ctl04').value='1';}"
-                                                                                            style="width:170px;" /></td>
-                                                                                    <td class="ms-sbgo ms-sbcell">
-                                                                                        <a id="ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_S3F5AE4C3_go" title="Search" href="javascript:S3F5AE4C3_Submit()"><img title="Search" onmouseover="this.src='\u002f_layouts\u002fimages\u002fgosearchhover15.png'" onmouseout="this.src='\u002f_layouts\u002fimages\u002fgosearch15.png'"
-                                                                                                class="srch-gosearchimg" alt="Search" src="_layouts/images/gosearch15.png" border="0" /></a>
-                                                                                    </td>
-                                                                                    <td class="ms-sbLastcell"></td>
-                                                                                </tr>
-                                                                            </table><input name="ctl00$g_62b1b6bf_9557_4807_ae98_427bbc5d489e$ctl04" type="hidden" id="ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_ctl04" value="0" />
-                                                                        </td>
-                                                                    </tr>
-                                                                </table>
-                                                            </div>
-                                                        </div>
-                                                    </td>
-                                                </tr>
-                                            </table>
-
-                                        </div>
-                                    </div>
-                                </div>
+                               
+                                </form>
                             </div>
                         </div>
                     </div>
@@ -1072,8 +1041,12 @@
    <td id="MSOZoneCell_WebPartWPQ19" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%" style="width:210px">
    <tbody><tr>
    	<td valign="top"><div webpartid="c96d4faa-fc96-4159-b7f9-6b2ad647ade0" haspers="false" id="WebPartWPQ19" class="ms-WPBody noindex" allowdelete="false" style="width:210px;overflow:auto;"><table id="ctl00_m_g_c96d4faa_fc96_4159_b7f9_6b2ad647ade0" cellpadding="0" cellspacing="0" border="0" width="210"><tbody><tr><td>
-   		<div class="thongbao" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts"><div class="container_top1"><div style="CURSOR: pointer" class="container_top_left1"><div class="div_header_style1"><a style="TEXT-TRANSFORM: uppercase; FONT-SIZE: 11px; FONT-WEIGHT: bold; TEXT-DECORATION: none" class="a_header_style1" href="/giay-moi">Giấy mời</a></div></div><div class="container_top_right1"><div class="container_top_mid1"></div><marquee id="scroll_header1" direction="up" height="214px" scrollamount="1" scrolldelay="25" onmouseover="javascript:this.stop()" onmouseout="javascript:this.start()" style="height: 214px;"><div class="container_mid1"><div class="container_mid_main1"><div class="thongbao-detail"><table border="0" cellspacing="0" cellpadding="0"><tbody>
+   		<div class="thongbao" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts"><div class="container_top1"><div style="CURSOR: pointer" class="container_top_left1"><div class="div_header_style1"><a style="TEXT-TRANSFORM: uppercase; FONT-SIZE: 11px; FONT-WEIGHT: bold; TEXT-DECORATION: none" class="a_header_style1" href="/giay-moi">Thông báo giấy mời</a></div></div><div class="container_top_right1"><div class="container_top_mid1"></div><marquee id="scroll_header1" direction="up" height="214px" scrollamount="1" scrolldelay="25" onmouseover="javascript:this.stop()" onmouseout="javascript:this.start()" style="height: 214px;"><div class="container_mid1"><div class="container_mid_main1"><div class="thongbao-detail"><table border="0" cellspacing="0" cellpadding="0"><tbody>
    		
+   			<tr><td style="FONT-SIZE: 9px" class="LItemDot" valign="top"></td><td class="LItem"><a class="LItem" title="" href="ket-qua-lua-chon-nha-thau-goi-thau-chi-phi-thiet-bi-thuoc-du-an-phan-mem-van-phong-dien-tu-trong-cac-co-quan-nha-nuoc-tinh-dak-nong"> Kết quả lựa chọn nhà thầu gói thầu Chi phí thiết bị thuộc dự án Phần mềm văn phòng điện tử trong các cơ quan nhà nước tỉnh Đắk Nông</a></td></tr>
+   			<tr><td style="FONT-SIZE: 9px" class="LItemDot" valign="top"></td><td class="LItem"><a class="LItem" title="" href="giay-moi-so-92gm-ubnd-ngay-0592016-cua-ubnd-huyen-vv-ubnd-tinh-to-chuc-hoi-nghi-truc-tuyen-nham-danh-gia-tinh-hinh-kt-xh-qp-an-thang-8-va-trien-khai-nhiem-vu-trong-tam-thang-92016"> Giấy mời số 92/GM-UBND ngày 05/9/2016 của UBND huyện V/v UBND tỉnh tổ chức Hội nghị trực tuyến nhằm đánh giá tình hình KT-XH, QP-AN tháng 8 và triển khai nhiệm vụ trọng tâm tháng 9/2016 </a></td></tr>
+   			<tr><td style="FONT-SIZE: 9px" class="LItemDot" valign="top"></td><td class="LItem"><a class="LItem" title="" href="giay-moi-so-51gm-hdnd-ngay-0692016-cua-hdnd-huyen-vv-giao-ban-danh-gia-ket-qua-cong-tac-thang-8-trien-khai-phuong-huong-nhiem-vu-thang-92016"> Giấy mời số 51/GM-HĐND ngày 06/9/2016 của HĐND huyện V/v giao ban đánh giá kết quả công tác tháng 8, triển khai phương hướng nhiệm vụ tháng 9/2016</a></td></tr>
+   			<tr><td style="FONT-SIZE: 9px" class="LItemDot" valign="top"></td><td class="LItem"><a class="LItem" title="" href="giay-moi-so-89gm-ubnd-ngay-2682016-cua-ubnd-huyen-vv-lam-viec-voi-hiep-hoi-du-lich-hiep-hoi-doanh-nghiep-tp-hcm-vao-luc-14h-ngay-2682016-tai-hoi-truong-ubnd-huyen"> Giấy mời số 89/GM-UBND ngày 26/8/2016 của UBND huyện V/v làm việc với Hiệp hội Du lịch , Hiệp hội doanh nghiệp TP HCM vào lúc 14h ngày 26/8/2016 tại Hội trường UBND huyện</a></td></tr>
    			</tbody></table></div></div></div></marquee></div>
    	</div></div></td></tr></tbody></table></div></td>
    </tr>
@@ -1514,19 +1487,14 @@
       <div id="ctl00_m_g_5f3067fd_aea8_4cdd_9e63_0a9b866e98e7_ctl00_tabs" class="ui-tabs ui-widget ui-widget-content ui-corner-all">
           <ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
               <li id="tabs-0" class="ui-state-default ui-corner-top  ui-tabs-selected ui-state-active ">
-                  <a onclick="ShowTab('tinChinhTriXaHoi')">Tin chính trị - Xã hội</a>
+                  <a onclick="ShowTab('tinAnNinhTratTu')">An ninh trật tự</a>
               </li>
               <li id="tabs-1" class="ui-state-default ui-corner-top ">
-                  <a onclick="ShowTab('tinAnNinhTratTu')">An ninh trật tự</a>
+                  <a onclick="ShowTab('tinChinhTriXaHoi')">Tin chính trị - Xã hội</a>
               </li>
           </ul>
           
-          <div id="tab-content-tinChinhTriXaHoi" categoryname="Tin chính trị - Xã hội" class="ui-tabs-panel ui-widget-content ui-corner-bottom">
-                  <div class="news-tab">
-  
-                  </div>
-              </div>
-          <div id="tab-content-tinAnNinhTratTu" style="display:none" categoryname="An ninh trật tự" class="ui-tabs-panel ui-widget-content ui-corner-bottom">
+          <div id="tab-content-tinAnNinhTratTu" categoryname="An ninh trật tự" class="ui-tabs-panel ui-widget-content ui-corner-bottom">
                   <div class="news-tab">
                       <div class="news-tab-thumb-item-0">
                           <div class="news-tab-thumb-item-left-0">
@@ -1549,7 +1517,7 @@
                                   <div class="news-tab-li-item-title">
                                   <span class="news-tab-sp-item-title">
                                                       <a class="news-tab-li-link" href="don-bien-phong-tuy-duc-thuc-hien-tot-phuong-cham-vung-bien-cuong-yen-thon-bon">
-                                                          Đồn biên phòng Tuy Đức Thực hiện tốt phương châm vững biên cương yên thôn bon<span class="news-tab-li-item-datetime">(2016-10-31)</span>
+                                                          Đồn biên phòng Tuy Đức Thực hiện tốt phương châm vững biên cương yên thôn bon<span class="news-tab-li-item-datetime">(2016-11-2)</span>
                                   </a>
                                   </span>
                                   </div>
@@ -1569,7 +1537,7 @@
                                   <div class="news-tab-li-item-title">
                                   <span class="news-tab-sp-item-title">
                                                       <a class="news-tab-li-link" href="doan-dai-bieu-quan-su-cap-cao-viet-nam-tham-huu-nghi-chinh-thuc-trung-quoc">
-                                                          Đoàn đại biểu quân sự cấp cao Việt Nam thăm hữu nghị chính thức Trung Quốc<span class="news-tab-li-item-datetime">(2016-10-31)</span>
+                                                          Đoàn đại biểu quân sự cấp cao Việt Nam thăm hữu nghị chính thức Trung Quốc<span class="news-tab-li-item-datetime">(2016-11-2)</span>
                                   </a>
                                   </span>
                                   </div>
@@ -1589,7 +1557,7 @@
                                   <div class="news-tab-li-item-title">
                                   <span class="news-tab-sp-item-title">
                                                       <a class="news-tab-li-link" href="binh-doan-16-to-chuc-kham-benh-cap-phat-thuoc-va-tang-qua-tai-huyen-tuy-duc">
-                                                          Binh đoàn 16 tổ chức khám bệnh, cấp phát thuốc và tặng quà tại huyện Tuy Đức<span class="news-tab-li-item-datetime">(2016-10-31)</span>
+                                                          Binh đoàn 16 tổ chức khám bệnh, cấp phát thuốc và tặng quà tại huyện Tuy Đức<span class="news-tab-li-item-datetime">(2016-11-2)</span>
                                   </a>
                                   </span>
                                   </div>
@@ -1609,7 +1577,7 @@
                                   <div class="news-tab-li-item-title">
                                   <span class="news-tab-sp-item-title">
                                                       <a class="news-tab-li-link" href="33-nguoi-chet-vi-tai-nan-giao-thong-trong-3-ngay-nghi-le">
-                                                          33 người chết vì tai nạn giao thông trong 3 ngày nghỉ lễ<span class="news-tab-li-item-datetime">(2016-10-31)</span>
+                                                          33 người chết vì tai nạn giao thông trong 3 ngày nghỉ lễ<span class="news-tab-li-item-datetime">(2016-11-2)</span>
                                   </a>
                                   </span>
                                   </div>
@@ -1629,7 +1597,7 @@
                                   <div class="news-tab-li-item-title">
                                   <span class="news-tab-sp-item-title">
                                                       <a class="news-tab-li-link" href="toa-an-nhan-dan-huyen-dua-ra-xet-xu-luu-dong-tai-xa-nam-binh-02-vu-an-trom-cap-tai-san">
-                                                          Toà án nhân dân huyện: Đưa ra xét xử lưu động tại xã Nam Bình 02 vụ án trộm cắp tài sản<span class="news-tab-li-item-datetime">(2016-10-31)</span>
+                                                          Toà án nhân dân huyện: Đưa ra xét xử lưu động tại xã Nam Bình 02 vụ án trộm cắp tài sản<span class="news-tab-li-item-datetime">(2016-11-2)</span>
                                   </a>
                                   </span>
                                   </div>
@@ -1644,6 +1612,11 @@
                           </div>
                       </div>
                        
+                  </div>
+              </div>
+          <div id="tab-content-tinChinhTriXaHoi" style="display:none" categoryname="Tin chính trị - Xã hội" class="ui-tabs-panel ui-widget-content ui-corner-bottom">
+                  <div class="news-tab">
+  
                   </div>
               </div>
   
@@ -1718,7 +1691,7 @@
                                   <div class="news-tab-li-item-title">
                                   <span class="news-tab-sp-item-title">
                                                       <a class="news-tab-li-link" href="khai-thac-hieu-qua-tiem-nang-the-manh-de-phat-trien">
-                                                          Khai thác hiệu quả tiềm năng, thế mạnh để phát triển<span class="news-tab-li-item-datetime">(2016-10-31)</span>
+                                                          Khai thác hiệu quả tiềm năng, thế mạnh để phát triển<span class="news-tab-li-item-datetime">(2016-11-2)</span>
                                   </a>
                                   </span>
                                   </div>
@@ -1738,7 +1711,7 @@
                                   <div class="news-tab-li-item-title">
                                   <span class="news-tab-sp-item-title">
                                                       <a class="news-tab-li-link" href="bieu-thue-nhap-khau-uu-dai-dac-biet-thuc-hien-7-hiep-dinh">
-                                                          Biểu thuế nhập khẩu ưu đãi đặc biệt thực hiện 7 Hiệp định<span class="news-tab-li-item-datetime">(2016-10-31)</span>
+                                                          Biểu thuế nhập khẩu ưu đãi đặc biệt thực hiện 7 Hiệp định<span class="news-tab-li-item-datetime">(2016-11-2)</span>
                                   </a>
                                   </span>
                                   </div>
@@ -1758,7 +1731,7 @@
                                   <div class="news-tab-li-item-title">
                                   <span class="news-tab-sp-item-title">
                                                       <a class="news-tab-li-link" href="tap-huan-khai-thue-qua-mang">
-                                                          Tập huấn khai thuế qua mạng<span class="news-tab-li-item-datetime">(2016-10-31)</span>
+                                                          Tập huấn khai thuế qua mạng<span class="news-tab-li-item-datetime">(2016-11-2)</span>
                                   </a>
                                   </span>
                                   </div>
@@ -1778,7 +1751,7 @@
                                   <div class="news-tab-li-item-title">
                                   <span class="news-tab-sp-item-title">
                                                       <a class="news-tab-li-link" href="chuan-bi-nam-hoc-2014-2015">
-                                                          Huyện Đăk Song tích cực chuẩn bị cho năm học 2014 - 2015<span class="news-tab-li-item-datetime">(2016-10-31)</span>
+                                                          Huyện Đăk Song tích cực chuẩn bị cho năm học 2014 - 2015<span class="news-tab-li-item-datetime">(2016-11-2)</span>
                                   </a>
                                   </span>
                                   </div>
@@ -1798,7 +1771,7 @@
                                   <div class="news-tab-li-item-title">
                                   <span class="news-tab-sp-item-title">
                                                       <a class="news-tab-li-link" href="Cay-rung-moi-trong-doc-quoc-lo-14-bi-pah-hoai">
-                                                          Cây rừng mới trồng dọc quốc lộ 14 ở Đắk Song bị phá hoại<span class="news-tab-li-item-datetime">(2016-10-31)</span>
+                                                          Cây rừng mới trồng dọc quốc lộ 14 ở Đắk Song bị phá hoại<span class="news-tab-li-item-datetime">(2016-11-2)</span>
                                   </a>
                                   </span>
                                   </div>
@@ -1840,7 +1813,7 @@
                                   <div class="news-tab-li-item-title">
                                   <span class="news-tab-sp-item-title">
                                                       <a class="news-tab-li-link" href="trung-tam-giao-duc-thuong-xuyen-tinh-khai-giang-nam-hoc-moi">
-                                                          Trung tâm Giáo dục thường xuyên tỉnh khai giảng năm học mới<span class="news-tab-li-item-datetime">(2016-10-31)</span>
+                                                          Trung tâm Giáo dục thường xuyên tỉnh khai giảng năm học mới<span class="news-tab-li-item-datetime">(2016-11-2)</span>
                                   </a>
                                   </span>
                                   </div>
@@ -1860,7 +1833,7 @@
                                   <div class="news-tab-li-item-title">
                                   <span class="news-tab-sp-item-title">
                                                       <a class="news-tab-li-link" href="cam-ket-tang-cuong-trien-khai-cong-tac-giao-duc-an-toan-giao-thong-nam-hoc-2016-2017">
-                                                          CAM KẾT TĂNG CƯỜNG TRIỂN KHAI CÔNG TÁC GIÁO DỤC AN TOÀN GIAO THÔNG NĂM HỌC 2016-2017<span class="news-tab-li-item-datetime">(2016-10-31)</span>
+                                                          CAM KẾT TĂNG CƯỜNG TRIỂN KHAI CÔNG TÁC GIÁO DỤC AN TOÀN GIAO THÔNG NĂM HỌC 2016-2017<span class="news-tab-li-item-datetime">(2016-11-2)</span>
                                   </a>
                                   </span>
                                   </div>
@@ -1880,7 +1853,7 @@
                                   <div class="news-tab-li-item-title">
                                   <span class="news-tab-sp-item-title">
                                                       <a class="news-tab-li-link" href="so-y-te-tham-dinh-cong-tac-duy-tri-xa-phuong-dat-bo-tieu-chi-quoc-gia-ve-y-te">
-                                                          Sở Y tế thẩm định công tác duy trì xã, phường đạt Bộ tiêu chí quốc gia về y tế<span class="news-tab-li-item-datetime">(2016-10-31)</span>
+                                                          Sở Y tế thẩm định công tác duy trì xã, phường đạt Bộ tiêu chí quốc gia về y tế<span class="news-tab-li-item-datetime">(2016-11-2)</span>
                                   </a>
                                   </span>
                                   </div>
@@ -1966,7 +1939,7 @@
                                   <div class="news-tab-li-item-title">
                                   <span class="news-tab-sp-item-title">
                                                       <a class="news-tab-li-link" href="gia-dinh-hanh-phuc-xa-hoi-moi-vung-ben-va-phat-trien">
-                                                          Gia đình hạnh phúc xã hội mới vững bền và phát triển<span class="news-tab-li-item-datetime">(2016-10-31)</span>
+                                                          Gia đình hạnh phúc xã hội mới vững bền và phát triển<span class="news-tab-li-item-datetime">(2016-11-2)</span>
                                   </a>
                                   </span>
                                   </div>
@@ -1986,7 +1959,7 @@
                                   <div class="news-tab-li-item-title">
                                   <span class="news-tab-sp-item-title">
                                                       <a class="news-tab-li-link" href="bao-tang-lich-su-quoc-gia-don-nhan-huan-chuong-lao-dong-hang-nhat">
-                                                          Bảo tàng Lịch sử Quốc gia đón nhận Huân chương Lao động hạng Nhất<span class="news-tab-li-item-datetime">(2016-10-31)</span>
+                                                          Bảo tàng Lịch sử Quốc gia đón nhận Huân chương Lao động hạng Nhất<span class="news-tab-li-item-datetime">(2016-11-2)</span>
                                   </a>
                                   </span>
                                   </div>
@@ -2006,7 +1979,7 @@
                                   <div class="news-tab-li-item-title">
                                   <span class="news-tab-sp-item-title">
                                                       <a class="news-tab-li-link" href="dan-da-nhac-cu-truyen-thong-co-nhat-cua-nguoi-tay-nguyen">
-                                                          Đàn đá - nhạc cụ truyền thống cổ nhất của người Tây nguyên<span class="news-tab-li-item-datetime">(2016-10-31)</span>
+                                                          Đàn đá - nhạc cụ truyền thống cổ nhất của người Tây nguyên<span class="news-tab-li-item-datetime">(2016-11-2)</span>
                                   </a>
                                   </span>
                                   </div>
@@ -2026,7 +1999,7 @@
                                   <div class="news-tab-li-item-title">
                                   <span class="news-tab-sp-item-title">
                                                       <a class="news-tab-li-link" href="ke-hoach-to-chuc-le-ky-niem">
-                                                          Giải quần vợt chào mừng ngày Doanh nhân Việt Nam<span class="news-tab-li-item-datetime">(2016-10-31)</span>
+                                                          Giải quần vợt chào mừng ngày Doanh nhân Việt Nam<span class="news-tab-li-item-datetime">(2016-11-2)</span>
                                   </a>
                                   </span>
                                   </div>
@@ -2046,7 +2019,7 @@
                                   <div class="news-tab-li-item-title">
                                   <span class="news-tab-sp-item-title">
                                                       <a class="news-tab-li-link" href="le-khai-mac-hoi-thao-ky-niem-13-nam-thanh-lap-huyen">
-                                                          LỄ KHAI MẠC HỘI THAO KỶ NIỆM 13 NĂM THÀNH LẬP HUYỆN<span class="news-tab-li-item-datetime">(2016-10-31)</span>
+                                                          LỄ KHAI MẠC HỘI THAO KỶ NIỆM 13 NĂM THÀNH LẬP HUYỆN<span class="news-tab-li-item-datetime">(2016-11-2)</span>
                                   </a>
                                   </span>
                                   </div>
@@ -2260,8 +2233,8 @@
   												<div class="mediaItems">
   													<ul class="ul-mediaItem">
   														   <li class="li-mediaItem"  urlimage="HinhDaiDienVideo/_w/toquoc_jpg.jpg"> <a href="du-lich-do-day-den-dak-nong-xem-thac-dray-sap" >Du lịch đó đây, đến Đắk Nông xem thác Dray Sáp</a></li>
-  														   <li class="li-mediaItem"  urlimage="HinhDaiDienVideo/_w/toquoc_jpg.jpg"> <a href="du-lich-dak-nong-phan-2" >Du lich Đăk Nông phần 2</a></li>
   														   <li class="li-mediaItem"  urlimage="HinhDaiDienVideo/_w/toquoc_jpg.jpg"> <a href="du-lich-dak-nong-phan-1" >Du lịch Đăk Nông phần 1</a></li>
+  														   <li class="li-mediaItem"  urlimage="HinhDaiDienVideo/_w/toquoc_jpg.jpg"> <a href="du-lich-dak-nong-phan-2" >Du lich Đăk Nông phần 2</a></li>
   														   <li class="li-mediaItem"  urlimage="HinhDaiDienVideo/_w/toquoc_jpg.jpg"> <a href="cac-loai-cay-cong-nghiep-dak-nong" >Các loại cây công nghiệp Đăk Nông</a></li>
   														   <li class="li-mediaItem"  urlimage="HinhDaiDienVideo/_w/toquoc_jpg.jpg"> <a href="tinh-ca-ak-nong" >Tình ca Đăk Nông</a></li>
   														   <li class="li-mediaItem"  urlimage="HinhDaiDienVideo/_w/toquoc_jpg.jpg"> <a href="to-quoc-nhin-tu-bien" >Tổ quốc nhìn từ Biển</a></li>
@@ -3380,7 +3353,7 @@
                 //     //]]>
                 //
             </script>
-    </form>
+    </div>
 
 
 

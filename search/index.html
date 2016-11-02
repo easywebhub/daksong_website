@@ -1134,9 +1134,7 @@
                 <p style="text-align:justify"><span style="font-size:14px"><br /></span></p>
 <div>
   
-  
-   
-
+<div id="total"></div>
 </div></div></TD></TR><TR><TD /></TR></TBODY></TABLE><BR />
 
 <script>
@@ -1171,7 +1169,7 @@
      <tr>
       <td valign="top"><div WebPartID="8df91751-13bb-4d87-adcf-493d9b19d2cc" HasPers="false" id="WebPartWPQ12" width="100%" class="ms-WPBody noindex" allowDelete="false" style="" ><div id="ctl00_m_g_8df91751_13bb_4d87_adcf_493d9b19d2cc">
         <DIV id="part2" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts"><TABLE border="0" cellSpacing="0" cellPadding="0" width="100%"><TBODY><TR><TD class="Other" width="100%"><UL /></TD></TR></TBODY></TABLE><TABLE class="tbtinkhac" border="0" cellSpacing="0" cellPadding="0" width="100%">
-					<TBODY><TR><TD class="OtherTitle"><P class="OtherTitle">Kết quả</P></TD></TR></TBODY></TABLE><TABLE border="0" cellSpacing="0" cellPadding="0" width="100%">
+					<TBODY><TR><TD class="OtherTitle"><P class="OtherTitle"> Kết quả tìm kiếm </P></TD></TR></TBODY></TABLE><TABLE border="0" cellSpacing="0" cellPadding="0" width="100%">
 				<TBODY><TR><TD class="Other" width="100%"><UL>
 				
                 <!---->
@@ -2525,10 +2523,16 @@
     $.get( `http://api.github.com/search/code?q=${keysearch}in:file+language:markdown+repo:easywebhub/daksong_website`, function( data ) {
         var str="<ul>";
         var rs = data.items;
+        var total = data.total_count;
+        if(data.incomplete_results==true){
+           
+        }
         for(var i in rs){
             str+=  `<li><a href=\" ${rs[i].name.split('.').shift() }\">  ${rs[i].name.split('.').shift() } </a><SPAN class=\"ShowDate\"></SPAN></li>`;
         }
         str+="</ul>"
-        $("#result").append(str);   
+        $("#result").append(str);
+        $("#keywork").append("Từ khóa tìm kiếm : " +  keysearch);
+        $("#total").append("Tìm thấy : <b>"+ total + " </b> kết quả");
     });
 </script>

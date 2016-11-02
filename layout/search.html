@@ -150,7 +150,17 @@
   crossorigin="anonymous"></script>
 
 <script>
-    $.get( "http://api.github.com/search/code?q=thông+báoin:file+language:markdown+repo:easywebhub/daksong_website", function( data ) {
+    $.urlParam = function(name){
+        var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+        if (results==null){
+        return null;
+        }
+        else{
+        return results[1] || 0;
+        }
+    }
+    var keysearch = $.urlParam('q');
+    $.get( `http://api.github.com/search/code?q=${keysearch}in:file+language:markdown+repo:easywebhub/daksong_website`, function( data ) {
         var str="<ul>";
         var rs = data.items;
         for(var i in rs){

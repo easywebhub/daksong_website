@@ -2577,4 +2577,27 @@ a img{
 }
 
 
+.thongbao-detail .LItem{
+	    padding-bottom: 15px;
+}
+.dateSearch form{
+	float: right;margin-top: 3px;
+	    
+}
+.dateSearch form input{
+	border-radius: 5px;
+    padding: 5px 5px;
+	    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    box-shadow: none;
+    border: 1px solid #999;
+	border-right: none;
+}
 
+.ms-sbgo {
+	    background: url(/imgSoNganh/button-search.png) no-repeat;
+    width: 35px;
+    height: 26px;
+    display: block;
+    border: none!important;    float: right;
+}

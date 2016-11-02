@@ -54,7 +54,7 @@
 </head>
 
 <body class="songanh" scroll="no" onload="if (typeof(_spBodyOnLoadWrapper) != 'undefined') _spBodyOnLoadWrapper();" class="v4master1">
-    <form name="aspnetForm" method="post" action="Pages/default.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+    <div name="aspnetForm" method="post" action="Pages/default.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
 
         <noscript><div class='noindex'>You may be trying to access this site from a secured browser on the server. Please enable scripts and reload this page.</div></noscript>
 
@@ -548,45 +548,13 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="searchR">
-                                    <div class="ms-search">
 
-                                        <div class="s4-search s4-rp" id="s4-searcharea">
+                                <form action="search" method="get">
+                                <input type="text" name="q" placeholder="Tìm kiếm">
+                                <a class="ms-sbgo"></a>
 
-                                            <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%" style="width:400px">
-                                                <tr>
-                                                    <td valign="top">
-                                                        <div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ2" class="noindex" OnlyForMePart="true" allowDelete="false" style="width:400px;">
-                                                            <div id="SRSB">
-                                                                <table id="ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e" cellpadding="0" cellspacing="0" border="0" width="400">
-                                                                    <tr>
-                                                                        <td>
-                                                                            <input name="ctl00$g_62b1b6bf_9557_4807_ae98_427bbc5d489e$ctl00" type="hidden" id="ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_ctl00" value="" />
-                                                                            <table class="ms-sbtable ms-sbtable-ex s4-search" cellpadding="0" cellspacing="0" border="0">
-                                                                                <tr class="ms-sbrow">
-                                                                                    <td class="ms-sbcell"><input name="ctl00$g_62b1b6bf_9557_4807_ae98_427bbc5d489e$S3F5AE4C3_InputKeywords" type="text" value="Search this site..." maxlength="200" id="ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_S3F5AE4C3_InputKeywords"
-                                                                                            accesskey="S" title="Search..." class="ms-sbplain" alt="Search..." onkeypress="javascript: return S3F5AE4C3_OSBEK(event);" onfocus="if (document.getElementById('ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_ctl04').value =='0') {this.value=''; if (this.className == 's4-searchbox-QueryPrompt') this.className = ''; else this.className = this.className.replace(' s4-searchbox-QueryPrompt',''); document.getElementById('ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_ctl04').value=1;}"
-                                                                                            onblur="if (this.value =='') {this.value='Search this site...'; if (this.className.indexOf('s4-searchbox-QueryPrompt') == -1) this.className += this.className?' s4-searchbox-QueryPrompt':'s4-searchbox-QueryPrompt'; document.getElementById('ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_ctl04').value = '0'} else {document.getElementById('ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_ctl04').value='1';}"
-                                                                                            style="width:170px;" /></td>
-                                                                                    <td class="ms-sbgo ms-sbcell">
-                                                                                        <a id="ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_S3F5AE4C3_go" title="Search" href="javascript:S3F5AE4C3_Submit()"><img title="Search" onmouseover="this.src='\u002f_layouts\u002fimages\u002fgosearchhover15.png'" onmouseout="this.src='\u002f_layouts\u002fimages\u002fgosearch15.png'"
-                                                                                                class="srch-gosearchimg" alt="Search" src="_layouts/images/gosearch15.png" border="0" /></a>
-                                                                                    </td>
-                                                                                    <td class="ms-sbLastcell"></td>
-                                                                                </tr>
-                                                                            </table><input name="ctl00$g_62b1b6bf_9557_4807_ae98_427bbc5d489e$ctl04" type="hidden" id="ctl00_g_62b1b6bf_9557_4807_ae98_427bbc5d489e_ctl04" value="0" />
-                                                                        </td>
-                                                                    </tr>
-                                                                </table>
-                                                            </div>
-                                                        </div>
-                                                    </td>
-                                                </tr>
-                                            </table>
-
-                                        </div>
-                                    </div>
-                                </div>
+                               
+                                </form>
                             </div>
                         </div>
                     </div>
@@ -1288,7 +1256,7 @@
                 //     //]]>
                 //
             </script>
-    </form>
+    </div>
 
 
 

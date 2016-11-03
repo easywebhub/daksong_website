@@ -1,8 +1,8 @@
 {
     "sortBy": "date",
-    "reverse": false,
-    "metadata": {},
-    "displayName": "định hướng phát triển.thông tin dự án đầu tư",
+    "reverse": true,
+    "metadata": { "title":" Thông tin dự án đầu tư"},
+    "displayName": "Thông tin dự án đầu tư",
     "perPage": 10,
     "noPageOne": true,
     "layout": "default.category.html",

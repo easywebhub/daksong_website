@@ -295,7 +295,7 @@
                                                                         <li class="first-element" id=""><a class="tmenu" href="./dieu-kien-tu-nhien">Điều kiện tự nhiên</a></li>
                                                                         <li class="first-element" id=""><a class="tmenu" href="./lich-su-truyen-thong">Lịch sử - Truyền thống</a></li>
                                                                         <li class="first-element" id=""><a class="tmenu" href="./di-tich-thang-canh">Di tích - Thắng cảnh</a></li>
-                                                                        <li class="first-element" id=""><a class="tmenu" href="./dinh-huong-phat-trien">Định hướng phát triển</a></li>
+                                                                        <li class="first-element" id=""><a class="tmenu" href="./bo-may-hanh-chinh">Bộ máy hành chính</a></li>
                                                                         <li class="first-element" id=""><a class="tmenu" href="./lanh-dao-co-quan">Lãnh đạo cơ quan</a></li>
                                                                         <li class="first-element" id=""><a class="tmenu" href="./thong-tin-lien-lac">Thông tin liên lạc</a></li>
                                                                     </ul>
@@ -353,14 +353,14 @@
                                                    
                                                         <li class="parent " id="firstlist3" duy="3">
                                                             <div class="main-level" id="firstlist-div-3">
-                                                                <a class="tmenu" href="./doanh-nghiep"><span>Doanh nghiêp</span></a>
+                                                                <a class="tmenu" href="./dinh-huong-phat-trien"><span>Định hướng phát triển</span></a>
                                                             </div>
                                                             <ul class="children" id="childrenlist3" style="display: none;">
                                                                 <div class="second-list">
                                                                     <ul class="two-column">
-                                                                        <li class="first-element" id=""><a class="tmenu" href="./doanh-nghiep/chinh-sach-dau-tu">Chính sách đầu tư</a></li>
-                                                                        <li class="first-element" id=""><a class="tmenu" href="./doanh-nghiep/keu-goi-dau-tu">Kêu gọi đầu tư</a></li>
-                                                                        <li class="first-element" id=""><a class="tmenu" href="./doanh-nghiep/du-an-dau-tu">Dự án đầu tư</a></li>
+                                                                        <li class="first-element" id=""><a class="tmenu" href="./dinh-huong-phat-trien/chinh-sach-uu-dai">Chính sách ưu đãi</a></li>
+                                                                        <li class="first-element" id=""><a class="tmenu" href="./dinh-huong-phat-trien/quy-hoach-ke-hoach">Quy hoạch - Kế hoạch</a></li>
+                                                                        <li class="first-element" id=""><a class="tmenu" href="./dinh-huong-phat-trien/thong-tin-du-an-dau-tu">Thông tin dự án đầu tư</a></li>
                                                                     </ul>
                                                                 </div>
                                                             </ul>
@@ -664,447 +664,193 @@
 
         <div class="snLeft">
 
-            <div class="wpVBM">
-                <div id="ctl00_g_01d3c1b4_cfb9_4793_bf24_9982db68cc3e" __MarkupType="vsattributemarkup" WebPart="true" __WebPartId="{01d3c1b4-cfb9-4793-bf24-9982db68cc3e}">
-
-                    <script type="text/javascript">
-                        function _doPostBack(eventTarget, eventArgument) {
-                            theForm.__EVENTTARGET.value = eventTarget;
-                            theForm.__EVENTARGUMENT.value = eventArgument;
-                            theForm.submit();
-                        }
-
-                        function _moveItemFromAtoB_SPLookup(ListBoxA, ListBoxB) {
-                            var x = document.getElementById(ListBoxA);
-                            var y = document.getElementById(ListBoxB);
-                            for (i = 0; i < x.options.length; i++) {
-                                if (x.options[i].selected) {
-                                    var item = document.createElement("option");
-                                    item.text = x.options[i].text;
-                                    item.value = x.options[i].value;
-                                    y.options.add(item);
-                                    x.remove(i);
-                                    i--;
-                                }
-                            }
-                            y.selectedIndex = y.options.length - 1;
-                            y.focus();
-                        }
-
-                        function _saveRecord(m_lookup, m_select, saveType) {
-                            var strSelect = document.getElementById(m_select).value;
-                            var strLookup = document.getElementById(m_lookup).value;
-                            var value1 = getLookupSelectValues(strSelect);
-                            var value2 = getLookupSelectValues(strLookup);
-                            var value = value1 + value2;
-                            _doPostBack(saveType, value);
-                        }
-
-                        function getLookupSelectValues(str) {
-                            var sourceIDs = new Array();
-                            if (str.length > 0)
-                                if (str.substring(";") == -1)
-                                    sourceIDs[0] = str;
-                                else sourceIDs = str.split(";");
-                            var value = "";
-                            for (i = 0; i < sourceIDs.length; i++) {
-                                var listBox = document.getElementById(sourceIDs[i]);
-                                value = value + sourceIDs[i];
-                                for (j = 0; j < listBox.length; j++) {
-                                    value = value + ";#" + listBox.options[j].value;
-                                }
-                                value = value + sourceIDs[i];
-                            }
-                            return value;
-                        }
-
-                        function CustomList_refreshCaptcha() {
-                            _doPostBack('CustomList_refreshCaptcha', 'ctl00_g_01d3c1b4_cfb9_4793_bf24_9982db68cc3e_ctl00_selectedLookupControl');
-                        }
-
-                        function loadCalendar() {
-                            var itemChosen = document.getElementById('ctl00_g_01d3c1b4_cfb9_4793_bf24_9982db68cc3e_ctl00_cbCondition');
-                            var calendar = document.getElementById('ctl00_g_01d3c1b4_cfb9_4793_bf24_9982db68cc3e_ctl00_searchByDate');
-                            var searchcontent = document.getElementById('ctl00_g_01d3c1b4_cfb9_4793_bf24_9982db68cc3e_ctl00_txtCongviec');
-                            var itemValue = itemChosen.options[itemChosen.selectedIndex].value;
-                            var typeIndex = itemValue.lastIndexOf(".");
-                            var type = itemValue.substr(typeIndex + 1, itemValue.length - typeIndex - 1);
-                            if (type == "DateTime") {
-                                calendar.style.display = "";
-                                searchcontent.disabled = false;
-                                searchcontent.style.backgroundColor = "white";
-                            } else {
-                                calendar.style.display = "none";
-                                searchcontent.disabled = false;
-                                searchcontent.style.backgroundColor = "white";
-                            }
-                        }
-
-                        function _getItem(eventTarget, m_object) {
-                            var value = document.getElementById(m_object).value;
-                            _doPostBack(eventTarget, value);
-                        }
-
-                        function txtCongViecEnter() {
-                            var button = document.getElementById('ctl00_g_01d3c1b4_cfb9_4793_bf24_9982db68cc3e_ctl00_btTimkiem');
-                            if (button != null) {
-                                if (window.event.keyCode == 13) {
-                                    window.event.returnValue = false;
-                                    window.event.cancel = true;
-                                    button.click();
-                                }
-                            }
-                        }
-
-                        function DeleteItem(target) {
-                            var confirmDelete = confirm("Xóa dữ liệu này?");
-                            if (confirmDelete == true) __doPostBack(target, '');
-                        }
-
-                        function DeleteItemID(target, Soid) {
-                            var confirmDelete = confirm("Bạn có chắc là muốn xoá ?");
-                            if (confirmDelete == true) __doPostBack(target, Soid);
-                        }
-                    </script>
-
-                    <link type="text/css" rel="stylesheet" href="/SiteAssets/css/vbpl.css" />
 
 
 
-                    <div id="ctl00_g_01d3c1b4_cfb9_4793_bf24_9982db68cc3e_ctl00_dvVBPL">
-
-                        <div id="ctl00_g_01d3c1b4_cfb9_4793_bf24_9982db68cc3e_ctl00_dvBlockVBPL">
+           <div id="ctl00_g_5a98f478_4f49_4a9d_acad_af6c773cdc07">
 
 
 
+                            <!-- <link type="text/css" href="/_CONTROLTEMPLATES/LacViet.CMS.ViewPageManager/css/style_left_menu.css" rel="stylesheet" /> -->
+                            <script type='text/javascript' src='/_CONTROLTEMPLATES/LacViet.CMS.ViewPageManager/js/jquery-1.4.1.js'></script>
 
 
+                            <script type="text/javascript">
+                                var jLeftMenu = jQuery.noConflict();
+                                jLeftMenu(function($) {
 
-                            <div></div>
+                                    $(document).ready(function() {
+
+                                        $('div.ms-navheader').each(function() {
+                                            var childs = $(this).siblings('ul');
+                                            if (childs.html() == null || childs.html() == "")
+                                                $(this).attr("onclick", "#");
+
+                                        });
+
+                                        var CurrentPath = jLeftMenu.trim(jLeftMenu("div#LeftMenuWebName").text());
+                                        var CurrentHomeChild = jLeftMenu("a.leftsubmenu[href*='" + CurrentPath + "']");
+                                        CurrentHomeChild.parent().parent().parent().addClass("classshow");
+
+                                    });
 
 
+                                    $("div.ms-navheader").mouseover(function() {
 
-                            <?xml version="1.0" encoding="utf-8"?>
-                            <table class="ds_VBPL" rules="rows" cellpadding="0" cellspacing="0" border="0">
-                                <tr>
-                                    <td class="td_vanbanmoi">
-                                        VĂN BẢN PHÁP LUẬT 
-                                    </td>
-                                </tr>
-                            </table>
-                            <table class="ds_VBPL" rules="rows" cellpadding="0" cellspacing="0" border="0">
-                                
-                                 <DIV class="divvanbanmoi">
-                                    <A href="kiem-tra-2">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                     </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>31-10-2016 </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClass54612D623D4A4D52B25DAED194B7A8ED"></div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="kiem-tra-2">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>
-                                 <DIV class="divvanbanmoi">
-                                    <A href="kiem-tra-van-ban">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                     </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>30-10-2016 </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClass54612D623D4A4D52B25DAED194B7A8ED"></div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="kiem-tra-van-ban">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>
-                                 <DIV class="divvanbanmoi">
-                                    <A href="cai-cach-hanh-chinh-huyen-dak-song">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                    Số: 	  /BC - UBND  </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>24-09-2016 </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClass54612D623D4A4D52B25DAED194B7A8ED">Ủy ban nhân dân huyện thống nhất triển khai thực hiện công tác cải cách hành chính trên địa bàn huyện </div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="cai-cach-hanh-chinh-huyen-dak-song">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>
-                                 <DIV class="divvanbanmoi">
-                                    <A href="thong-tu-lien-tich-so-062014ttlt-btp-ttcp-bqp-ngay-14022014-cua-bo-tu-phap-thanh-tra-chinh-phu-bo-quoc-phong">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                    689/UBND-NN </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>23-09-2016 </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClass54612D623D4A4D52B25DAED194B7A8ED">689/UBND-NN</div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="thong-tu-lien-tich-so-062014ttlt-btp-ttcp-bqp-ngay-14022014-cua-bo-tu-phap-thanh-tra-chinh-phu-bo-quoc-phong">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>
-                                 <DIV class="divvanbanmoi">
-                                    <A href="thong-bao-ve-viec-thay-doi-thoi-gian-hop">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                    97 </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>23-09-2016 </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClass54612D623D4A4D52B25DAED194B7A8ED"></div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="thong-bao-ve-viec-thay-doi-thoi-gian-hop">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>
-                                 <DIV class="divvanbanmoi">
-                                    <A href="bao-cao-tinh-hinh-thuc-hien-nhiem-vu-thang-8-va-phuong-huong-nhiem-vu-thang-92016">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                     </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>23-09-2016 </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClass54612D623D4A4D52B25DAED194B7A8ED"></div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="bao-cao-tinh-hinh-thuc-hien-nhiem-vu-thang-8-va-phuong-huong-nhiem-vu-thang-92016">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>
-                               
-                                <!--<DIV class="divvanbanmoi"
-                                    <A href="/hethongvanban/Pages/default.aspx?SoID=76 ">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                    Số: 689/UBND-NN </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>31/12/9999 </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClassA51A1FEEE4FE46549F7D3E2AAF8102AD">Công văn số: 689/UBND-NN, ngày 05/3/2014 của UBND tỉnh Đăk Nông về việc tổ chức Lễ Mittinh hưởng ứng Ngày Nước thế giới năm 2014 </div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="http://^%$#@!/hethongvanban/Lists/VBPL_DanhSachVanBan/Attachments/76/689-UBND-NN.pdf">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="/_LAYOUTS/LacVietBio/EOFFICEIMG/LacViet.LacVietSPList/pdf.png" ALT="tải pdf về" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>
-                                <DIV class="divvanbanmoi"
-                                    <A href="/hethongvanban/Pages/default.aspx?SoID=79 ">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                    Số: 2194/QĐ-UBND </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>31/12/9999 </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClassFF1EA847195049E9B2CBDEEF5DBA3FA9">Quyết định số 2194/QĐ-UBND, ngày 17/12/2013 của ỦY BAN NHÂN DÂN TỈNH ĐĂK NÔNG, Đưa ra khỏi Danh mục văn bản QPPL do HĐND tỉnh, UBND tỉnh ban hành hết hiệu lực</div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="&#xA;                            /hethongvanban/_layouts/WordViewer.aspx?id=http://^%$#@!/hethongvanban/Lists/VBPL_DanhSachVanBan/Attachments/79/2194-QĐ-UBND.doc">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="/_LAYOUTS/LacVietBio/EOFFICEIMG/LacViet.LacVietSPList/word.png" ALT="Xem word online" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>
-                                <DIV class="divvanbanmoi"
-                                    <A href="/hethongvanban/Pages/default.aspx?SoID=80 ">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                    Số: 25/2013/QĐ-UBND </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>31/12/9999 </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClass25F3C48083D84F25893D7727B235D190">Đề án số 25/2013/QĐ-UBND, ngày 26/11/2013 của ỦY BAN NHÂN DÂN TỈNH ĐĂK NÔNG, Ban hành Quy định trách nhiệm người đứng đầu cơ quan hành chính, tổ chức, đơn vị sự nghiệp công lập và DNNN trong thi hành nhiệm vụ,
-                                                công vụ</div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="http://^%$#@!/hethongvanban/Lists/VBPL_DanhSachVanBan/Attachments/80/075804_25.2013.pdf">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="/_LAYOUTS/LacVietBio/EOFFICEIMG/LacViet.LacVietSPList/pdf.png" ALT="tải pdf về" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>-->
-                            </table>
-                            <div style="float: right">
+                                        $(this).addClass("heading-hover");
 
+                                    }).mouseout(function() {
+                                        $(this).removeClass("heading-hover");
+                                    });
+                                    $("div.ms-navheader-icon").mouseover(function() {
+                                        $(this).addClass("heading-hover");
+
+                                    }).mouseout(function() {
+                                        $(this).removeClass("heading-hover");
+                                    });
+                                    $("div.ms-navItem").mouseover(function() {
+                                        $(this).addClass("ms-navItem-hover");
+                                    }).mouseout(function() {
+                                        $(this).removeClass("ms-navItem-hover");
+                                    });
+                                    $("div.ms-navItem-icon").mouseover(function() {
+                                        $(this).addClass("ms-navItem-hover");
+                                    }).mouseout(function() {
+                                        $(this).removeClass("ms-navItem-hover");
+                                    });
+                                });
+                            </script>
+                            <div id="LeftMenuWebName" style="display:none">
+                                TinTuc
                             </div>
-
-                        </div>
-                    </div>
-
-
-                    <script type="text/javascript">
-                        loadCalendar();
-                    </script>
-
+                             <div id="ctl00_g_5a98f478_4f49_4a9d_acad_af6c773cdc07_ctl00_myPanel">
+    <div class="navList">
+        <ul class="ms-quickLaunch" id="menuproduct_b897631c-a511-436c-b5d3-28b75b851864" onload="collapseMenu(null,'menuproduct_b897631c-a511-436c-b5d3-28b75b851864')">
+            
+            <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                <div class="allowMenu">
+                                       <a href="#" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="/hinh-anh/banner/hcm.jpg"></a>
+                                   </div>
+                </ul>
+            </li>
+            <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+                    <div class="div-link-navheader"><span class="linkEmpty">TIN TỨC SỰ KIỆN 
+                    
+                        </span></div>
                 </div>
-
-            </div>
-
-
-
-
-            <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
-                <tr>
-                    <td valign="top">
-                        <div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ3" width="100%" class="ms-WPBody noindex" OnlyForMePart="true" allowDelete="false" style="">
-                            <div id="ctl00_g_5692ae58_33df_492f_ba87_2999b9ccc0ec">
-                                <DIV xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">
-                                    <DIV id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_Chinh">
-                                        <TABLE style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-COLLAPSE: collapse; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" border="0" cellSpacing="0" cellPadding="0">
-                                            <TBODY>
-                                                <TR>
-                                                    <TD style="WIDTH: 100%" class="allowMenu">
-                                                        <A href="#" target="_blank" alt="">
-                                                            <IMG style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 197px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="HinhAnhLienKet/lichlamviecld.png" />
-                                                        </A>
-                                                    </TD>
-                                                </TR>                                               
-                                                <TR>
-                                                    <TD style="WIDTH: 100%" class="allowMenu">
-                                                        <A href="" target="_blank" alt="">
-                                                            <IMG style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 197px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="HinhAnhLienKet/33.jpg" />
-                                                        </A>
-                                                    </TD>
-                                                </TR>
-                                                <TR>
-                                                    <TD style="WIDTH: 100%" class="allowMenu">
-                                                        <A href="" target="_self" alt="">
-                                                            <IMG style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 197px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="HinhAnhLienKet/hoc tap va lam theo.jpg" />
-                                                        </A>
-                                                    </TD>
-                                                </TR>
-                                                <TR>
-                                                    <TD style="WIDTH: 100%" class="allowMenu">
-                                                        <A href="" target="_blank" alt="">
-                                                            <IMG style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 197px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="HinhAnhLienKet/XDNTM.png" />
-                                                        </A>
-                                                    </TD>
-                                                </TR>
-                                            </TBODY>
-                                        </TABLE>
-                                    </DIV>
-                                    <DIV id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_openPopup">
-                                        <TABLE border="0" cellSpacing="0" cellPadding="0" width="100%" height="100%">
-                                            <SPAN style="DISPLAY: none">
-            <MENU id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_MnPopupLinkLienKet">
-              <IE:MENUITEM id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_mitAdminLinkLienket" menuGroupId="2147483647" text="Quản trị" onMenuClick="STSNavigate2(event,'#postbyword');" iconSrc="_LAYOUTS/LacVietBio/EOFFICEIMG/editnews.gif" type="option"></IE:MENUITEM>
-            </MENU>
-          </SPAN>
-                                        </TABLE>
-                                    </DIV>
-                                    <IMG style="POSITION: absolute; BORDER-RIGHT-WIDTH: 0px; WIDTH: 1px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 1px; BORDER-LEFT-WIDTH: 0px" id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_img_hinh" src="_layouts/images/blank.gif"
-                                    />
-                                </DIV>
-                            </div>
+                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                   
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-an-ninh-trat-tu" class="leftsubmenu" target="_self"> Tin an ninh - Trật tự</a></div>
                         </div>
-                    </td>
-                </tr>
-            </table>
+                    </li>
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-an-toan-giao-thong" class="leftsubmenu" target="_self"> Tin an toàn giao thông</a></div>
+                        </div>
+                    </li>
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-kinh-te" class="leftsubmenu" target="_self"> Tin kinh tế - Đời sống</a></div>
+                        </div>
+                    </li>
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-van-hoa" class="leftsubmenu" target="_self"> Tin văn hóa - Du lịch</a></div>
+                        </div>
+                    </li>
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-y-te-giao-duc" class="leftsubmenu" target="_self"> Tin ý tế - Giáo dục</a></div>
+                        </div>
+                    </li>
+
+                </ul>
+            </li>
+            <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+                    <div class="div-link-navheader"><span class="linkEmpty">Thông tin chỉ đạo</span></div>
+                </div>
+                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="thong-tin-chi-dao/lich-lam-viec-cua-lanh-dao" class="leftsubmenu" target="_self"> Lịch làm việc của lãnh đạo</a></div>
+                        </div>
+                    </li>
+
+                    
+
+                </ul>
+            </li>
+              <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+                    <div class="div-link-navheader"><span class="linkEmpty">Thông báo giấy mời</span></div>
+                </div>
+                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="thong-bao-giay-moi/giay-moi" class="leftsubmenu" target="_self"> Giấy mời</a></div>
+                        </div>
+                    </li>
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="thong-bao-giay-moi/thong-bao" class="leftsubmenu" target="_self"> Thông báo</a></div>
+                        </div>
+                    </li>
+
+                    
+
+                </ul>
+            </li>
+              <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+                    <div class="div-link-navheader"><span class="linkEmpty">Định hướng phát triển</span></div>
+                </div>
+                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+
+                    
+
+                </ul>
+            </li>
+             <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+                    <div class="div-link-navheader"><span class="linkEmpty">Văn bản Pháp luật</span></div>
+                </div>
+                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="van-ban-phap-luat/van-ban-cua-huyen" class="leftsubmenu" target="_self"> Văn bản của huyện</a></div>
+                        </div>
+                    </li>
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="van-ban-phap-luat/van-ban-cua-tinh" class="leftsubmenu" target="_self"> Văn bản của tỉnh</a></div>
+                        </div>
+                    </li>
+
+                    
+
+                </ul>
+            </li>
+          
+           
+        </ul>
+    </div>
+</div> 
+
+
+
+
+                        </div>
 
 
 
         </div>
         <div class="snCenter">
 
-            <div class="postMain">
+        <div class="postMain">
 
                 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 	<tr>
@@ -1118,7 +864,7 @@
             <TD style="CURSOR: hand" class="FolderTitle" vAlign="top">
              Điều kiện tự nhiên 
             </TD>
-            <TD style="TEXT-ALIGN: right; FONT-WEIGHT: normal" class="Time" vAlign="top" align="right">2016-07-25</TD></TR></TBODY>
+            <TD style="TEXT-ALIGN: right; FONT-WEIGHT: normal" class="Time" vAlign="top" align="right">01-11-2016 00:00:00</TD></TR></TBODY>
           </TABLE>
           </DIV>
             <DIV id="part1" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts">
@@ -1132,15 +878,7 @@
              <div class="ExternalClassD44D9F9779FB424380767EC8F35A4E72">
                 <p style="text-align:justify"><span style="font-size:14px"><br /></span></p>
 <div>
-<p>Toàn huyện có diện tích tự nhiên rộng 80.810 ha (bằng 12,4 % diện tích tự nhiên tỉnh Đăk Nông ngày nay). Địa hình huyện Đăk Song chủ yếu là đồi núi, độ cao trung bình so với mặt biển từ 700 đến 800 m. Có thể chia thành 3 dạng địa hình chính của huyện, với các tiềm năng, thế mạnh khác nhau :</p>
-<ul>
-<li>Địa hình thung lũng nhỏ, hẹp chạy dọc theo các con suối, có thể khai thác để trồng lúa nước, hoa màu, cải tạo để nuôi trồng thủy sản.</li>
-<li>Địa hình đồi núi thấp trung bình, nằm trên các xã Đăk Rung, Đăk Mol, Thuận Hạnh, phù hợp với việc trồng cây công nghiệp lâu năm, như cà phê, hồ tiêu, cao su.</li>
-<li>Địa hình đồi núi cao bị chia cắt mạnh, tập trung ở các vùng giáp dãy núi Nam Nung, đồi núi phía Đông và Tây của huyện, chiếm phần lớn diện tích của huyện, thuận lợi cho việc phát triển ngành lâm nghiệp.
-Bên cạnh những thuận lợi trên, đặc điểm điạ hình của huyện cũng gây ra không ít khó khăn cho việc sản xuất, xây dựng cơ sở hạ tầng, giao thông đi lại. Mặt khác, do địa hình nhiều đồi dốc, nên quá trình rửa trôi, bào mòn đất đai diễn ra mạnh mẽ, làm giảm độ phì nhiêu của đất, ảnh hưởng trực tiếp đến đời sống của nhân dân.
-Về khí hậu, huyện Đăk Song chịu ảnh hưởng của khí hậu nhiệt đới gió mùa cao nguyên, với hai mùa rõ rệt: mùa khô và mùa mưa. Mùa khô thường bắt đầu từ tháng 11 năm trước đến tháng 3 năm sau: khí hậu nóng và khô hanh, quá trình bốc hơi mạnh, lượng mưa chỉ còn khoảng 10-15 % cả năm, xen kẽ có gió mùa đông bắc. Mùa mưa kéo dài từ khoảng tháng 3 đến tháng 11 trong năm, khí hậu dịu mát, kèm theo gió mùa Tây Nam. Lượng mưa từ 1.800mm đến 2.400mm, chiếm khoảng 85-90 % lượng mưa cả năm. Tháng có lượng mưa cao nhất là tháng 8, tháng khô hanh nhất là tháng 1. Nhiệt độ trung bình/năm của huyện là 22,3 0C.
-Toàn huyện có 20 dân tộc anh em sinh sống là: Kinh, M’nông, Êđê, Tày, Nùng, Châu Ro, Thái, Co, Sán Dìu, Thổ, Dao, Mường, Khơ me, Cao Lan, K’Ho, Hoa, Sán Chay, Chàm, Mán, Mạ với tổng số 58.669 nhân khẩu/ 13.784 hộ.</li>
-</ul>
+<p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><b style="margin: 0px; padding: 0px;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Điều kiện tự nhiên</span></b></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><b style="margin: 0px; padding: 0px;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Địa hình</span></b></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Đắk Song có địa hình cao nguyên núi lửa, có mức độ chia cắt mạnh, tạo thành những dãy đồi dạng bát úp</span><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">,</span><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">&nbsp;độ dốc trung bình 10<sup style="margin: 0px; padding: 0px;">0</sup>- 20<sup style="margin: 0px; padding: 0px;">0</sup>&nbsp;có nơi trên 20<sup style="margin: 0px; padding: 0px;">0</sup>, có độ cao trung bình so với mặt nước biển là 700m - 800m, đây là một trong những vùng có độ dốc lớn và được chia làm 3 dạng địa hình chính sau</span><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">.</span></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">- Dạng địa hình thung lũng hẹp</span><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">.</span></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">- Dạng địa hình đồi núi thấp, đến trung bình</span><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">.</span></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">- Dạng địa hình đồi núi cao chia cắt mạnh.</span><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;"></span></p><div style="text-align: center;"><font color="#4078c0" face="arial, sans-serif"><span style="font-size: 13.3333px; line-height: normal;"><b>Thống kê diện tích đất theo địa hình</b></span></font></div><div align="center" style="margin: 0px; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal;"><table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="margin: 0px 0px 0px 41.4pt; padding: 0px; font-size: 1em; border: none;"><tbody style="margin: 0px; padding: 0px;"><tr style="margin: 0px; padding: 0px; height: 9.3pt;"><td width="181" valign="top" style="margin: 0px; padding: 0cm 5.4pt; font-size: 8pt; width: 135.4pt; border-style: solid dashed dashed solid; border-color: windowtext; border-width: 1pt; height: 9.3pt;"><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><b style="margin: 0px; padding: 0px;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Cấp độ dốc</span></b></p></td><td width="193" valign="top" style="margin: 0px; padding: 0cm 5.4pt; font-size: 8pt; width: 144.75pt; border-top: 1pt solid windowtext; border-left: none; border-bottom: 1pt dashed windowtext; border-right: 1pt dashed windowtext; height: 9.3pt;"><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><b style="margin: 0px; padding: 0px;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Diện tích (ha)</span></b></p></td><td width="168" valign="top" style="margin: 0px; padding: 0cm 5.4pt; font-size: 8pt; width: 126.05pt; border-top: 1pt solid windowtext; border-left: none; border-bottom: 1pt dashed windowtext; border-right: 1pt solid windowtext; height: 9.3pt;"><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><b style="margin: 0px; padding: 0px;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Phần trăm%</span></b></p></td></tr><tr style="margin: 0px; padding: 0px; height: 80.3pt;"><td width="181" valign="top" style="margin: 0px; padding: 0cm 5.4pt; font-size: 8pt; width: 135.4pt; border-top: none; border-left: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-right: 1pt dashed windowtext; height: 80.3pt;"><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">&lt; 3<sup style="margin: 0px; padding: 0px;">0</sup></span></p><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">3-8<sup style="margin: 0px; padding: 0px;">0</sup></span></p><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">8-15<sup style="margin: 0px; padding: 0px;">0</sup></span></p><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">15-20<sup style="margin: 0px; padding: 0px;">0</sup></span></p><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">20-25<sup style="margin: 0px; padding: 0px;">0</sup></span></p><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">&gt;25<sup style="margin: 0px; padding: 0px;">0</sup></span></p><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Sông suối, ao hồ</span></p><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Tổng diện tích</span></p></td><td width="193" valign="top" style="margin: 0px; padding: 0cm 5.4pt; font-size: 8pt; width: 144.75pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt dashed windowtext; height: 80.3pt;"><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">1.598</span></p><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">7.957</span></p><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">29.538</span></p><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">26.486</span></p><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">5.025</span></p><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">8.205</span></p><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">1.999</span></p><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">80.803,77</span></p></td><td width="168" valign="top" style="margin: 0px; padding: 0cm 5.4pt; font-size: 8pt; width: 126.05pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; height: 80.3pt;"><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">1,98</span></p><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">9,85</span></p><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">36,55</span></p><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">32,78</span></p><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">6,22</span></p><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">10,15</span></p><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">2,47</span></p><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">100</span></p></td></tr></tbody></table></div><p class="MsoNormal" style="text-align: center; margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-indent: 33.15pt;"><i style="margin: 0px; padding: 0px;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp; (Nguồn: Từ Phòng Tài nguyên và Môi trường huyện Đắk Song)</span></i></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><i style="margin: 0px; padding: 0px;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">&nbsp;</span></i></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><b style="margin: 0px; padding: 0px;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Khí hậ</span></b><b style="margin: 0px; padding: 0px;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">u</span></b><b style="margin: 0px; padding: 0px;"><i style="margin: 0px; padding: 0px;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;"></span></i></b></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Chịu ảnh hưởng của gió mùa Tây Nam và mang đặc điểm chung của khí hậu cao nguyên nhiệt đới ẩm nên khí hậu có 2 mùa rõ rệt</span><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">:&nbsp;</span><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">M</span><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">ùa mưa từ tháng 4 đến tháng 11, tập trung trên 90% lượng mưa cả năm; mùa khô từ tháng 12 đến tháng 3 năm sau, lượng mưa không đáng kể.</span><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;"></span></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">&nbsp;</span></p><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: center;"><b style="margin: 0px; padding: 0px;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Lượng mưa trung bình năm</span></b><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;"></span></p><div align="center" style="margin: 0px; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal;"><table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="margin: 0px 0px 0px 41.4pt; padding: 0px; font-size: 1em; border: none;"><tbody style="margin: 0px; padding: 0px;"><tr style="margin: 0px; padding: 0px;"><td width="330" valign="top" style="margin: 0px; padding: 0cm 5.4pt; font-size: 8pt; width: 247.5pt; border-style: solid dashed dashed solid; border-color: windowtext; border-width: 1pt;"><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><b style="margin: 0px; padding: 0px;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Khu vực</span></b><b style="margin: 0px; padding: 0px;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;"></span></b></p></td><td width="210" valign="top" style="margin: 0px; padding: 0cm 5.4pt; font-size: 8pt; width: 157.5pt; border-top: 1pt solid windowtext; border-left: none; border-bottom: 1pt dashed windowtext; border-right: 1pt solid windowtext;"><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><b style="margin: 0px; padding: 0px;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Lượng mưa</span></b><b style="margin: 0px; padding: 0px;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">&nbsp;</span></b><b style="margin: 0px; padding: 0px;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">trung bình năm</span></b><b style="margin: 0px; padding: 0px;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;"></span></b></p></td></tr><tr style="margin: 0px; padding: 0px;"><td width="330" valign="top" style="margin: 0px; padding: 0cm 5.4pt; font-size: 8pt; width: 247.5pt; border-top: none; border-left: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-right: 1pt dashed windowtext;"><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; text-align: justify;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Xã Đăk Môl – xã Đăk Hòa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;"></span></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; text-align: justify;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif; top: 2pt; letter-spacing: -0.3pt;">Thị Trấn Đức An –Xã Nam Bình–X.Thuận Hạnh</span><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif; top: 2pt; letter-spacing: -0.3pt;"></span></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; text-align: justify;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Xã Nâm N’rang</span><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">&nbsp;</span><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">-</span><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">&nbsp;</span><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Xã Trường Xuân</span><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;"></span></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; text-align: justify;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Xã Đăk N’Drung – Xã Thuận Hà</span><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;"></span></p></td><td width="210" valign="top" style="margin: 0px; padding: 0cm 5.4pt; font-size: 8pt; width: 157.5pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;"><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">1800-2000mm</span><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;"></span></p><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">2000-2200mm</span><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;"></span></p><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">2200-2400mm</span><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;"></span></p><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">&gt;2400mm</span><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;"></span></p></td></tr></tbody></table></div><p class="MsoNormal" align="right" style="text-align: center; margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i style="margin: 0px; padding: 0px;">&nbsp;</i></span><i style="margin: 0px; padding: 0px;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></i><i style="margin: 0px; padding: 0px;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">(Nguồn từ trung tâm khí tượng thủy văn tỉnh Đăk Nông</span></i><i style="margin: 0px; padding: 0px;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">)</span></i></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><b style="margin: 0px; padding: 0px;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;"><br style="margin: 0px; padding: 0px;"></span></b></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><b style="margin: 0px; padding: 0px;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Thủy văn</span></b><b style="margin: 0px; padding: 0px;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;"></span></b></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Hệ thống các nhánh suối phân bố tương đối đồng đều trên địa bàn. Lưu lượng nước của các suối đều ảnh hưởng theo mùa. Mùa mưa nước lớn dâng nhanh, dòng chảy mạnh. Mùa khô lượng nước rút nhanh, lưu lượng nước giảm đáng kể, có những nơi bị cạn kiệt ảnh hưởng lớn đến sản xuất nông nghiệp vì vậy ngoài việc khai thác các nguồn nước tự nhiên thì việc sản xuất nông nghiệp còn phụ thuộc vào ao hồ nhân tạo.</span></p><p class="4" style="margin: 0cm 0cm 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify; text-indent: 0cm;"><a name="_Toc248247562" style="margin: 0px; padding: 0px;"></a><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;"><strong style="margin: 0px; padding: 0px;">Các loại tài nguyên, thiên nhiên</strong></span></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">a. Tài nguyên đất</span></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Theo số liệu điều tra thổ nhưỡng huyện Đăk Song, tỉnh Đăk Nông có 4 nhóm đất chính, gồm:</span></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">- Đất đỏ</span></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">- Đất nâu trên đá Bazan</span></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">- Đất dốc tụ</span></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">- Đất mùn Alits trên núi cao</span></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Trong 4 nhóm đất trên thì nhóm đất đỏ chiếm phần lớn với 75.408 ha chiếm 93,32% tổng diện tích đất tự nhiên và là nhóm đất rất thuận lợi cho việc sử dụng vào mục đích sản xuất nông nghiệp, trong đó cà phê và tiêu là hai loại cây trồng mang lại hiệu quả kinh tế khá cao cho người dân nơi đây.</span><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;"></span></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">b.&nbsp;</span><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Tài nguyên nước</span><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;"></span></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">- Nước mặt</span><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;"></span></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif; letter-spacing: -0.4pt;">Với lưu lượng nước trung bình hàng năm trên dưới 2.000 mm cùng với mạng lưới sông suối dày đặc, độ che phủ rừng cao đã tạo cho huyện nguồn nước mặt dồi dào. Tuy nhiên do mưa theo mùa và phân bố không đồng đều đã dẫn đến tình trạng ngập úng cục bộ vào mùa mưa và nhiều vùng thiếu nước vào mùa khô.</span></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">- Nước ngầm</span><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;"></span></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Có trữ lượng, chất lượng tốt, là khe nứt trong đá phun trào Bazan và nước lỗ hổng trong các đá trầm tích đệ tứ, nước có độ tổng khoáng hóa nhỏ và ít biến động theo mùa</span><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">,</span><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">&nbsp;loại hình hóa học của nước phổ biến là bicacsbonat-clorua. Nguồn nước ngầm hiện nay chủ yếu phục vụ cho nhu cầu sinh hoạt, một số ít phục vụ cho cây trồng vào mùa khô.</span><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;"></span></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">c.&nbsp;</span><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Tài nguyên rừng</span><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;"></span></p><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Huyện Đắk Song có trên 26.167 ha đất rừng, chiếm trên 32,38% tổng diện tích đất tự nhiên, đây là nguồn lực phát triển quan trọng, đồng thời có tác dụng to lớn trong việc bảo vệ môi trường sinh thái và nguồn nước.</span></p><p class="MsoBodyText2" style="margin-bottom: 0px; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><span lang="VI" style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Do việc phá rừng lấy đất sản xuất nông nghiệp trong những năm qua liên tục tăng, trong khi dó diện tích trồng mới là không đáng kể làm cho diện tích rừng và đất rừng bị tàn phá nghiêm trọng làm giảm mật độ chê phủ và khả năng bảo vệ đất nghiêm trọng, đe dọa môi trường sống của nhiều loài và làm giảm đa dạng sinh học của rừng.</span><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;"></span></p><p class="MsoBodyText2" style="margin-bottom: 0px; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">d. Tài nguyên khoáng sản</span></p><p class="MsoBodyText2" style="margin-bottom: 0px; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: justify;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Trên địa bàn huyện Đắk Song tập trung một số các loại khoáng sản có trữ lượng tương đối lới như than bùn, đá xây dựng, cát,…</span></p><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-align: center;"><b style="margin: 0px; padding: 0px;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Tài nguyên khoáng sản</span></b><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;"></span></p><div align="center" style="margin: 0px; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal;"><table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="498" style="margin: 0px 0px 0px 41.4pt; padding: 0px; font-size: 1em; width: 373.5pt;"><tbody style="margin: 0px; padding: 0px;"><tr style="margin: 0px; padding: 0px; height: 18.75pt;"><td width="60" valign="bottom" style="margin: 0px; padding: 0cm 5.4pt; font-size: 8pt; width: 44.8pt; border: 1pt solid windowtext; height: 18.75pt;"><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><b style="margin: 0px; padding: 0px;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">STT</span></b></p></td><td width="264" valign="bottom" style="margin: 0px; padding: 0cm 5.4pt; font-size: 8pt; width: 198.2pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: none; height: 18.75pt;"><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><b style="margin: 0px; padding: 0px;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Khoáng sản</span></b></p></td><td width="174" valign="bottom" style="margin: 0px; padding: 0cm 5.4pt; font-size: 8pt; width: 130.5pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: none; height: 18.75pt;"><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><b style="margin: 0px; padding: 0px;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Trữ lượng (m<sup style="margin: 0px; padding: 0px;">3</sup>)</span></b></p></td></tr><tr style="margin: 0px; padding: 0px; height: 18.75pt;"><td width="60" valign="bottom" style="margin: 0px; padding: 0cm 5.4pt; font-size: 8pt; width: 44.8pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-top: none; height: 18.75pt;"><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">1</span></p></td><td width="264" valign="bottom" style="margin: 0px; padding: 0cm 5.4pt; font-size: 8pt; width: 198.2pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; height: 18.75pt;"><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Đá xây dựng</span></p></td><td width="174" valign="bottom" style="margin: 0px; padding: 0cm 5.4pt; font-size: 8pt; width: 130.5pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; height: 18.75pt;"><p class="MsoNormal" align="right" style="margin-bottom: 6pt; padding: 0px; text-align: right;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">1.760.562</span></p></td></tr><tr style="margin: 0px; padding: 0px; height: 18.75pt;"><td width="60" valign="bottom" style="margin: 0px; padding: 0cm 5.4pt; font-size: 8pt; width: 44.8pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-top: none; height: 18.75pt;"><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">2</span></p></td><td width="264" valign="bottom" style="margin: 0px; padding: 0cm 5.4pt; font-size: 8pt; width: 198.2pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; height: 18.75pt;"><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Thanh Bùn</span></p></td><td width="174" valign="bottom" style="margin: 0px; padding: 0cm 5.4pt; font-size: 8pt; width: 130.5pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; height: 18.75pt;"><p class="MsoNormal" align="right" style="margin-bottom: 6pt; padding: 0px; text-align: right;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">978.000</span></p></td></tr><tr style="margin: 0px; padding: 0px; height: 18.75pt;"><td width="60" valign="bottom" style="margin: 0px; padding: 0cm 5.4pt; font-size: 8pt; width: 44.8pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-top: none; height: 18.75pt;"><p class="MsoNormal" align="center" style="margin-bottom: 6pt; padding: 0px; text-align: center;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">3</span></p></td><td width="264" valign="bottom" style="margin: 0px; padding: 0cm 5.4pt; font-size: 8pt; width: 198.2pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; height: 18.75pt;"><p class="MsoNormal" style="margin-bottom: 6pt; padding: 0px;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">Cát xây dựng</span></p></td><td width="174" valign="bottom" style="margin: 0px; padding: 0cm 5.4pt; font-size: 8pt; width: 130.5pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; height: 18.75pt;"><p class="MsoNormal" align="right" style="margin-bottom: 6pt; padding: 0px; text-align: right;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">1.500.000</span></p></td></tr></tbody></table></div><p class="MsoBodyText2" style="text-align: center; margin-bottom: 0px; padding: 0px; color: rgb(103, 103, 103); font-family: verdana, arial, helvetica, sans-serif; font-size: 13.3333px; line-height: normal; text-indent: 36pt;"><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i style="margin: 0px; padding: 0px;">(nguồn: Phòng Tài nguyên và Môi trường huyện Đăk Song)</i></span></p><div><span style="margin: 0px; padding: 0px; font-size: 10pt; font-family: arial, sans-serif;"><i style="margin: 0px; padding: 0px;"><br></i></span></div></p>
 
 </div></div></TD></TR><TR><TD /></TR></TBODY></TABLE><BR />
 <script>
@@ -1361,486 +1099,152 @@ Toàn huyện có 20 dân tộc anh em sinh sống là: Kinh, M’nông, Êđê,
 
 </div>
 <div class="snRight">
-    <div class="wpVBM">
-
-
-        <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
-            <tr>
-                <td valign="top">
-                    <div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ4" width="100%" class="ms-WPBody noindex" OnlyForMePart="true" allowDelete="false" style="">
-                        <div id="ctl00_g_5a98f478_4f49_4a9d_acad_af6c773cdc07">
-
-
-
-                            <!-- <link type="text/css" href="/_CONTROLTEMPLATES/LacViet.CMS.ViewPageManager/css/style_left_menu.css" rel="stylesheet" /> -->
-                            <script type='text/javascript' src='/_CONTROLTEMPLATES/LacViet.CMS.ViewPageManager/js/jquery-1.4.1.js'></script>
-
-
-                            <script type="text/javascript">
-                                var jLeftMenu = jQuery.noConflict();
-                                jLeftMenu(function($) {
-
-                                    $(document).ready(function() {
-
-                                        $('div.ms-navheader').each(function() {
-                                            var childs = $(this).siblings('ul');
-                                            if (childs.html() == null || childs.html() == "")
-                                                $(this).attr("onclick", "#");
-
-                                        });
-
-                                        var CurrentPath = jLeftMenu.trim(jLeftMenu("div#LeftMenuWebName").text());
-                                        var CurrentHomeChild = jLeftMenu("a.leftsubmenu[href*='" + CurrentPath + "']");
-                                        CurrentHomeChild.parent().parent().parent().addClass("classshow");
-
-                                    });
-
-
-                                    $("div.ms-navheader").mouseover(function() {
-
-                                        $(this).addClass("heading-hover");
-
-                                    }).mouseout(function() {
-                                        $(this).removeClass("heading-hover");
-                                    });
-                                    $("div.ms-navheader-icon").mouseover(function() {
-                                        $(this).addClass("heading-hover");
-
-                                    }).mouseout(function() {
-                                        $(this).removeClass("heading-hover");
-                                    });
-                                    $("div.ms-navItem").mouseover(function() {
-                                        $(this).addClass("ms-navItem-hover");
-                                    }).mouseout(function() {
-                                        $(this).removeClass("ms-navItem-hover");
-                                    });
-                                    $("div.ms-navItem-icon").mouseover(function() {
-                                        $(this).addClass("ms-navItem-hover");
-                                    }).mouseout(function() {
-                                        $(this).removeClass("ms-navItem-hover");
-                                    });
-                                });
-                            </script>
-                            <div id="LeftMenuWebName" style="display:none">
-                                TinTuc
-                            </div>
-                             <div id="ctl00_g_5a98f478_4f49_4a9d_acad_af6c773cdc07_ctl00_myPanel">
-    <div class="navList">
-        <ul class="ms-quickLaunch" id="menuproduct_b897631c-a511-436c-b5d3-28b75b851864" onload="collapseMenu(null,'menuproduct_b897631c-a511-436c-b5d3-28b75b851864')">
-            <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
-                    <div class="div-link-navheader"><span class="linkEmpty">TIN TỨC SỰ KIỆN 
-                    
-                        </span></div>
-                </div>
-                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                   
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-an-ninh-trat-tu" class="leftsubmenu" target="_self"> Tin an ninh - Trật tự</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-an-toan-giao-thong" class="leftsubmenu" target="_self"> Tin an toàn giao thông</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-kinh-te" class="leftsubmenu" target="_self"> Tin kinh tế - Đời sống</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-van-hoa" class="leftsubmenu" target="_self"> Tin văn hóa - Du lịch</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-y-te-giao-duc" class="leftsubmenu" target="_self"> Tin ý tế - Giáo dục</a></div>
-                        </div>
-                    </li>
-
-                </ul>
-            </li>
-            <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
-                    <div class="div-link-navheader"><span class="linkEmpty">Thông tin chỉ đạo</span></div>
-                </div>
-                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="thong-tin-chi-dao/lich-lam-viec-cua-lanh-dao" class="leftsubmenu" target="_self"> Lịch làm việc của lãnh đạo</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="thong-tin-chi-dao/y-kien-chi-dao-phan-hoi" class="leftsubmenu" target="_self"> Ý kiến chỉ đạo,phản hồi</a></div>
-                        </div>
-                    </li>
-
-                    
-
-                </ul>
-            </li>
-            
-            <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
-                    <div class="div-link-navheader"><span class="linkEmpty">Giới thiệu</span></div>
-                </div>
-                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                     
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="so-do-to-chuc" class="leftsubmenu" target="_self"> Sơ đồ - Tổ chức</a></div>
-                        </div>
-                    </li>
-                    
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="dieu-kien-tu-nhien" class="leftsubmenu" target="_self"> Điều kiện tự nhiên</a></div>
-                        </div>
-                    </li>
-                    
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="lich-su-truyen-thong" class="leftsubmenu" target="_self"> Lịch sử - Truyền thống</a></div>
-                        </div>
-                    </li>
-                    
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="di-tich-thang-canh" class="leftsubmenu" target="_self"> Di tích - Thắng cảnh</a></div>
-                        </div>
-                    </li>
-                    
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="dinh-huong-phat-trien" class="leftsubmenu" target="_self"> Định hướng phát triển</a></div>
-                        </div>
-                    </li>
-                    
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="lanh-dao-co-quan" class="leftsubmenu" target="_self"> Lãnh đạo cơ quan</a></div>
-                        </div>
-                    </li>
-                    
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="thong-tin-lien-lac" class="leftsubmenu" target="_self"> Thông tin liên lạc</a></div>
-                        </div>
-                    </li>
-                     
-
-                </ul>
-            </li>
-            <!--<li class="ms-navSubMenu" id="li0_dbd69f15-257a-4ca0-b4cd-800c65568a8e">
-                <div class="ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
-                    <div class="div-link-navheader"><span class="linkEmpty">QUẢN L&#221; NH&#192; NƯỚC</span></div>
-                </div>
-                <ul class="classshow" lienket="" id="ul0_dbd69f15-257a-4ca0-b4cd-800c65568a8e">
-                    <li id="li1_bd661323-68d7-46e5-a829-4fcee1501502">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="/thutuchanhchinh/Pages/default.aspx" class="leftsubmenu" target="_self">Thủ tục h&#224;nh ch&#237;nh</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_d6c5bd41-8779-4106-9d19-fd0152d448c5">
-                        <div class="ms-navItem">
-                            <div class="div-leftsubmenu"><a href="/TinTuc/quanlynhanuoc/Lists/Posts/AllPosts.aspx?CategoryId=1" class="leftsubmenu" target="_self">Chiến lược ph&#225;t triển</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_91c0b76e-98e5-4088-8a7e-644395962934">
-                        <div class="ms-navItem">
-                            <div class="div-leftsubmenu"><a href="/TinTuc/quanlynhanuoc/Lists/Posts/AllPosts.aspx?CategoryId=2" class="leftsubmenu" target="_self">Th&#244;ng tin dự &#225;n</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_da3a756b-cabe-444e-a35b-94942b03f576">
-                        <div class="ms-navItem">
-                            <div class="div-leftsubmenu"><a href="/TinTuc/quanlynhanuoc/Lists/Posts/AllPosts.aspx?CategoryId=8" class="leftsubmenu" target="_self">Quy hoạch – Kế hoạch</a></div>
-                        </div>
-                    </li>
-                </ul>
-            </li>
-            <li class="ms-navSubMenu" id="li0_c65b7cb4-9b63-432f-baec-4d54e38b2448">
-                <div class="ms-navheader">
-                    <div class="div-link-navheader"><a href="/TinTuc/quanlynhanuoc/Lists/Posts/AllPosts.aspx?CategoryId=9" target="_self">HOẠT ĐỘNG THƯỜNG TRỰC CỦA UBND HUYỆN</a></div>
-                </div>
-            </li>
-            <li class="ms-navSubMenu" id="li0_7b892b34-afd8-41a6-90d8-45408635d976">
-                <div class="ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
-                    <div class="div-link-navheader"><span class="linkEmpty">C&#212;NG TR&#204;NH PH&#218;C LỢI X&#195; HỘI</span></div>
-                </div>
-                <ul class="classhide" lienket="" id="ul0_7b892b34-afd8-41a6-90d8-45408635d976">
-                    <li id="li1_0fcfc15e-4651-49f5-b59d-95704e1a4482">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="/TinTuc/phucloixahoi/Lists/Posts/AllPosts.aspx?CategoryId=1" class="leftsubmenu" target="_self">Trung t&#226;m văn h&#243;a</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_e40647ea-1705-4d9b-95c2-1f49056ed47e">
-                        <div class="ms-navItem">
-                            <div class="div-leftsubmenu"><a href="/TinTuc/phucloixahoi/Lists/Posts/AllPosts.aspx?CategoryId=2" class="leftsubmenu" target="_self">Nh&#224; thiếu nhi</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_460864d8-0d78-4666-a6ce-63906103a1d6">
-                        <div class="ms-navItem">
-                            <div class="div-leftsubmenu"><a href="/TinTuc/phucloixahoi/Lists/Posts/AllPosts.aspx?CategoryId=4" class="leftsubmenu" target="_self">Bệnh viện</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_d5e3505f-e35a-422e-87fc-20973c72f681">
-                        <div class="ms-navItem">
-                            <div class="div-leftsubmenu"><a href="/TinTuc/phucloixahoi/Lists/Posts/AllPosts.aspx?CategoryId=5" class="leftsubmenu" target="_self">Trường dạy nghề</a></div>
-                        </div>
-                    </li>
-                </ul>
-            </li>
-            <li class="ms-navSubMenu" id="li0_5eda3f6c-5dc4-4c23-b32a-f4e13c5d9eaa">
-                <div class="ms-navheader">
-                    <div class="div-link-navheader"><a href="/TinTuc/quanlynhanuoc/Lists/Posts/AllPosts.aspx?CategoryId=11" target="_self">TH&#212;NG TIN CẦN BIẾT</a></div>
-                </div>
-            </li>
-            <li class="ms-navSubMenu" id="li0_70db122c-fdbe-478d-98d7-94150bf1b64d">
-                <div class="ms-navheader">
-                    <div class="div-link-navheader"><a href="/TinTuc/quanlynhanuoc/Lists/Posts/Post.aspx?CategoryId=10" target="_self">LỊCH L&#192;M VIỆC</a></div>
-                </div>
-            </li>-->
-        </ul>
-    </div>
-</div> 
-
-
-
-
-                        </div>
-                    </div>
-                </td>
-            </tr>
-        </table>
-
-
-    </div>
-    <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tr>
-            <td valign="top">
-                <div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ5" width="100%" class="ms-WPBody noindex" OnlyForMePart="true" allowDelete="false" style="">
-                    <div id="ctl00_g_ea44f2ba_3723_482b_98de_a6b75b1aa1eb">
-                        <div class="linkweb" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts">
-                            <div class="linkweb-title"> Liên kết Website </div>
-                            <div class="linkweb-cnt"><select style="width: 100%" id="cbo-weblink" onchange="window.open(this.options[this.selectedIndex].value,'_blank'); this.options[0].selected=true;"><option selected=""> -- Liên kết web --</option><option >Đài TT huyện</option><option >Phòng TC - KH huyện </option><option value="http://congbao.daknong.gov.vn">Công báo tỉnh Đăk Nông</option><option value="http://nld.com.vn/">Báo Người lao động</option><option value="http://daknong.gov.vn/Pages/default.aspx">UBND tinh DakNong</option><option value="http://danhba.daknong.gov.vn/">Danh ba hop thu cong vu tinh Dak Nong</option><option >Một cửa huyện</option></select></div>
-                        </div>
-                    </div>
-                </div>
-            </td>
-        </tr>
-    </table>
-
-
-
-    <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tr>
-            <td valign="top">
-                <div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ6" width="100%" class="ms-WPBody noindex" OnlyForMePart="true" allowDelete="false" style="">
-                    <div id="ctl00_g_e16dc05d_a599_462d_bb33_17883515a2c5">
-
-
-
-
-                        <div class="TruyCapOnLine">
-                            <div class="ThongKeTruyCap">
-                                <div class="dvHit-main">
-                                    <div class="divHitCount">
-                                        <div class="HitTitle">
-                                            <h3>
-                SỐ LƯỢT TRUY CẬP</h3>
-                                        </div>
-                                        <div class="HitCount-content">
-                                            <table cellpadding="0" cellspacing="0" width="100%">
-                                                <tr>
-                                                    <td class="Hit-solan" align="center">
-                                                        <table id="ctl00_g_e16dc05d_a599_462d_bb33_17883515a2c5_ctl00_dtlHitCounter" cellspacing="0" border="0" style="height:10px;border-collapse:collapse;">
-                                                            <tr>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    2</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    6</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    6</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    4</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                            </tr>
-                                                        </table>
-                                                    </td>
-                                                </tr>
-                                            </table>
-                                        </div>
-                                    </div>
-                                </div>
-
-
-
-                                <div class="dvHit-main">
-                                    <div class="divHitCount-online">
-                                        <div class="HitTitle">
-                                            <h3>
-                SỐ LƯỢT ĐANG ONLINE</h3>
-                                        </div>
-                                        <div class="HitCount-content">
-                                            <table cellpadding="0" cellspacing="0" width="100%">
-                                                <tr>
-                                                    <td class="Hit-solan" align="center">
-                                                        <table id="ctl00_g_e16dc05d_a599_462d_bb33_17883515a2c5_ctl00_DataList1" cellspacing="0" border="0" style="height:10px;border-collapse:collapse;">
-                                                            <tr>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    2</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                            </tr>
-                                                        </table>
-                                                    </td>
-                                                </tr>
-                                            </table>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-
-                    </div>
-                </div>
-            </td>
-        </tr>
-    </table>
-
-</div>
+   <div class="snRight">
+       <div class="wpVBM">
+           <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+               <tbody>
+                   <tr>
+                       <td valign="top">
+                           <div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ4" width="100%" class="ms-WPBody noindex"
+                               onlyformepart="true" allowdelete="false" style="">
+                               <div id="ctl00_g_5a98f478_4f49_4a9d_acad_af6c773cdc07">
+                                   <!-- <link type="text/css" href="/_CONTROLTEMPLATES/LacViet.CMS.ViewPageManager/css/style_left_menu.css" rel="stylesheet" /> -->
+                                   <script type="text/javascript" src="/_CONTROLTEMPLATES/LacViet.CMS.ViewPageManager/js/jquery-1.4.1.js"></script>
+                                   <script type="text/javascript">
+                                   var jLeftMenu = jQuery.noConflict();
+                                   jLeftMenu(function($) {
+   
+                                       $(document).ready(function() {
+   
+                                           $('div.ms-navheader').each(function() {
+                                               var childs = $(this).siblings('ul');
+                                               if (childs.html() == null || childs.html() == "")
+                                                   $(this).attr("onclick", "#");
+   
+                                           });
+   
+                                           var CurrentPath = jLeftMenu.trim(jLeftMenu("div#LeftMenuWebName").text());
+                                           var CurrentHomeChild = jLeftMenu("a.leftsubmenu[href*='" + CurrentPath + "']");
+                                           CurrentHomeChild.parent().parent().parent().addClass("classshow");
+   
+                                       });
+   
+   
+                                       $("div.ms-navheader").mouseover(function() {
+   
+                                           $(this).addClass("heading-hover");
+   
+                                       }).mouseout(function() {
+                                           $(this).removeClass("heading-hover");
+                                       });
+                                       $("div.ms-navheader-icon").mouseover(function() {
+                                           $(this).addClass("heading-hover");
+   
+                                       }).mouseout(function() {
+                                           $(this).removeClass("heading-hover");
+                                       });
+                                       $("div.ms-navItem").mouseover(function() {
+                                           $(this).addClass("ms-navItem-hover");
+                                       }).mouseout(function() {
+                                           $(this).removeClass("ms-navItem-hover");
+                                       });
+                                       $("div.ms-navItem-icon").mouseover(function() {
+                                           $(this).addClass("ms-navItem-hover");
+                                       }).mouseout(function() {
+                                           $(this).removeClass("ms-navItem-hover");
+                                       });
+                                   });
+                               </script>
+                                   <div id="LeftMenuWebName" style="display:none">
+                                       TinTuc
+                                   </div>
+                                   <div id="ctl00_g_5a98f478_4f49_4a9d_acad_af6c773cdc07_ctl00_myPanel">
+                                       <div class="navList">
+                                           <ul class="ms-quickLaunch" id="menuproduct_b897631c-a511-436c-b5d3-28b75b851864" onload="collapseMenu(null,'menuproduct_b897631c-a511-436c-b5d3-28b75b851864')">
+                                               <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                                                   <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+                                                       <div class="div-link-navheader"><span class="linkEmpty"> Bản đồ hành chính
+                       
+                           </span></div>
+                                                   </div>
+                                                   <div>
+                                                       <div>
+                                                           <a href="/ban-do/"><img src="/sites/default/themes/daksongtpl/images/layout/bando.png"
+                                                                   alt="bando.png" _moz_resizing="true">​</a>
+                                                       </div>
+                                                   </div>
+                                               </li>
+                                           </ul>
+                                       </div>
+                                   </div>
+                               </div>
+                           </div>
+                       </td>
+                   </tr>
+               </tbody>
+           </table>
+       </div>
+       <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+           <tbody>
+               <tr>
+                   <td valign="top">
+                       <div xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">
+                           <div id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_Chinh" class="ndiv">
+                               <div class="div-image">
+                                   <div class="allowMenu">
+                                       <a href="#" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
+                                               src="/img/thudientu.jpg"></a>
+                                   </div>
+                               </div>
+                               <div class="div-image">
+                                   <div class="allowMenu">
+                                       <a href="#" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
+                                               src="/img/LHQC.png"></a>
+                                   </div>
+                               </div>
+                               <div class="div-image">
+                                   <div class="allowMenu">
+                                       <a href="#" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
+                                               src="HinhAnhLienKet/img-congbao.jpg"></a>
+                                   </div>
+                               </div>
+                               <div class="div-image">
+                                   <div class="allowMenu">
+                                       <a href="#" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
+                                               src="HinhAnhLienKet/chung tay cai cah.jpg"></a>
+                                   </div>
+                               </div>
+                               <div class="div-image">
+                                   <div class="allowMenu">
+                                       <a href="#" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
+                                               src="/img/banner_daknong.jpg"></a>
+                                   </div>
+                               </div>
+                               <div class="div-image">
+                                   <div class="allowMenu">
+                                       <a href="#" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
+                                               src="/img/img-congTTDT.jpg"></a>
+                                   </div>
+                               </div>
+                              
+                               <div id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_openPopup">
+                                   <span style="DISPLAY: none">
+     			<menu id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_MnPopupLinkLienKet">
+     				<ie:menuitem id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_mitAdminLinkLienket" menugroupid="2147483647" text="Quản trị" onmenuclick="STSNavigate2(event,'#postbyword');" iconsrc="/_LAYOUTS/LacVietBio/EOFFICEIMG/editnews.gif" type="option"></ie:menuitem>
+     			</menu>
+     		</span>
+                                   <table border="0" cellspacing="0" cellpadding="0" width="100%" height="100%">
+                                   </table>
+                               </div>
+                               <img style="POSITION: absolute; BORDER-RIGHT-WIDTH: 0px; WIDTH: 1px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 1px; BORDER-LEFT-WIDTH: 0px"
+                                   id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_img_hinh" src="_layouts/images/blank.gif">
+                           </div>
+                       </div>
+                   </td>
+               </tr>
+           </tbody>
+       </table>
+   </div></div>
 </div>
 
 
@@ -2560,3 +1964,10 @@ Toàn huyện có 20 dân tộc anh em sinh sống là: Kinh, M’nông, Êđê,
 <!-- Mirrored from ^%$#@!/Pages/default.aspx by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 04 Jun 2016 17:37:33 GMT -->
 
 </html>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+<script
+  src="http://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous"></script>
+
+<script>

@@ -295,7 +295,7 @@
                                                                         <li class="first-element" id=""><a class="tmenu" href="./dieu-kien-tu-nhien">Điều kiện tự nhiên</a></li>
                                                                         <li class="first-element" id=""><a class="tmenu" href="./lich-su-truyen-thong">Lịch sử - Truyền thống</a></li>
                                                                         <li class="first-element" id=""><a class="tmenu" href="./di-tich-thang-canh">Di tích - Thắng cảnh</a></li>
-                                                                        <li class="first-element" id=""><a class="tmenu" href="./dinh-huong-phat-trien">Định hướng phát triển</a></li>
+                                                                        <li class="first-element" id=""><a class="tmenu" href="./bo-may-hanh-chinh">Bộ máy hành chính</a></li>
                                                                         <li class="first-element" id=""><a class="tmenu" href="./lanh-dao-co-quan">Lãnh đạo cơ quan</a></li>
                                                                         <li class="first-element" id=""><a class="tmenu" href="./thong-tin-lien-lac">Thông tin liên lạc</a></li>
                                                                     </ul>
@@ -353,14 +353,14 @@
                                                    
                                                         <li class="parent " id="firstlist3" duy="3">
                                                             <div class="main-level" id="firstlist-div-3">
-                                                                <a class="tmenu" href="./doanh-nghiep"><span>Doanh nghiêp</span></a>
+                                                                <a class="tmenu" href="./dinh-huong-phat-trien"><span>Định hướng phát triển</span></a>
                                                             </div>
                                                             <ul class="children" id="childrenlist3" style="display: none;">
                                                                 <div class="second-list">
                                                                     <ul class="two-column">
-                                                                        <li class="first-element" id=""><a class="tmenu" href="./doanh-nghiep/chinh-sach-dau-tu">Chính sách đầu tư</a></li>
-                                                                        <li class="first-element" id=""><a class="tmenu" href="./doanh-nghiep/keu-goi-dau-tu">Kêu gọi đầu tư</a></li>
-                                                                        <li class="first-element" id=""><a class="tmenu" href="./doanh-nghiep/du-an-dau-tu">Dự án đầu tư</a></li>
+                                                                        <li class="first-element" id=""><a class="tmenu" href="./dinh-huong-phat-trien/chinh-sach-uu-dai">Chính sách ưu đãi</a></li>
+                                                                        <li class="first-element" id=""><a class="tmenu" href="./dinh-huong-phat-trien/quy-hoach-ke-hoach">Quy hoạch - Kế hoạch</a></li>
+                                                                        <li class="first-element" id=""><a class="tmenu" href="./dinh-huong-phat-trien/thong-tin-du-an-dau-tu">Thông tin dự án đầu tư</a></li>
                                                                     </ul>
                                                                 </div>
                                                             </ul>
@@ -664,447 +664,193 @@
 
         <div class="snLeft">
 
-            <div class="wpVBM">
-                <div id="ctl00_g_01d3c1b4_cfb9_4793_bf24_9982db68cc3e" __MarkupType="vsattributemarkup" WebPart="true" __WebPartId="{01d3c1b4-cfb9-4793-bf24-9982db68cc3e}">
-
-                    <script type="text/javascript">
-                        function _doPostBack(eventTarget, eventArgument) {
-                            theForm.__EVENTTARGET.value = eventTarget;
-                            theForm.__EVENTARGUMENT.value = eventArgument;
-                            theForm.submit();
-                        }
-
-                        function _moveItemFromAtoB_SPLookup(ListBoxA, ListBoxB) {
-                            var x = document.getElementById(ListBoxA);
-                            var y = document.getElementById(ListBoxB);
-                            for (i = 0; i < x.options.length; i++) {
-                                if (x.options[i].selected) {
-                                    var item = document.createElement("option");
-                                    item.text = x.options[i].text;
-                                    item.value = x.options[i].value;
-                                    y.options.add(item);
-                                    x.remove(i);
-                                    i--;
-                                }
-                            }
-                            y.selectedIndex = y.options.length - 1;
-                            y.focus();
-                        }
-
-                        function _saveRecord(m_lookup, m_select, saveType) {
-                            var strSelect = document.getElementById(m_select).value;
-                            var strLookup = document.getElementById(m_lookup).value;
-                            var value1 = getLookupSelectValues(strSelect);
-                            var value2 = getLookupSelectValues(strLookup);
-                            var value = value1 + value2;
-                            _doPostBack(saveType, value);
-                        }
-
-                        function getLookupSelectValues(str) {
-                            var sourceIDs = new Array();
-                            if (str.length > 0)
-                                if (str.substring(";") == -1)
-                                    sourceIDs[0] = str;
-                                else sourceIDs = str.split(";");
-                            var value = "";
-                            for (i = 0; i < sourceIDs.length; i++) {
-                                var listBox = document.getElementById(sourceIDs[i]);
-                                value = value + sourceIDs[i];
-                                for (j = 0; j < listBox.length; j++) {
-                                    value = value + ";#" + listBox.options[j].value;
-                                }
-                                value = value + sourceIDs[i];
-                            }
-                            return value;
-                        }
-
-                        function CustomList_refreshCaptcha() {
-                            _doPostBack('CustomList_refreshCaptcha', 'ctl00_g_01d3c1b4_cfb9_4793_bf24_9982db68cc3e_ctl00_selectedLookupControl');
-                        }
-
-                        function loadCalendar() {
-                            var itemChosen = document.getElementById('ctl00_g_01d3c1b4_cfb9_4793_bf24_9982db68cc3e_ctl00_cbCondition');
-                            var calendar = document.getElementById('ctl00_g_01d3c1b4_cfb9_4793_bf24_9982db68cc3e_ctl00_searchByDate');
-                            var searchcontent = document.getElementById('ctl00_g_01d3c1b4_cfb9_4793_bf24_9982db68cc3e_ctl00_txtCongviec');
-                            var itemValue = itemChosen.options[itemChosen.selectedIndex].value;
-                            var typeIndex = itemValue.lastIndexOf(".");
-                            var type = itemValue.substr(typeIndex + 1, itemValue.length - typeIndex - 1);
-                            if (type == "DateTime") {
-                                calendar.style.display = "";
-                                searchcontent.disabled = false;
-                                searchcontent.style.backgroundColor = "white";
-                            } else {
-                                calendar.style.display = "none";
-                                searchcontent.disabled = false;
-                                searchcontent.style.backgroundColor = "white";
-                            }
-                        }
-
-                        function _getItem(eventTarget, m_object) {
-                            var value = document.getElementById(m_object).value;
-                            _doPostBack(eventTarget, value);
-                        }
-
-                        function txtCongViecEnter() {
-                            var button = document.getElementById('ctl00_g_01d3c1b4_cfb9_4793_bf24_9982db68cc3e_ctl00_btTimkiem');
-                            if (button != null) {
-                                if (window.event.keyCode == 13) {
-                                    window.event.returnValue = false;
-                                    window.event.cancel = true;
-                                    button.click();
-                                }
-                            }
-                        }
-
-                        function DeleteItem(target) {
-                            var confirmDelete = confirm("Xóa dữ liệu này?");
-                            if (confirmDelete == true) __doPostBack(target, '');
-                        }
-
-                        function DeleteItemID(target, Soid) {
-                            var confirmDelete = confirm("Bạn có chắc là muốn xoá ?");
-                            if (confirmDelete == true) __doPostBack(target, Soid);
-                        }
-                    </script>
-
-                    <link type="text/css" rel="stylesheet" href="/SiteAssets/css/vbpl.css" />
 
 
 
-                    <div id="ctl00_g_01d3c1b4_cfb9_4793_bf24_9982db68cc3e_ctl00_dvVBPL">
-
-                        <div id="ctl00_g_01d3c1b4_cfb9_4793_bf24_9982db68cc3e_ctl00_dvBlockVBPL">
+           <div id="ctl00_g_5a98f478_4f49_4a9d_acad_af6c773cdc07">
 
 
 
+                            <!-- <link type="text/css" href="/_CONTROLTEMPLATES/LacViet.CMS.ViewPageManager/css/style_left_menu.css" rel="stylesheet" /> -->
+                            <script type='text/javascript' src='/_CONTROLTEMPLATES/LacViet.CMS.ViewPageManager/js/jquery-1.4.1.js'></script>
 
 
+                            <script type="text/javascript">
+                                var jLeftMenu = jQuery.noConflict();
+                                jLeftMenu(function($) {
 
-                            <div></div>
+                                    $(document).ready(function() {
+
+                                        $('div.ms-navheader').each(function() {
+                                            var childs = $(this).siblings('ul');
+                                            if (childs.html() == null || childs.html() == "")
+                                                $(this).attr("onclick", "#");
+
+                                        });
+
+                                        var CurrentPath = jLeftMenu.trim(jLeftMenu("div#LeftMenuWebName").text());
+                                        var CurrentHomeChild = jLeftMenu("a.leftsubmenu[href*='" + CurrentPath + "']");
+                                        CurrentHomeChild.parent().parent().parent().addClass("classshow");
+
+                                    });
 
 
+                                    $("div.ms-navheader").mouseover(function() {
 
-                            <?xml version="1.0" encoding="utf-8"?>
-                            <table class="ds_VBPL" rules="rows" cellpadding="0" cellspacing="0" border="0">
-                                <tr>
-                                    <td class="td_vanbanmoi">
-                                        VĂN BẢN PHÁP LUẬT 
-                                    </td>
-                                </tr>
-                            </table>
-                            <table class="ds_VBPL" rules="rows" cellpadding="0" cellspacing="0" border="0">
-                                
-                                 <DIV class="divvanbanmoi">
-                                    <A href="kiem-tra-2">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                     </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>31-10-2016 </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClass54612D623D4A4D52B25DAED194B7A8ED"></div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="kiem-tra-2">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>
-                                 <DIV class="divvanbanmoi">
-                                    <A href="kiem-tra-van-ban">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                     </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>30-10-2016 </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClass54612D623D4A4D52B25DAED194B7A8ED"></div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="kiem-tra-van-ban">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>
-                                 <DIV class="divvanbanmoi">
-                                    <A href="cai-cach-hanh-chinh-huyen-dak-song">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                    Số: 	  /BC - UBND  </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>24-09-2016 </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClass54612D623D4A4D52B25DAED194B7A8ED">Ủy ban nhân dân huyện thống nhất triển khai thực hiện công tác cải cách hành chính trên địa bàn huyện </div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="cai-cach-hanh-chinh-huyen-dak-song">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>
-                                 <DIV class="divvanbanmoi">
-                                    <A href="thong-tu-lien-tich-so-062014ttlt-btp-ttcp-bqp-ngay-14022014-cua-bo-tu-phap-thanh-tra-chinh-phu-bo-quoc-phong">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                    689/UBND-NN </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>23-09-2016 </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClass54612D623D4A4D52B25DAED194B7A8ED">689/UBND-NN</div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="thong-tu-lien-tich-so-062014ttlt-btp-ttcp-bqp-ngay-14022014-cua-bo-tu-phap-thanh-tra-chinh-phu-bo-quoc-phong">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>
-                                 <DIV class="divvanbanmoi">
-                                    <A href="thong-bao-ve-viec-thay-doi-thoi-gian-hop">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                    97 </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>23-09-2016 </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClass54612D623D4A4D52B25DAED194B7A8ED"></div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="thong-bao-ve-viec-thay-doi-thoi-gian-hop">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>
-                                 <DIV class="divvanbanmoi">
-                                    <A href="bao-cao-tinh-hinh-thuc-hien-nhiem-vu-thang-8-va-phuong-huong-nhiem-vu-thang-92016">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                     </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>23-09-2016 </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClass54612D623D4A4D52B25DAED194B7A8ED"></div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="bao-cao-tinh-hinh-thuc-hien-nhiem-vu-thang-8-va-phuong-huong-nhiem-vu-thang-92016">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>
-                               
-                                <!--<DIV class="divvanbanmoi"
-                                    <A href="/hethongvanban/Pages/default.aspx?SoID=76 ">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                    Số: 689/UBND-NN </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>31/12/9999 </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClassA51A1FEEE4FE46549F7D3E2AAF8102AD">Công văn số: 689/UBND-NN, ngày 05/3/2014 của UBND tỉnh Đăk Nông về việc tổ chức Lễ Mittinh hưởng ứng Ngày Nước thế giới năm 2014 </div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="http://^%$#@!/hethongvanban/Lists/VBPL_DanhSachVanBan/Attachments/76/689-UBND-NN.pdf">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="/_LAYOUTS/LacVietBio/EOFFICEIMG/LacViet.LacVietSPList/pdf.png" ALT="tải pdf về" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>
-                                <DIV class="divvanbanmoi"
-                                    <A href="/hethongvanban/Pages/default.aspx?SoID=79 ">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                    Số: 2194/QĐ-UBND </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>31/12/9999 </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClassFF1EA847195049E9B2CBDEEF5DBA3FA9">Quyết định số 2194/QĐ-UBND, ngày 17/12/2013 của ỦY BAN NHÂN DÂN TỈNH ĐĂK NÔNG, Đưa ra khỏi Danh mục văn bản QPPL do HĐND tỉnh, UBND tỉnh ban hành hết hiệu lực</div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="&#xA;                            /hethongvanban/_layouts/WordViewer.aspx?id=http://^%$#@!/hethongvanban/Lists/VBPL_DanhSachVanBan/Attachments/79/2194-QĐ-UBND.doc">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="/_LAYOUTS/LacVietBio/EOFFICEIMG/LacViet.LacVietSPList/word.png" ALT="Xem word online" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>
-                                <DIV class="divvanbanmoi"
-                                    <A href="/hethongvanban/Pages/default.aspx?SoID=80 ">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                    Số: 25/2013/QĐ-UBND </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>31/12/9999 </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClass25F3C48083D84F25893D7727B235D190">Đề án số 25/2013/QĐ-UBND, ngày 26/11/2013 của ỦY BAN NHÂN DÂN TỈNH ĐĂK NÔNG, Ban hành Quy định trách nhiệm người đứng đầu cơ quan hành chính, tổ chức, đơn vị sự nghiệp công lập và DNNN trong thi hành nhiệm vụ,
-                                                công vụ</div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="http://^%$#@!/hethongvanban/Lists/VBPL_DanhSachVanBan/Attachments/80/075804_25.2013.pdf">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="/_LAYOUTS/LacVietBio/EOFFICEIMG/LacViet.LacVietSPList/pdf.png" ALT="tải pdf về" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>-->
-                            </table>
-                            <div style="float: right">
+                                        $(this).addClass("heading-hover");
 
+                                    }).mouseout(function() {
+                                        $(this).removeClass("heading-hover");
+                                    });
+                                    $("div.ms-navheader-icon").mouseover(function() {
+                                        $(this).addClass("heading-hover");
+
+                                    }).mouseout(function() {
+                                        $(this).removeClass("heading-hover");
+                                    });
+                                    $("div.ms-navItem").mouseover(function() {
+                                        $(this).addClass("ms-navItem-hover");
+                                    }).mouseout(function() {
+                                        $(this).removeClass("ms-navItem-hover");
+                                    });
+                                    $("div.ms-navItem-icon").mouseover(function() {
+                                        $(this).addClass("ms-navItem-hover");
+                                    }).mouseout(function() {
+                                        $(this).removeClass("ms-navItem-hover");
+                                    });
+                                });
+                            </script>
+                            <div id="LeftMenuWebName" style="display:none">
+                                TinTuc
                             </div>
-
-                        </div>
-                    </div>
-
-
-                    <script type="text/javascript">
-                        loadCalendar();
-                    </script>
-
+                             <div id="ctl00_g_5a98f478_4f49_4a9d_acad_af6c773cdc07_ctl00_myPanel">
+    <div class="navList">
+        <ul class="ms-quickLaunch" id="menuproduct_b897631c-a511-436c-b5d3-28b75b851864" onload="collapseMenu(null,'menuproduct_b897631c-a511-436c-b5d3-28b75b851864')">
+            
+            <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                <div class="allowMenu">
+                                       <a href="#" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="/hinh-anh/banner/hcm.jpg"></a>
+                                   </div>
+                </ul>
+            </li>
+            <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+                    <div class="div-link-navheader"><span class="linkEmpty">TIN TỨC SỰ KIỆN 
+                    
+                        </span></div>
                 </div>
-
-            </div>
-
-
-
-
-            <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
-                <tr>
-                    <td valign="top">
-                        <div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ3" width="100%" class="ms-WPBody noindex" OnlyForMePart="true" allowDelete="false" style="">
-                            <div id="ctl00_g_5692ae58_33df_492f_ba87_2999b9ccc0ec">
-                                <DIV xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">
-                                    <DIV id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_Chinh">
-                                        <TABLE style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-COLLAPSE: collapse; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" border="0" cellSpacing="0" cellPadding="0">
-                                            <TBODY>
-                                                <TR>
-                                                    <TD style="WIDTH: 100%" class="allowMenu">
-                                                        <A href="#" target="_blank" alt="">
-                                                            <IMG style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 197px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="HinhAnhLienKet/lichlamviecld.png" />
-                                                        </A>
-                                                    </TD>
-                                                </TR>                                               
-                                                <TR>
-                                                    <TD style="WIDTH: 100%" class="allowMenu">
-                                                        <A href="" target="_blank" alt="">
-                                                            <IMG style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 197px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="HinhAnhLienKet/33.jpg" />
-                                                        </A>
-                                                    </TD>
-                                                </TR>
-                                                <TR>
-                                                    <TD style="WIDTH: 100%" class="allowMenu">
-                                                        <A href="" target="_self" alt="">
-                                                            <IMG style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 197px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="HinhAnhLienKet/hoc tap va lam theo.jpg" />
-                                                        </A>
-                                                    </TD>
-                                                </TR>
-                                                <TR>
-                                                    <TD style="WIDTH: 100%" class="allowMenu">
-                                                        <A href="" target="_blank" alt="">
-                                                            <IMG style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 197px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="HinhAnhLienKet/XDNTM.png" />
-                                                        </A>
-                                                    </TD>
-                                                </TR>
-                                            </TBODY>
-                                        </TABLE>
-                                    </DIV>
-                                    <DIV id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_openPopup">
-                                        <TABLE border="0" cellSpacing="0" cellPadding="0" width="100%" height="100%">
-                                            <SPAN style="DISPLAY: none">
-            <MENU id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_MnPopupLinkLienKet">
-              <IE:MENUITEM id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_mitAdminLinkLienket" menuGroupId="2147483647" text="Quản trị" onMenuClick="STSNavigate2(event,'#postbyword');" iconSrc="_LAYOUTS/LacVietBio/EOFFICEIMG/editnews.gif" type="option"></IE:MENUITEM>
-            </MENU>
-          </SPAN>
-                                        </TABLE>
-                                    </DIV>
-                                    <IMG style="POSITION: absolute; BORDER-RIGHT-WIDTH: 0px; WIDTH: 1px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 1px; BORDER-LEFT-WIDTH: 0px" id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_img_hinh" src="_layouts/images/blank.gif"
-                                    />
-                                </DIV>
-                            </div>
+                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                   
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-an-ninh-trat-tu" class="leftsubmenu" target="_self"> Tin an ninh - Trật tự</a></div>
                         </div>
-                    </td>
-                </tr>
-            </table>
+                    </li>
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-an-toan-giao-thong" class="leftsubmenu" target="_self"> Tin an toàn giao thông</a></div>
+                        </div>
+                    </li>
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-kinh-te" class="leftsubmenu" target="_self"> Tin kinh tế - Đời sống</a></div>
+                        </div>
+                    </li>
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-van-hoa" class="leftsubmenu" target="_self"> Tin văn hóa - Du lịch</a></div>
+                        </div>
+                    </li>
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-y-te-giao-duc" class="leftsubmenu" target="_self"> Tin ý tế - Giáo dục</a></div>
+                        </div>
+                    </li>
+
+                </ul>
+            </li>
+            <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+                    <div class="div-link-navheader"><span class="linkEmpty">Thông tin chỉ đạo</span></div>
+                </div>
+                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="thong-tin-chi-dao/lich-lam-viec-cua-lanh-dao" class="leftsubmenu" target="_self"> Lịch làm việc của lãnh đạo</a></div>
+                        </div>
+                    </li>
+
+                    
+
+                </ul>
+            </li>
+              <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+                    <div class="div-link-navheader"><span class="linkEmpty">Thông báo giấy mời</span></div>
+                </div>
+                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="thong-bao-giay-moi/giay-moi" class="leftsubmenu" target="_self"> Giấy mời</a></div>
+                        </div>
+                    </li>
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="thong-bao-giay-moi/thong-bao" class="leftsubmenu" target="_self"> Thông báo</a></div>
+                        </div>
+                    </li>
+
+                    
+
+                </ul>
+            </li>
+              <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+                    <div class="div-link-navheader"><span class="linkEmpty">Định hướng phát triển</span></div>
+                </div>
+                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+
+                    
+
+                </ul>
+            </li>
+             <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+                    <div class="div-link-navheader"><span class="linkEmpty">Văn bản Pháp luật</span></div>
+                </div>
+                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="van-ban-phap-luat/van-ban-cua-huyen" class="leftsubmenu" target="_self"> Văn bản của huyện</a></div>
+                        </div>
+                    </li>
+                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                        <div class="ms-navItem first-ms-navItem">
+                            <div class="div-leftsubmenu"><a href="van-ban-phap-luat/van-ban-cua-tinh" class="leftsubmenu" target="_self"> Văn bản của tỉnh</a></div>
+                        </div>
+                    </li>
+
+                    
+
+                </ul>
+            </li>
+          
+           
+        </ul>
+    </div>
+</div> 
+
+
+
+
+                        </div>
 
 
 
         </div>
         <div class="snCenter">
 
-            <div class="postMain">
+        <div class="postMain">
 
                 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 	<tr>
@@ -1176,7 +922,7 @@ Kinh tế, xã hội Đắk Nông hiện đang ghi nhận có những phát tri�
      <tr>
       <td valign="top"><div WebPartID="8df91751-13bb-4d87-adcf-493d9b19d2cc" HasPers="false" id="WebPartWPQ12" width="100%" class="ms-WPBody noindex" allowDelete="false" style="" ><div id="ctl00_m_g_8df91751_13bb_4d87_adcf_493d9b19d2cc">
         <DIV id="part2" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts"><TABLE border="0" cellSpacing="0" cellPadding="0" width="100%"><TBODY><TR><TD class="Other" width="100%"><UL /></TD></TR></TBODY></TABLE><TABLE class="tbtinkhac" border="0" cellSpacing="0" cellPadding="0" width="100%">
-					<TBODY><TR><TD class="OtherTitle"><P class="OtherTitle">TIN ĐÃ ĐƯA</P></TD></TR></TBODY></TABLE><TABLE border="0" cellSpacing="0" cellPadding="0" width="100%">
+					<TBODY><TR><TD class="OtherTitle"><P class="OtherTitle">TIN ĐÃ ĐƯA  </P></TD></TR></TBODY></TABLE><TABLE border="0" cellSpacing="0" cellPadding="0" width="100%">
 				<TBODY><TR><TD class="Other" width="100%"><UL>
 						 <li><a href="./khai-thac-hieu-qua-tiem-nang-the-manh-de-phat-trien">Khai thác hiệu quả tiềm năng, thế mạnh để phát triển</a>
 							 <SPAN class="ShowDate">(23-09-2016)</SPAN>
@@ -1187,7 +933,7 @@ Kinh tế, xã hội Đắk Nông hiện đang ghi nhận có những phát tri�
 						 <li><a href="./tap-huan-khai-thue-qua-mang">Tập huấn khai thuế qua mạng</a>
 							 <SPAN class="ShowDate">(2015-11-04)</SPAN>
 						 </li>
-						 <li><a href="./Cay-rung-moi-trong-doc-quoc-lo-14-bi-pah-hoai">Cây rừng mới trồng dọc quốc lộ 14 ở Đắk Song bị phá hoại</a>
+						 <li><a href="./chuan-bi-nam-hoc-2014-2015">Huyện Đăk Song tích cực chuẩn bị cho năm học 2014 - 2015</a>
 							 <SPAN class="ShowDate">(2015-11-04)</SPAN>
 						 </li>
 
@@ -1373,486 +1119,152 @@ Kinh tế, xã hội Đắk Nông hiện đang ghi nhận có những phát tri�
 
 </div>
 <div class="snRight">
-    <div class="wpVBM">
-
-
-        <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
-            <tr>
-                <td valign="top">
-                    <div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ4" width="100%" class="ms-WPBody noindex" OnlyForMePart="true" allowDelete="false" style="">
-                        <div id="ctl00_g_5a98f478_4f49_4a9d_acad_af6c773cdc07">
-
-
-
-                            <!-- <link type="text/css" href="/_CONTROLTEMPLATES/LacViet.CMS.ViewPageManager/css/style_left_menu.css" rel="stylesheet" /> -->
-                            <script type='text/javascript' src='/_CONTROLTEMPLATES/LacViet.CMS.ViewPageManager/js/jquery-1.4.1.js'></script>
-
-
-                            <script type="text/javascript">
-                                var jLeftMenu = jQuery.noConflict();
-                                jLeftMenu(function($) {
-
-                                    $(document).ready(function() {
-
-                                        $('div.ms-navheader').each(function() {
-                                            var childs = $(this).siblings('ul');
-                                            if (childs.html() == null || childs.html() == "")
-                                                $(this).attr("onclick", "#");
-
-                                        });
-
-                                        var CurrentPath = jLeftMenu.trim(jLeftMenu("div#LeftMenuWebName").text());
-                                        var CurrentHomeChild = jLeftMenu("a.leftsubmenu[href*='" + CurrentPath + "']");
-                                        CurrentHomeChild.parent().parent().parent().addClass("classshow");
-
-                                    });
-
-
-                                    $("div.ms-navheader").mouseover(function() {
-
-                                        $(this).addClass("heading-hover");
-
-                                    }).mouseout(function() {
-                                        $(this).removeClass("heading-hover");
-                                    });
-                                    $("div.ms-navheader-icon").mouseover(function() {
-                                        $(this).addClass("heading-hover");
-
-                                    }).mouseout(function() {
-                                        $(this).removeClass("heading-hover");
-                                    });
-                                    $("div.ms-navItem").mouseover(function() {
-                                        $(this).addClass("ms-navItem-hover");
-                                    }).mouseout(function() {
-                                        $(this).removeClass("ms-navItem-hover");
-                                    });
-                                    $("div.ms-navItem-icon").mouseover(function() {
-                                        $(this).addClass("ms-navItem-hover");
-                                    }).mouseout(function() {
-                                        $(this).removeClass("ms-navItem-hover");
-                                    });
-                                });
-                            </script>
-                            <div id="LeftMenuWebName" style="display:none">
-                                TinTuc
-                            </div>
-                             <div id="ctl00_g_5a98f478_4f49_4a9d_acad_af6c773cdc07_ctl00_myPanel">
-    <div class="navList">
-        <ul class="ms-quickLaunch" id="menuproduct_b897631c-a511-436c-b5d3-28b75b851864" onload="collapseMenu(null,'menuproduct_b897631c-a511-436c-b5d3-28b75b851864')">
-            <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
-                    <div class="div-link-navheader"><span class="linkEmpty">TIN TỨC SỰ KIỆN 
-                    
-                        </span></div>
-                </div>
-                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                   
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-an-ninh-trat-tu" class="leftsubmenu" target="_self"> Tin an ninh - Trật tự</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-an-toan-giao-thong" class="leftsubmenu" target="_self"> Tin an toàn giao thông</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-kinh-te" class="leftsubmenu" target="_self"> Tin kinh tế - Đời sống</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-van-hoa" class="leftsubmenu" target="_self"> Tin văn hóa - Du lịch</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-y-te-giao-duc" class="leftsubmenu" target="_self"> Tin ý tế - Giáo dục</a></div>
-                        </div>
-                    </li>
-
-                </ul>
-            </li>
-            <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
-                    <div class="div-link-navheader"><span class="linkEmpty">Thông tin chỉ đạo</span></div>
-                </div>
-                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="thong-tin-chi-dao/lich-lam-viec-cua-lanh-dao" class="leftsubmenu" target="_self"> Lịch làm việc của lãnh đạo</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="thong-tin-chi-dao/y-kien-chi-dao-phan-hoi" class="leftsubmenu" target="_self"> Ý kiến chỉ đạo,phản hồi</a></div>
-                        </div>
-                    </li>
-
-                    
-
-                </ul>
-            </li>
-            
-            <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
-                    <div class="div-link-navheader"><span class="linkEmpty">Giới thiệu</span></div>
-                </div>
-                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                     
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="so-do-to-chuc" class="leftsubmenu" target="_self"> Sơ đồ - Tổ chức</a></div>
-                        </div>
-                    </li>
-                    
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="dieu-kien-tu-nhien" class="leftsubmenu" target="_self"> Điều kiện tự nhiên</a></div>
-                        </div>
-                    </li>
-                    
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="lich-su-truyen-thong" class="leftsubmenu" target="_self"> Lịch sử - Truyền thống</a></div>
-                        </div>
-                    </li>
-                    
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="di-tich-thang-canh" class="leftsubmenu" target="_self"> Di tích - Thắng cảnh</a></div>
-                        </div>
-                    </li>
-                    
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="dinh-huong-phat-trien" class="leftsubmenu" target="_self"> Định hướng phát triển</a></div>
-                        </div>
-                    </li>
-                    
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="lanh-dao-co-quan" class="leftsubmenu" target="_self"> Lãnh đạo cơ quan</a></div>
-                        </div>
-                    </li>
-                    
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="thong-tin-lien-lac" class="leftsubmenu" target="_self"> Thông tin liên lạc</a></div>
-                        </div>
-                    </li>
-                     
-
-                </ul>
-            </li>
-            <!--<li class="ms-navSubMenu" id="li0_dbd69f15-257a-4ca0-b4cd-800c65568a8e">
-                <div class="ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
-                    <div class="div-link-navheader"><span class="linkEmpty">QUẢN L&#221; NH&#192; NƯỚC</span></div>
-                </div>
-                <ul class="classshow" lienket="" id="ul0_dbd69f15-257a-4ca0-b4cd-800c65568a8e">
-                    <li id="li1_bd661323-68d7-46e5-a829-4fcee1501502">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="/thutuchanhchinh/Pages/default.aspx" class="leftsubmenu" target="_self">Thủ tục h&#224;nh ch&#237;nh</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_d6c5bd41-8779-4106-9d19-fd0152d448c5">
-                        <div class="ms-navItem">
-                            <div class="div-leftsubmenu"><a href="/TinTuc/quanlynhanuoc/Lists/Posts/AllPosts.aspx?CategoryId=1" class="leftsubmenu" target="_self">Chiến lược ph&#225;t triển</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_91c0b76e-98e5-4088-8a7e-644395962934">
-                        <div class="ms-navItem">
-                            <div class="div-leftsubmenu"><a href="/TinTuc/quanlynhanuoc/Lists/Posts/AllPosts.aspx?CategoryId=2" class="leftsubmenu" target="_self">Th&#244;ng tin dự &#225;n</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_da3a756b-cabe-444e-a35b-94942b03f576">
-                        <div class="ms-navItem">
-                            <div class="div-leftsubmenu"><a href="/TinTuc/quanlynhanuoc/Lists/Posts/AllPosts.aspx?CategoryId=8" class="leftsubmenu" target="_self">Quy hoạch – Kế hoạch</a></div>
-                        </div>
-                    </li>
-                </ul>
-            </li>
-            <li class="ms-navSubMenu" id="li0_c65b7cb4-9b63-432f-baec-4d54e38b2448">
-                <div class="ms-navheader">
-                    <div class="div-link-navheader"><a href="/TinTuc/quanlynhanuoc/Lists/Posts/AllPosts.aspx?CategoryId=9" target="_self">HOẠT ĐỘNG THƯỜNG TRỰC CỦA UBND HUYỆN</a></div>
-                </div>
-            </li>
-            <li class="ms-navSubMenu" id="li0_7b892b34-afd8-41a6-90d8-45408635d976">
-                <div class="ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
-                    <div class="div-link-navheader"><span class="linkEmpty">C&#212;NG TR&#204;NH PH&#218;C LỢI X&#195; HỘI</span></div>
-                </div>
-                <ul class="classhide" lienket="" id="ul0_7b892b34-afd8-41a6-90d8-45408635d976">
-                    <li id="li1_0fcfc15e-4651-49f5-b59d-95704e1a4482">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="/TinTuc/phucloixahoi/Lists/Posts/AllPosts.aspx?CategoryId=1" class="leftsubmenu" target="_self">Trung t&#226;m văn h&#243;a</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_e40647ea-1705-4d9b-95c2-1f49056ed47e">
-                        <div class="ms-navItem">
-                            <div class="div-leftsubmenu"><a href="/TinTuc/phucloixahoi/Lists/Posts/AllPosts.aspx?CategoryId=2" class="leftsubmenu" target="_self">Nh&#224; thiếu nhi</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_460864d8-0d78-4666-a6ce-63906103a1d6">
-                        <div class="ms-navItem">
-                            <div class="div-leftsubmenu"><a href="/TinTuc/phucloixahoi/Lists/Posts/AllPosts.aspx?CategoryId=4" class="leftsubmenu" target="_self">Bệnh viện</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_d5e3505f-e35a-422e-87fc-20973c72f681">
-                        <div class="ms-navItem">
-                            <div class="div-leftsubmenu"><a href="/TinTuc/phucloixahoi/Lists/Posts/AllPosts.aspx?CategoryId=5" class="leftsubmenu" target="_self">Trường dạy nghề</a></div>
-                        </div>
-                    </li>
-                </ul>
-            </li>
-            <li class="ms-navSubMenu" id="li0_5eda3f6c-5dc4-4c23-b32a-f4e13c5d9eaa">
-                <div class="ms-navheader">
-                    <div class="div-link-navheader"><a href="/TinTuc/quanlynhanuoc/Lists/Posts/AllPosts.aspx?CategoryId=11" target="_self">TH&#212;NG TIN CẦN BIẾT</a></div>
-                </div>
-            </li>
-            <li class="ms-navSubMenu" id="li0_70db122c-fdbe-478d-98d7-94150bf1b64d">
-                <div class="ms-navheader">
-                    <div class="div-link-navheader"><a href="/TinTuc/quanlynhanuoc/Lists/Posts/Post.aspx?CategoryId=10" target="_self">LỊCH L&#192;M VIỆC</a></div>
-                </div>
-            </li>-->
-        </ul>
-    </div>
-</div> 
-
-
-
-
-                        </div>
-                    </div>
-                </td>
-            </tr>
-        </table>
-
-
-    </div>
-    <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tr>
-            <td valign="top">
-                <div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ5" width="100%" class="ms-WPBody noindex" OnlyForMePart="true" allowDelete="false" style="">
-                    <div id="ctl00_g_ea44f2ba_3723_482b_98de_a6b75b1aa1eb">
-                        <div class="linkweb" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts">
-                            <div class="linkweb-title"> Liên kết Website </div>
-                            <div class="linkweb-cnt"><select style="width: 100%" id="cbo-weblink" onchange="window.open(this.options[this.selectedIndex].value,'_blank'); this.options[0].selected=true;"><option selected=""> -- Liên kết web --</option><option >Đài TT huyện</option><option >Phòng TC - KH huyện </option><option value="http://congbao.daknong.gov.vn">Công báo tỉnh Đăk Nông</option><option value="http://nld.com.vn/">Báo Người lao động</option><option value="http://daknong.gov.vn/Pages/default.aspx">UBND tinh DakNong</option><option value="http://danhba.daknong.gov.vn/">Danh ba hop thu cong vu tinh Dak Nong</option><option >Một cửa huyện</option></select></div>
-                        </div>
-                    </div>
-                </div>
-            </td>
-        </tr>
-    </table>
-
-
-
-    <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tr>
-            <td valign="top">
-                <div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ6" width="100%" class="ms-WPBody noindex" OnlyForMePart="true" allowDelete="false" style="">
-                    <div id="ctl00_g_e16dc05d_a599_462d_bb33_17883515a2c5">
-
-
-
-
-                        <div class="TruyCapOnLine">
-                            <div class="ThongKeTruyCap">
-                                <div class="dvHit-main">
-                                    <div class="divHitCount">
-                                        <div class="HitTitle">
-                                            <h3>
-                SỐ LƯỢT TRUY CẬP</h3>
-                                        </div>
-                                        <div class="HitCount-content">
-                                            <table cellpadding="0" cellspacing="0" width="100%">
-                                                <tr>
-                                                    <td class="Hit-solan" align="center">
-                                                        <table id="ctl00_g_e16dc05d_a599_462d_bb33_17883515a2c5_ctl00_dtlHitCounter" cellspacing="0" border="0" style="height:10px;border-collapse:collapse;">
-                                                            <tr>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    2</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    6</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    6</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    4</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                            </tr>
-                                                        </table>
-                                                    </td>
-                                                </tr>
-                                            </table>
-                                        </div>
-                                    </div>
-                                </div>
-
-
-
-                                <div class="dvHit-main">
-                                    <div class="divHitCount-online">
-                                        <div class="HitTitle">
-                                            <h3>
-                SỐ LƯỢT ĐANG ONLINE</h3>
-                                        </div>
-                                        <div class="HitCount-content">
-                                            <table cellpadding="0" cellspacing="0" width="100%">
-                                                <tr>
-                                                    <td class="Hit-solan" align="center">
-                                                        <table id="ctl00_g_e16dc05d_a599_462d_bb33_17883515a2c5_ctl00_DataList1" cellspacing="0" border="0" style="height:10px;border-collapse:collapse;">
-                                                            <tr>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    2</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                            </tr>
-                                                        </table>
-                                                    </td>
-                                                </tr>
-                                            </table>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-
-                    </div>
-                </div>
-            </td>
-        </tr>
-    </table>
-
-</div>
+   <div class="snRight">
+       <div class="wpVBM">
+           <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+               <tbody>
+                   <tr>
+                       <td valign="top">
+                           <div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ4" width="100%" class="ms-WPBody noindex"
+                               onlyformepart="true" allowdelete="false" style="">
+                               <div id="ctl00_g_5a98f478_4f49_4a9d_acad_af6c773cdc07">
+                                   <!-- <link type="text/css" href="/_CONTROLTEMPLATES/LacViet.CMS.ViewPageManager/css/style_left_menu.css" rel="stylesheet" /> -->
+                                   <script type="text/javascript" src="/_CONTROLTEMPLATES/LacViet.CMS.ViewPageManager/js/jquery-1.4.1.js"></script>
+                                   <script type="text/javascript">
+                                   var jLeftMenu = jQuery.noConflict();
+                                   jLeftMenu(function($) {
+   
+                                       $(document).ready(function() {
+   
+                                           $('div.ms-navheader').each(function() {
+                                               var childs = $(this).siblings('ul');
+                                               if (childs.html() == null || childs.html() == "")
+                                                   $(this).attr("onclick", "#");
+   
+                                           });
+   
+                                           var CurrentPath = jLeftMenu.trim(jLeftMenu("div#LeftMenuWebName").text());
+                                           var CurrentHomeChild = jLeftMenu("a.leftsubmenu[href*='" + CurrentPath + "']");
+                                           CurrentHomeChild.parent().parent().parent().addClass("classshow");
+   
+                                       });
+   
+   
+                                       $("div.ms-navheader").mouseover(function() {
+   
+                                           $(this).addClass("heading-hover");
+   
+                                       }).mouseout(function() {
+                                           $(this).removeClass("heading-hover");
+                                       });
+                                       $("div.ms-navheader-icon").mouseover(function() {
+                                           $(this).addClass("heading-hover");
+   
+                                       }).mouseout(function() {
+                                           $(this).removeClass("heading-hover");
+                                       });
+                                       $("div.ms-navItem").mouseover(function() {
+                                           $(this).addClass("ms-navItem-hover");
+                                       }).mouseout(function() {
+                                           $(this).removeClass("ms-navItem-hover");
+                                       });
+                                       $("div.ms-navItem-icon").mouseover(function() {
+                                           $(this).addClass("ms-navItem-hover");
+                                       }).mouseout(function() {
+                                           $(this).removeClass("ms-navItem-hover");
+                                       });
+                                   });
+                               </script>
+                                   <div id="LeftMenuWebName" style="display:none">
+                                       TinTuc
+                                   </div>
+                                   <div id="ctl00_g_5a98f478_4f49_4a9d_acad_af6c773cdc07_ctl00_myPanel">
+                                       <div class="navList">
+                                           <ul class="ms-quickLaunch" id="menuproduct_b897631c-a511-436c-b5d3-28b75b851864" onload="collapseMenu(null,'menuproduct_b897631c-a511-436c-b5d3-28b75b851864')">
+                                               <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                                                   <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+                                                       <div class="div-link-navheader"><span class="linkEmpty"> Bản đồ hành chính
+                       
+                           </span></div>
+                                                   </div>
+                                                   <div>
+                                                       <div>
+                                                           <a href="/ban-do/"><img src="/sites/default/themes/daksongtpl/images/layout/bando.png"
+                                                                   alt="bando.png" _moz_resizing="true">​</a>
+                                                       </div>
+                                                   </div>
+                                               </li>
+                                           </ul>
+                                       </div>
+                                   </div>
+                               </div>
+                           </div>
+                       </td>
+                   </tr>
+               </tbody>
+           </table>
+       </div>
+       <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+           <tbody>
+               <tr>
+                   <td valign="top">
+                       <div xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">
+                           <div id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_Chinh" class="ndiv">
+                               <div class="div-image">
+                                   <div class="allowMenu">
+                                       <a href="#" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
+                                               src="/img/thudientu.jpg"></a>
+                                   </div>
+                               </div>
+                               <div class="div-image">
+                                   <div class="allowMenu">
+                                       <a href="#" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
+                                               src="/img/LHQC.png"></a>
+                                   </div>
+                               </div>
+                               <div class="div-image">
+                                   <div class="allowMenu">
+                                       <a href="#" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
+                                               src="HinhAnhLienKet/img-congbao.jpg"></a>
+                                   </div>
+                               </div>
+                               <div class="div-image">
+                                   <div class="allowMenu">
+                                       <a href="#" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
+                                               src="HinhAnhLienKet/chung tay cai cah.jpg"></a>
+                                   </div>
+                               </div>
+                               <div class="div-image">
+                                   <div class="allowMenu">
+                                       <a href="#" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
+                                               src="/img/banner_daknong.jpg"></a>
+                                   </div>
+                               </div>
+                               <div class="div-image">
+                                   <div class="allowMenu">
+                                       <a href="#" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
+                                               src="/img/img-congTTDT.jpg"></a>
+                                   </div>
+                               </div>
+                              
+                               <div id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_openPopup">
+                                   <span style="DISPLAY: none">
+     			<menu id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_MnPopupLinkLienKet">
+     				<ie:menuitem id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_mitAdminLinkLienket" menugroupid="2147483647" text="Quản trị" onmenuclick="STSNavigate2(event,'#postbyword');" iconsrc="/_LAYOUTS/LacVietBio/EOFFICEIMG/editnews.gif" type="option"></ie:menuitem>
+     			</menu>
+     		</span>
+                                   <table border="0" cellspacing="0" cellpadding="0" width="100%" height="100%">
+                                   </table>
+                               </div>
+                               <img style="POSITION: absolute; BORDER-RIGHT-WIDTH: 0px; WIDTH: 1px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 1px; BORDER-LEFT-WIDTH: 0px"
+                                   id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_img_hinh" src="_layouts/images/blank.gif">
+                           </div>
+                       </div>
+                   </td>
+               </tr>
+           </tbody>
+       </table>
+   </div></div>
 </div>
 
 
@@ -2572,3 +1984,10 @@ Kinh tế, xã hội Đắk Nông hiện đang ghi nhận có những phát tri�
 <!-- Mirrored from ^%$#@!/Pages/default.aspx by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 04 Jun 2016 17:37:33 GMT -->
 
 </html>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+<script
+  src="http://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous"></script>
+
+<script>

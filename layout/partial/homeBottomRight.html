@@ -70,40 +70,7 @@
 											<div id="LeftMenuWebName" style="display:none">
 												/Pages/default.aspx
 											</div>
-											<table id="ctl00_PlaceHolderMain_g_30177a82_2ef5_4214_a072_2171f1075900_ctl00_myPanel" cellpadding="0" cellspacing="0" border="0" width="100%">
-												<tbody>
-													<tr>
-														<td>
-															<div class="navList">
-																<ul class="ms-quickLaunch" id="menuproduct_9f2b9b58-4b06-43c8-b46d-161f531860da" onload="collapseMenu(null,'menuproduct_9f2b9b58-4b06-43c8-b46d-161f531860da')">
-																	<li class="ms-navSubMenu" id="li0_78817b75-6268-49f4-b91a-f81c20f4d413">
-																		<div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
-																			<div class="div-link-navheader"><span class="linkEmpty">Quản lý nhà nước</span>
-																			
-																			  
-																			  
-																			</div>
-																			
-																		</div>
-																		<ul class="classshow" lienket="" id="ul0_78817b75-6268-49f4-b91a-f81c20f4d413">
-																			 {{#each (lookup (lookupCategory AllCategory 'quan-ly-nha-nuoc')'children')}}
-																			    <li id="li1_84352c89-d781-4c48-873a-3c156adafdaf" class="classshow">
-																				<div class="ms-navItem first-ms-navItem">
-																					<div class="div-leftsubmenu"><a href="{{href}}" class="leftsubmenu" target="_self">{{displayName}}</a></div>
-																				</div>
-																			</li>
-																			 {{/each}}
-																			
-																			
-																		</ul>
-																	</li>
-																</ul>
-															</div>
-														</td>
-													</tr>
-												</tbody>
-											</table>
-
+										
 
 
 										</td>
@@ -121,40 +88,6 @@
 
 
 
-	<table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
-		<tbody>
-			<tr>
-				<td valign="top">
-					<div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ4" width="100%" class="ms-WPBody noindex" onlyformepart="true" allowdelete="false" style="">
-						<table id="ctl00_PlaceHolderMain_g_d7266b72_1986_4f87_9fe0_518f56ab4012" cellpadding="0" cellspacing="0" border="0" width="100%">
-							<tbody>
-								<tr>
-									<td>
-										<div class="videobox" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">
-											<div class="videobox-content">
-												<div class="videobox-title"><a href="">Thư viện Video</a></div>
-												
-												
-												<div class="mediaItems">
-													<ul class="ul-mediaItem">
-														 {{#each (lookup (lookupCategory AllCategory 'thu-vien-video') 'files') }}
-														   <li class="li-mediaItem"  urlimage="HinhDaiDienVideo/_w/toquoc_jpg.jpg"> <a href="{{slug}}" >{{title}}</a></li>
-													     {{/each}}
-														
-													</ul>
-												</div>
-											</div>
-										</div>
-
-									</td>
-								</tr>
-							</tbody>
-						</table>
-					</div>
-				</td>
-			</tr>
-		</tbody>
-	</table>
 
 
 
@@ -217,7 +150,40 @@
 	</table>
 
 
+<table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody>
+			<tr>
+				<td valign="top">
+					<div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ4" width="100%" class="ms-WPBody noindex" onlyformepart="true" allowdelete="false" style="">
+						<table id="ctl00_PlaceHolderMain_g_d7266b72_1986_4f87_9fe0_518f56ab4012" cellpadding="0" cellspacing="0" border="0" width="100%">
+							<tbody>
+								<tr>
+									<td>
+										<div class="videobox" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">
+											<div class="videobox-content">
+												<div class="videobox-title"><a href="">Thư viện Video</a></div>
+												
+												
+												<div class="mediaItems">
+													<ul class="ul-mediaItem">
+														 {{#each (lookup (lookupCategory AllCategory 'thu-vien-video') 'files') }}
+														   <li class="li-mediaItem"  urlimage="HinhDaiDienVideo/_w/toquoc_jpg.jpg"> <a href="{{slug}}" >{{title}}</a></li>
+													     {{/each}}
+														
+													</ul>
+												</div>
+											</div>
+										</div>
 
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</td>
+			</tr>
+		</tbody>
+	</table>
 
 	<table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
 		<tbody>
@@ -540,5 +506,8 @@
 			</tr>
 		</tbody>
 	</table>
+
+		
+
 
 </div>

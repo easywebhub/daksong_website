@@ -3,7 +3,32 @@
         "hinh_anh": "./HinhAnhLienKet/Bau cu QH HDND.jpg",
         "duong_dan": "#"
     },
-    "banner_nho": [],
+    "banner_nho": [
+        {
+            "hinh_anh": "/img/thudientu.jpg",
+            "duong_dan": "#"
+        },
+        {
+            "hinh_anh": "/img/LHQC.png",
+            "duong_dan": "#"
+        },
+        {
+            "hinh_anh": "HinhAnhLienKet/img-congbao.jpg",
+            "duong_dan": "#"
+        },
+        {
+            "hinh_anh": "HinhAnhLienKet/chung tay cai cah.jpg",
+            "duong_dan": "#"
+        },
+        {
+            "hinh_anh": "/img/banner_daknong.jpg",
+            "duong_dan": "#"
+        },
+        {
+            "hinh_anh": "/img/img-congTTDT.jpg",
+            "duong_dan": "#"
+        }
+    ],
     "banner_goc_phai_trang_chu": [
         {
             "hinh_anh": "/hinh-anh/banner/email.jpg",
@@ -34,30 +59,5 @@
             "duong_dan": "/dong-gop-y-kien"
         }
     ],
-    "danh_sach_banner_nho": [
-        {
-            "hinh_anh": "/img/thudientu.jpg",
-            "duong_dan": "#"
-        },
-        {
-            "hinh_anh": "/img/LHQC.png",
-            "duong_dan": "#"
-        },
-        {
-            "hinh_anh": "HinhAnhLienKet/img-congbao.jpg",
-            "duong_dan": "#"
-        },
-        {
-            "hinh_anh": "HinhAnhLienKet/chung tay cai cah.jpg",
-            "duong_dan": "#"
-        },
-        {
-            "hinh_anh": "/img/banner_daknong.jpg",
-            "duong_dan": "#"
-        },
-        {
-            "hinh_anh": "/img/img-congTTDT.jpg",
-            "duong_dan": "#"
-        }
-    ]
+    "danh_sach_banner_nho": []
 }

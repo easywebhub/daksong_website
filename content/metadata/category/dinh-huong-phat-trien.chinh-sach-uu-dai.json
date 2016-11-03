@@ -1,8 +1,8 @@
 {
     "sortBy": "date",
     "reverse": false,
-    "metadata": {},
-    "displayName": "định hướng phát triển.chính sách ưu đãi",
+    "metadata": {"title":"Chính sách ưu đãi"},
+    "displayName": "Chính sách ưu đãi",
     "perPage": 10,
     "noPageOne": true,
     "layout": "default.category.html",

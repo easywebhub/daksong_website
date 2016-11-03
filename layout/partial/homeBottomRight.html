@@ -1,7 +1,5 @@
 <div class="hRight">
-<h1>right</h1>
-<h2>{{../../banner.banner_lon.hinh_anh}}</h2>
-<h2>{{title}}</h2>
+
 	<menu class="ms-SrvMenuUI">
 		<ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
 
@@ -106,7 +104,7 @@
 										<div xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">
 
 											<div id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_Chinh" class="ndiv">
-												{{#each banner.banner_goc_phai_trang_chu}}
+												{{#each danh_sach_banner.banner_goc_phai_trang_chu}}
 												<div class="div-image">
 													<div class="allowMenu">
 														<a href="{{this.duong_dan}}" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="{{this.hinh_anh}}"></a>

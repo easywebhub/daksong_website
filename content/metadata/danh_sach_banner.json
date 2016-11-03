@@ -1,0 +1,59 @@
+{
+    "banner_lon": {
+        "hinh_anh": "./HinhAnhLienKet/Bau cu QH HDND.jpg",
+        "duong_dan": "#"
+    },
+    "banner_nho": [
+        {
+            "hinh_anh": "/img/thudientu.jpg",
+            "duong_dan": "#"
+        },
+        {
+            "hinh_anh": "/img/LHQC.png",
+            "duong_dan": "#"
+        },
+        {
+            "hinh_anh": "HinhAnhLienKet/img-congbao.jpg",
+            "duong_dan": "#"
+        },
+        {
+            "hinh_anh": "HinhAnhLienKet/chung tay cai cah.jpg",
+            "duong_dan": "#"
+        },
+        {
+            "hinh_anh": "/img/banner_daknong.jpg",
+            "duong_dan": "#"
+        },
+        {
+            "hinh_anh": "/img/img-congTTDT.jpg",
+            "duong_dan": "#"
+        }
+    ],
+    "banner_goc_phai_trang_chu": [
+        {
+            "hinh_anh": "/hinh-anh/banner/email.jpg",
+            "duong_dan": "http://mail.daknong.gov.vn/"
+        },
+        {
+            "hinh_anh": "/hinh-anh/banner/dvcong.jpg",
+            "duong_dan": "http://dvc.daknong.gov.vn/"
+        },
+        {
+            "hinh_anh": "/hinh-anh/banner/GPLX.jpg",
+            "duong_dan": "http://dichvucong.gplx.gov.vn:8000/faces/registration/home.xhtml"
+        },
+        {
+            "hinh_anh": "/hinh-anh/banner/cbcp.jpg",
+            "duong_dan": "http://congbao.chinhphu.vn/"
+        },
+        {
+            "hinh_anh": "/hinh-anh/banner/cchc.jpg",
+            "duong_dan": "http://daknong.gov.vn/thutuchanhchinh"
+        },
+        {
+            "hinh_anh": "/hinh-anh/banner/hoidap.jpg",
+            "duong_dan": "/dong-gop-y-kien"
+        }
+    ],
+    "danh_sach_banner_nho": []
+}

@@ -145,7 +145,22 @@ site.metalsmith = {
         'removeAttributeQuotes': false,
         'keepClosingSlash': true,
         'removeRedundantAttributes': false
-    }
+    },
+    'metalsmith-lunr': [
+        {
+            indexPath: 'index.json',
+            fields: {
+                title: 1,
+                description: 1
+            }
+        },
+        {
+            indexPath: 'searchIndex.json',
+            fields: {
+                header: 1
+            }
+        }
+    ]
 }
 
 

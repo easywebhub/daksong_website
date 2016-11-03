@@ -14,12 +14,12 @@
             "duong_dan": "http://dvc.daknong.gov.vn/"
         },
         {
-            "hinh_anh": "/hinh-anh/banner/cchc.jpg",
-            "duong_dan": "http://daknong.gov.vn/thutuchanhchinh"
-        },
-        {
             "hinh_anh": "/hinh-anh/banner/GPLX.jpg",
             "duong_dan": "http://dichvucong.gplx.gov.vn:8000/faces/registration/home.xhtml"
+        },
+        {
+            "hinh_anh": "/hinh-anh/banner/cchc.jpg",
+            "duong_dan": "http://daknong.gov.vn/thutuchanhchinh"
         },
         {
             "hinh_anh": "/hinh-anh/banner/hcm.jpg",

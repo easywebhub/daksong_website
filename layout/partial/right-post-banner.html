@@ -1,0 +1,118 @@
+<div class="snRight">
+    <div class="wpVBM">
+        <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ4" width="100%" class="ms-WPBody noindex"
+                            onlyformepart="true" allowdelete="false" style="">
+                            <div id="ctl00_g_5a98f478_4f49_4a9d_acad_af6c773cdc07">
+                                <!-- <link type="text/css" href="/_CONTROLTEMPLATES/LacViet.CMS.ViewPageManager/css/style_left_menu.css" rel="stylesheet" /> -->
+                                <script type="text/javascript" src="/_CONTROLTEMPLATES/LacViet.CMS.ViewPageManager/js/jquery-1.4.1.js"></script>
+                                <script type="text/javascript">
+                                var jLeftMenu = jQuery.noConflict();
+                                jLeftMenu(function($) {
+
+                                    $(document).ready(function() {
+
+                                        $('div.ms-navheader').each(function() {
+                                            var childs = $(this).siblings('ul');
+                                            if (childs.html() == null || childs.html() == "")
+                                                $(this).attr("onclick", "#");
+
+                                        });
+
+                                        var CurrentPath = jLeftMenu.trim(jLeftMenu("div#LeftMenuWebName").text());
+                                        var CurrentHomeChild = jLeftMenu("a.leftsubmenu[href*='" + CurrentPath + "']");
+                                        CurrentHomeChild.parent().parent().parent().addClass("classshow");
+
+                                    });
+
+
+                                    $("div.ms-navheader").mouseover(function() {
+
+                                        $(this).addClass("heading-hover");
+
+                                    }).mouseout(function() {
+                                        $(this).removeClass("heading-hover");
+                                    });
+                                    $("div.ms-navheader-icon").mouseover(function() {
+                                        $(this).addClass("heading-hover");
+
+                                    }).mouseout(function() {
+                                        $(this).removeClass("heading-hover");
+                                    });
+                                    $("div.ms-navItem").mouseover(function() {
+                                        $(this).addClass("ms-navItem-hover");
+                                    }).mouseout(function() {
+                                        $(this).removeClass("ms-navItem-hover");
+                                    });
+                                    $("div.ms-navItem-icon").mouseover(function() {
+                                        $(this).addClass("ms-navItem-hover");
+                                    }).mouseout(function() {
+                                        $(this).removeClass("ms-navItem-hover");
+                                    });
+                                });
+                            </script>
+                                <div id="LeftMenuWebName" style="display:none">
+                                    TinTuc
+                                </div>
+                                <div id="ctl00_g_5a98f478_4f49_4a9d_acad_af6c773cdc07_ctl00_myPanel">
+                                    <div class="navList">
+                                        <ul class="ms-quickLaunch" id="menuproduct_b897631c-a511-436c-b5d3-28b75b851864" onload="collapseMenu(null,'menuproduct_b897631c-a511-436c-b5d3-28b75b851864')">
+                                            <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                                                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+                                                    <div class="div-link-navheader"><span class="linkEmpty"> Bản đồ hành chính
+                    
+                        </span></div>
+                                                </div>
+                                                <div>
+                                                    <div>
+                                                        <a href="/ban-do/"><img src="/sites/default/themes/daksongtpl/images/layout/bando.png"
+                                                                alt="bando.png" _moz_resizing="true">​</a>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tbody>
+            <tr>
+                <td valign="top">
+                    <div xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">
+                        <div id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_Chinh" class="ndiv">
+                            {{#each danh_sach_banner.banner_nho}}
+                            <div class="div-image">
+                                <div class="allowMenu">
+                                    <a href="{{duong_dan}}" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
+                                            src="{{hinh_anh}}"></a>
+                                </div>
+                            </div>
+                            {{/each}}
+                           
+                            <div id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_openPopup">
+                                <span style="DISPLAY: none">
+  			<menu id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_MnPopupLinkLienKet">
+  				<ie:menuitem id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_mitAdminLinkLienket" menugroupid="2147483647" text="Quản trị" onmenuclick="STSNavigate2(event,'#postbyword');" iconsrc="/_LAYOUTS/LacVietBio/EOFFICEIMG/editnews.gif" type="option"></ie:menuitem>
+  			</menu>
+  		</span>
+                                <table border="0" cellspacing="0" cellpadding="0" width="100%" height="100%">
+                                </table>
+                            </div>
+                            <img style="POSITION: absolute; BORDER-RIGHT-WIDTH: 0px; WIDTH: 1px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 1px; BORDER-LEFT-WIDTH: 0px"
+                                id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_img_hinh" src="_layouts/images/blank.gif">
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,11 @@
+{
+    "sortBy": "date",
+    "reverse": true,
+    "metadata": { "title":"Định hướng phát triển "},
+    "displayName": "Định hướng phát triển",
+    "perPage": 10,
+    "noPageOne": true,
+    "layout": "default.category.html",
+    "first": ":categoryPath/index.html",
+    "path": ":categoryPath/page/:num/index.html"
+}

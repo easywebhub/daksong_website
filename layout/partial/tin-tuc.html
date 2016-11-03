@@ -7,390 +7,10 @@
 
         <div class="snLeft">
 
-            <div class="wpVBM">
-                <div id="ctl00_g_01d3c1b4_cfb9_4793_bf24_9982db68cc3e" __MarkupType="vsattributemarkup" WebPart="true" __WebPartId="{01d3c1b4-cfb9-4793-bf24-9982db68cc3e}">
-
-                    <script type="text/javascript">
-                        function _doPostBack(eventTarget, eventArgument) {
-                            theForm.__EVENTTARGET.value = eventTarget;
-                            theForm.__EVENTARGUMENT.value = eventArgument;
-                            theForm.submit();
-                        }
-
-                        function _moveItemFromAtoB_SPLookup(ListBoxA, ListBoxB) {
-                            var x = document.getElementById(ListBoxA);
-                            var y = document.getElementById(ListBoxB);
-                            for (i = 0; i < x.options.length; i++) {
-                                if (x.options[i].selected) {
-                                    var item = document.createElement("option");
-                                    item.text = x.options[i].text;
-                                    item.value = x.options[i].value;
-                                    y.options.add(item);
-                                    x.remove(i);
-                                    i--;
-                                }
-                            }
-                            y.selectedIndex = y.options.length - 1;
-                            y.focus();
-                        }
-
-                        function _saveRecord(m_lookup, m_select, saveType) {
-                            var strSelect = document.getElementById(m_select).value;
-                            var strLookup = document.getElementById(m_lookup).value;
-                            var value1 = getLookupSelectValues(strSelect);
-                            var value2 = getLookupSelectValues(strLookup);
-                            var value = value1 + value2;
-                            _doPostBack(saveType, value);
-                        }
-
-                        function getLookupSelectValues(str) {
-                            var sourceIDs = new Array();
-                            if (str.length > 0)
-                                if (str.substring(";") == -1)
-                                    sourceIDs[0] = str;
-                                else sourceIDs = str.split(";");
-                            var value = "";
-                            for (i = 0; i < sourceIDs.length; i++) {
-                                var listBox = document.getElementById(sourceIDs[i]);
-                                value = value + sourceIDs[i];
-                                for (j = 0; j < listBox.length; j++) {
-                                    value = value + ";#" + listBox.options[j].value;
-                                }
-                                value = value + sourceIDs[i];
-                            }
-                            return value;
-                        }
-
-                        function CustomList_refreshCaptcha() {
-                            _doPostBack('CustomList_refreshCaptcha', 'ctl00_g_01d3c1b4_cfb9_4793_bf24_9982db68cc3e_ctl00_selectedLookupControl');
-                        }
-
-                        function loadCalendar() {
-                            var itemChosen = document.getElementById('ctl00_g_01d3c1b4_cfb9_4793_bf24_9982db68cc3e_ctl00_cbCondition');
-                            var calendar = document.getElementById('ctl00_g_01d3c1b4_cfb9_4793_bf24_9982db68cc3e_ctl00_searchByDate');
-                            var searchcontent = document.getElementById('ctl00_g_01d3c1b4_cfb9_4793_bf24_9982db68cc3e_ctl00_txtCongviec');
-                            var itemValue = itemChosen.options[itemChosen.selectedIndex].value;
-                            var typeIndex = itemValue.lastIndexOf(".");
-                            var type = itemValue.substr(typeIndex + 1, itemValue.length - typeIndex - 1);
-                            if (type == "DateTime") {
-                                calendar.style.display = "";
-                                searchcontent.disabled = false;
-                                searchcontent.style.backgroundColor = "white";
-                            } else {
-                                calendar.style.display = "none";
-                                searchcontent.disabled = false;
-                                searchcontent.style.backgroundColor = "white";
-                            }
-                        }
-
-                        function _getItem(eventTarget, m_object) {
-                            var value = document.getElementById(m_object).value;
-                            _doPostBack(eventTarget, value);
-                        }
-
-                        function txtCongViecEnter() {
-                            var button = document.getElementById('ctl00_g_01d3c1b4_cfb9_4793_bf24_9982db68cc3e_ctl00_btTimkiem');
-                            if (button != null) {
-                                if (window.event.keyCode == 13) {
-                                    window.event.returnValue = false;
-                                    window.event.cancel = true;
-                                    button.click();
-                                }
-                            }
-                        }
-
-                        function DeleteItem(target) {
-                            var confirmDelete = confirm("Xóa dữ liệu này?");
-                            if (confirmDelete == true) __doPostBack(target, '');
-                        }
-
-                        function DeleteItemID(target, Soid) {
-                            var confirmDelete = confirm("Bạn có chắc là muốn xoá ?");
-                            if (confirmDelete == true) __doPostBack(target, Soid);
-                        }
-                    </script>
-
-                    <link type="text/css" rel="stylesheet" href="/SiteAssets/css/vbpl.css" />
 
 
 
-                    <div id="ctl00_g_01d3c1b4_cfb9_4793_bf24_9982db68cc3e_ctl00_dvVBPL">
-
-                        <div id="ctl00_g_01d3c1b4_cfb9_4793_bf24_9982db68cc3e_ctl00_dvBlockVBPL">
-
-
-
-
-
-
-                            <div></div>
-
-
-
-                            <?xml version="1.0" encoding="utf-8"?>
-                            <table class="ds_VBPL" rules="rows" cellpadding="0" cellspacing="0" border="0">
-                                <tr>
-                                    <td class="td_vanbanmoi">
-                                        VĂN BẢN PHÁP LUẬT 
-                                    </td>
-                                </tr>
-                            </table>
-                            <table class="ds_VBPL" rules="rows" cellpadding="0" cellspacing="0" border="0">
-                                
-                               {{#each ( first (lookup (lookupCategory AllCategory 'van-ban-phap-luat') 'files') 6)}}
-                                 <DIV class="divvanbanmoi">
-                                    <A href="{{slug}}">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                    {{so}} </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>{{date}} </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClass54612D623D4A4D52B25DAED194B7A8ED">{{description}}</div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="{{path}}">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="https://cdn1.iconfinder.com/data/icons/hawcons/32/698873-icon-136-document-edit-128.png" ALT="tải pdf về" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>
-                                {{/each}}
-                               
-                                <!--<DIV class="divvanbanmoi"
-                                    <A href="/hethongvanban/Pages/default.aspx?SoID=76 ">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                    Số: 689/UBND-NN </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>31/12/9999 </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClassA51A1FEEE4FE46549F7D3E2AAF8102AD">Công văn số: 689/UBND-NN, ngày 05/3/2014 của UBND tỉnh Đăk Nông về việc tổ chức Lễ Mittinh hưởng ứng Ngày Nước thế giới năm 2014 </div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="http://^%$#@!/hethongvanban/Lists/VBPL_DanhSachVanBan/Attachments/76/689-UBND-NN.pdf">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="/_LAYOUTS/LacVietBio/EOFFICEIMG/LacViet.LacVietSPList/pdf.png" ALT="tải pdf về" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>
-                                <DIV class="divvanbanmoi"
-                                    <A href="/hethongvanban/Pages/default.aspx?SoID=79 ">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                    Số: 2194/QĐ-UBND </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>31/12/9999 </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClassFF1EA847195049E9B2CBDEEF5DBA3FA9">Quyết định số 2194/QĐ-UBND, ngày 17/12/2013 của ỦY BAN NHÂN DÂN TỈNH ĐĂK NÔNG, Đưa ra khỏi Danh mục văn bản QPPL do HĐND tỉnh, UBND tỉnh ban hành hết hiệu lực</div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="&#xA;                            /hethongvanban/_layouts/WordViewer.aspx?id=http://^%$#@!/hethongvanban/Lists/VBPL_DanhSachVanBan/Attachments/79/2194-QĐ-UBND.doc">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="/_LAYOUTS/LacVietBio/EOFFICEIMG/LacViet.LacVietSPList/word.png" ALT="Xem word online" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>
-                                <DIV class="divvanbanmoi"
-                                    <A href="/hethongvanban/Pages/default.aspx?SoID=80 ">
-                                        <DIV class="divskhnbh">
-                                            <DIV class="divvbm_sokihieu">
-                                                <DIV class="div_SoKiHieu">
-                                                    Số: 25/2013/QĐ-UBND </DIV>
-                                            </DIV>
-                                            <DIV class="divvbm_ngaybanhanh">
-                                                Ngày:
-                                                <SPAN>31/12/9999 </SPAN>
-                                            </DIV>
-                                        </DIV>
-                                        <DIV class="divvbm_trichyeu">
-                                            <div class="ExternalClass25F3C48083D84F25893D7727B235D190">Đề án số 25/2013/QĐ-UBND, ngày 26/11/2013 của ỦY BAN NHÂN DÂN TỈNH ĐĂK NÔNG, Ban hành Quy định trách nhiệm người đứng đầu cơ quan hành chính, tổ chức, đơn vị sự nghiệp công lập và DNNN trong thi hành nhiệm vụ,
-                                                công vụ</div>
-                                        </DIV>
-                                        <DIV class="divvbm_xemchitiet">Xem chi tiết ...</DIV>
-                                    </A>
-                                    <DIV class="divvbm_dinhkem">
-                                        <a class="htvb_ahref" target="_blank" href="http://^%$#@!/hethongvanban/Lists/VBPL_DanhSachVanBan/Attachments/80/075804_25.2013.pdf">
-                                            <div class="htvb_Att_img">
-                                                <IMG SRC="/_LAYOUTS/LacVietBio/EOFFICEIMG/LacViet.LacVietSPList/pdf.png" ALT="tải pdf về" />
-                                            </div>
-                                        </a>
-                                    </DIV>
-                                </DIV>-->
-                            </table>
-                            <div style="float: right">
-
-                            </div>
-
-                        </div>
-                    </div>
-
-
-                    <script type="text/javascript">
-                        loadCalendar();
-                    </script>
-
-                </div>
-
-            </div>
-
-
-
-
-            <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
-                <tr>
-                    <td valign="top">
-                        <div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ3" width="100%" class="ms-WPBody noindex" OnlyForMePart="true" allowDelete="false" style="">
-                            <div id="ctl00_g_5692ae58_33df_492f_ba87_2999b9ccc0ec">
-                                <DIV xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">
-                                    <DIV id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_Chinh">
-                                        <TABLE style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-COLLAPSE: collapse; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" border="0" cellSpacing="0" cellPadding="0">
-                                            <TBODY>
-                                                <TR>
-                                                    <TD style="WIDTH: 100%" class="allowMenu">
-                                                        <A href="#" target="_blank" alt="">
-                                                            <IMG style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 197px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="HinhAnhLienKet/lichlamviecld.png" />
-                                                        </A>
-                                                    </TD>
-                                                </TR>                                               
-                                                <TR>
-                                                    <TD style="WIDTH: 100%" class="allowMenu">
-                                                        <A href="" target="_blank" alt="">
-                                                            <IMG style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 197px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="HinhAnhLienKet/33.jpg" />
-                                                        </A>
-                                                    </TD>
-                                                </TR>
-                                                <TR>
-                                                    <TD style="WIDTH: 100%" class="allowMenu">
-                                                        <A href="" target="_self" alt="">
-                                                            <IMG style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 197px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="HinhAnhLienKet/hoc tap va lam theo.jpg" />
-                                                        </A>
-                                                    </TD>
-                                                </TR>
-                                                <TR>
-                                                    <TD style="WIDTH: 100%" class="allowMenu">
-                                                        <A href="" target="_blank" alt="">
-                                                            <IMG style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 197px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="HinhAnhLienKet/XDNTM.png" />
-                                                        </A>
-                                                    </TD>
-                                                </TR>
-                                            </TBODY>
-                                        </TABLE>
-                                    </DIV>
-                                    <DIV id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_openPopup">
-                                        <TABLE border="0" cellSpacing="0" cellPadding="0" width="100%" height="100%">
-                                            <SPAN style="DISPLAY: none">
-            <MENU id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_MnPopupLinkLienKet">
-              <IE:MENUITEM id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_mitAdminLinkLienket" menuGroupId="2147483647" text="Quản trị" onMenuClick="STSNavigate2(event,'#postbyword');" iconSrc="_LAYOUTS/LacVietBio/EOFFICEIMG/editnews.gif" type="option"></IE:MENUITEM>
-            </MENU>
-          </SPAN>
-                                        </TABLE>
-                                    </DIV>
-                                    <IMG style="POSITION: absolute; BORDER-RIGHT-WIDTH: 0px; WIDTH: 1px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 1px; BORDER-LEFT-WIDTH: 0px" id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_img_hinh" src="_layouts/images/blank.gif"
-                                    />
-                                </DIV>
-                            </div>
-                        </div>
-                    </td>
-                </tr>
-            </table>
-
-
-
-        </div>
-        <div class="snCenter">
-
-            <div class="postMain">
-
-                {{#block "main-body"}} {{{contents}}} {{/block}}
-
-
-
-
-                <div id="ctl00_m_g_35ca937d_f24c_4b50_aec9_3ea1f56ddcae_ctl00_Panel1" style="display: none;height:0;position: absolute;">
-
-                    <table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%">
-                        <span style="display:none"><menu type='ServerMenu' id="ctl00_m_g_35ca937d_f24c_4b50_aec9_3ea1f56ddcae_ctl00_MnTmpMainPopuphhtml">
-            <ie:menuitem id="ctl00_m_g_35ca937d_f24c_4b50_aec9_3ea1f56ddcae_ctl00_mitAdminHtml" type="option" iconSrc="_LAYOUTS/LacVietBio/EOFFICEIMG/news.gif" text="Th&#234;m mới" menuGroupId="2147483647"></ie:menuitem>
-
-             <ie:menuitem id="ctl00_m_g_35ca937d_f24c_4b50_aec9_3ea1f56ddcae_ctl00_mitEdit" type="option" iconSrc="_LAYOUTS/LacVietBio/EOFFICEIMG/editnews.gif" text="Chỉnh sửa" menuGroupId="2147483647"></ie:menuitem>
-
-        </menu></span>
-
-                    </table>
-
-                </div>
-                <img id="ctl00_m_g_35ca937d_f24c_4b50_aec9_3ea1f56ddcae_ctl00_ImgDynamic" src="_layouts/images/blank.gif" style="height:1px;width:1px;border-width:0px;position: absolute;" />
-            </div>
-        </div>
-        </td>
-        </tr>
-        </table>
-        </td>
-        </tr>
-        </table>
-
-    </div>
-    <script type="text/javascript">
-        // <![CDATA[
-        JSRequest.EnsureSetup();
-        var cid = JSRequest.QueryString["ID"];
-        var page = JSRequest.FileName;
-        if (cid != null && page == "Category.aspx") {
-            var categoryEl = document.getElementById("ms-CategoryTitle-" + cid);
-            if (categoryEl != null) {
-                var titlePlaceHolderEl = document.getElementById("ms-ProjectTitlePlaceHolder");
-                if (titlePlaceHolderEl != null) {
-                    titlePlaceHolderEl.innerHTML = categoryEl.innerHTML;
-                }
-            }
-        }
-        var pageTitleSeparator = document.getElementById("onetidPageTitleSeparator");
-        if (pageTitleSeparator != null) {
-            pageTitleSeparator.innerHTML = "";
-        }
-        var _normalizedPageUrlForSocialItem = "";
-        if (cid != null) {
-            _normalizedPageUrlForSocialItem = window.location.href.split("?")[0].replace(/\/Post\.aspx$/i, "/ViewPost.aspx") + "?ID=" + cid;
-        }
-        // ]]>
-    </script>
-
-
-</div>
-<div class="snRight">
-    <div class="wpVBM">
-
-
-        <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
-            <tr>
-                <td valign="top">
-                    <div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ4" width="100%" class="ms-WPBody noindex" OnlyForMePart="true" allowDelete="false" style="">
-                        <div id="ctl00_g_5a98f478_4f49_4a9d_acad_af6c773cdc07">
+           <div id="ctl00_g_5a98f478_4f49_4a9d_acad_af6c773cdc07">
 
 
 
@@ -452,235 +72,89 @@
 
 
                         </div>
-                    </div>
-                </td>
-            </tr>
+
+
+
+        </div>
+        <div class="snCenter">
+
+        <div class="postMain">
+
+                {{#block "main-body"}} {{{contents}}} {{/block}}
+
+
+
+
+                <div id="ctl00_m_g_35ca937d_f24c_4b50_aec9_3ea1f56ddcae_ctl00_Panel1" style="display: none;height:0;position: absolute;">
+
+                    <table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%">
+                        <span style="display:none"><menu type='ServerMenu' id="ctl00_m_g_35ca937d_f24c_4b50_aec9_3ea1f56ddcae_ctl00_MnTmpMainPopuphhtml">
+            <ie:menuitem id="ctl00_m_g_35ca937d_f24c_4b50_aec9_3ea1f56ddcae_ctl00_mitAdminHtml" type="option" iconSrc="_LAYOUTS/LacVietBio/EOFFICEIMG/news.gif" text="Th&#234;m mới" menuGroupId="2147483647"></ie:menuitem>
+
+             <ie:menuitem id="ctl00_m_g_35ca937d_f24c_4b50_aec9_3ea1f56ddcae_ctl00_mitEdit" type="option" iconSrc="_LAYOUTS/LacVietBio/EOFFICEIMG/editnews.gif" text="Chỉnh sửa" menuGroupId="2147483647"></ie:menuitem>
+
+        </menu></span>
+
+                    </table>
+
+                </div>
+                <img id="ctl00_m_g_35ca937d_f24c_4b50_aec9_3ea1f56ddcae_ctl00_ImgDynamic" src="_layouts/images/blank.gif" style="height:1px;width:1px;border-width:0px;position: absolute;" />
+            </div>
+        </div>
+        </td>
+        </tr>
+        </table>
+        </td>
+        </tr>
         </table>
 
-
     </div>
-    <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tr>
-            <td valign="top">
-                <div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ5" width="100%" class="ms-WPBody noindex" OnlyForMePart="true" allowDelete="false" style="">
-                    <div id="ctl00_g_ea44f2ba_3723_482b_98de_a6b75b1aa1eb">
-                        <div class="linkweb" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts">
-                            <div class="linkweb-title"> Liên kết Website </div>
-                            <div class="linkweb-cnt"><select style="width: 100%" id="cbo-weblink" onchange="window.open(this.options[this.selectedIndex].value,'_blank'); this.options[0].selected=true;"><option selected=""> -- Liên kết web --</option><option >Đài TT huyện</option><option >Phòng TC - KH huyện </option><option value="http://congbao.daknong.gov.vn">Công báo tỉnh Đăk Nông</option><option value="http://nld.com.vn/">Báo Người lao động</option><option value="http://daknong.gov.vn/Pages/default.aspx">UBND tinh DakNong</option><option value="http://danhba.daknong.gov.vn/">Danh ba hop thu cong vu tinh Dak Nong</option><option >Một cửa huyện</option></select></div>
-                        </div>
-                    </div>
-                </div>
-            </td>
-        </tr>
-    </table>
+    <script type="text/javascript">
+        // <![CDATA[
+        JSRequest.EnsureSetup();
+        var cid = JSRequest.QueryString["ID"];
+        var page = JSRequest.FileName;
+        if (cid != null && page == "Category.aspx") {
+            var categoryEl = document.getElementById("ms-CategoryTitle-" + cid);
+            if (categoryEl != null) {
+                var titlePlaceHolderEl = document.getElementById("ms-ProjectTitlePlaceHolder");
+                if (titlePlaceHolderEl != null) {
+                    titlePlaceHolderEl.innerHTML = categoryEl.innerHTML;
+                }
+            }
+        }
+        var pageTitleSeparator = document.getElementById("onetidPageTitleSeparator");
+        if (pageTitleSeparator != null) {
+            pageTitleSeparator.innerHTML = "";
+        }
+        var _normalizedPageUrlForSocialItem = "";
+        if (cid != null) {
+            _normalizedPageUrlForSocialItem = window.location.href.split("?")[0].replace(/\/Post\.aspx$/i, "/ViewPost.aspx") + "?ID=" + cid;
+        }
+        // ]]>
+    </script>
+
+
+</div>
+<div class="snRight">
+   
+xddff
+{{#block "right"}}
+   {{> homeRightColumn}}
+{{/block}}
 
 
 
-    <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tr>
-            <td valign="top">
-                <div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ6" width="100%" class="ms-WPBody noindex" OnlyForMePart="true" allowDelete="false" style="">
-                    <div id="ctl00_g_e16dc05d_a599_462d_bb33_17883515a2c5">
 
-
-
-
-                        <div class="TruyCapOnLine">
-                            <div class="ThongKeTruyCap">
-                                <div class="dvHit-main">
-                                    <div class="divHitCount">
-                                        <div class="HitTitle">
-                                            <h3>
-                SỐ LƯỢT TRUY CẬP</h3>
-                                        </div>
-                                        <div class="HitCount-content">
-                                            <table cellpadding="0" cellspacing="0" width="100%">
-                                                <tr>
-                                                    <td class="Hit-solan" align="center">
-                                                        <table id="ctl00_g_e16dc05d_a599_462d_bb33_17883515a2c5_ctl00_dtlHitCounter" cellspacing="0" border="0" style="height:10px;border-collapse:collapse;">
-                                                            <tr>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    2</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    6</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    6</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    4</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                            </tr>
-                                                        </table>
-                                                    </td>
-                                                </tr>
-                                            </table>
-                                        </div>
-                                    </div>
-                                </div>
-
-
-
-                                <div class="dvHit-main">
-                                    <div class="divHitCount-online">
-                                        <div class="HitTitle">
-                                            <h3>
-                SỐ LƯỢT ĐANG ONLINE</h3>
-                                        </div>
-                                        <div class="HitCount-content">
-                                            <table cellpadding="0" cellspacing="0" width="100%">
-                                                <tr>
-                                                    <td class="Hit-solan" align="center">
-                                                        <table id="ctl00_g_e16dc05d_a599_462d_bb33_17883515a2c5_ctl00_DataList1" cellspacing="0" border="0" style="height:10px;border-collapse:collapse;">
-                                                            <tr>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    0</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                                <td align="center" style="height:10px;">
-                                                                    <table cellpadding="0" cellspacing="0" class="tb-HitCount">
-                                                                        <tr>
-                                                                            <td align="center" valign="top" class="background-img">
-                                                                                <div class="font-number">
-                                                                                    2</div>
-                                                                            </td>
-                                                                        </tr>
-                                                                    </table>
-                                                                </td>
-                                                            </tr>
-                                                        </table>
-                                                    </td>
-                                                </tr>
-                                            </table>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-
-                    </div>
-                </div>
-            </td>
-        </tr>
-    </table>
 
 </div>
 </div>
 
 {{/content}} {{/extend}}
+
+<script
+  src="http://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous"></script>
+
+<script>

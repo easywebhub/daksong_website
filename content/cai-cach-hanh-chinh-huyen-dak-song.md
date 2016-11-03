@@ -1,7 +1,7 @@
 ---json
 {
     "slug": "cai-cach-hanh-chinh-huyen-dak-song",
-    "category": "van-ban-phap-luat.thu-tuc-hanh-chinh",
+    "category": "van-ban-phap-luat",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Cải cách hành chính huyện Đak Sông ",

@@ -1,7 +1,7 @@
 ---json
 {
     "slug": "kiem-tra-2",
-    "category": "van-ban-phap-luat.van-ban-hanh-chinh",
+    "category": "van-ban-phap-luat",
     "tag": [],
     "layout": "van-ban.html",
     "title": "kiem tra 2",

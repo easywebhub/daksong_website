@@ -1,7 +1,7 @@
 ---json
 {
     "slug": "lich-truc-ban-tiep-cong-dan",
-    "category": "van-ban-phap-luat.tiep-dan",
+    "category": "van-ban-phap-luat",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Lịch trực ban tiếp công dân",

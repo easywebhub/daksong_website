@@ -1,7 +1,7 @@
 ---json
 {
     "slug": "test-3",
-    "category": "van-ban-phap-luat.van-ban-hanh-chinh",
+    "category": "van-ban-phap-luat",
     "tag": [],
     "layout": "van-ban.html",
     "title": "tést 3",

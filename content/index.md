@@ -84,7 +84,7 @@
             "slug": "ke-hoach-to-chuc-le-ky-niem",
             "title": "Giải quần vợt Doanh Nhân Việt Nam tại huyện Đăk Song",
             "description": "Ngày 07/10/2016, UBND huyện Đăk Song tỉnh Đăk Nông tổ chức giải quần vợt Doanh Nhân VN tại huyện Đăk Song ",
-            "banner": "img/Untitled.png"
+            "banner": "hinh-anh/chi-dao-dieu-hanh/daksongtruso.png"
         },
         {
             "slug": "thong-bao-ve-viec-tiep-cong-dan-cua-chu-tich",

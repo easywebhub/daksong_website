@@ -2601,3 +2601,7 @@ a img{
     display: block;
     border: none!important;    float: right;
 }
+.MsoNormalTable{
+	width: 100% !important;
+	margin : 10px auto !important;
+}

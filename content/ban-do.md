@@ -2,8 +2,8 @@
 {
     "slug": "ban-do",
     "layout": "page.html",
-    "title": "bản đồ",
-    "description": "Bản đồ huyên Đắk Sông",
+    "title": "Bản đồ",
+    "description": "Bản đồ hành chính huyện Đắk Song",
     "date": "02-11-2016 16:46:45",
     "permalink": "",
     "category": "",

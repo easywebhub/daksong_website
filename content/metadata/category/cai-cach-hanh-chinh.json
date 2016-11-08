@@ -1,11 +1,11 @@
 {
     "sortBy": "date",
     "reverse": true,
-        "metadata": {"title":"Tin an toàn giao thông"},
-    "displayName": "Tin an toàn giao thông",
+    "metadata": {"title":"Cải cách hành chính"},
+    "displayName": "Cải cách hành chính",
     "perPage": 10,
     "noPageOne": true,
-    "layout": "public.category.html",
+    "layout": "cai-cach-hanh-chinh.category.html",
     "first": ":categoryPath/index.html",
     "path": ":categoryPath/page/:num/index.html"
 }

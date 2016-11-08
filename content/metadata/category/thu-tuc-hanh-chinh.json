@@ -1,11 +1,11 @@
 {
     "sortBy": "date",
     "reverse": true,
-    "metadata": {"title":"Chiến lượt phát triển"},
-    "displayName":"Chiến lượt phát triển",
+            "metadata": {"title":"Thủ tục hành chính"},
+    "displayName":"Thủ tục hành chính",
     "perPage": 10,
     "noPageOne": true,
-    "layout": "public.category.html",
+    "layout": "thu-tuc-hanh-chinh.category.html",
     "first": ":categoryPath/index.html",
     "path": ":categoryPath/page/:num/index.html"
 }

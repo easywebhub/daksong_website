@@ -2,19 +2,118 @@
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
-<td id="MSOZoneCell_WebPartWPQ19" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%" style="width:210px">
+<td id="MSOZoneCell_WebPartWPQ19" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%" style="">
 <tbody><tr>
-	<td valign="top"><div webpartid="c96d4faa-fc96-4159-b7f9-6b2ad647ade0" haspers="false" id="WebPartWPQ19" class="ms-WPBody noindex" allowdelete="false" style="width:210px;overflow:auto;"><table id="ctl00_m_g_c96d4faa_fc96_4159_b7f9_6b2ad647ade0" cellpadding="0" cellspacing="0" border="0" width="210"><tbody><tr><td>
-		<div class="thongbao" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts"><div class="container_top1"><div style="CURSOR: pointer" class="container_top_left1"><div class="div_header_style1"><a style="TEXT-TRANSFORM: uppercase; FONT-SIZE: 11px; FONT-WEIGHT: bold; TEXT-DECORATION: none" class="a_header_style1" href="/giay-moi">Thông báo giấy mời</a></div></div><div class="container_top_right1"><div class="container_top_mid1"></div><marquee id="scroll_header1" direction="up" height="214px" scrollamount="1" scrolldelay="25" onmouseover="javascript:this.stop()" onmouseout="javascript:this.start()" style="height: 214px;"><div class="container_mid1"><div class="container_mid_main1"><div class="thongbao-detail"><table border="0" cellspacing="0" cellpadding="0"><tbody>
+	<td valign="top">
+		
+		
+		<div webpartid="c96d4faa-fc96-4159-b7f9-6b2ad647ade0" haspers="false" id="WebPartWPQ19" class="ms-WPBody noindex" allowdelete="false" style="overflow:auto;"><table id="ctl00_m_g_c96d4faa_fc96_4159_b7f9_6b2ad647ade0" cellpadding="0" cellspacing="0" border="0" width=""><tbody><tr><td>
+		<div class="thongbao" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts"><div class="container_top1">
+			
+			
+			
+			<div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+   							<div class="div-link-navheader"><span class="linkEmpty"> THÔNG BÁO GIẤY MỜI
+   
+   </span></div>
+   						</div>
+			
+			<div class="container_top_right1"><div class="container_top_mid1"></div><marquee id="scroll_header1" direction="up" height="214px" scrollamount="1" scrolldelay="25" onmouseover="javascript:this.stop()" onmouseout="javascript:this.start()" style="height: 214px;"><div class="container_mid1"><div class="container_mid_main1"><div class="thongbao-detail"><table border="0" cellspacing="0" cellpadding="0"><tbody>
 		
 			{{#each (first (lookup (lookupCategory AllCategory 'thong-bao-giay-moi.giay-moi') 'files') 7) }}
 			<tr><td style="FONT-SIZE: 9px" class="LItemDot" valign="top"></td><td class="LItem"><a class="LItem" title="" href="{{slug}}"> {{title}}</a></td></tr>
 			{{/each}}
 			</tbody></table></div></div></div></marquee></div>
-	</div></div></td></tr></tbody></table></div></td>
+	</div></div></td></tr></tbody></table></div>
+	
+	
+	
+	</td>
 </tr>
 </tbody></table><div class="ms-PartSpacingVertical"></div></td>
 </tr><tr>
+
+
+
+
+<td valign="top">
+<div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ4" width="100%" class="ms-WPBody noindex" onlyformepart="true" allowdelete="false" style="">
+	<div id="ctl00_g_5a98f478_4f49_4a9d_acad_af6c773cdc07">
+		<!-- <link type="text/css" href="/_CONTROLTEMPLATES/LacViet.CMS.ViewPageManager/css/style_left_menu.css" rel="stylesheet" /> -->
+		<script type="text/javascript" src="/_CONTROLTEMPLATES/LacViet.CMS.ViewPageManager/js/jquery-1.4.1.js"></script>
+		<script type="text/javascript">
+		var jLeftMenu = jQuery.noConflict();
+		jLeftMenu(function($) {
+
+			$(document).ready(function() {
+
+				$('div.ms-navheader').each(function() {
+					var childs = $(this).siblings('ul');
+					if (childs.html() == null || childs.html() == "")
+						$(this).attr("onclick", "#");
+
+				});
+
+				var CurrentPath = jLeftMenu.trim(jLeftMenu("div#LeftMenuWebName").text());
+				var CurrentHomeChild = jLeftMenu("a.leftsubmenu[href*='" + CurrentPath + "']");
+				CurrentHomeChild.parent().parent().parent().addClass("classshow");
+
+			});
+
+
+			$("div.ms-navheader").mouseover(function() {
+
+				$(this).addClass("heading-hover");
+
+			}).mouseout(function() {
+				$(this).removeClass("heading-hover");
+			});
+			$("div.ms-navheader-icon").mouseover(function() {
+				$(this).addClass("heading-hover");
+
+			}).mouseout(function() {
+				$(this).removeClass("heading-hover");
+			});
+			$("div.ms-navItem").mouseover(function() {
+				$(this).addClass("ms-navItem-hover");
+			}).mouseout(function() {
+				$(this).removeClass("ms-navItem-hover");
+			});
+			$("div.ms-navItem-icon").mouseover(function() {
+				$(this).addClass("ms-navItem-hover");
+			}).mouseout(function() {
+				$(this).removeClass("ms-navItem-hover");
+			});
+		});
+	</script>
+		<div id="LeftMenuWebName" style="display:none">
+			TinTuc
+		</div>
+		<div id="ctl00_g_5a98f478_4f49_4a9d_acad_af6c773cdc07_ctl00_myPanel">
+			<div class="navList">
+				<ul class="ms-quickLaunch" id="menuproduct_b897631c-a511-436c-b5d3-28b75b851864" onload="collapseMenu(null,'menuproduct_b897631c-a511-436c-b5d3-28b75b851864')">
+					<li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+						<div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+							<div class="div-link-navheader"><span class="linkEmpty"> Bản đồ hành chính
+
+</span></div>
+						</div>
+						<div>
+							<div style="height: 130px;overflow: hidden;">
+								<a href="/ban-do/"><img src="/sites/default/themes/daksongtpl/images/layout/bando.png" alt="bando.png" _moz_resizing="true" width="220"> &#8203;</a>
+							</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+</td>
+
+
+
+
 <td id="MSOZoneCell_WebPartWPQ9" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr>
 	<td valign="top"><div webpartid="f5e274f5-1359-426f-b784-c4070e8995f9" haspers="false" id="WebPartWPQ9" width="100%" class="ms-WPBody noindex" allowdelete="false" style=""><table id="ctl00_m_g_f5e274f5_1359_426f_b784_c4070e8995f9" cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>
@@ -91,6 +190,10 @@ function popupactiveLink(right, newsid, menuid, img) {
 	</td></tr></tbody></table></div></td>
 </tr>
 </tbody></table><div class="ms-PartSpacingVertical"></div></td>
+
+
+
+
 </tr><tr>
 <td id="MSOZoneCell_WebPartWPQ15" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr>

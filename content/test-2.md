@@ -17,8 +17,8 @@
     "ngay_ban_hanh": "",
     "tai_lieu_dinh_kem": "img/Chrysanthemum.jpg",
     "banner": "",
-    "draft": "",
-    "url": "",
+    
+   
     "hinh_thuc_van_ban":""
 }
 ---

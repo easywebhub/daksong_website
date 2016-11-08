@@ -18,7 +18,8 @@
     "tai_lieu_dinh_kem": "img/Chrysanthemum.jpg",
     "banner": "",
     "draft": "",
-    "url": ""
+    "url": "",
+    "hinh_thuc_van_ban":""
 }
 ---
 noi dung

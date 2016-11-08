@@ -17,7 +17,7 @@
           </DIV>
            
 
-<script>
+<!--<script>
 
             function linkFacebook(title) {
               window.open('http://www.facebook.com/sharer/sharer.php?u=' + document.URL + '&t=' + title);
@@ -30,7 +30,7 @@
             function linkDelicious(title) {
               window.open('http://del.icio.us/post?url=' + document.URL + '&title= + title');
             }
-          </script>
+          </script>-->
         <DIV class="css_linkstoweb"><div id="id_link_delicious" class="css_link_delicious" onclick="linkDelicious('“Vùng đất chết’’ hồi sinh');">&nbsp;</div><div id="id_link_twitter" class="css_link_twitter" onclick="linkTwitter('“Vùng đất chết’’ hồi sinh');">&nbsp;</div><div id="id_link_facebook" class="css_link_facebook" onclick="linkFacebook('“Vùng đất chết’’ hồi sinh');">&nbsp;</div><DIV id="sendEmail" class="css_sendEmail">&nbsp;</DIV></DIV></DIV>
 
       </div></div></td>
@@ -39,9 +39,65 @@
      </tr><tr>
      <td id="MSOZoneCell_WebPartWPQ11" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
      <tr>
-      <td valign="top"><div WebPartID="0a77e6a6-680a-4eb5-a384-96ba554a7657" HasPers="false" id="WebPartWPQ11" width="100%" class="ms-WPBody noindex" allowDelete="false" style="" ><div id="ctl00_m_g_0a77e6a6_680a_4eb5_a384_96ba554a7657">
+      <table class="ds_VBPL" rules="rows" cellpadding="0" cellspacing="0" border="0"><tbody><tr class="row_title"><td class="HD_TTTHC" width="">Tên thủ tục</td><td class="HD_LinhVuc" width="">Lĩnh vực</td><td class="HD_FileDinhKem">Tệp đính kèm</td></tr>
+      	{{#each  pagination.files }}
+     
+      <tr class="
+                td_row1"><td class="DT_TTTHC" onclick="_doPostBack('CustomList_ItemDetail','123')">{{title}} </td><td class="DT_LinhVuc" onclick="_doPostBack('CustomList_ItemDetail','123')">{{linh_vuc}}</td><td class="dvc_att"> <a href="{{tai_lieu_dinh_kem}}">Tải</a> </td></tr>
+       {{/each}}         
+                </tbody></table>
 
-      </div></div></td>
+                <div style="float: right">
+            
+
+<style>
+.pageBeforeCurrent, .pageAfterCurrent
+{
+    text-decoration:underline;
+    cursor:hand;
+}
+</style>
+<table border="0" cellpadding="0" cellspacing="0" class="pagingContainer">
+    <tbody><tr>
+        <td>
+            <a href="#"></a>
+        </td>
+        <td>
+            <a href="#"></a>
+        </td>
+        <td>
+            <table><tbody><tr id="ctl00_m_g_83008a6d_c9c6_4afc_bf75_c1d0b01b1795_ctl00_PagingControl_beforeCurrentPage" class="pageBeforeCurrent">
+						<td style="display:none;"></td>
+					</tr>
+					</tbody></table>
+        </td>
+      
+        <td>
+            <table><tbody><tr id="ctl00_m_g_83008a6d_c9c6_4afc_bf75_c1d0b01b1795_ctl00_PagingControl_afterCurrentPage" class="pageAfterCurrent">
+						    <ul class="pagination">
+
+                    <li>
+                      {{#if pagination}}
+                        <nav class="pagination">
+                            {{#if pagination.next}}
+          <a href="/{{removeIndex pagination.next.path}}" class="btn">&lt; Trước</a>
+        {{/if}}
+
+        {{#if pagination.previous}}
+          <a href="/{{removeIndex pagination.previous.path}}" class="btn">Sau &gt;</a>
+        {{/if}}
+                        </nav>
+                        {{/if}}
+
+                    </li>
+                </ul>
+					</tr>
+					</tbody></table>
+        </td>
+        
+    </tr>
+</tbody></table>
+        </div>
      </tr>
      </table><div class="ms-PartSpacingVertical"></div></td>
      </tr><tr>
@@ -50,11 +106,13 @@
       <td valign="top"><div WebPartID="8df91751-13bb-4d87-adcf-493d9b19d2cc" HasPers="false" id="WebPartWPQ12" width="100%" class="ms-WPBody noindex" allowDelete="false" style="" ><div id="ctl00_m_g_8df91751_13bb_4d87_adcf_493d9b19d2cc">
         <DIV id="part2" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts"><TABLE  border="0" cellspacing="0" cellpadding="0" width="100%" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts"><TBODY>
 
-            {{metadata.title}}
+          
             
             
             <TR><TD class="Other" width="100%"><UL /></TD></TR></TBODY></TABLE><TABLE class="tbtinkhac" border="0" cellSpacing="0" cellPadding="0" width="100%">
-					<TBODY><TR><TD class="OtherTitle"><P class="OtherTitle">TIN ĐÃ ĐƯA</P></TD></TR></TBODY></TABLE><TABLE border="0" cellSpacing="0" cellPadding="0" width="100%">
+					<TBODY><TR><TD class="OtherTitle"><P class="OtherTitle">TIN ĐÃ ĐƯA</P></TD></TR></TBODY></TABLE>
+                    
+                    <TABLE border="0" cellSpacing="0" cellPadding="0" width="100%">
 				<TBODY><TR><TD class="Other" width="100%"><UL>
 						{{#each  pagination.files }}
 						 <li><a href="./{{slug}}">{{title}}</a>
@@ -63,6 +121,8 @@
 			             {{/each}}
 
           </UL></TD></TR></TBODY></TABLE>          <hr>
+
+          
                 <ul class="pagination">
 
                     <li>

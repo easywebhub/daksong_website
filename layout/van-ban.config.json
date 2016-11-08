@@ -153,5 +153,13 @@
         "validations": [],
         "viewOnly": false,
         "required": false
+    },
+    {
+        "name": "hinh_thuc_van_ban",
+        "displayName": "hinh_thuc_van_ban",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
     }
 ]

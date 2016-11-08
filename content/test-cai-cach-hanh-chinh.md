@@ -15,7 +15,7 @@
     "ket_qua": "\tQuyết định và Giấy khen.",
     "yeu_cau_va_dieu_kien": "5.9. Tên mẫu đơn, mẫu tờ khai: Báo cáo thành tích cá nhân (Phụ lục 2a-NV).5.10. Yêu cầu, điều kiện thực hiện thủ tục hành chính: + Hoàn thành tốt nhiệm vụ, nghĩa vụ công dân;+ Có phẩm chất đạo đức tốt; đoàn kết, gương mẫu chấp hành chủ trương, chính sách của Đảng, pháp luật của Nhà nước;+ Thường xuyên học tập nâng cao trình độ chuyên môn, nghiệp vụ.",
     "le_phi": "không",
-    "lich_vuc": "\tLĩnh vực nội vụ",
+    "linh_vuc": "\tLĩnh vực nội vụ",
     "attachmments": "",
     "tai_lieu_dinh_kem": ""
 }

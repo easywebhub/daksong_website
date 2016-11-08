@@ -8,7 +8,7 @@
     "tieu_de": "test góp ý dự thảo văn bản qppl",
     "mo_ta": "mo ta góp ý dự thảo văn bản qppl",
     "tieu_de_dinh_kem": "Để tải bản dự thảo kế hoạch, quyết định",
-    "ten_tai_dinh_kem": "tải về",
+    "ten_dinh_kem": "tải về",
     "tai_lieu_dinh_kem": "img/aa.jpeg"
 }
 ---

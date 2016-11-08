@@ -1,0 +1,156 @@
+[
+    {
+        "name": "slug",
+        "displayName": "slug",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": true,
+        "required": false
+    },
+    {
+        "name": "layout",
+        "displayName": "layout",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": true,
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "ShortText",
+        "name": "category",
+        "displayName": "danh mục",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "tag",
+        "displayName": "tag",
+        "type": "Array",
+        "validations": [],
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "ShortText",
+        "name": "title",
+        "displayName": "tên thủ tục",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "date",
+        "displayName": "date",
+        "displayType": "DateTime",
+        "type": "DateTime",
+        "validations": [],
+        "viewOnly": true,
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "ShortText",
+        "name": "co_quan_thuc_hien",
+        "displayName": "cơ quan thực hiện",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "LongText",
+        "name": "co_so_phap_ly",
+        "displayName": "cơ sở pháp lý",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "ShortText",
+        "name": "thoi_gian_giai_quyet",
+        "displayName": "thời gian giải quyết",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "LongText",
+        "name": "trinh_tu_thuc_hien",
+        "displayName": "trình tự thực hiện",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "ShortText",
+        "name": "ket_qua",
+        "displayName": "kết quả",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "ShortText",
+        "name": "doi_tuong_thuc_hien",
+        "displayName": "đối tượng thực hiện",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "ShortText",
+        "name": "le_phi",
+        "displayName": "lệ phí",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "attachmments",
+        "displayName": "attachmments",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "tai_lieu_dinh_kem",
+        "displayName": "tài liệu đính kèm",
+        "required": true,
+        "type": "Media"
+    },
+    {
+        "type": "Text",
+        "displayType": "LongText",
+        "name": "yeu_cau_va_dieu_kien",
+        "displayName": "yêu cầu và điều kiện",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "ShortText",
+        "name": "cach_thuc_thuc_hien",
+        "displayName": "cách thực thực hiện",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "ShortText",
+        "name": "linh_vuc",
+        "displayName": "lĩnh vực",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    }
+]

@@ -6,7 +6,6 @@
     "description": "",
     "date": "01-11-2016 14:20:33",
     "permalink": "",
-    "category": "quan-ly-nha-nuoc",
     "tag": []
 }
 ---

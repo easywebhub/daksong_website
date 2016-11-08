@@ -9,6 +9,7 @@
     "co_quan_thuc_hien": "phòng Nội vụu, UBND huyện",
     "trinh_tu_thuc_hien": "",
     "cac_thuc_thuc_hien": "",
+    "co_so_phap_ly":"",
     "thoi_gian_giai_quyet": "",
     "doi_tuong_thuc_hien": "",
     "ket_qua": "",

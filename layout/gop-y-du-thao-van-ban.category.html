@@ -118,7 +118,7 @@
                     
                     <TABLE border="0" cellSpacing="0" cellPadding="0" width="100%">
 				<TBODY><TR><TD class="Other" width="100%"><UL>
-						  {{#each (first  (lookup (lookupCategory ../AllCategory 'gop-y-du-thao-van-ban-qppl') 'files') 6) }}
+						  {{#each (first pagination.files 6)}}
 						 <li><a href="./{{slug}}">{{tieu_de}}</a>
 							 <SPAN class="ShowDate">({{date}})</SPAN>
 						 </li>

@@ -5,7 +5,6 @@
     "tag": [],
     "layout": "cai-cach-hanh-chinh.html",
     "title": "test cải cách hành chình",
-    "description": "",
     "date": "08-11-2016 14:30:33",
     "co_quan_thuc_hien":"",
     "trinh_tu_thuc_hien":"",

@@ -14,7 +14,7 @@
     "linh_vuc": "",
     "loai_van_ban": "",
     "nguoi_ky": "",
-    "ngay_co_hieu_luc": "",
+    "ngay_ban_hanh": "",
     "tai_lieu_dinh_kem": "img/Chrysanthemum.jpg",
     "banner": "",
     "draft": "",

@@ -7,7 +7,7 @@
     "title": "test 2",
     "description": "mo ta",
     "date": "01-11-2016 09:08:09",
-    "so": "123",
+    "so_hieu": "123",
     "permalink": true,
     "trich_yeu": "noi dung",
     "co_quan_ban_hanh": "co quan ban hanh",

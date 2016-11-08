@@ -76,9 +76,9 @@
     },
     {
         "type": "Text",
-        "displayType": "ShortText",
+        "displayType": "LongText",
         "name": "trich_yeu",
-        "displayName": "trích yếu",
+        "displayName": "trích yếu nội dung",
         "validations": [],
         "viewOnly": false,
         "required": false
@@ -155,11 +155,18 @@
         "required": false
     },
     {
-        "name": "hinh_thuc_van_ban",
-        "displayName": "hinh_thuc_van_ban",
         "type": "Text",
+        "displayType": "LongText",
+        "name": "hinh_thuc_van_ban",
+        "displayName": "hình thức văn bản",
         "validations": [],
         "viewOnly": false,
         "required": false
+    },
+    {
+        "name": "ngay_ban_hanh",
+        "displayName": "ngày ban hành",
+        "displayType": "DateTime",
+        "type": "DateTime"
     }
 ]

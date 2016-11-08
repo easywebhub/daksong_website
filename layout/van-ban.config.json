@@ -168,5 +168,13 @@
         "displayName": "ngày ban hành",
         "displayType": "DateTime",
         "type": "DateTime"
+    },
+    {
+        "name": "so_hieu",
+        "displayName": "so_hieu",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
     }
 ]

@@ -7,7 +7,7 @@
     "title": "test 2",
     "description": "mo ta",
     "date": "01-11-2016 09:08:09",
-    "so_hieu": "123",
+    "so": "",
     "permalink": true,
     "trich_yeu": "noi dung",
     "co_quan_ban_hanh": "co quan ban hanh",
@@ -19,8 +19,9 @@
     "banner": "",
     "draft": "",
     "url": "",
-    "hinh_thuc_van_ban": "",
-    "ngay_ban_hanh": "08-11-2016"
+    "hinh_thuc_van_ban": "hinh thuc ban hanh",
+    "ngay_ban_hanh": "08-11-2016",
+    "so_hieu": "123"
 }
 ---
 noi dung

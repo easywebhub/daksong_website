@@ -41,18 +41,26 @@
      <tr>
       <table class="ds_VBPL" rules="rows" cellpadding="0" cellspacing="0" border="0">
           <tbody><tr class="row_title">
-              <td class="HD_TTTHC" width="">Số hiệu</td>
-              <td class="HD_LinhVuc" width="">Cơ quan ban hành</td>
-              <td class="HD_FileDinhKem">Hình thức ban hành</td>
-               <td class="HD_TTTHC" width="">Lĩnh vực</td>
-              <td class="HD_LinhVuc" width="">Trích yếu nội dung</td>
-              <td class="HD_FileDinhKem">Ngày ban hành</td>
-              <td class="HD_FileDinhKem">Tải về</td>
+              <td>Số hiệu</td>
+              <td>Cơ quan ban hành</td>
+              <td>Hình thức văn bản</td>
+               <td>Lĩnh vực</td>
+              <td >Trích yếu nội dung</td>
+              <td>Ngày ban hành</td>
+              <td>Tải về</td>
               </tr>
       	{{#each  pagination.files }}
      
       <tr class="
-                td_row1"><td class="DT_TTTHC" onclick="_doPostBack('CustomList_ItemDetail','123')">{{title}} </td><td class="DT_LinhVuc" onclick="_doPostBack('CustomList_ItemDetail','123')">{{linh_vuc}}</td><td class="dvc_att"> <a href="{{tai_lieu_dinh_kem}}">Tải</a> </td></tr>
+                td_row1">
+                <td class="DT_TTTHC" onclick="_doPostBack('CustomList_ItemDetail','123')">{{so_hieu}} </td>
+                <td class="DT_LinhVuc" onclick="_doPostBack('CustomList_ItemDetail','123')">{{co_quan_ban_hanh}}</td>
+                <td class="dvc_att">{{hinh_thuc_van_ban}}</td>
+                 <td class="DT_TTTHC" onclick="_doPostBack('CustomList_ItemDetail','123')">{{linh_vuc}} </td>
+                <td class="DT_LinhVuc" onclick="_doPostBack('CustomList_ItemDetail','123')">{{trich_yeu}}</td>
+                <td class="dvc_att">{{ngay_ban_hanh}}</td>
+                <td class="dvc_att"> <a href="{{tai_lieu_dinh_kem}}">Tải</a> </td>
+                </tr>
        {{/each}}         
                 </tbody></table>
 

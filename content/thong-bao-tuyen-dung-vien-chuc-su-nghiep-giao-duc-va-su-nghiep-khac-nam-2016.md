@@ -1,10 +1,8 @@
 ---json
 {
     "slug": "thong-bao-tuyen-dung-vien-chuc-su-nghiep-giao-duc-va-su-nghiep-khac-nam-2016",
-    "category": "thong-tin-ieu-hanh.thong-tin-chi-ao-ieu-hanh",
-    "tag": [
-        "tin-tuc-noi-bat"
-    ],
+    "category": "thong-bao-giay-moi.thong-bao",
+    "tag": [],
     "layout": "van-ban.html",
     "title": "Thông báo: Tuyển dụng viên chức sự nghiệp giáo dục và sự nghiệp khác năm 2016",
     "description": "",
@@ -17,15 +15,20 @@
     "loai_van_ban": "",
     "nguoi_ky": "",
     "ngay_co_hieu_luc": "",
-    "tai_lieu_dinh_kem": ""
+    "tai_lieu_dinh_kem": "",
+    "banner": "",
+    "draft": "",
+    "url": "",
+    "hinh_thuc_van_ban": "",
+    "ngay_ban_hanh": "",
+    "so_hieu": ""
 }
 ---
-UBND Huyện Đăk Song thông báo: Tuyển dụng viên chức sự nghiệp giáo dục và sự nghiệp khác trực thuộc UBND huyện năm 2016.
+<p>UBND Huyện Đăk Song thông báo: Tuyển dụng viên chức sự nghiệp giáo dục và sự nghiệp khác trực thuộc UBND huyện năm 2016.
 
 ![](http://www.mediafire.com/convkey/7601/cf0c5r6ud9wu6npzg.jpg)
 
 (Tải về theo file bên dưới)
-
-Thông báo tuyển dụng: http://www.mediafire.com/file/herwwwwg8p56yjg/Thong_bao_TD.pdf
-
-Chỉ tiêu tuyển dụng: http://www.mediafire.com/file/asj8b489q1cg677/CHI_TIEU_TUYEN_DUNG.pdf
+</p><p>
+Thông báo tuyển dụng:&nbsp;<a href="http://www.mediafire.com/file/herwwwwg8p56yjg/Thong_bao_TD.pdf">Tải về</a></p><p>
+Chỉ tiêu tuyển dụng:&nbsp;<a href="http://www.mediafire.com/file/asj8b489q1cg677/CHI_TIEU_TUYEN_DUNG.pdf">Tải về</a></p>

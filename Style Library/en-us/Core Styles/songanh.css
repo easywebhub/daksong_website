@@ -2605,3 +2605,7 @@ a img{
 	width: 100% !important;
 	margin : 10px auto !important;
 }
+.MsoTableGrid img {
+    width: 100% !important;
+    max-width: 100% !important;
+}

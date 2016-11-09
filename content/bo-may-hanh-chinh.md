@@ -4,7 +4,7 @@
     "layout": "page.html",
     "title": "Bộ máy hành chính",
     "description": "",
-    "date": "2016-07-25 22:43:57",
+    "date": "01-11-2016 00:00:00",
     "permalink": true,
     "category": "",
     "tag": ""
@@ -45,9 +45,9 @@
 
 <p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;">Địa chỉ: Thị trấn Đức An, huyện Đắk Song, tỉnh Đắk Nông<o:p></o:p></span></p>
 
-<p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><b><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p>&nbsp;</o:p></span></b></p>
+<p class="MsoNormal" style="text-align: center; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><b><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p>&nbsp;</o:p></span></b></p>
 
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border: none;">
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="text-align: center; border: none;">
  <tbody><tr>
   <td width="211" valign="top" style="width:2.2in;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
@@ -166,7 +166,7 @@ dân và Ủy ban nhân dân huyện<o:p></o:p></span></i></p>
 
 <p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><b><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;">Lãnh đạo HĐND huyện<o:p></o:p></span></b></p>
 
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border: none;">
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="text-align: center; border: none;">
  <tbody><tr>
   <td width="211" valign="top" style="width:2.2in;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
@@ -271,7 +271,7 @@ dân và Ủy ban nhân dân huyện<o:p></o:p></span></i></p>
 
 <p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><b><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;">Danh sách Đại biểu Hội đồng nhân dân huyện<o:p></o:p></span></b></p>
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0">
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="text-align: center;">
  <tbody><tr>
   <td width="54" valign="top" style="width:40.85pt;border:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt">
@@ -1289,7 +1289,7 @@ dân và Ủy ban nhân dân huyện<o:p></o:p></span></i></p>
 
 <p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><b><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;">Lãnh đạo UBND huyện<o:p></o:p></span></b></p>
 
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border: none;">
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="text-align: center; border: none;">
  <tbody><tr>
   <td width="162" valign="top" style="width:121.35pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
@@ -1397,8 +1397,7 @@ dân và Ủy ban nhân dân huyện<o:p></o:p></span></i></p>
 
 <p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><b><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;">Danh sách thành viên Uỷ ban nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p></o:p></span></p>
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="594" style="width:445.5pt;mso-cellspacing:0in;mso-yfti-tbllook:1184;mso-padding-alt:
- 0in 0in 0in 0in">
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="594" style="text-align: center; width: 445.5pt;">
  <tbody><tr>
   <td width="37" valign="top" style="width:27.7pt;border:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt">
@@ -1600,8 +1599,7 @@ dân và Ủy ban nhân dân huyện<o:p></o:p></span></i></p>
 <p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><b><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;">Lãnh đạo các phòng ban, ban trực thuộc Uỷ ban
 nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p></o:p></span></p>
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="604" style="width:452.95pt;mso-cellspacing:0in;mso-yfti-tbllook:1184;mso-padding-alt:
- 0in 0in 0in 0in">
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="604" style="text-align: center; width: 452.95pt;">
  <tbody><tr>
   <td width="50" style="width:37.35pt;border:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
@@ -2588,8 +2586,8 @@ nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Ti
  </tr>
 </tbody></table>
 
-<p class="MsoNormal"><span style="font-size:13.0pt;line-height:115%;font-family:
+<p class="MsoNormal" style="text-align: center;"><span style="font-size:13.0pt;line-height:115%;font-family:
 &quot;Times New Roman&quot;,&quot;serif&quot;"><o:p>&nbsp;</o:p></span></p>
 
-<p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:
+<p class="MsoNormal" align="right" style="text-align: center;"><span style="font-size:
 13.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Nguồn <span style="background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">Ủy ban nhân dân tỉnh Đắk Nông</span></span><o:p></o:p></p>

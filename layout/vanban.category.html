@@ -58,11 +58,11 @@
       	{{#each  pagination.files }}
      
       <tr class="td_row1">
-                <td class="DT_TTTHC">{{so_hieu}} </td>
-                <td class="DT_LinhVuc">{{co_quan_ban_hanh}}</td>
-                <td class="dvc_att">{{hinh_thuc_van_ban}}</td>
-                 <td class="DT_TTTHC">{{linh_vuc}} </td>
-                <td class="DT_LinhVuc">{{trich_yeu}}</td>
+                <td class="DT_TTTHC"> <a href="{{slug}}">{{so_hieu}} </a>  </td>
+                <td class="DT_LinhVuc"> <a href="{{slug}}">{{co_quan_ban_hanh}} </a> </td>
+                <td class="dvc_att"> <a href="{{slug}}">{{hinh_thuc_van_ban}} </a> </td>
+                 <td class="DT_TTTHC">  {{linh_vuc}} </td>
+                <td class="DT_LinhVuc"> <a href="{{slug}}">{{trich_yeu}} </a> </td>
                 <td class="dvc_att">{{ngay_ban_hanh}}</td>
                 <td class="dvc_att"> <a href="{{tai_lieu_dinh_kem}}">Tải</a> </td>
                 </tr>
@@ -107,11 +107,11 @@
                       {{#if pagination}}
                         <nav class="pagination">
                             {{#if pagination.next}}
-          <a href="/{{removeIndex pagination.next.path}}" class="btn">&lt; Trước</a>
+          <a href="/{{removeIndex pagination.next.path}}" class="btn"> Sau &gt; </a>
         {{/if}}
 
         {{#if pagination.previous}}
-          <a href="/{{removeIndex pagination.previous.path}}" class="btn">Sau &gt;</a>
+          <a href="/{{removeIndex pagination.previous.path}}" class="btn">&lt; Trước </a>
         {{/if}}
                         </nav>
                         {{/if}}

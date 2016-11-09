@@ -1640,14 +1640,14 @@ nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Ti
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><span style="font-size:13.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">HuỳnhTấnTuấn<o:p></o:p></span></p>
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Huỳnh Tấn Tuấn<o:p></o:p></span></p>
   </td>
   <td width="293" valign="top" style="width:219.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><span style="font-size:13.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">ChánhVăn
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Chánh Văn
   phòng<o:p></o:p></span></p>
   </td>
   <td width="104" valign="top" style="width:78.0pt;border-top:none;border-left:
@@ -1679,7 +1679,7 @@ nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Ti
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><span style="font-size:13.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">PhóChánhVănphòng<o:p></o:p></span></p>
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Phó Chánh Văn phòng<o:p></o:p></span></p>
   </td>
   <td width="104" valign="top" style="width:78.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1710,7 +1710,7 @@ nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Ti
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><span style="font-size:13.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">PhóChánhVănphòng<o:p></o:p></span></p>
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Phó Chánh Văn phòng<o:p></o:p></span></p>
   </td>
   <td width="104" valign="top" style="width:78.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1733,7 +1733,7 @@ nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Ti
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><span style="font-size:13.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">ĐinhVăn
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đinh Văn
   Đô<o:p></o:p></span></p>
   </td>
   <td width="293" valign="top" style="width:219.7pt;border-top:none;border-left:
@@ -1741,7 +1741,7 @@ nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Ti
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><span style="font-size:13.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">TrưởngphòngNộivụ<o:p></o:p></span></p>
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Trưởng phòng Nội vụ<o:p></o:p></span></p>
   </td>
   <td width="104" valign="top" style="width:78.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1773,7 +1773,7 @@ nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Ti
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><span style="font-size:13.0pt;
   font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Phó
-  Trưởng phòng&nbsp;Nộivụ<o:p></o:p></span></p>
+  Trưởng phòng&nbsp;Nội vụ<o:p></o:p></span></p>
   </td>
   <td width="104" valign="top" style="width:78.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1805,7 +1805,7 @@ nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Ti
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><span style="font-size:13.0pt;
   font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Phó
-  Trưởng phòng&nbsp;Nộivụ<o:p></o:p></span></p>
+  Trưởng phòng&nbsp;Nội vụ<o:p></o:p></span></p>
   </td>
   <td width="104" valign="top" style="width:78.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1829,7 +1829,7 @@ nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Ti
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><span style="font-size:13.0pt;
   font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Trần
-  Thanh nghiêm<o:p></o:p></span></p>
+  Thanh Nghiêm<o:p></o:p></span></p>
   </td>
   <td width="293" valign="top" style="width:219.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1837,7 +1837,7 @@ nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Ti
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><span style="font-size:13.0pt;
   font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Trưởng
-  phòng&nbsp;Tàichính - Kế hoạch<o:p></o:p></span></p>
+  phòng&nbsp;Tài chính - Kế hoạch<o:p></o:p></span></p>
   </td>
   <td width="104" valign="top" style="width:78.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1868,8 +1868,7 @@ nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Ti
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><span style="font-size:13.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Phó&nbsp;
-  Trưởng phòng Tàichính - Kế hoạch<o:p></o:p></span></p>
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Phó Trưởng phòng Tài chính - Kế hoạch<o:p></o:p></span></p>
   </td>
   <td width="104" valign="top" style="width:78.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1924,7 +1923,7 @@ nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Ti
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><span style="font-size:13.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">NguyễnVănThịnh<o:p></o:p></span></p>
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Nguyễn Văn Thịnh<o:p></o:p></span></p>
   </td>
   <td width="293" valign="top" style="width:219.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1955,7 +1954,7 @@ nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Ti
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><span style="font-size:13.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">BùiNgọc<o:p></o:p></span></p>
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Bùi Ngọc<o:p></o:p></span></p>
   </td>
   <td width="293" valign="top" style="width:219.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1986,7 +1985,7 @@ nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Ti
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><span style="font-size:13.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">NguyễnNghề<o:p></o:p></span></p>
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Nguyễn Nghề<o:p></o:p></span></p>
   </td>
   <td width="293" valign="top" style="width:219.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2017,7 +2016,7 @@ nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Ti
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><span style="font-size:13.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">NguyễnVũ
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Nguyễn Vũ
   Ân<o:p></o:p></span></p>
   </td>
   <td width="293" valign="top" style="width:219.7pt;border-top:none;border-left:
@@ -2058,7 +2057,7 @@ nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Ti
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><span style="font-size:13.0pt;
   font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Trưởng
-  phòng Giáodục và Đào tạo<o:p></o:p></span></p>
+  phòng Giáo dục và Đào tạo<o:p></o:p></span></p>
   </td>
   <td width="104" valign="top" style="width:78.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2279,7 +2278,7 @@ nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Ti
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><span style="font-size:13.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Trưởngphòng
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Trưởng phòng
   Nông nghiệp và PTNT<o:p></o:p></span></p>
   </td>
   <td width="104" valign="top" style="width:78.0pt;border-top:none;border-left:
@@ -2312,7 +2311,7 @@ nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Ti
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><span style="font-size:13.0pt;
   font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Phó
-  Trưởngphòng Nông nghiệp và PTNT<o:p></o:p></span></p>
+  Trưởng phòng Nông nghiệp và PTNT<o:p></o:p></span></p>
   </td>
   <td width="104" valign="top" style="width:78.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2472,7 +2471,7 @@ nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Ti
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><span style="font-size:13.0pt;
   font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Trưởng
-  phòng Tài nguyên và môi trường<o:p></o:p></span></p>
+  phòng Tài nguyên và Môi trường<o:p></o:p></span></p>
   </td>
   <td width="104" valign="top" style="width:78.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2495,7 +2494,7 @@ nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Ti
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><span style="font-size:13.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">ĐồngVănGiáp<o:p></o:p></span></p>
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đồng Văn Giáp<o:p></o:p></span></p>
   </td>
   <td width="293" valign="top" style="width:219.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;

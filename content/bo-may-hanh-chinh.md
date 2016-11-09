@@ -10,44 +10,44 @@
     "tag": ""
 }
 ---
-<p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><b><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;">HUYỆN ỦY<o:p></o:p></span></b></p>
+<p class="MsoNormal" align="center" style="text-align: justify; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><b><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;">HUYỆN ỦY<o:p></o:p></span></b></p>
 
-<p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" align="center" style="text-align: justify; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p>&nbsp;</o:p></span></p>
 
-<p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
+<p class="MsoNormal" align="center" style="text-align: justify; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
  coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
  filled="f" stroked="f">
- <v:stroke joinstyle="miter"/>
+ <v:stroke joinstyle="miter"></v:stroke>
  <v:formulas>
-  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-  <v:f eqn="sum @0 1 0"/>
-  <v:f eqn="sum 0 0 @1"/>
-  <v:f eqn="prod @2 1 2"/>
-  <v:f eqn="prod @3 21600 pixelWidth"/>
-  <v:f eqn="prod @3 21600 pixelHeight"/>
-  <v:f eqn="sum @0 0 1"/>
-  <v:f eqn="prod @6 1 2"/>
-  <v:f eqn="prod @7 21600 pixelWidth"/>
-  <v:f eqn="sum @8 21600 0"/>
-  <v:f eqn="prod @7 21600 pixelHeight"/>
-  <v:f eqn="sum @10 21600 0"/>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"></v:f>
+  <v:f eqn="sum @0 1 0"></v:f>
+  <v:f eqn="sum 0 0 @1"></v:f>
+  <v:f eqn="prod @2 1 2"></v:f>
+  <v:f eqn="prod @3 21600 pixelWidth"></v:f>
+  <v:f eqn="prod @3 21600 pixelHeight"></v:f>
+  <v:f eqn="sum @0 0 1"></v:f>
+  <v:f eqn="prod @6 1 2"></v:f>
+  <v:f eqn="prod @7 21600 pixelWidth"></v:f>
+  <v:f eqn="sum @8 21600 0"></v:f>
+  <v:f eqn="prod @7 21600 pixelHeight"></v:f>
+  <v:f eqn="sum @10 21600 0"></v:f>
  </v:formulas>
- <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
- <o:lock v:ext="edit" aspectratio="t"/>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path>
+ <o:lock v:ext="edit" aspectratio="t"></o:lock>
 </v:shapetype><v:shape id="Picture_x0020_11" o:spid="_x0000_i1035" type="#_x0000_t75"
  alt="Description: daksong tru so huyen uy 05092012.jpg" style='width:382.5pt;
  height:228.75pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image001.jpg"
-  o:title="daksong tru so huyen uy 05092012"/>
+  o:title="daksong tru so huyen uy 05092012"></v:imagedata>
 </v:shape><![endif]--><!--[if !vml]--><img width="510" height="305" src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image001.jpg" alt="Description: daksong tru so huyen uy 05092012.jpg" v:shapes="Picture_x0020_11"><!--[endif]--></span><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p></o:p></span></p>
 
-<p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><i><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;">Trụ sở Huyện ủy​<o:p></o:p></span></i></p>
+<p class="MsoNormal" align="center" style="text-align: justify; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><i><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;">Trụ sở Huyện ủy​<o:p></o:p></span></i></p>
 
-<p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;">Địa chỉ: Thị trấn Đức An, huyện Đắk Song, tỉnh Đắk Nông<o:p></o:p></span></p>
+<p class="MsoNormal" align="center" style="text-align: justify; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;">Địa chỉ: Thị trấn Đức An, huyện Đắk Song, tỉnh Đắk Nông<o:p></o:p></span></p>
 
-<p class="MsoNormal" style="text-align: center; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><b><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p>&nbsp;</o:p></span></b></p>
+<p class="MsoNormal" style="text-align: justify; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><b><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p>&nbsp;</o:p></span></b></p>
 
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="text-align: center; border: none;">
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="text-align: justify; border: none;">
  <tbody><tr>
   <td width="211" valign="top" style="width:2.2in;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
@@ -70,7 +70,7 @@
    o:spid="_x0000_i1034" type="#_x0000_t75" alt="Description: Phan Văn Hợp bí thư huyện Đắk Song.jpg"
    style='width:89.25pt;height:117pt;visibility:visible;mso-wrap-style:square'>
    <v:imagedata src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image002.jpg"
-    o:title="Phan Văn Hợp bí thư huyện Đắk Song"/>
+    o:title="Phan Văn Hợp bí thư huyện Đắk Song"></v:imagedata>
   </v:shape><![endif]--><!--[if !vml]--><img width="119" height="156" src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image002.jpg" alt="Description: Phan Văn Hợp bí thư huyện Đắk Song.jpg" v:shapes="Picture_x0020_10"><!--[endif]--></span><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p></o:p></span></p>
   </td>
   <td width="210" valign="top" style="width:157.5pt;border-top:none;border-left:
@@ -83,7 +83,7 @@
    o:spid="_x0000_i1033" type="#_x0000_t75" alt="Description: thanh1.jpg"
    style='width:99.75pt;height:135pt;visibility:visible;mso-wrap-style:square'>
    <v:imagedata src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image003.jpg"
-    o:title="thanh1"/>
+    o:title="thanh1"></v:imagedata>
   </v:shape><![endif]--><!--[if !vml]--><img width="133" height="180" src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image003.jpg" alt="Description: thanh1.jpg" v:shapes="Picture_x0020_9"><!--[endif]--></span></b><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p></o:p></span></p>
   </td>
   <td width="217" valign="top" style="width:162.9pt;border-top:none;border-left:
@@ -96,7 +96,7 @@
    o:spid="_x0000_i1032" type="#_x0000_t75" alt="Description: 11Nguyenhuukhanh, pho bi thu.jpg"
    style='width:99.75pt;height:135pt;visibility:visible;mso-wrap-style:square'>
    <v:imagedata src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image004.jpg"
-    o:title="11Nguyenhuukhanh, pho bi thu"/>
+    o:title="11Nguyenhuukhanh, pho bi thu"></v:imagedata>
   </v:shape><![endif]--><!--[if !vml]--><img width="133" height="180" src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image004.jpg" alt="Description: 11Nguyenhuukhanh, pho bi thu.jpg" v:shapes="Picture_x0020_8"><!--[endif]--></span></b><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p></o:p></span></p>
   </td>
  </tr>
@@ -144,29 +144,28 @@
  </tr>
 </tbody></table>
 
-<p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" align="center" style="text-align: justify; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p>&nbsp;</o:p></span></p>
 
-<p class="MsoNormal" align="center" style="margin-bottom: 12pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><br>
-</span><b><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;">HĐND - UBND huyện
-Đắk&nbsp;Song<o:p></o:p></span></b></p>
+<p class="MsoNormal" align="center" style="margin-bottom: 12pt; text-align: center; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><div style="text-align: justify;"><font face="Times New Roman, serif"><span style="font-size: 17.3333px; line-height: normal;"><br></span></font></div><b style="line-height: normal;"><div style="text-align: justify;"><b><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;">HĐND - UBND huyện
+Đắk&nbsp;Song</span></b></div></b></p>
 
-<p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><!--[if gte vml 1]><v:shape id="Picture_x0020_7"
+<p class="MsoNormal" align="center" style="text-align: justify; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><!--[if gte vml 1]><v:shape id="Picture_x0020_7"
  o:spid="_x0000_i1031" type="#_x0000_t75" alt="Description: 120688.jpg"
  style='width:450pt;height:229.5pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image005.jpg"
-  o:title="120688"/>
+  o:title="120688"></v:imagedata>
 </v:shape><![endif]--><!--[if !vml]--><img width="600" height="306" src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image005.jpg" alt="Description: 120688.jpg" v:shapes="Picture_x0020_7"><!--[endif]--></span><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p></o:p></span></p>
 
-<p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><i><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;">Trụ sở: Hội đồng nhân
+<p class="MsoNormal" align="center" style="text-align: justify; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><i><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;">Trụ sở: Hội đồng nhân
 dân và Ủy ban nhân dân huyện<o:p></o:p></span></i></p>
 
-<p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;">Địa chỉ: Thị trấn Đức An, huyện Đắk Song, tỉnh Đắk Nông<o:p></o:p></span></p>
+<p class="MsoNormal" align="center" style="text-align: justify; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;">Địa chỉ: Thị trấn Đức An, huyện Đắk Song, tỉnh Đắk Nông<o:p></o:p></span></p>
 
-<p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" align="center" style="text-align: justify; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p>&nbsp;</o:p></span></p>
 
-<p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><b><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;">Lãnh đạo HĐND huyện<o:p></o:p></span></b></p>
+<p class="MsoNormal" align="center" style="text-align: justify; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><b><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;">Lãnh đạo HĐND huyện<o:p></o:p></span></b></p>
 
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="text-align: center; border: none;">
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="text-align: justify; border: none;">
  <tbody><tr>
   <td width="211" valign="top" style="width:2.2in;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
@@ -190,7 +189,7 @@ dân và Ủy ban nhân dân huyện<o:p></o:p></span></i></p>
    o:spid="_x0000_i1030" type="#_x0000_t75" alt="Description: 11Nguyenhuukhanh, pho bi thu.jpg"
    style='width:99.75pt;height:135pt;visibility:visible;mso-wrap-style:square'>
    <v:imagedata src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image004.jpg"
-    o:title="11Nguyenhuukhanh, pho bi thu"/>
+    o:title="11Nguyenhuukhanh, pho bi thu"></v:imagedata>
   </v:shape><![endif]--><!--[if !vml]--><img width="133" height="180" src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image004.jpg" alt="Description: 11Nguyenhuukhanh, pho bi thu.jpg" v:shapes="Picture_x0020_14"><!--[endif]--></span></b><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p></o:p></span></p>
   </td>
   <td width="210" valign="top" style="width:157.5pt;border-top:none;border-left:
@@ -224,7 +223,7 @@ dân và Ủy ban nhân dân huyện<o:p></o:p></span></i></p>
    o:spid="_x0000_i1029" type="#_x0000_t75" alt="Description: tương1.jpg"
    style='width:99.75pt;height:135pt;visibility:visible;mso-wrap-style:square'>
    <v:imagedata src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image006.jpg"
-    o:title="tương1"/>
+    o:title="tương1"></v:imagedata>
   </v:shape><![endif]--><!--[if !vml]--><img width="133" height="180" src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image006.jpg" alt="Description: tương1.jpg" v:shapes="Picture_x0020_5"><!--[endif]--></span></b><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p></o:p></span></p>
   </td>
  </tr>
@@ -267,11 +266,11 @@ dân và Ủy ban nhân dân huyện<o:p></o:p></span></i></p>
  </tr>
 </tbody></table>
 
-<p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" align="center" style="text-align: justify; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p>&nbsp;</o:p></span></p>
 
-<p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><b><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;">Danh sách Đại biểu Hội đồng nhân dân huyện<o:p></o:p></span></b></p>
+<p class="MsoNormal" align="center" style="text-align: justify; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><b><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;">Danh sách Đại biểu Hội đồng nhân dân huyện<o:p></o:p></span></b></p>
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="text-align: center;">
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="text-align: justify;">
  <tbody><tr>
   <td width="54" valign="top" style="width:40.85pt;border:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt">
@@ -1283,13 +1282,13 @@ dân và Ủy ban nhân dân huyện<o:p></o:p></span></i></p>
  </tr>
 </tbody></table>
 
-<p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;">​<o:p></o:p></span></p>
+<p class="MsoNormal" align="center" style="text-align: justify; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;">​<o:p></o:p></span></p>
 
-<p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" align="center" style="text-align: justify; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p>&nbsp;</o:p></span></p>
 
-<p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><b><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;">Lãnh đạo UBND huyện<o:p></o:p></span></b></p>
+<p class="MsoNormal" align="center" style="text-align: justify; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><b><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;">Lãnh đạo UBND huyện<o:p></o:p></span></b></p>
 
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="text-align: center; border: none;">
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="text-align: justify; border: none;">
  <tbody><tr>
   <td width="162" valign="top" style="width:121.35pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
@@ -1312,7 +1311,7 @@ dân và Ủy ban nhân dân huyện<o:p></o:p></span></i></p>
    o:spid="_x0000_i1028" type="#_x0000_t75" alt="Description: thanh1.jpg"
    style='width:99.75pt;height:135pt;visibility:visible;mso-wrap-style:square'>
    <v:imagedata src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image003.jpg"
-    o:title="thanh1"/>
+    o:title="thanh1"></v:imagedata>
   </v:shape><![endif]--><!--[if !vml]--><img width="133" height="180" src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image003.jpg" alt="Description: thanh1.jpg" v:shapes="Picture_x0020_4"><!--[endif]--></span><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p></o:p></span></p>
   </td>
   <td width="163" valign="top" style="width:122.5pt;border-top:none;border-left:
@@ -1324,7 +1323,7 @@ dân và Ủy ban nhân dân huyện<o:p></o:p></span></i></p>
    id="Picture_x0020_3" o:spid="_x0000_i1027" type="#_x0000_t75" alt="Description: Nguyễn Văn Phò.jpg"
    style='width:99.75pt;height:135pt;visibility:visible;mso-wrap-style:square'>
    <v:imagedata src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image007.jpg"
-    o:title="Nguyễn Văn Phò"/>
+    o:title="Nguyễn Văn Phò"></v:imagedata>
   </v:shape><![endif]--><!--[if !vml]--><img width="133" height="180" src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image007.jpg" alt="Description: Nguyễn Văn Phò.jpg" v:shapes="Picture_x0020_3"><!--[endif]--></span></b><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p></o:p></span></p>
   </td>
   <td width="165" valign="top" style="width:123.65pt;border-top:none;border-left:
@@ -1336,7 +1335,7 @@ dân và Ủy ban nhân dân huyện<o:p></o:p></span></i></p>
    id="Picture_x0020_2" o:spid="_x0000_i1026" type="#_x0000_t75" alt="Description: sinh1.jpg"
    style='width:99.75pt;height:135pt;visibility:visible;mso-wrap-style:square'>
    <v:imagedata src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image008.jpg"
-    o:title="sinh1"/>
+    o:title="sinh1"></v:imagedata>
   </v:shape><![endif]--><!--[if !vml]--><img width="133" height="180" src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image008.jpg" alt="Description: sinh1.jpg" v:shapes="Picture_x0020_2"><!--[endif]--></span></b><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p></o:p></span></p>
   </td>
   <td width="148" valign="top" style="width:111.3pt;border-top:none;border-left:
@@ -1348,7 +1347,7 @@ dân và Ủy ban nhân dân huyện<o:p></o:p></span></i></p>
    id="Picture_x0020_1" o:spid="_x0000_i1025" type="#_x0000_t75" alt="Description: nguyen ngọc thân.jpg"
    style='width:99.75pt;height:135pt;visibility:visible;mso-wrap-style:square'>
    <v:imagedata src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image009.jpg"
-    o:title="nguyen ngọc thân"/>
+    o:title="nguyen ngọc thân"></v:imagedata>
   </v:shape><![endif]--><!--[if !vml]--><img width="133" height="180" src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image009.jpg" alt="Description: nguyen ngọc thân.jpg" v:shapes="Picture_x0020_1"><!--[endif]--></span></b><b><span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-no-proof:yes"><o:p></o:p></span></b></p>
   </td>
@@ -1393,11 +1392,11 @@ dân và Ủy ban nhân dân huyện<o:p></o:p></span></i></p>
  </tr>
 </tbody></table>
 
-<p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" align="center" style="text-align: justify; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p>&nbsp;</o:p></span></p>
 
-<p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><b><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;">Danh sách thành viên Uỷ ban nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p></o:p></span></p>
+<p class="MsoNormal" align="center" style="text-align: justify; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><b><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;">Danh sách thành viên Uỷ ban nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p></o:p></span></p>
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="594" style="text-align: center; width: 445.5pt;">
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="594" style="text-align: justify; width: 445.5pt;">
  <tbody><tr>
   <td width="37" valign="top" style="width:27.7pt;border:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt">
@@ -1594,12 +1593,12 @@ dân và Ủy ban nhân dân huyện<o:p></o:p></span></i></p>
  </tr>
 </tbody></table>
 
-<p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" align="center" style="text-align: justify; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p>&nbsp;</o:p></span></p>
 
-<p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><b><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;">Lãnh đạo các phòng ban, ban trực thuộc Uỷ ban
+<p class="MsoNormal" align="center" style="text-align: justify; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><b><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;">Lãnh đạo các phòng ban, ban trực thuộc Uỷ ban
 nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p></o:p></span></p>
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="604" style="text-align: center; width: 452.95pt;">
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="604" style="text-align: justify; width: 452.95pt;">
  <tbody><tr>
   <td width="50" style="width:37.35pt;border:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
@@ -2586,8 +2585,8 @@ nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Ti
  </tr>
 </tbody></table>
 
-<p class="MsoNormal" style="text-align: center;"><span style="font-size:13.0pt;line-height:115%;font-family:
+<p class="MsoNormal" style="text-align: justify;"><span style="font-size:13.0pt;line-height:115%;font-family:
 &quot;Times New Roman&quot;,&quot;serif&quot;"><o:p>&nbsp;</o:p></span></p>
 
-<p class="MsoNormal" align="right" style="text-align: center;"><span style="font-size:
+<p class="MsoNormal" align="right" style="text-align: justify;"><span style="font-size:
 13.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Nguồn <span style="background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">Ủy ban nhân dân tỉnh Đắk Nông</span></span><o:p></o:p></p>

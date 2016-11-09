@@ -1,0 +1,93 @@
+[
+    {
+        "name": "slug",
+        "displayName": "slug",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": true,
+        "required": false
+    },
+    {
+        "name": "layout",
+        "displayName": "layout",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": true,
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "ShortText",
+        "name": "category",
+        "displayName": "danh mục",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "tag",
+        "displayName": "tag",
+        "type": "Array",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "date",
+        "displayName": "date",
+        "displayType": "DateTime",
+        "type": "DateTime",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "LongText",
+        "name": "tieu_de",
+        "displayName": "tiêu đề",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "LongText",
+        "name": "mo_ta",
+        "displayName": "mô tả",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "LongText",
+        "name": "tieu_de_dinh_kem",
+        "displayName": "tiêu đề đính kèm",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "type": "Text",
+        "displayType": "ShortText",
+        "name": "ten_tai_dinh_kem",
+        "displayName": "tên đính kèm",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    },
+    {
+        "name": "tai_lieu_dinh_kem",
+        "displayName": "tài liệu đính kèm",
+        "type": "Media",
+        "required": true
+    },
+    {
+        "name": "ten_dinh_kem",
+        "displayName": "ten_dinh_kem",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
+    }
+]

@@ -39,13 +39,17 @@
      </tr><tr>
      <td id="MSOZoneCell_WebPartWPQ11" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
      <tr>
-      <table class="ds_VBPL" rules="rows" cellpadding="0" cellspacing="0" border="0"><tbody><tr class="row_title"><td class="HD_TTTHC" width="">Tên thủ tục</td><td class="HD_LinhVuc" width="">Lĩnh vực</td><td class="HD_FileDinhKem">Tệp đính kèm</td></tr>
-      	{{#each  pagination.files }}
-     
-      <tr class="
-                td_row1"><td class="DT_TTTHC" onclick="_doPostBack('CustomList_ItemDetail','123')">{{title}} </td><td class="DT_LinhVuc" onclick="_doPostBack('CustomList_ItemDetail','123')">{{linh_vuc}}</td><td class="dvc_att"> <a href="{{tai_lieu_dinh_kem}}">Tải</a> </td></tr>
-       {{/each}}         
-                </tbody></table>
+     <table border="0" cellspacing="0" cellpadding="0" width="100%" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts">
+         <tbody>
+         {{#each  pagination.files }}
+         <tr><td class="TitleFront">
+             <a href="./{{slug}}">
+      {{tieu_de}}
+                    </span></a></td></tr>
+    <tr><td style="PADDING-BOTTOM: 10px" class="tinHT"><div style="TEXT-ALIGN: justify" class="ContentText">{{mo_ta}}<br></div></td></tr>
+     {{/each}}
+
+    </tbody></table>
 
                 <div style="float: right">
             
@@ -114,32 +118,16 @@
                     
                     <TABLE border="0" cellSpacing="0" cellPadding="0" width="100%">
 				<TBODY><TR><TD class="Other" width="100%"><UL>
-						{{#each  pagination.files }}
-						 <li><a href="./{{slug}}">{{title}}</a>
+						  {{#each (first pagination.files 6)}}
+						 <li><a href="./{{slug}}">{{tieu_de}}</a>
 							 <SPAN class="ShowDate">({{date}})</SPAN>
 						 </li>
 			             {{/each}}
 
-          </UL></TD></TR></TBODY></TABLE>          <hr>
+          </UL></TD></TR></TBODY></TABLE>          
 
           
-                <ul class="pagination">
-
-                    <li>
-                      {{#if pagination}}
-                        <nav class="pagination">
-                            {{#if pagination.previous}}
-                            <a href="/{{removeIndex pagination.previous.path}}" class="btn"> Trước  |</a>
-                            {{/if}}
-                              {{#if pagination.next}}
-                            <a href="/{{removeIndex pagination.next.path}}" class="btn"> | Sau</a>
-                            {{/if}}
-                        </nav>
-                        {{/if}}
-
-                    </li>
-                </ul>
-
+               
 		<DIV class="css_Xemtiep"><a href="/TinTuc/tintuc/Lists/Posts/AllPosts.aspx?CategoryId=16&amp;PublishedDate=2015-08-25T13:35:00Z"><IMG alt="Xem tiếp" src="/_layouts/LacVietBio/eofficeimg/news/xemtiep.gif" /></a></DIV></DIV>
       </div></div></td>
      </tr>

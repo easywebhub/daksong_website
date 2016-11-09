@@ -3,7 +3,7 @@
     "reverse": true,
     "metadata": {"title":"Góp ý dự thảo văn bản QPPL"},
     "displayName": "Góp ý dự thảo văn bản QPPL",
-    "perPage": 15,
+    "perPage": 10,
     "noPageOne": true,
     "layout": "gop-y-du-thao-van-ban.category.html",
     "first": ":categoryPath/index.html",

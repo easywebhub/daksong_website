@@ -139,9 +139,7 @@
  </tr>
 </tbody></table>
 
-<p class="MsoNormal" align="center" style="text-align: justify; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal" align="center" style="margin-bottom: 12pt; text-align: center; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"></p><div style="text-align: justify;"><font face="Times New Roman, serif"><span style="font-size: 17.3333px; line-height: normal;"><br></span></font></div><b style="line-height: normal;"><div style="text-align: justify;"><b><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;">HĐND - UBND huyện
+<p class="MsoNormal" align="center" style="text-align: justify; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p>&nbsp;</o:p></span></p><b style="line-height: normal;"><div style="text-align: justify;"><b><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;">HĐND - UBND huyện
 Đắk&nbsp;Song</span></b></div></b><p></p>
 
 <p class="MsoNormal" align="center" style="text-align: justify; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><!--[if gte vml 1]><v:shape id="Picture_x0020_7"

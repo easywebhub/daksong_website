@@ -1,0 +1,152 @@
+{{#extend "tin-tuc"}}
+
+
+    {{#content  "menu_phai"  mode="replace" }} {{/content }}
+{{#content "main-body"}}
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td id="MSOZoneCell_WebPartWPQ10" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td valign="top"><div WebPartID="a0d9251c-9e88-4cf4-8d75-b78c8f1dde00" HasPers="false" id="WebPartWPQ10" width="100%" class="ms-WPBody noindex" allowDelete="false" style="" ><div id="ctl00_m_g_a0d9251c_9e88_4cf4_8d75_b78c8f1dde00">
+					<LINK rel="stylesheet" type="text/css" href="/_layouts/LacVietBio/css/news_css.css" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts" />
+          <DIV class="container_top_mid2" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts">
+            <TABLE border="0" cellSpacing="0" cellPadding="0" width="100%">
+            <TBODY><TR class="ms-news-header">
+            <TD style="CURSOR: hand" class="FolderTitle" vAlign="top"> 
+                   {{metadata.title}}
+                </TD>
+            <TD style="TEXT-ALIGN: right; FONT-WEIGHT: normal" class="Time" vAlign="top" align="right">{{date}}</TD></TR></TBODY>
+          </TABLE>
+          </DIV>
+           
+
+<!--<script>
+
+            function linkFacebook(title) {
+              window.open('http://www.facebook.com/sharer/sharer.php?u=' + document.URL + '&t=' + title);
+            }
+
+            function linkTwitter(title) {
+              window.open('http://twitter.com/home?status=' + title + ' - ' + document.URL);
+            }
+
+            function linkDelicious(title) {
+              window.open('http://del.icio.us/post?url=' + document.URL + '&title= + title');
+            }
+          </script>-->
+        <DIV class="css_linkstoweb"><div id="id_link_delicious" class="css_link_delicious" onclick="linkDelicious('“Vùng đất chết’’ hồi sinh');">&nbsp;</div><div id="id_link_twitter" class="css_link_twitter" onclick="linkTwitter('“Vùng đất chết’’ hồi sinh');">&nbsp;</div><div id="id_link_facebook" class="css_link_facebook" onclick="linkFacebook('“Vùng đất chết’’ hồi sinh');">&nbsp;</div><DIV id="sendEmail" class="css_sendEmail">&nbsp;</DIV></DIV></DIV>
+
+      </div></div></td>
+     </tr>
+     </table><div class="ms-PartSpacingVertical"></div></td>
+     </tr><tr>
+     <td id="MSOZoneCell_WebPartWPQ11" valign="top" class="s4-wpcell-plain">
+         <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+     <tr>
+      </tr>
+      </table>
+      <table class="ds_VBPL" rules="rows" cellpadding="0" cellspacing="0" border="0">
+          <tbody><tr class="row_title">
+              <td>Số hiệu</td>
+              <td>Cơ quan ban hành</td>
+              <td>Hình thức văn bản</td>
+               <td>Lĩnh vực</td>
+              <td >Trích yếu nội dung</td>
+              <td>Ngày ban hành</td>
+              <td>Tải về</td>
+              </tr>
+      	{{#each  pagination.files }}
+     
+      <tr class="td_row1">
+                <td class="DT_TTTHC"> <a href="{{slug}}">{{so_hieu}} </a>  </td>
+                <td class="DT_LinhVuc"> <a href="{{slug}}">{{co_quan_ban_hanh}} </a> </td>
+                <td class="dvc_att"> <a href="{{slug}}">{{hinh_thuc_van_ban}} </a> </td>
+                 <td class="DT_TTTHC">  {{linh_vuc}} </td>
+                <td class="DT_LinhVuc"> <a href="{{slug}}">{{trich_yeu}} </a> </td>
+                <td class="dvc_att">{{ngay_ban_hanh}}</td>
+                <td class="dvc_att"> <a href="{{tai_lieu_dinh_kem}}">Tải</a> </td>
+                </tr>
+       {{/each}} 
+        <tr class="td_row1">              
+                </tr>
+              
+                </tbody></table>
+
+           
+               <div style="float: right"> 
+
+<style>
+
+.pageBeforeCurrent, .pageAfterCurrent
+{
+    text-decoration:underline;
+    cursor:hand;
+}
+</style>
+<table border="0" cellpadding="0" cellspacing="0" class="pagingContainer">
+    <tbody><tr>
+        <td>
+            <a href="#"></a>
+        </td>
+        <td>
+            <a href="#"></a>
+        </td>
+        <td>
+            <table><tbody><tr id="ctl00_m_g_83008a6d_c9c6_4afc_bf75_c1d0b01b1795_ctl00_PagingControl_beforeCurrentPage" class="pageBeforeCurrent">
+						<td style="display:none;"></td>
+					</tr>
+					</tbody></table>
+        </td>
+      
+        <td>
+            <br>
+            <table><tbody><tr id="ctl00_m_g_83008a6d_c9c6_4afc_bf75_c1d0b01b1795_ctl00_PagingControl_afterCurrentPage" class="pageAfterCurrent">
+						    <ul class="pagination">
+
+                    <li>
+                      {{#if pagination}}
+                        <nav class="pagination">
+                            {{#if pagination.next}}
+          <a href="/{{removeIndex pagination.next.path}}" class="btn"> Sau &gt; </a>
+        {{/if}}
+
+        {{#if pagination.previous}}
+          <a href="/{{removeIndex pagination.previous.path}}" class="btn">&lt; Trước </a>
+        {{/if}}
+                        </nav>
+                        {{/if}}
+
+                    </li>
+                </ul>
+					</tr>
+					</tbody></table>
+        </td>
+        
+    </tr>
+</tbody></table>
+        </div>
+     </tr>
+     </table><div class="ms-PartSpacingVertical"></div></td>
+     </tr><tr>
+     <td id="MSOZoneCell_WebPartWPQ12" valign="top" class="s4-wpcell-plain">
+         <div class="ms-PartSpacingVertical"></div></td>
+     </tr><tr>
+     <td id="MSOZoneCell_WebPartWPQ13" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+     <tr>
+      <td valign="top">
+          <div WebPartID="35ca937d-f24c-4b50-aec9-3ea1f56ddcae" HasPers="false" id="WebPartWPQ13" width="100%" class="ms-WPBody noindex" allowDelete="false" style="" ><div id="ctl00_m_g_35ca937d_f24c_4b50_aec9_3ea1f56ddcae">
+
+
+    
+    
+     ​</div>
+     					</div>
+
+                         <style>
+    .snCenter{
+        width: 691px !important;
+    }
+</style>
+{{/content}}
+{{/extend}}
+

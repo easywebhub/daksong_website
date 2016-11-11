@@ -4,7 +4,7 @@
     "layout": "post.html",
     "category": "",
     "title": "Quyết định thông qua Phương án đơn giản hoá thủ tục hành chính thuộc thẩm quyền giải quyết của UBND tỉnh Đắk Nông.",
-    "description": "Quyết định thông qua Phương án đơn giản hoá thủ tục hành chính thuộc thẩm quyền giải quyết của UBND tỉnh Đắk Nông.",
+    "description": "",
     "date": "23-09-2016",
     "banner": "img/img1.jpg",
     "tag": [],

@@ -6,7 +6,7 @@
     "title": "QĐ khen thưởng cho tập thể và cá nhân tham gia Hiến máu tình nguyện năm 2015",
     "description": "Ngày 18/01/2016, UBND huyện Quyết định khen thưởng cho tập thể và cá nhân tham gia Hiến máu tình nguyện năm 2015",
     "date": "18-01-2016",
-    "banner": "",
+    "banner": "img/khen.jpg",
     "tag": [],
     "permalink": true,
     "draft": "",

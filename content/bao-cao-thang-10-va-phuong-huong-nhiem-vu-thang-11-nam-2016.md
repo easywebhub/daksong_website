@@ -4,7 +4,7 @@
     "category": "thong-bao-giay-moi.thong-bao",
     "tag": [],
     "layout": "van-ban.html",
-    "title": "báo cáo tháng 10 và phương hướng nhiệm vụ tháng 11 năm 2016",
+    "title": "Báo cáo tháng 10 và phương hướng nhiệm vụ tháng 11 năm 2016",
     "description": "",
     "date": "01-11-2016 10:31:21",
     "so": "",
@@ -18,6 +18,9 @@
     "tai_lieu_dinh_kem": "img/báo cáo tháng 10 và phương hướng nhiệm vụ tháng 11 năm 2016(chuẩn).rar",
     "banner": "",
     "draft": "",
-    "url": ""
+    "url": "",
+    "hinh_thuc_van_ban": "",
+    "ngay_ban_hanh": "",
+    "so_hieu": ""
 }
 ---

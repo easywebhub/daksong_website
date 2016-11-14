@@ -723,140 +723,158 @@
                             <div id="LeftMenuWebName" style="display:none">
                                 TinTuc
                             </div>
-                             <div id="ctl00_g_5a98f478_4f49_4a9d_acad_af6c773cdc07_ctl00_myPanel">
-    <div class="navList">
-        <ul class="ms-quickLaunch" id="menuproduct_b897631c-a511-436c-b5d3-28b75b851864" onload="collapseMenu(null,'menuproduct_b897631c-a511-436c-b5d3-28b75b851864')">
-            
-            <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                <div class="allowMenu">
-                                       <a href="#" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="/hinh-anh/banner/hcm.jpg"></a>
-                                   </div>
-                </ul>
-            </li>
-            <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
-                    <div class="div-link-navheader"><span class="linkEmpty">TIN TỨC SỰ KIỆN 
+                              <div class="wpVBM">
+        <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ4" width="100%" class="ms-WPBody noindex"
+                            onlyformepart="true" allowdelete="false" style="">
+                            <div id="ctl00_g_5a98f478_4f49_4a9d_acad_af6c773cdc07">
+                                <!-- <link type="text/css" href="/_CONTROLTEMPLATES/LacViet.CMS.ViewPageManager/css/style_left_menu.css" rel="stylesheet" /> -->
+                                <script type="text/javascript" src="/_CONTROLTEMPLATES/LacViet.CMS.ViewPageManager/js/jquery-1.4.1.js"></script>
+                                <script type="text/javascript">
+                                var jLeftMenu = jQuery.noConflict();
+                                jLeftMenu(function($) {
+
+                                    $(document).ready(function() {
+
+                                        $('div.ms-navheader').each(function() {
+                                            var childs = $(this).siblings('ul');
+                                            if (childs.html() == null || childs.html() == "")
+                                                $(this).attr("onclick", "#");
+
+                                        });
+
+                                        var CurrentPath = jLeftMenu.trim(jLeftMenu("div#LeftMenuWebName").text());
+                                        var CurrentHomeChild = jLeftMenu("a.leftsubmenu[href*='" + CurrentPath + "']");
+                                        CurrentHomeChild.parent().parent().parent().addClass("classshow");
+
+                                    });
+
+
+                                    $("div.ms-navheader").mouseover(function() {
+
+                                        $(this).addClass("heading-hover");
+
+                                    }).mouseout(function() {
+                                        $(this).removeClass("heading-hover");
+                                    });
+                                    $("div.ms-navheader-icon").mouseover(function() {
+                                        $(this).addClass("heading-hover");
+
+                                    }).mouseout(function() {
+                                        $(this).removeClass("heading-hover");
+                                    });
+                                    $("div.ms-navItem").mouseover(function() {
+                                        $(this).addClass("ms-navItem-hover");
+                                    }).mouseout(function() {
+                                        $(this).removeClass("ms-navItem-hover");
+                                    });
+                                    $("div.ms-navItem-icon").mouseover(function() {
+                                        $(this).addClass("ms-navItem-hover");
+                                    }).mouseout(function() {
+                                        $(this).removeClass("ms-navItem-hover");
+                                    });
+                                });
+                            </script>
+                                <div id="LeftMenuWebName" style="display:none">
+                                    TinTuc
+                                </div>
+                                <div id="ctl00_g_5a98f478_4f49_4a9d_acad_af6c773cdc07_ctl00_myPanel">
+                                    <div class="navList">
+                                        <ul class="ms-quickLaunch" id="menuproduct_b897631c-a511-436c-b5d3-28b75b851864" onload="collapseMenu(null,'menuproduct_b897631c-a511-436c-b5d3-28b75b851864')">
+                                            <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                                                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+                                                    <div class="div-link-navheader"><span class="linkEmpty"> Bản đồ hành chính
                     
                         </span></div>
-                </div>
-                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                   
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-an-ninh-trat-tu" class="leftsubmenu" target="_self"> Tin an ninh - Trật tự</a></div>
+                                                </div>
+                                                <div>
+                                                    <div  style="height: 130px;overflow: hidden;">
+                                                        <a href="/ban-do/"><img src="/sites/default/themes/daksongtpl/images/layout/bando.png"
+                                                                alt="bando.png" _moz_resizing="true" width="220"> ​</a>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                    </li>
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-chinh-tri-xa-hoi" class="leftsubmenu" target="_self"> Tin chính trị - Xã hội</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-kinh-te" class="leftsubmenu" target="_self"> Tin kinh tế - Đời sống</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-van-hoa" class="leftsubmenu" target="_self"> Tin văn hóa - Du lịch</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-y-te-giao-duc" class="leftsubmenu" target="_self"> Tin ý tế - Giáo dục</a></div>
-                        </div>
-                    </li>
-
-                </ul>
-            </li>
-            <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
-                    <div class="div-link-navheader"><span class="linkEmpty">Thông tin chỉ đạo</span></div>
-                </div>
-                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="thong-tin-chi-dao/khen-thuong-xu-phat" class="leftsubmenu" target="_self"> Khen thướng xử phạt</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="thong-tin-chi-dao/lich-lam-viec-cua-lanh-dao" class="leftsubmenu" target="_self"> Lịch làm việc của lãnh đạo</a></div>
-                        </div>
-                    </li>
-
-                    
-
-                </ul>
-            </li>
-              <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-              
-                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="thong-bao-giay-moi/giay-moi" class="leftsubmenu" target="_self"> Giấy mời</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="thong-bao-giay-moi/tai-lieu-hop-truc-tuyen" class="leftsubmenu" target="_self"> Tài liệu họp trực tuyến</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="thong-bao-giay-moi/thong-bao" class="leftsubmenu" target="_self"> Thông báo</a></div>
-                        </div>
-                    </li>
-
-                    
-
-                </ul>
-            </li>
-              <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
-                    <div class="div-link-navheader"><span class="linkEmpty">Định hướng phát triển</span></div>
-                </div>
-                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="dinh-huong-phat-trien/quy-hoach-ke-hoach" class="leftsubmenu" target="_self"> Quy hoạch - Kế hoạch</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="dinh-huong-phat-trien/thong-tin-du-an-dau-tu" class="leftsubmenu" target="_self"> Thông tin dự án đầu tư</a></div>
-                        </div>
-                    </li>
-
-                    
-
-                </ul>
-            </li>
-             <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
-                    <div class="div-link-navheader"><span class="linkEmpty">Văn bản Pháp luật</span></div>
-                </div>
-                <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="van-ban-phap-luat/van-ban-cua-huyen" class="leftsubmenu" target="_self"> Văn bản của huyện</a></div>
-                        </div>
-                    </li>
-                    <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
-                        <div class="ms-navItem first-ms-navItem">
-                            <div class="div-leftsubmenu"><a href="van-ban-phap-luat/van-ban-cua-tinh" class="leftsubmenu" target="_self"> Văn bản của tỉnh</a></div>
-                        </div>
-                    </li>
-
-                    
-
-                </ul>
-            </li>
-          
-           
-        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
     </div>
-</div> 
+    <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tbody>
+            <tr>
+                <td valign="top">
+                    <div xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">
+                        <div id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_Chinh" class="ndiv">
+                            <div class="div-image">
+                                <div class="allowMenu">
+                                    <a href="http://mail.daknong.gov.vn/" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
+                                            src="/hinh-anh/banner/email.jpg"></a>
+                                </div>
+                            </div>
+                            <div class="div-image">
+                                <div class="allowMenu">
+                                    <a href="http://dvc.daknong.gov.vn/" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
+                                            src="/hinh-anh/banner/dvcong.jpg"></a>
+                                </div>
+                            </div>
+                            <div class="div-image">
+                                <div class="allowMenu">
+                                    <a href="http://dichvucong.gplx.gov.vn:8000/faces/registration/home.xhtml" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
+                                            src="/hinh-anh/banner/GPLX.jpg"></a>
+                                </div>
+                            </div>
+                            <div class="div-image">
+                                <div class="allowMenu">
+                                    <a href="http://congbao.chinhphu.vn/" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
+                                            src="/hinh-anh/banner/cbcp.jpg"></a>
+                                </div>
+                            </div>
+                            <div class="div-image">
+                                <div class="allowMenu">
+                                    <a href="/cai-cach-hanh-chinh/" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
+                                            src="/hinh-anh/banner/cchc.png"></a>
+                                </div>
+                            </div>
+                            <div class="div-image">
+                                <div class="allowMenu">
+                                    <a href="/gop-y-du-thao-van-ban-qppl/" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
+                                            src="/hinh-anh/banner/qppl.png"></a>
+                                </div>
+                            </div>
+                            <div class="div-image">
+                                <div class="allowMenu">
+                                    <a href="/dong-gop-y-kien" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
+                                            src="/hinh-anh/banner/hoidap.jpg"></a>
+                                </div>
+                            </div>
+                           
+                            <div id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_openPopup">
+                                <span style="DISPLAY: none">
+  			<menu id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_MnPopupLinkLienKet">
+  				<ie:menuitem id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_mitAdminLinkLienket" menugroupid="2147483647" text="Quản trị" onmenuclick="STSNavigate2(event,'#postbyword');" iconsrc="/_LAYOUTS/LacVietBio/EOFFICEIMG/editnews.gif" type="option"></ie:menuitem>
+  			</menu>
+  		</span>
+                                <table border="0" cellspacing="0" cellpadding="0" width="100%" height="100%">
+                                </table>
+                            </div>
+                            <img style="POSITION: absolute; BORDER-RIGHT-WIDTH: 0px; WIDTH: 1px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 1px; BORDER-LEFT-WIDTH: 0px"
+                                id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_img_hinh" src="_layouts/images/blank.gif">
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+ 
 
 
 
@@ -1133,157 +1151,143 @@
 
 </div>
 <div class="snRight">
+   
+   
    <div class="snRight">
-       <div class="wpVBM">
-           <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
-               <tbody>
-                   <tr>
-                       <td valign="top">
-                           <div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ4" width="100%" class="ms-WPBody noindex"
-                               onlyformepart="true" allowdelete="false" style="">
-                               <div id="ctl00_g_5a98f478_4f49_4a9d_acad_af6c773cdc07">
-                                   <!-- <link type="text/css" href="/_CONTROLTEMPLATES/LacViet.CMS.ViewPageManager/css/style_left_menu.css" rel="stylesheet" /> -->
-                                   <script type="text/javascript" src="/_CONTROLTEMPLATES/LacViet.CMS.ViewPageManager/js/jquery-1.4.1.js"></script>
-                                   <script type="text/javascript">
-                                   var jLeftMenu = jQuery.noConflict();
-                                   jLeftMenu(function($) {
-   
-                                       $(document).ready(function() {
-   
-                                           $('div.ms-navheader').each(function() {
-                                               var childs = $(this).siblings('ul');
-                                               if (childs.html() == null || childs.html() == "")
-                                                   $(this).attr("onclick", "#");
-   
-                                           });
-   
-                                           var CurrentPath = jLeftMenu.trim(jLeftMenu("div#LeftMenuWebName").text());
-                                           var CurrentHomeChild = jLeftMenu("a.leftsubmenu[href*='" + CurrentPath + "']");
-                                           CurrentHomeChild.parent().parent().parent().addClass("classshow");
-   
-                                       });
-   
-   
-                                       $("div.ms-navheader").mouseover(function() {
-   
-                                           $(this).addClass("heading-hover");
-   
-                                       }).mouseout(function() {
-                                           $(this).removeClass("heading-hover");
-                                       });
-                                       $("div.ms-navheader-icon").mouseover(function() {
-                                           $(this).addClass("heading-hover");
-   
-                                       }).mouseout(function() {
-                                           $(this).removeClass("heading-hover");
-                                       });
-                                       $("div.ms-navItem").mouseover(function() {
-                                           $(this).addClass("ms-navItem-hover");
-                                       }).mouseout(function() {
-                                           $(this).removeClass("ms-navItem-hover");
-                                       });
-                                       $("div.ms-navItem-icon").mouseover(function() {
-                                           $(this).addClass("ms-navItem-hover");
-                                       }).mouseout(function() {
-                                           $(this).removeClass("ms-navItem-hover");
-                                       });
-                                   });
-                               </script>
-                                   <div id="LeftMenuWebName" style="display:none">
-                                       TinTuc
-                                   </div>
-                                   <div id="ctl00_g_5a98f478_4f49_4a9d_acad_af6c773cdc07_ctl00_myPanel">
-                                       <div class="navList">
-                                           <ul class="ms-quickLaunch" id="menuproduct_b897631c-a511-436c-b5d3-28b75b851864" onload="collapseMenu(null,'menuproduct_b897631c-a511-436c-b5d3-28b75b851864')">
-                                               <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
-                                                   <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
-                                                       <div class="div-link-navheader"><span class="linkEmpty"> Bản đồ hành chính
+      <div id="ctl00_g_5a98f478_4f49_4a9d_acad_af6c773cdc07_ctl00_myPanel">
+       <div class="navList">
+           <ul class="ms-quickLaunch" id="menuproduct_b897631c-a511-436c-b5d3-28b75b851864" onload="collapseMenu(null,'menuproduct_b897631c-a511-436c-b5d3-28b75b851864')">
+               
+               <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                   <div class="allowMenu">
+                                          <a href="#" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="/hinh-anh/banner/hcm.jpg"></a>
+                                      </div>
+                   </ul>
+               </li>
+               <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                   <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+                       <div class="div-link-navheader"><span class="linkEmpty">TIN TỨC SỰ KIỆN 
                        
                            </span></div>
-                                                   </div>
-                                                   <div>
-                                                       <div  style="height: 130px;overflow: hidden;">
-                                                           <a href="/ban-do/"><img src="/sites/default/themes/daksongtpl/images/layout/bando.png"
-                                                                   alt="bando.png" _moz_resizing="true" width="220"> ​</a>
-                                                       </div>
-                                                   </div>
-                                               </li>
-                                           </ul>
-                                       </div>
-                                   </div>
-                               </div>
+                   </div>
+                   <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                      
+                       <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                           <div class="ms-navItem first-ms-navItem">
+                               <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-an-ninh-trat-tu" class="leftsubmenu" target="_self"> Tin an ninh - Trật tự</a></div>
                            </div>
-                       </td>
-                   </tr>
-               </tbody>
-           </table>
+                       </li>
+                       <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                           <div class="ms-navItem first-ms-navItem">
+                               <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-chinh-tri-xa-hoi" class="leftsubmenu" target="_self"> Tin chính trị - Xã hội</a></div>
+                           </div>
+                       </li>
+                       <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                           <div class="ms-navItem first-ms-navItem">
+                               <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-kinh-te" class="leftsubmenu" target="_self"> Tin kinh tế - Đời sống</a></div>
+                           </div>
+                       </li>
+                       <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                           <div class="ms-navItem first-ms-navItem">
+                               <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-van-hoa" class="leftsubmenu" target="_self"> Tin văn hóa - Du lịch</a></div>
+                           </div>
+                       </li>
+                       <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                           <div class="ms-navItem first-ms-navItem">
+                               <div class="div-leftsubmenu"><a href="tin-tuc-su-kien/tin-y-te-giao-duc" class="leftsubmenu" target="_self"> Tin ý tế - Giáo dục</a></div>
+                           </div>
+                       </li>
+   
+                   </ul>
+               </li>
+               <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                   <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+                       <div class="div-link-navheader"><span class="linkEmpty">Thông tin chỉ đạo</span></div>
+                   </div>
+                   <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                       <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                           <div class="ms-navItem first-ms-navItem">
+                               <div class="div-leftsubmenu"><a href="thong-tin-chi-dao/khen-thuong-xu-phat" class="leftsubmenu" target="_self"> Khen thướng xử phạt</a></div>
+                           </div>
+                       </li>
+                       <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                           <div class="ms-navItem first-ms-navItem">
+                               <div class="div-leftsubmenu"><a href="thong-tin-chi-dao/lich-lam-viec-cua-lanh-dao" class="leftsubmenu" target="_self"> Lịch làm việc của lãnh đạo</a></div>
+                           </div>
+                       </li>
+   
+                       
+   
+                   </ul>
+               </li>
+                 <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                 
+                   <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                       <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                           <div class="ms-navItem first-ms-navItem">
+                               <div class="div-leftsubmenu"><a href="thong-bao-giay-moi/giay-moi" class="leftsubmenu" target="_self"> Giấy mời</a></div>
+                           </div>
+                       </li>
+                       <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                           <div class="ms-navItem first-ms-navItem">
+                               <div class="div-leftsubmenu"><a href="thong-bao-giay-moi/tai-lieu-hop-truc-tuyen" class="leftsubmenu" target="_self"> Tài liệu họp trực tuyến</a></div>
+                           </div>
+                       </li>
+                       <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                           <div class="ms-navItem first-ms-navItem">
+                               <div class="div-leftsubmenu"><a href="thong-bao-giay-moi/thong-bao" class="leftsubmenu" target="_self"> Thông báo</a></div>
+                           </div>
+                       </li>
+   
+                       
+   
+                   </ul>
+               </li>
+                 <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                   <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+                       <div class="div-link-navheader"><span class="linkEmpty">Định hướng phát triển</span></div>
+                   </div>
+                   <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                       <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                           <div class="ms-navItem first-ms-navItem">
+                               <div class="div-leftsubmenu"><a href="dinh-huong-phat-trien/quy-hoach-ke-hoach" class="leftsubmenu" target="_self"> Quy hoạch - Kế hoạch</a></div>
+                           </div>
+                       </li>
+                       <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                           <div class="ms-navItem first-ms-navItem">
+                               <div class="div-leftsubmenu"><a href="dinh-huong-phat-trien/thong-tin-du-an-dau-tu" class="leftsubmenu" target="_self"> Thông tin dự án đầu tư</a></div>
+                           </div>
+                       </li>
+   
+                       
+   
+                   </ul>
+               </li>
+                <li class="ms-navSubMenu" id="li0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                   <div class="first-ms-navheader ms-navheader" onclick="toggleMenu(this.parentNode.getElementsByTagName('UL')[0])">
+                       <div class="div-link-navheader"><span class="linkEmpty">Văn bản Pháp luật</span></div>
+                   </div>
+                   <ul class="classshow" lienket="" id="ul0_06edd618-4422-45df-9d7f-626e7dbaafe9">
+                       <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                           <div class="ms-navItem first-ms-navItem">
+                               <div class="div-leftsubmenu"><a href="van-ban-phap-luat/van-ban-cua-huyen" class="leftsubmenu" target="_self"> Văn bản của huyện</a></div>
+                           </div>
+                       </li>
+                       <li id="li1_72e9b6c3-937e-4691-aa84-eda56b4fb7be">
+                           <div class="ms-navItem first-ms-navItem">
+                               <div class="div-leftsubmenu"><a href="van-ban-phap-luat/van-ban-cua-tinh" class="leftsubmenu" target="_self"> Văn bản của tỉnh</a></div>
+                           </div>
+                       </li>
+   
+                       
+   
+                   </ul>
+               </li>
+             
+              
+           </ul>
        </div>
-       <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
-           <tbody>
-               <tr>
-                   <td valign="top">
-                       <div xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">
-                           <div id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_Chinh" class="ndiv">
-                               <div class="div-image">
-                                   <div class="allowMenu">
-                                       <a href="http://mail.daknong.gov.vn/" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
-                                               src="/hinh-anh/banner/email.jpg"></a>
-                                   </div>
-                               </div>
-                               <div class="div-image">
-                                   <div class="allowMenu">
-                                       <a href="http://dvc.daknong.gov.vn/" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
-                                               src="/hinh-anh/banner/dvcong.jpg"></a>
-                                   </div>
-                               </div>
-                               <div class="div-image">
-                                   <div class="allowMenu">
-                                       <a href="http://dichvucong.gplx.gov.vn:8000/faces/registration/home.xhtml" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
-                                               src="/hinh-anh/banner/GPLX.jpg"></a>
-                                   </div>
-                               </div>
-                               <div class="div-image">
-                                   <div class="allowMenu">
-                                       <a href="http://congbao.chinhphu.vn/" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
-                                               src="/hinh-anh/banner/cbcp.jpg"></a>
-                                   </div>
-                               </div>
-                               <div class="div-image">
-                                   <div class="allowMenu">
-                                       <a href="/cai-cach-hanh-chinh/" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
-                                               src="/hinh-anh/banner/cchc.png"></a>
-                                   </div>
-                               </div>
-                               <div class="div-image">
-                                   <div class="allowMenu">
-                                       <a href="/gop-y-du-thao-van-ban-qppl/" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
-                                               src="/hinh-anh/banner/qppl.png"></a>
-                                   </div>
-                               </div>
-                               <div class="div-image">
-                                   <div class="allowMenu">
-                                       <a href="/dong-gop-y-kien" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
-                                               src="/hinh-anh/banner/hoidap.jpg"></a>
-                                   </div>
-                               </div>
-                              
-                               <div id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_openPopup">
-                                   <span style="DISPLAY: none">
-     			<menu id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_MnPopupLinkLienKet">
-     				<ie:menuitem id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_mitAdminLinkLienket" menugroupid="2147483647" text="Quản trị" onmenuclick="STSNavigate2(event,'#postbyword');" iconsrc="/_LAYOUTS/LacVietBio/EOFFICEIMG/editnews.gif" type="option"></ie:menuitem>
-     			</menu>
-     		</span>
-                                   <table border="0" cellspacing="0" cellpadding="0" width="100%" height="100%">
-                                   </table>
-                               </div>
-                               <img style="POSITION: absolute; BORDER-RIGHT-WIDTH: 0px; WIDTH: 1px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 1px; BORDER-LEFT-WIDTH: 0px"
-                                   id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_img_hinh" src="_layouts/images/blank.gif">
-                           </div>
-                       </div>
-                   </td>
-               </tr>
-           </tbody>
-       </table>
+   </div>
    </div></div>
 </div>
 

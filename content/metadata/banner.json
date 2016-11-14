@@ -51,6 +51,10 @@
             "duong_dan": "http://daknong.gov.vn/thutuchanhchinh"
         },
         {
+            "hinh_anh": "/hinh-anh/banner/qppl.jpg",
+            "duong_dan": "/gop-y-du-thao-van-ban-qppl/"
+        },
+        {
             "hinh_anh": "/hinh-anh/banner/hoidap.jpg",
             "duong_dan": "/dong-gop-y-kien"
         }

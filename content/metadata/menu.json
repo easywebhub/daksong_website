@@ -63,7 +63,7 @@
                     "url": "tin-tuc-su-kien/tin-y-te-giao-duc"
                 },
                 {
-                    "title": "Tin An Ninh - Trật tự",
+                    "title": "Tin An ninh - Trật tự",
                     "url": "tin-tuc-su-kien/tin-an-ninh-trat-tu"
                 }
             ]
@@ -162,20 +162,7 @@
             "type": {
                 "isMulti": true
             },
-            "subMenu": [
-                {
-                    "title": "Văn bản Trung ương",
-                    "url": "van-ban-phap-luat/van-ban-trung-uong"
-                },
-                {
-                    "title": "Văn bản của tỉnh",
-                    "url": "van-ban-phap-luat/van-ban-cua-tinh"
-                },
-                {
-                    "title": "Văn bản của huyện",
-                    "url": "van-ban-phap-luat/van-ban-cua-huyen"
-                }
-            ]
+            "subMenu": []
         }
     ],
     "menuList": [

@@ -6,7 +6,7 @@
     "title": "Quyết định xử phạt hành chính số 145/QĐ-XPVPHC",
     "description": "Ngày 03/02/2016, UBND huyện Quyết định xử phạt hành chính đối với bà Trần Thị Vân",
     "date": "03-02-2016",
-    "banner": "",
+    "banner": "img/phat.jpg",
     "tag": [],
     "permalink": true,
     "draft": "",

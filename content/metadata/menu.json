@@ -158,10 +158,7 @@
         },
         {
             "title": "Văn bản Pháp luật",
-            "url": "van-ban-phap-luat",
-            "type": {
-                "isMulti": true
-            }
+            "url": "van-ban-phap-luat"
         }
     ],
     "menuList": [

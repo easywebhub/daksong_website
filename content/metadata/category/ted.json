@@ -1,0 +1,11 @@
+{
+    "sortBy": "date",
+    "reverse": true,
+    "metadata": {"title": "Văn bản Trung ương"},
+    "displayName": "Văn bản Trung ương",
+    "perPage": 10,
+    "noPageOne": true,
+    "layout": "vanban.category.html",
+    "first": ":categoryPath/index.html",
+    "path": ":categoryPath/page/:num/index.html"
+}

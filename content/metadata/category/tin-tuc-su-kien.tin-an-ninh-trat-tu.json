@@ -2,7 +2,7 @@
     "sortBy": "date",
     "reverse": true,
         "metadata": {"title":"Tin an ninh - Trật tự"},
-    "displayName": "Tin an ninh - Trật tự",
+    "displayName": "Tin An ninh - Trật tự",
     "perPage": 10,
     "noPageOne": true,
     "layout": "public.category.html",

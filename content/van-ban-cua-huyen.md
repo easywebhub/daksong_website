@@ -10,7 +10,7 @@
     "so": "",
     "permalink": "",
     "trich_yeu": "",
-    "co_quan_ban_hanh": "",
+    "co_quan_ban_hanh": "UBNN",
     "linh_vuc": "",
     "loai_van_ban": "",
     "nguoi_ky": "",

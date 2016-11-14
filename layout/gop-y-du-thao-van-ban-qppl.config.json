@@ -33,7 +33,7 @@
     },
     {
         "name": "date",
-        "displayName": "date",
+        "displayName": "thời gian",
         "displayType": "DateTime",
         "type": "DateTime",
         "validations": [],
@@ -74,9 +74,10 @@
         "required": true
     },
     {
-        "name": "ten_dinh_kem",
-        "displayName": "ten_dinh_kem",
         "type": "Text",
+        "displayType": "ShortText",
+        "name": "ten_dinh_kem",
+        "displayName": "hiển thị file đính kèm",
         "validations": [],
         "viewOnly": false,
         "required": false

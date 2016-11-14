@@ -68,15 +68,6 @@
         "required": false
     },
     {
-        "type": "Text",
-        "displayType": "ShortText",
-        "name": "ten_tai_dinh_kem",
-        "displayName": "tên đính kèm",
-        "validations": [],
-        "viewOnly": false,
-        "required": false
-    },
-    {
         "name": "tai_lieu_dinh_kem",
         "displayName": "tài liệu đính kèm",
         "type": "Media",

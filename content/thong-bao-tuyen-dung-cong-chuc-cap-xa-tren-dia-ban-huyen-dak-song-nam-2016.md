@@ -2,7 +2,7 @@
 {
     "slug": "thong-bao-tuyen-dung-cong-chuc-cap-xa-tren-dia-ban-huyen-dak-song-nam-2016",
     "layout": "post.html",
-    "category": "thong-tin-ieu-hanh",
+    "category": "",
     "title": "Thông báo tuyển dụng công chức cấp xã trên địa bàn huyện Đăk Song năm 2016",
     "description": "Ngày 25 tháng 10 năm 2016\nUBND huyện Đăk Song thông báo \nVề việc tuyển dụng công chức cấp xã trên địa bàn huyện Đăk Song năm 2016",
     "date": "25-10-2016 09:32:06",

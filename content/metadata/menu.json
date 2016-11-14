@@ -40,26 +40,26 @@
             ]
         },
         {
-            "title": "Tin tức sự kiện",
+            "title": "Tin tức Sự kiện",
             "url": "tin-tuc-su-kien",
             "type": {
                 "isMulti": true
             },
             "subMenu": [
                 {
-                    "title": "Tin Chính Trị -  Xã hội",
+                    "title": "Tin Chính trị -  Xã hội",
                     "url": "tin-tuc-su-kien/tin-chinh-tri-xa-hoi"
                 },
                 {
-                    "title": "Tin Kinh Tế - Đời sống",
+                    "title": "Tin Kinh tế - Đời sống",
                     "url": "tin-tuc-su-kien/tin-kinh-te"
                 },
                 {
-                    "title": "Tin Văn Hóa - Du lịch",
+                    "title": "Tin Văn hóa - Du lịch",
                     "url": "tin-tuc-su-kien/tin-van-hoa"
                 },
                 {
-                    "title": "Tin Y  Tế - Giáo dục",
+                    "title": "Tin Y tế - Giáo dục",
                     "url": "tin-tuc-su-kien/tin-y-te-giao-duc"
                 },
                 {
@@ -80,7 +80,7 @@
                     "url": "thong-tin-chi-dao/y-kien-chi-dao-phan-hoi"
                 },
                 {
-                    "title": "Khen thưởng xử phạt",
+                    "title": "Khen thưởng - Xử phạt",
                     "url": "thong-tin-chi-dao/khen-thuong-xu-phat"
                 },
                 {
@@ -88,7 +88,7 @@
                     "url": "thong-tin-chi-dao/thong-tin-tuyen-truyen"
                 },
                 {
-                    "title": "Lịch làm việc của lãnh đạo",
+                    "title": "Lịch làm việc Lãnh đạo",
                     "url": "thong-tin-chi-dao/lich-lam-viec-cua-lanh-dao"
                 }
             ]
@@ -109,7 +109,7 @@
                     "url": "thong-bao-giay-moi/giay-moi"
                 },
                 {
-                    "title": "Tài liệu họp trực tuyến",
+                    "title": "Tài liệu họp",
                     "url": "thong-bao-giay-moi/tai-lieu-hop-truc-tuyen"
                 }
             ]

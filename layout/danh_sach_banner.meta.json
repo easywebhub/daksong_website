@@ -1,7 +1,7 @@
 [
     {
         "name": "banner_lon",
-        "displayName": "banner_lon",
+        "displayName": "banner lớn trang chủ",
         "type": "Object",
         "validations": [],
         "required": false
@@ -15,7 +15,7 @@
     },
     {
         "name": "banner_goc_phai_trang_chu",
-        "displayName": "banner_goc_phai_trang_chu",
+        "displayName": "banner góc phải trang chủ",
         "type": "Array",
         "validations": [],
         "required": false

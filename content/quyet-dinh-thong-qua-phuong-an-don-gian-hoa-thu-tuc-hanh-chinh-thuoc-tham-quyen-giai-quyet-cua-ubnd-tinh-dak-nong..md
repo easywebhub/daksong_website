@@ -2,7 +2,7 @@
 {
     "slug": "quyet-dinh-thong-qua-phuong-an-don-gian-hoa-thu-tuc-hanh-chinh-thuoc-tham-quyen-giai-quyet-cua-ubnd-tinh-dak-nong",
     "layout": "post.html",
-    "category": "",
+    "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
     "title": "Quyết định thông qua Phương án đơn giản hoá thủ tục hành chính thuộc thẩm quyền giải quyết của UBND tỉnh Đắk Nông.",
     "description": "",
     "date": "23-09-2016",

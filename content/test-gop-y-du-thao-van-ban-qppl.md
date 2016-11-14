@@ -8,7 +8,6 @@
     "tieu_de": "Góp ý dự thảo Chương trình phát triển nguồn nhân lực công nghệ thông tin tỉnh Đắk Nông đến năm 2020 và tầm nhìn đến năm 2025",
     "mo_ta": "Ngày 11/8/2016, Sở Thông tin và Truyền thông có Công văn số 487/STTTT-CNTT gửi các Sở, Ban, Ngành, UBND các huyện, thị xã về việc góp ý dự thảo Chương trình phát triển nguồn nhân lực công nghệ thông tin tỉnh Đắk Nông đến năm 2020 và tầm nhìn đến năm 2025.\n",
     "tieu_de_dinh_kem": "Để tải bản dự thảo kế hoạch, quyết định",
-    "ten_tai_dinh_kem": "",
     "tai_lieu_dinh_kem": "img/aa.jpeg",
     "ten_dinh_kem": "tải về"
 }

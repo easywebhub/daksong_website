@@ -161,8 +161,7 @@
             "url": "van-ban-phap-luat",
             "type": {
                 "isMulti": true
-            },
-            "subMenu": []
+            }
         }
     ],
     "menuList": [

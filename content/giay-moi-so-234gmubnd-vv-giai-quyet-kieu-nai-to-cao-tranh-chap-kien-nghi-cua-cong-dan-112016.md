@@ -5,7 +5,7 @@
     "category": "thong-bao-giay-moi.giay-moi",
     "title": "Giấy mời số 234/GM-UBND V/v giải quyết kiếu nại, tố cáo, tranh chấp, kiến nghị của công dân (11/2016)",
     "description": "",
-    "date": "11-11-2016 14:45:48",
+    "date": "14-11-2016",
     "banner": "",
     "tag": [],
     "permalink": true,

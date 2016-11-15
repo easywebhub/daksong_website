@@ -1,14 +1,18 @@
 ---json
 {
-    "layout": "post.html",
     "slug": "giai-quan-vot-102016",
+    "layout": "post.html",
+    "category": "tin-tuc-su-kien.tin-van-hoa",
     "title": "Giải quần vợt chào mừng ngày Doanh nhân Việt Nam",
     "description": "Ngày 07/10/2016, UBND huyện Đăk Song tổ chức Giải quần vợt chào mừng ngày Doanh nhân Việt Nam",
-    "category": "thong-tin-su-kien",
+    "date": "11-10-2016 15:38:10",
+    "banner": "",
     "tag": [
         "tin-tuc-noi-bat"
     ],
-    "date": "11-10-2016 15:38:10"
+    "permalink": "",
+    "draft": "",
+    "url": ""
 }
 ---
 Giải quần vợt chào mừng ngày Doanh nhân Việt Nam tổ chức tại huyện Đăk Song.

@@ -3,7 +3,7 @@
     "slug": "thong-bao-tuyen-dung-vien-chuc-su-nghiep-giao-duc-va-su-nghiep-khac-nam-2016",
     "category": "thong-bao-giay-moi.thong-bao",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "post.html",
     "title": "Thông báo: Tuyển dụng viên chức sự nghiệp giáo dục và sự nghiệp khác năm 2016",
     "description": "",
     "date": "20-10-2016 11:10:46",

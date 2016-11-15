@@ -5,7 +5,7 @@
     "category": "thong-bao-giay-moi.giay-moi",
     "title": "Giấy mời số 75/GM-TTr, ngày 26/10/2016 V/v họp thống nhất xây dựng chương trình kế hoạch thanh tra...",
     "description": "",
-    "date": "26-10-2016",
+    "date": "15-11-2016",
     "banner": "",
     "tag": [],
     "permalink": "",

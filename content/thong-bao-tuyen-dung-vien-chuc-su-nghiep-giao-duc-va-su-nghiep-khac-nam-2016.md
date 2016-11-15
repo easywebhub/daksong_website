@@ -5,7 +5,7 @@
     "category": "thong-bao-giay-moi.thong-bao",
     "title": "Thông báo: Tuyển dụng viên chức sự nghiệp giáo dục và sự nghiệp khác năm 2016",
     "description": "",
-    "date": "12-10-2016",
+    "date": "19-10-2016",
     "banner": "http://www.mediafire.com/convkey/7601/cf0c5r6ud9wu6npzg.jpg",
     "tag": [],
     "permalink": true,

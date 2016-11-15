@@ -5,7 +5,7 @@
     "category": "thong-bao-giay-moi",
     "title": "Thông báo tuyển dụng công chức cấp xã trên địa bàn huyện Đăk Song năm 2016",
     "description": "Ngày 25 tháng 10 năm 2016\nUBND huyện Đăk Song thông báo \nVề việc tuyển dụng công chức cấp xã trên địa bàn huyện Đăk Song năm 2016",
-    "date": "16-11-2016",
+    "date": "17-11-2016",
     "banner": "img/T1001-10-2011-9.25.15 AM13-10-2011-12.55.52 PM10-18-2016-2.14.08 PM10-21-2016-8.37.57 AM10-25-2016-9.37.15 AM.jpg",
     "tag": [],
     "permalink": "",

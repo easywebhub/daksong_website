@@ -1,18 +1,16 @@
 ---json
 {
     "slug": "thong-bao-tuyen-dung-vien-chuc-su-nghiep-giao-duc-va-su-nghiep-khac-nam-2016",
-    "category": "thong-bao-giay-moi.thong-bao",
-    "tag": [],
     "layout": "post.html",
+    "category": "thong-bao-giay-moi.thong-bao",
     "title": "Thông báo: Tuyển dụng viên chức sự nghiệp giáo dục và sự nghiệp khác năm 2016",
     "description": "",
-    "date": "20-10-2016",
-   
+    "date": "19-10-2016",
+    "banner": "http://www.mediafire.com/convkey/7601/cf0c5r6ud9wu6npzg.jpg",
+    "tag": [],
     "permalink": true,
- 
-
-    "banner": "http://www.mediafire.com/convkey/7601/cf0c5r6ud9wu6npzg.jpg"
-   
+    "draft": "",
+    "url": ""
 }
 ---
 <p>UBND Huyện Đăk Song thông báo: Tuyển dụng viên chức sự nghiệp giáo dục và sự nghiệp khác trực thuộc UBND huyện năm 2016.

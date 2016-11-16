@@ -904,7 +904,7 @@ Chỉ tiêu tuyển dụng:&nbsp;<a href="http://www.mediafire.com/file/asj8b489
 <span class="css_readCounter">
         Số lượt người xem: <b id="viewCounter"> </b></span>
         
-        <span class="css_printandback"><a style="color: #686868" class="print" href=""> Bản in </a></span>
+        <span class="css_printandback"><a style="color: #686868" class="print" href="javascript: popuponclick()"> Bản in </a></span>
 <script>
 
             function linkFacebook(title) {
@@ -1022,6 +1022,35 @@ Chỉ tiêu tuyển dụng:&nbsp;<a href="http://www.mediafire.com/file/asj8b489
      
      ​</div>
      					</div>
+                         <script
+  src="http://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous"></script>
+
+
+<script type="text/javascript">
+    function popuponclick() {
+      my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
+      my_window.document.write('<html><head><title>Print Me</title></head>');
+      my_window.document.write('<body onafterprint="self.close()">');
+       my_window.document.write('<h1>Thông báo: Tuyển dụng viên chức sự nghiệp giáo dục và sự nghiệp khác năm 2016</h1>');
+        my_window.document.write('<h3></h3>');
+      my_window.document.write('<p><p>UBND Huyện Đăk Song thông báo: Tuyển dụng viên chức sự nghiệp giáo dục và sự nghiệp khác trực thuộc UBND huyện năm 2016.
+
+<img src="http://www.mediafire.com/convkey/7601/cf0c5r6ud9wu6npzg.jpg" alt="">
+
+(Tải về theo file bên dưới)
+</p><p>
+Thông báo tuyển dụng:&nbsp;<a href="http://www.mediafire.com/file/herwwwwg8p56yjg/Thong_bao_TD.pdf">Tải về</a></p><p>
+Chỉ tiêu tuyển dụng:&nbsp;<a href="http://www.mediafire.com/file/asj8b489q1cg677/CHI_TIEU_TUYEN_DUNG.pdf">Tải về</a></p></p>');
+      my_window.document.write('</body> </html>');
+      my_window.print();
+  }
+  </script>
+
+
+</script>
+
 
                          
 
@@ -1958,8 +1987,7 @@ Chỉ tiêu tuyển dụng:&nbsp;<a href="http://www.mediafire.com/file/asj8b489
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
 
-<script><script
-  src="http://code.jquery.com/jquery-3.1.1.min.js"
+<script>  <script  src="http://code.jquery.com/jquery-3.1.1.min.js"
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
   <script>
@@ -1968,3 +1996,4 @@ Chỉ tiêu tuyển dụng:&nbsp;<a href="http://www.mediafire.com/file/asj8b489
                              $("#viewCounter").append(data.hit_total);
 });
                          </script>
+

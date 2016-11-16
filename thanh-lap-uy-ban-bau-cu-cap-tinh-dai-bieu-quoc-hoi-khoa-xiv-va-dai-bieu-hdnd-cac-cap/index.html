@@ -897,7 +897,7 @@
 <span class="css_readCounter">
         Số lượt người xem: <b id="viewCounter"> </b></span>
         
-        <span class="css_printandback"><a style="color: #686868" class="print" href=""> Bản in </a></span>
+        <span class="css_printandback"><a style="color: #686868" class="print" href="javascript: popuponclick()"> Bản in </a></span>
 <script>
 
             function linkFacebook(title) {
@@ -1018,6 +1018,28 @@
      
      ​</div>
      					</div>
+                         <script
+  src="http://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous"></script>
+
+
+<script type="text/javascript">
+    function popuponclick() {
+      my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
+      my_window.document.write('<html><head><title>Print Me</title></head>');
+      my_window.document.write('<body onafterprint="self.close()">');
+       my_window.document.write('<h1>Thành lập Ủy ban bầu cử cấp tỉnh đại biểu Quốc hội khóa XIV và đại biểu HĐND các cấp</h1>');
+        my_window.document.write('<h3>UBND tỉnh vừa ra Quyết định số 202/QĐ-UBND về việc thành lập Ủy ban bầu cử đại biểu Quốc hội khóa XIV và đại biểu Hội đồng nhân dân các cấp tỉnh nhiệm kỳ 2016-2021 (gọi tắt là Ủy ban bầu cử tỉnh).   Theo đó, Ủy ban bầu cử tỉnh gồm 29 người, trong đó có 1 chủ tịch, 3 phó chủ tịch, 1 thư ký và 24 ủy viên. Cụ thể, đồng chí Nguyễn Bốn, Phó Bí thư Tỉnh ủy, Chủ tịch UBND tỉnh là Chủ tịch Ủy ban bầu cử tỉnh. Các Phó Chủ tịch gồm: đồng chí Điểu K’Ré, Ủy viên Trung ương Đảng, Phó Bí thư Tỉnh ủy, Chủ tịch HĐND tỉnh; đồng chí Điểu Xuân Hùng, UVBTV Tỉnh ủy, Chủ tịch UBMTTQ Việt Nam tỉnh; đồng chí Trần Xuân Hải, UVBTV, Phó Chủ tịch thường trực UBND tỉnh. Ủy ban bầu cử tỉnh thực hiện nhiệm vụ, quyền hạn theo quy định tại Điều 23, luật Bầu cử đại biểu Quốc hội và Hội đồng nhân dân; có con dấu, kinh phí hoạt động và thành lập các Tiểu ban giúp việc, Tổ chuyên viên giúp việc. Trụ sở làm việc của Ủy ban bầu cử tỉnh đặt tại Trụ sở Sở Nội vụ, số 24, đường 23/3, thị xã Gia Nghĩa. Thùy Dương Nguồn: Đăk Nông online</h3>');
+      my_window.document.write('<p></p>');
+      my_window.document.write('</body> </html>');
+      my_window.print();
+  }
+  </script>
+
+
+</script>
+
 
                          
 
@@ -1954,8 +1976,7 @@
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
 
-<script><script
-  src="http://code.jquery.com/jquery-3.1.1.min.js"
+<script>  <script  src="http://code.jquery.com/jquery-3.1.1.min.js"
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
   <script>
@@ -1964,3 +1985,4 @@
                              $("#viewCounter").append(data.hit_total);
 });
                          </script>
+

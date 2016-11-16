@@ -901,7 +901,7 @@ Việc triển khai áp dụng kê khai thuế qua mạng sẽ giúp các công 
 <span class="css_readCounter">
         Số lượt người xem: <b id="viewCounter"> </b></span>
         
-        <span class="css_printandback"><a style="color: #686868" class="print" href=""> Bản in </a></span>
+        <span class="css_printandback"><a style="color: #686868" class="print" href="javascript: popuponclick()"> Bản in </a></span>
 <script>
 
             function linkFacebook(title) {
@@ -1025,6 +1025,32 @@ Việc triển khai áp dụng kê khai thuế qua mạng sẽ giúp các công 
      
      ​</div>
      					</div>
+                         <script
+  src="http://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous"></script>
+
+
+<script type="text/javascript">
+    function popuponclick() {
+      my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
+      my_window.document.write('<html><head><title>Print Me</title></head>');
+      my_window.document.write('<body onafterprint="self.close()">');
+       my_window.document.write('<h1>Tập huấn khai thuế qua mạng</h1>');
+        my_window.document.write('<h3>Sáng ngày 17/10 Chi Cục thuế đã tổ chức hội nghị tập huấn khai thuế qua mạng Intenet cho 124 công ty, doanh nghiệp trên địa bàn huyện ta.</h3>');
+      my_window.document.write('<p><p>Sáng ngày 17/10 Chi Cục thuế đã tổ chức hội nghị tập huấn khai thuế qua mạng Intenet cho 124 công ty, doanh nghiệp trên địa bàn huyện ta.
+Tại Hội nghị các đại biểu được nghe, phổ biến những nội dung cơ bản của thông tư số 119/2014/TT-BTC ngày 25/8/2014 của Bộ tài chính về cải cách đơn giản thủ tục hành chính thuế; Hướng dẫn sử dụng hệ thống ứng dụng khai thuế điện tử. Hướng dẫn Người nộp thuế các bước để có thể thực hiện khai thuế điện tử; các phần mềm cần thiết để kê khai điện tử; các hình thức khai thuế điện tử; cách đăng ký nộp hồ sơ khai thuế qua mạng…
+Việc triển khai áp dụng kê khai thuế qua mạng sẽ giúp các công ty, doanh nghiệp tiết kiệm thời gian và giảm thiểu thủ tục hành chính trong công tác kê khai, nộp thuế. Đồng thời giúp các đơn vị, doanh nghiệp tiếp thu kịp thời các quy định mới của Chính phủ, về lĩnh vực thuế, từ đó áp dụng phù hợp vào công việc thực tiễn tại đơn vị, doanh nghiệp mình.</p>
+<p>LÊ XUÂN.</p>
+</p>');
+      my_window.document.write('</body> </html>');
+      my_window.print();
+  }
+  </script>
+
+
+</script>
+
 
                          
 
@@ -1961,8 +1987,7 @@ Việc triển khai áp dụng kê khai thuế qua mạng sẽ giúp các công 
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
 
-<script><script
-  src="http://code.jquery.com/jquery-3.1.1.min.js"
+<script>  <script  src="http://code.jquery.com/jquery-3.1.1.min.js"
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
   <script>
@@ -1971,3 +1996,4 @@ Việc triển khai áp dụng kê khai thuế qua mạng sẽ giúp các công 
                              $("#viewCounter").append(data.hit_total);
 });
                          </script>
+

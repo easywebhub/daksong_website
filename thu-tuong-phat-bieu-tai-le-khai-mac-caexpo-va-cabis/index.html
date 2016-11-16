@@ -900,7 +900,7 @@
 <span class="css_readCounter">
         Số lượt người xem: <b id="viewCounter"> </b></span>
         
-        <span class="css_printandback"><a style="color: #686868" class="print" href=""> Bản in </a></span>
+        <span class="css_printandback"><a style="color: #686868" class="print" href="javascript: popuponclick()"> Bản in </a></span>
 <script>
 
             function linkFacebook(title) {
@@ -1024,6 +1024,31 @@
      
      ​</div>
      					</div>
+                         <script
+  src="http://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous"></script>
+
+
+<script type="text/javascript">
+    function popuponclick() {
+      my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
+      my_window.document.write('<html><head><title>Print Me</title></head>');
+      my_window.document.write('<body onafterprint="self.close()">');
+       my_window.document.write('<h1>Thủ tướng phát biểu tại lễ khai mạc CAEXPO và CABIS</h1>');
+        my_window.document.write('<h3>Sáng 11/9, trong khuôn khổ tham dự Hội chợ Trung Quốc - ASEAN lần thứ 13 với tư cách là “Quốc gia danh dự”, tại Trung tâm Hội chợ triển lãm quốc tế Nam Ninh, Thủ tướng Chính phủ Nguyễn Xuân Phúc đã cùng Phó Thủ tướng Quốc vụ viện Trung Quốc Trương Cao Lệ và lãnh đạo các nước ASEAN dự lễ khai mạc Hội chợ Trung Quốc - ASEAN (CAEXPO) và Hội nghị Thượng đỉnh thương mại và đầu tư Trung Quốc - ASEAN (CABIS) lần thứ 13.
+</h3>');
+      my_window.document.write('<p><p>Phát biểu tại lễ khai mạc, Thủ tướng Nguyễn Xuân Phúc nêu rõ những ưu thế và tiềm năng hợp tác giữa ASEAN và Trung Quốc, khẳng định quan hệ đối thoại, hợp tác ASEAN - Trung Quốc sau 25 năm hình thành và phát triển nay đã đạt nhiều thành tựu quan trọng; các kỳ Hội chợ Trung Quốc - ASEAN và Hội nghị Thượng đỉnh thương mại và đầu tư Trung Quốc - ASEAN đã đóng góp quan trọng vào việc thúc đẩy quan hệ đối tác chiến lược giữa ASEAN và Trung Quốc không ngừng phát triển đi vào chiều sâu.</p>
+<p>Thủ tướng Nguyễn Xuân Phúc khẳng định, Việt Nam coi trọng và luôn tích cực tham gia các kỳ Hội chợ; nhấn mạnh năm nay, lần đầu tiên đảm nhiệm vai trò là “Quốc gia danh dự” của Hội chợ, Việt Nam đã tham dự hơn 250 gian hàng triển lãm, tăng 35% so với năm 2015 và tiếp tục là nước có nhiều gian hàng nhất trong số các nước ASEAN.</p>
+</p>');
+      my_window.document.write('</body> </html>');
+      my_window.print();
+  }
+  </script>
+
+
+</script>
+
 
                          
 
@@ -1960,8 +1985,7 @@
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
 
-<script><script
-  src="http://code.jquery.com/jquery-3.1.1.min.js"
+<script>  <script  src="http://code.jquery.com/jquery-3.1.1.min.js"
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
   <script>
@@ -1970,3 +1994,4 @@
                              $("#viewCounter").append(data.hit_total);
 });
                          </script>
+

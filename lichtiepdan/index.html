@@ -900,7 +900,7 @@
 <span class="css_readCounter">
         Số lượt người xem: <b id="viewCounter"> </b></span>
         
-        <span class="css_printandback"><a style="color: #686868" class="print" href=""> Bản in </a></span>
+        <span class="css_printandback"><a style="color: #686868" class="print" href="javascript: popuponclick()"> Bản in </a></span>
 <script>
 
             function linkFacebook(title) {
@@ -1024,6 +1024,31 @@
      
      ​</div>
      					</div>
+                         <script
+  src="http://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous"></script>
+
+
+<script type="text/javascript">
+    function popuponclick() {
+      my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
+      my_window.document.write('<html><head><title>Print Me</title></head>');
+      my_window.document.write('<body onafterprint="self.close()">');
+       my_window.document.write('<h1>lichtiepdan</h1>');
+        my_window.document.write('<h3>Thông báo về việc tiếp công dân của Chủ tịch UBND huyện Đăk Song</h3>');
+      my_window.document.write('<p><p><a href="http://daksong.daknong.gov.vn/lichtiepdan/" title="1"><img src="http://www.mediafire.com/convkey/08f8/4j724u56tgbc71wzg.jpg" alt="1" title="1"></a>
+<a href="http://daksong.daknong.gov.vn/lichtiepdan/" title="2"><img src="http://www.mediafire.com/convkey/143c/st6w6j828utbx03zg.jpg" alt="2" title="2"></a>
+<a href="http://daksong.daknong.gov.vn/lichtiepdan/" title="3"><img src="http://www.mediafire.com/convkey/e388/mba8c8a97fef0jszg.jpg" alt="3" title="3"></a></p>
+</p>');
+      my_window.document.write('</body> </html>');
+      my_window.print();
+  }
+  </script>
+
+
+</script>
+
 
                          
 
@@ -1960,8 +1985,7 @@
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
 
-<script><script
-  src="http://code.jquery.com/jquery-3.1.1.min.js"
+<script>  <script  src="http://code.jquery.com/jquery-3.1.1.min.js"
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
   <script>
@@ -1970,3 +1994,4 @@
                              $("#viewCounter").append(data.hit_total);
 });
                          </script>
+

@@ -897,7 +897,7 @@
 <span class="css_readCounter">
         Số lượt người xem: <b id="viewCounter"> </b></span>
         
-        <span class="css_printandback"><a style="color: #686868" class="print" href=""> Bản in </a></span>
+        <span class="css_printandback"><a style="color: #686868" class="print" href="javascript: popuponclick()"> Bản in </a></span>
 <script>
 
             function linkFacebook(title) {
@@ -1021,6 +1021,28 @@
      
      ​</div>
      					</div>
+                         <script
+  src="http://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous"></script>
+
+
+<script type="text/javascript">
+    function popuponclick() {
+      my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
+      my_window.document.write('<html><head><title>Print Me</title></head>');
+      my_window.document.write('<body onafterprint="self.close()">');
+       my_window.document.write('<h1>Đoàn đại biểu quân sự cấp cao Việt Nam thăm hữu nghị chính thức Trung Quốc</h1>');
+        my_window.document.write('<h3>Theo phóng viên TTXVN tại Bắc Kinh, sáng 30/8, đoàn đại biểu quân sự cấp cao Việt Nam, do Đại tướng Ngô Xuân Lịch, Ủy viên Bộ Chính trị, Phó Bí thư Quân ủy Trung ương, Bộ trưởng Bộ Quốc phòng dẫn đầu, sang thăm hữu nghị chính thức Trung Quốc, đã có cuộc hội đàm với đoàn đại biểu quân sự cấp cao Trung Quốc, do Thượng tướng Thường Vạn Toàn, Ủy viên Quốc vụ, Bộ trưởng Bộ Quốc phòng Trung Quốc dẫn đầu.</h3>');
+      my_window.document.write('<p></p>');
+      my_window.document.write('</body> </html>');
+      my_window.print();
+  }
+  </script>
+
+
+</script>
+
 
                          
 
@@ -1957,8 +1979,7 @@
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
 
-<script><script
-  src="http://code.jquery.com/jquery-3.1.1.min.js"
+<script>  <script  src="http://code.jquery.com/jquery-3.1.1.min.js"
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
   <script>
@@ -1967,3 +1988,4 @@
                              $("#viewCounter").append(data.hit_total);
 });
                          </script>
+

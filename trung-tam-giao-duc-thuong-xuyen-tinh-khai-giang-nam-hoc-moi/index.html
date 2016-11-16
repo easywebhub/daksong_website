@@ -898,7 +898,7 @@
 <span class="css_readCounter">
         Số lượt người xem: <b id="viewCounter"> </b></span>
         
-        <span class="css_printandback"><a style="color: #686868" class="print" href=""> Bản in </a></span>
+        <span class="css_printandback"><a style="color: #686868" class="print" href="javascript: popuponclick()"> Bản in </a></span>
 <script>
 
             function linkFacebook(title) {
@@ -1022,6 +1022,29 @@
      
      ​</div>
      					</div>
+                         <script
+  src="http://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous"></script>
+
+
+<script type="text/javascript">
+    function popuponclick() {
+      my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
+      my_window.document.write('<html><head><title>Print Me</title></head>');
+      my_window.document.write('<body onafterprint="self.close()">');
+       my_window.document.write('<h1>Trung tâm Giáo dục thường xuyên tỉnh khai giảng năm học mới</h1>');
+        my_window.document.write('<h3>Trong năm học 2015 - 2016, nhờ thực hiện đồng bộ các giải pháp nên chất lượng giáo dục của Trung tâm có những chuyển biến tích cực. Tỷ lệ học sinh chuyên cần đạt trên 75%; tỷ lệ lên lớp thẳng đạt 67%; tỷ lệ đạt hạnh kiểm khá, tốt chiếm trên 80%; tỷ lệ tốt nghiệp kỳ thi THPT quốc gia đạt trên 71%. Với những kết quả đạt được, Trung tâm đã vinh dự được UBND tỉnh tặng Cờ thi đua.
+ </h3>');
+      my_window.document.write('<p></p>');
+      my_window.document.write('</body> </html>');
+      my_window.print();
+  }
+  </script>
+
+
+</script>
+
 
                          
 
@@ -1958,8 +1981,7 @@
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
 
-<script><script
-  src="http://code.jquery.com/jquery-3.1.1.min.js"
+<script>  <script  src="http://code.jquery.com/jquery-3.1.1.min.js"
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
   <script>
@@ -1968,3 +1990,4 @@
                              $("#viewCounter").append(data.hit_total);
 });
                          </script>
+

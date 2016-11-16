@@ -912,7 +912,7 @@ cờ lưu niệm cho đại diện các đoàn về tham dự.</p>
 <span class="css_readCounter">
         Số lượt người xem: <b id="viewCounter"> </b></span>
         
-        <span class="css_printandback"><a style="color: #686868" class="print" href=""> Bản in </a></span>
+        <span class="css_printandback"><a style="color: #686868" class="print" href="javascript: popuponclick()"> Bản in </a></span>
 <script>
 
             function linkFacebook(title) {
@@ -1036,6 +1036,43 @@ cờ lưu niệm cho đại diện các đoàn về tham dự.</p>
      
      ​</div>
      					</div>
+                         <script
+  src="http://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous"></script>
+
+
+<script type="text/javascript">
+    function popuponclick() {
+      my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
+      my_window.document.write('<html><head><title>Print Me</title></head>');
+      my_window.document.write('<body onafterprint="self.close()">');
+       my_window.document.write('<h1>LỄ KHAI MẠC HỘI THAO KỶ NIỆM 13 NĂM THÀNH LẬP HUYỆN</h1>');
+        my_window.document.write('<h3>Từ ngày 16/6/2014 đến ngày 20/6/2014 Ủy ban
+nhân dân huyện Đăk Song tổ chức Hội thao chào mừng kỷ niệm 13 năm ngày thành
+lập huyện Đăk Song</h3>');
+      my_window.document.write('<p><p>Từ ngày 16/6/2014 đến ngày 20/6/2014 Ủy ban
+nhân dân huyện Đăk Song tổ chức Hội thao chào mừng kỷ niệm 13 năm ngày thành
+lập huyện Đăk Song (21/6/2001 – 21/6/2014) và hướng tới kỷ niệm 67 năm ngày Thương
+binh Liệt sỹ. Có hơn 200 vận động viên thuộc 12 đoàn về tham dự và thi đấu ở
+các môn: bóng đá mini nam; bóng chuyền nam, nữ; quần vợt nam; cầu lông nam, nữ</p>
+<p>Hội thao lần này nhằm tạo không khí vui
+tươi phấn khởi để cho cán bộ, chiến sỹ và nhân dân trong toàn huyện có dịp giao
+lưu học hỏi lẫn nhau tạo phong trào rèn luyện thể dục thể thao theo gương Bác
+Hồ vĩ đại, nhằm xây dựng huyện nhà ngày càng phát triển mọi mặt cũng như không
+ngừng nâng cao đời sống vật chất và tinh thần của nhân dân trong toàn huyện.
+Đồng chí Nguyễn Thị Thu Hường – Phó Bí thư
+Huyện ủy và đồng chí Nguyễn Văn Phò – Phó Chủ tịch Ủy ban nhân dân huyện trao
+cờ lưu niệm cho đại diện các đoàn về tham dự.</p>
+</p>');
+      my_window.document.write('</body> </html>');
+      my_window.print();
+  }
+  </script>
+
+
+</script>
+
 
                          
 
@@ -1972,8 +2009,7 @@ cờ lưu niệm cho đại diện các đoàn về tham dự.</p>
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
 
-<script><script
-  src="http://code.jquery.com/jquery-3.1.1.min.js"
+<script>  <script  src="http://code.jquery.com/jquery-3.1.1.min.js"
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
   <script>
@@ -1982,3 +2018,4 @@ cờ lưu niệm cho đại diện các đoàn về tham dự.</p>
                              $("#viewCounter").append(data.hit_total);
 });
                          </script>
+

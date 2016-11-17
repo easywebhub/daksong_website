@@ -866,7 +866,25 @@
 
         <div class="postMain">
 
-                <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                
+
+<script type="text/javascript">
+    function popuponclick() {
+      my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
+      my_window.document.write('<html><head><title>Print Me</title></head>');
+      my_window.document.write('<body onafterprint="self.close()">');
+       my_window.document.write('<h1>Lễ Thượng cờ Đại hội Thể thao Bãi biển châu Á lần thứ 5</h1>');
+        my_window.document.write('<h3>Chiều 22/9, tại TP. Đà Nẵng, Ban tổ chức Đại hội Thể thao Bãi biển Châu Á lần thứ 5 (ABG5) đã long trọng tổ chức Lễ Thượng cờ 42 quốc gia, vùng lãnh thổ tham dự Đại hội.</h3>');
+      my_window.document.write('<p><p>Chiều 22/9, tại TP. Đà Nẵng, Ban tổ chức Đại hội Thể thao Bãi biển Châu Á lần thứ 5 (ABG5) đã long trọng tổ chức Lễ Thượng cờ 42 quốc gia, vùng lãnh thổ tham dự Đại hội.</p>
+<p>Lễ Thượng cờ là một trong những sự kiện quan trọng tại mỗi Đại hội thể thao quốc tế<br>(Ảnh: KS) </p>
+<p>Đây là một sự kiện quan trọng tại mỗi kỳ Đại hội thể thao quốc tế nhằm tạo ấn tượng ban đầu đối với các quốc gia tham dự. Tham dự buổi lễ có đại diện các đoàn thể thao và đại diện Ban tổ chức ABG5 địa phương. Đến thời điểm hiện tại, TP. Đà Nẵng đã hoàn tất tương đối toàn bộ cơ sở vật chất phục vụ Đại hội, đơn vị thi công đã bàn giao mặt bằng cho bộ phận chuyên môn để kịp lắp đặt thiết bị thi đấu. Các bộ phận tham gia Lễ khai mạc cũng đang tích cực tập dợt để chuẩn bị cho Lễ khai mạc sẽ diễn ra vào 20h ngày 24/9/2016 tại Công viên Biển Đông. Bên cạnh đó, công tác an ninh được tổ chức rất chặt chẽ, đảm bảo an ninh, an toàn tuyệt đối tại các khu vực thi đấu, khách sạn của các đoàn lưu trú cũng như trên địa bàn thành phố.</p>
+</p>');
+      my_window.document.write('</body> </html>');
+      my_window.print();
+  }
+  </script>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
 	<tr>
 		<td id="MSOZoneCell_WebPartWPQ10" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
 			<tr>
@@ -900,7 +918,7 @@
 <span class="css_readCounter">
         Số lượt người xem: <b id="viewCounter"> </b></span>
         
-        <span class="css_printandback"><a style="color: #686868" class="print" href=""> Bản in </a></span>
+        <span class="css_printandback"><a style="color: #686868" class="print" href="javascript: popuponclick()"> Bản in </a></span>
 <script>
 
             function linkFacebook(title) {
@@ -1024,6 +1042,14 @@
      
      ​</div>
      					</div>
+                         <script
+  src="http://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous"></script>
+
+
+</script>
+
 
                          
 
@@ -1960,8 +1986,7 @@
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
 
-<script><script
-  src="http://code.jquery.com/jquery-3.1.1.min.js"
+<script>  <script  src="http://code.jquery.com/jquery-3.1.1.min.js"
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
   <script>
@@ -1970,3 +1995,4 @@
                              $("#viewCounter").append(data.hit_total);
 });
                          </script>
+

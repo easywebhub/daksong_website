@@ -866,7 +866,22 @@
 
         <div class="postMain">
 
-                <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                
+
+<script type="text/javascript">
+    function popuponclick() {
+      my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
+      my_window.document.write('<html><head><title>Print Me</title></head>');
+      my_window.document.write('<body onafterprint="self.close()">');
+       my_window.document.write('<h1>CAM KẾT TĂNG CƯỜNG TRIỂN KHAI CÔNG TÁC GIÁO DỤC AN TOÀN GIAO THÔNG NĂM HỌC 2016-2017</h1>');
+        my_window.document.write('<h3>Tăng cường triển khai công tác giáo dục ATGT đầu năm học 2016-2017 ... thực hiện công tác giáo dục an toàn giao thông đầu năm học 2016-2017, ... học sinh để tuyên truyền, nhắc nhở và ký cam kết việc không giao xe máy </h3>');
+      my_window.document.write('<p></p>');
+      my_window.document.write('</body> </html>');
+      my_window.print();
+  }
+  </script>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
 	<tr>
 		<td id="MSOZoneCell_WebPartWPQ10" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
 			<tr>
@@ -897,7 +912,7 @@
 <span class="css_readCounter">
         Số lượt người xem: <b id="viewCounter"> </b></span>
         
-        <span class="css_printandback"><a style="color: #686868" class="print" href=""> Bản in </a></span>
+        <span class="css_printandback"><a style="color: #686868" class="print" href="javascript: popuponclick()"> Bản in </a></span>
 <script>
 
             function linkFacebook(title) {
@@ -1021,6 +1036,14 @@
      
      ​</div>
      					</div>
+                         <script
+  src="http://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous"></script>
+
+
+</script>
+
 
                          
 
@@ -1957,8 +1980,7 @@
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
 
-<script><script
-  src="http://code.jquery.com/jquery-3.1.1.min.js"
+<script>  <script  src="http://code.jquery.com/jquery-3.1.1.min.js"
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
   <script>
@@ -1967,3 +1989,4 @@
                              $("#viewCounter").append(data.hit_total);
 });
                          </script>
+

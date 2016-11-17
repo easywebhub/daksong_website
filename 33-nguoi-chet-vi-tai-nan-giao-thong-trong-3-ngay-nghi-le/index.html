@@ -866,7 +866,25 @@
 
         <div class="postMain">
 
-                <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                
+
+<script type="text/javascript">
+    function popuponclick() {
+      my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
+      my_window.document.write('<html><head><title>Print Me</title></head>');
+      my_window.document.write('<body onafterprint="self.close()">');
+       my_window.document.write('<h1>33 người chết vì tai nạn giao thông trong 3 ngày nghỉ lễ</h1>');
+        my_window.document.write('<h3>Trong 3 ngày nghỉ lễ từ 2 – 4/9, tình hình trật tự an toàn giao thông được đảm bảo, cơ bản đáp ứng nhu cầu đi lại của người dân. Đây là đánh giá chung của Ủy ban An toàn giao thông Quốc gia.</h3>');
+      my_window.document.write('<p><p>Trong 3 ngày nghỉ lễ từ 2 – 4/9, tình hình trật tự an toàn giao thông được đảm bảo, cơ bản đáp ứng nhu cầu đi lại của người dân. Đây là đánh giá chung của Ủy ban An toàn giao thông Quốc gia.</p>
+<p>Hiện trường một vụ tai nạn giao thông nghiêm trọng. (Ảnh: TTXVN)</p>
+<p>Trong kỳ nghỉ lễ này, Bộ Giao thông vận tải, Bộ Công an, Ban An toàn giao thông các địa phương đã tăng cường công tác chỉ đạo, triển khai thực hiện nghiêm túc Công điện 1502/CĐ-TTg của Thủ tướng Chính phủ về bảo đảm trật tự, an toàn giao thông trong thời gian lễ Quốc khánh 2/9 và khai giảng năm học mới 2016 – 2017. Mặc dù nhu cầu đi lại và mật độ phương tiện giao thông tăng cao trong 3 ngày nghỉ lễ, nhưng hoạt động vận tải và bảo đảm trật tự, an toàn giao thông trên toàn quốc được duy trì ổn định đáp ứng nhu cầu đi lại của người dân. Công tác vận tải hành khách được tăng cường trên lĩnh vực đường bộ, đường sắt và hàng không; tình hình an ninh, trật tự tại các bến xe, nhà ga, cảng hàng không, trên các phương tiện vận tải hành khách được duy trì ổn định, thông suốt, không xảy ra ùn tắc nghiêm trọng. </p>
+</p>');
+      my_window.document.write('</body> </html>');
+      my_window.print();
+  }
+  </script>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
 	<tr>
 		<td id="MSOZoneCell_WebPartWPQ10" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
 			<tr>
@@ -900,7 +918,7 @@
 <span class="css_readCounter">
         Số lượt người xem: <b id="viewCounter"> </b></span>
         
-        <span class="css_printandback"><a style="color: #686868" class="print" href=""> Bản in </a></span>
+        <span class="css_printandback"><a style="color: #686868" class="print" href="javascript: popuponclick()"> Bản in </a></span>
 <script>
 
             function linkFacebook(title) {
@@ -1024,6 +1042,14 @@
      
      ​</div>
      					</div>
+                         <script
+  src="http://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous"></script>
+
+
+</script>
+
 
                          
 
@@ -1960,8 +1986,7 @@
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
 
-<script><script
-  src="http://code.jquery.com/jquery-3.1.1.min.js"
+<script>  <script  src="http://code.jquery.com/jquery-3.1.1.min.js"
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
   <script>
@@ -1970,3 +1995,4 @@
                              $("#viewCounter").append(data.hit_total);
 });
                          </script>
+

@@ -866,7 +866,24 @@
 
         <div class="postMain">
 
-                <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                
+
+<script type="text/javascript">
+    function popuponclick() {
+      my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
+      my_window.document.write('<html><head><title>Print Me</title></head>');
+      my_window.document.write('<body onafterprint="self.close()">');
+       my_window.document.write('<h1>Kết thúc kỳ họp thứ 12 HĐND tỉnh khóa II nhiệm kỳ 2011 2016</h1>');
+        my_window.document.write('<h3>Thông qua 15 nghị quyết quan trọng; Đồng chí Nguyễn Bốn được bầu giữ chức Chủ tịch UBND tỉnh nhiệm kỳ 2011-2016
+
+Tiếp tục chương trình làm việc, ngày 10/12, kỳ họp thứ 12 HĐND tỉnh đã tiến hành các thủ tục miễn nhiệm và bầu bổ sung các chức danh: Phó Chủ tịch HĐND tỉnh, Chủ tịch UBND tỉnh, Phó Chủ tịch UBND tỉnh khóa II, nhiệm kỳ 2011-2016; miễn nhiệm thành viên Ban Văn hóa-Xã hội HĐND tỉnh khóa II, nhiệm kỳ 2011-2016.</h3>');
+      my_window.document.write('<p></p>');
+      my_window.document.write('</body> </html>');
+      my_window.print();
+  }
+  </script>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
 	<tr>
 		<td id="MSOZoneCell_WebPartWPQ10" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
 			<tr>
@@ -899,7 +916,7 @@ Tiếp tục chương trình làm việc, ngày 10/12, kỳ họp thứ 12 HĐND
 <span class="css_readCounter">
         Số lượt người xem: <b id="viewCounter"> </b></span>
         
-        <span class="css_printandback"><a style="color: #686868" class="print" href=""> Bản in </a></span>
+        <span class="css_printandback"><a style="color: #686868" class="print" href="javascript: popuponclick()"> Bản in </a></span>
 <script>
 
             function linkFacebook(title) {
@@ -1020,6 +1037,14 @@ Tiếp tục chương trình làm việc, ngày 10/12, kỳ họp thứ 12 HĐND
      
      ​</div>
      					</div>
+                         <script
+  src="http://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous"></script>
+
+
+</script>
+
 
                          
 
@@ -1956,8 +1981,7 @@ Tiếp tục chương trình làm việc, ngày 10/12, kỳ họp thứ 12 HĐND
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
 
-<script><script
-  src="http://code.jquery.com/jquery-3.1.1.min.js"
+<script>  <script  src="http://code.jquery.com/jquery-3.1.1.min.js"
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
   <script>
@@ -1966,3 +1990,4 @@ Tiếp tục chương trình làm việc, ngày 10/12, kỳ họp thứ 12 HĐND
                              $("#viewCounter").append(data.hit_total);
 });
                          </script>
+

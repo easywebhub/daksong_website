@@ -3,7 +3,7 @@
     "slug": "lich-cong-tac-tuan-tu-ngay-14112016-den-ngay-18112016",
     "layout": "post.html",
     "category": "thong-tin-chi-dao.lich-lam-viec-cua-lanh-dao",
-    "title": "LỊCH CÔNG TÁC TUẦN (Từ ngày 14/11/2016 đến ngày 18/11/2016)",
+    "title": "Lịch công tác tuần (Từ 14/11/2016 đến 18/11/2016)",
     "description": "",
     "date": "14-11-2016 09:15:16",
     "banner": "img/LichLV.jpg",

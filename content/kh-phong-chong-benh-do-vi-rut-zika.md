@@ -3,7 +3,7 @@
     "slug": "kh-phong-chong-benh-do-vi-rut-zika",
     "layout": "post.html",
     "category": "dinh-huong-phat-trien.quy-hoach-ke-hoach",
-    "title": "Kế hoạch phát động chiến dịch Người dân tự diệt muỗi, lăng quăng phòng chống bệnh do vi rút Zika và sốt xuất huyết lần 2 trên địa bàn huyện Đắk Song năm 2016",
+    "title": "Kế hoạch số 161/KH-UBND V/v Phát động chiến dịch Người dân tự diệt muỗi, lăng quăng phòng chống bệnh do vi rút Zika và sốt xuất huyết lần 2 trên địa bàn huyện Đắk Song năm 2016",
     "description": "",
     "date": "06-11-2016",
     "banner": "img/phat.jpg",

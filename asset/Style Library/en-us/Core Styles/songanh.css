@@ -2524,7 +2524,7 @@ div.srch-Page{
 }
 #tableforprint img{
 	    max-width: 100% !important;
-		width: 100% !important;
+		width: auto !important;
 }
 
 a img{
@@ -2608,9 +2608,9 @@ a img{
 	margin : 10px auto !important;
 }
 .MsoTableGrid{
-	width: 100% !important;
+	width: auto !important;
 }
 .MsoTableGrid img {
     width: 100% !important;
-    max-width: 100% !important;
+    max-width: auto !important;
 }

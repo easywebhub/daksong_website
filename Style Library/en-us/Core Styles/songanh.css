@@ -2523,8 +2523,10 @@ div.srch-Page{
 	display:none;
 }
 #tableforprint img{
-	/*max-width:450px!important;*/
+	    max-width: 100% !important;
+		width: 100% !important;
 }
+
 a img{
 	border:0px
 }

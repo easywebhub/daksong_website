@@ -11,7 +11,7 @@
     "permalink": true,
     "trich_yeu": "Quyết định số 03/2014/QĐ-UBND, ngày 16/01/2014 của ỦY BAN NHÂN DÂN TỈNH ĐĂK NÔNG, Ban hành Quy chế phát ngôn và cung cấp thông tin cho báo chí trên địa bàn tỉnh Đắk Nông",
     "co_quan_ban_hanh": "UBND tỉnh",
-    "linh_vuc": "",
+    "linh_vuc": "Báo chí",
     "loai_van_ban": "",
     "nguoi_ky": "",
     "ngay_co_hieu_luc": "",

@@ -1364,7 +1364,7 @@ dân và Ủy ban nhân dân huyện<o:p></o:p></span></i></p>
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><b><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;">Đ/c Nguyễn Ngọc Thân</span></b><span style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><br>
-  SĐT:&nbsp;0913487168</span><b><span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
+  SĐT:&nbsp;0975616768</span><b><span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
   &quot;Times New Roman&quot;"><o:p></o:p></span></b></p>
   </td>
  </tr>
@@ -1906,8 +1906,7 @@ nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Ti
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:13.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Nguyễn Văn Thịnh<o:p></o:p></span></p>
+  text-align:center;line-height:normal"><br></p>
   </td>
   <td width="293" valign="top" style="width:219.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1921,9 +1920,7 @@ nhân dân huyện</span></b><span style="font-size: 13pt; font-family: &quot;Ti
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:13.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">​0944
-  244 115<o:p></o:p></span></p>
+  text-align:center;line-height:normal"><br></p>
   </td>
  </tr>
  <tr>

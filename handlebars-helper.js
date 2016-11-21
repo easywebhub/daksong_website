@@ -22,6 +22,13 @@ module.exports = function (Handlebars) {
     Handlebars.registerHelper('json', function (obj) {
         return JSON.stringify(obj);
     });
+      Handlebars.registerHelper('ensomecode', function (obj) {
+        return obj.replace(/&/g, '&amp;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;');
+    });
 
     Handlebars.registerHelper('removeIndex', function (url) {
         return url.replace('index.html', '');

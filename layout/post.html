@@ -1,20 +1,5 @@
 {{#extend "tin-tuc"}}
 {{#content "main-body"}}
-
-
-<script type="text/javascript">
-    function popuponclick() {
-      my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
-      my_window.document.write('<html><head><title>Print Me</title></head>');
-      my_window.document.write('<body onafterprint="self.close()">');
-       my_window.document.write('<h1>{{title}}</h1>');
-        my_window.document.write('<h3>{{description}}</h3>');
-      my_window.document.write('<p>{{{contents}}}</p>');
-      my_window.document.write('</body> </html>');
-      my_window.print();
-  }
-  </script>
-
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 	<tr>
 		<td id="MSOZoneCell_WebPartWPQ10" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -169,6 +154,25 @@
   src="http://code.jquery.com/jquery-3.1.1.min.js"
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
+
+
+<script type="text/javascript">
+    function popuponclick() {
+        var content ='{{{ ensomecode contents }}}'.replace(/&quot;/g, '"')
+        .replace(/&#39;/g, "'")
+        .replace(/&lt;/g, '<')
+        .replace(/&gt;/g, '>')
+        .replace(/&amp;/g, '&');;
+      my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
+      my_window.document.write('<html><head><title>Print Me</title></head>');
+      my_window.document.write('<body onafterprint="self.close()">');
+       my_window.document.write('<h1>{{title}}</h1>');
+        my_window.document.write('<h3>{{description}}</h3>');
+      my_window.document.write(` <p> ${content}</p> `);
+      my_window.document.write('</body> </html>');
+      my_window.print();
+  }
+  </script>
 
 
 </script>

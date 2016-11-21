@@ -2523,8 +2523,10 @@ div.srch-Page{
 	display:none;
 }
 #tableforprint img{
-	max-width:450px!important;
+	    max-width: 100% !important;
+		width: auto !important;
 }
+
 a img{
 	border:0px
 }
@@ -2605,7 +2607,10 @@ a img{
 	width: 100% !important;
 	margin : 10px auto !important;
 }
+.MsoTableGrid{
+	width: auto !important;
+}
 .MsoTableGrid img {
     width: 100% !important;
-    max-width: 100% !important;
+    max-width: auto !important;
 }

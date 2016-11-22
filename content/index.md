@@ -70,7 +70,7 @@
     "tinTucNoiBat": [
         {
             "slug": "tb-tap-huan-su-dung-phan-mem-van-phong-dien-tu",
-            "title": "THÔNG BÁO Về việc Tập huấn sử dụng phần mềm Văn phòng điện tử",
+            "title": "Thông báo V/v Tập huấn sử dụng phần mềm Văn phòng điện tử ngày 28-30/11/2016",
             "description": "Ngày 15/11/2016 UBND huyện Đắk Song - Thông báo: Tập huấn sử dụng phần mềm Văn phòng điện tử trên địa bàn huyện Đăk Song",
             "banner": "Tap huan VPDT 0.jpg"
         },

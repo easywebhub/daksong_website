@@ -158,7 +158,24 @@
         },
         {
             "title": "Văn bản Pháp luật",
-            "url": "van-ban-phap-luat"
+            "url": "van-ban-phap-luat",
+            "type": {
+                "isMulti": true
+            },
+            "subMenu": [
+                {
+                    "title": "Văn bản Trung Ương",
+                    "url": "van-ban-phap-luat/van-ban-trung-uong"
+                },
+                {
+                    "title": "Văn bản của Tỉnh",
+                    "url": "van-ban-phap-luat/van-ban-cua-tinh"
+                },
+                {
+                    "title": "Văn bản của Huyện",
+                    "url": "van-ban-phap-luat/van-ban-cua-huyen"
+                }
+            ]
         }
     ],
     "menuList": [

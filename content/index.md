@@ -8,13 +8,13 @@
         "ten": "Tab kinh tế",
         "danh-sach": [
             {
-                "ten": "Tin Kinh Tế - Đời sống",
+                "ten": "Tin Kinh tế - Đời sống",
                 "name": "tinKinhTe",
                 "collections_name": "tin-tuc-su-kien.tin-kinh-te",
                 "url": "tin-tuc-su-kien/tin-kinh-te"
             },
             {
-                "ten": "Tin y tế - Giáo dục",
+                "ten": "Tin Y tế - Giáo dục",
                 "name": "tinYTe",
                 "collections_name": "tin-tuc-su-kien.tin-y-te-giao-duc",
                 "url": "tin-tuc-su-kien/tin-y-te-giao-duc"
@@ -26,7 +26,7 @@
         "ten": "Tin văn hóa - Du lịch",
         "danhSach": [
             {
-                "ten": "Tin văn hóa - Du lịch",
+                "ten": "Tin Văn hóa - Du lịch",
                 "name": "tinVanHoa",
                 "collections_name": "tin-tuc-su-kien.tin-van-hoa",
                 "url": "tin-tuc-su-kien/tin-van-hoa"
@@ -37,16 +37,16 @@
         "ten": "Thông tin chỉ đạo",
         "danh_sach": [
             {
-                "ten": "Ý kiến chỉ đạo, phản hồi",
-                "collections_name": "thong-tin-chi-dao.y-kien-chi-dao-phan-hoi",
-                "name": "thongTinDieuChiDaoDh",
-                "url": "thong-tin-chi-dao/y-kien-chi-dao-phan-hoi"
-            },
-            {
                 "ten": "Thông tin tuyên truyền",
                 "collections_name": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
                 "name": "thongTinTuyenTruyen",
                 "url": "thong-tin-chi-dao/thong-tin-tuyen-truyen"
+            },
+            {
+                "ten": "Ý kiến chỉ đạo, phản hồi",
+                "collections_name": "thong-tin-chi-dao.y-kien-chi-dao-phan-hoi",
+                "name": "thongTinDieuChiDaoDh",
+                "url": "thong-tin-chi-dao/y-kien-chi-dao-phan-hoi"
             }
         ]
     },
@@ -54,13 +54,13 @@
         "ten": "An ninh trật tự",
         "danh_sach": [
             {
-                "ten": "An ninh trật tự",
+                "ten": "An ninh Trật tự",
                 "collections_name": "tin-tuc-su-kien.tin-an-ninh-trat-tu",
                 "name": "tinAnNinhTratTu",
                 "url": "tin-tuc-su-kien/tin-an-ninh-trat-tu"
             },
             {
-                "ten": "Tin chính trị - Xã hội",
+                "ten": "Tin Chính trị - Xã hội",
                 "collections_name": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
                 "name": "tinChinhTriXaHoi",
                 "url": "tin-tuc-su-kien/tin-chinh-tri-xa-hoi"
@@ -84,7 +84,7 @@
             "slug": "ke-hoach-to-chuc-le-ky-niem",
             "title": "Giải quần vợt Doanh Nhân Việt Nam tại huyện Đăk Song",
             "description": "Ngày 07/10/2016, UBND huyện Đăk Song tỉnh Đăk Nông tổ chức giải quần vợt Doanh Nhân VN tại huyện Đăk Song ",
-            "banner": "img/Giai quan vot.png"
+            "banner": "img/Giai quan vot.jpg"
         },
         {
             "slug": "thong-bao-ve-viec-tiep-cong-dan-cua-chu-tich",

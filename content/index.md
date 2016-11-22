@@ -69,10 +69,10 @@
     },
     "tinTucNoiBat": [
         {
-            "slug": "thong-bao-tuyen-dung-cong-chuc-cap-xa-tren-dia-ban-huyen-dak-song-nam-2016",
-            "title": "THÔNG BÁO Về việc tuyển dụng công chức cấp xã trên địa bàn huyện Đăk Song",
-            "description": "Ngày 25/10/2016 UBND huyện thông báo về việc tuyển dụng công chức cấp xã trên địa bàn huyện Đăk Song",
-            "banner": "img/T1001-10-2011-9.25.15 AM13-10-2011-12.55.52 PM10-18-2016-2.14.08 PM10-21-2016-8.37.57 AM10-25-2016-9.37.15 AM.jpg"
+            "slug": "tb-tap-huan-su-dung-phan-mem-van-phong-dien-tu",
+            "title": "THÔNG BÁO Về việc Tập huấn sử dụng phần mềm Văn phòng điện tử",
+            "description": "Ngày 15/11/2016 UBND huyện Đắk Song - Thông báo: Tập huấn sử dụng phần mềm Văn phòng điện tử trên địa bàn huyện Đăk Song",
+            "banner": "Tap huan VPDT 0.jpg"
         },
         {
             "slug": "thong-bao-tuyen-dung-vien-chuc-su-nghiep-giao-duc-va-su-nghiep-khac-nam-2016",

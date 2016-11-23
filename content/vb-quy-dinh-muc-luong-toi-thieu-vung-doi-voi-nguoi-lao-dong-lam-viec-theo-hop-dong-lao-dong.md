@@ -1,0 +1,26 @@
+---json
+{
+    "slug": "vb-quy-dinh-muc-luong-toi-thieu-vung-doi-voi-nguoi-lao-dong-lam-viec-theo-hop-dong-lao-dong",
+    "category": "van-ban-phap-luat.van-ban-trung-uong",
+    "tag": [],
+    "layout": "van-ban.html",
+    "title": "vb Quy định mức lương tối thiểu vùng đối với người lao động làm việc theo hợp đồng lao động",
+    "description": "",
+    "date": "14-11-2016",
+    "so": "",
+    "permalink": true,
+    "trich_yeu": "Quy định mức lương tối thiểu vùng đối với người lao động làm việc theo hợp đồng lao động",
+    "co_quan_ban_hanh": "Chính Phủ",
+    "linh_vuc": "LĐ-TBXH",
+    "loai_van_ban": "",
+    "nguoi_ky": "",
+    "ngay_co_hieu_luc": "",
+    "tai_lieu_dinh_kem": "img/y sao 611_1.PDF",
+    "banner": "",
+    "draft": "",
+    "url": "",
+    "hinh_thuc_van_ban": "Nghị định",
+    "ngay_ban_hanh": "14-11-2016 00:00:00",
+    "so_hieu": "153/2016/NĐ/CP"
+}
+---

@@ -4,11 +4,11 @@
     "category": "thong-bao-giay-moi.tai-lieu-hop-truc-tuyen",
     "tag": [],
     "layout": "van-ban.html",
-    "title": "te",
+    "title": "tài liệu họp",
     "description": "",
     "date": "08-11-2016 16:21:00",
     "so": "",
-    "permalink": "",
+    "permalink": true,
     "trich_yeu": "",
     "co_quan_ban_hanh": "",
     "linh_vuc": "",
@@ -18,6 +18,9 @@
     "tai_lieu_dinh_kem": "",
     "banner": "",
     "draft": "",
-    "url": ""
+    "url": "",
+    "hinh_thuc_van_ban": "",
+    "ngay_ban_hanh": "",
+    "so_hieu": ""
 }
 ---

@@ -69,9 +69,9 @@
     },
     "tinTucNoiBat": [
         {
-            "slug": "tb-tap-huan-su-dung-phan-mem-van-phong-dien-tu",
-            "title": "Thông báo V/v Tập huấn sử dụng phần mềm Văn phòng điện tử ngày 28-30/11/2016",
-            "description": "Ngày 15/11/2016 UBND huyện Đắk Song - Thông báo: Tập huấn sử dụng phần mềm Văn phòng điện tử trên địa bàn huyện Đăk Song",
+            "slug": "phe-duyet-chuong-trinh-phat-trien-nguon-nhan-luc-cong-nghe-thong-tin-tinh-den-nam-2020-va-tam-nhin-den-nam-2025",
+            "title": "Phê duyệt Chương trình phát triển nguồn nhân lực công nghệ thông tin tỉnh đến năm 2020 và tầm nhìn đến năm 2025",
+            "description": "UBND tỉnh Đắk Nông vừa có Quyết định số 1965/QĐ-UBND phê duyệt Chương trình phát triển nguồn nhân lực công nghệ thông tin (CNTT) tỉnh đến năm 2020 và tầm nhìn đến năm 2025",
             "banner": "hinh-anh/chi-dao-dieu-hanh/daksongtruso.jpg"
         },
         {

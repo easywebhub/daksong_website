@@ -31,6 +31,10 @@
     ],
     "banner_goc_phai_trang_chu": [
         {
+            "hinh_anh": "/hinh-anh/banner/vpdt.jpg",
+            "duong_dan": "https://ubnddaksong.vnptioffice.vn/CheckDefault.aspx"
+        },
+        {
             "hinh_anh": "/hinh-anh/banner/email.jpg",
             "duong_dan": "http://mail.daknong.gov.vn/"
         },

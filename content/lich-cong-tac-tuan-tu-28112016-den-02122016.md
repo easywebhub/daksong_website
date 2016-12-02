@@ -6,9 +6,9 @@
     "title": "Lịch công tác tuần (Từ 28/11/2016 đến 02/12/2016)",
     "description": "",
     "date": "02-12-2016 14:09:27",
-    "banner": "",
+    "banner": "img/LichLV.jpg",
     "tag": [],
-    "permalink": "",
+    "permalink": true,
     "draft": "",
     "url": ""
 }

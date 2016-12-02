@@ -1,0 +1,26 @@
+---json
+{
+    "slug": "vb-quyet-dinh-so-352016qdubnd-ngay-15112016-cua-ubnd-tinh-dak-nong-vv-ban-hanh-quy-dinh-su-dung-van-ban-va-ho-so-dien-tu-trong-cac-co-quan-nha-nuoc-tren-dia-ban-tinh-dak-nong",
+    "category": "van-ban-phap-luat.van-ban-cua-tinh",
+    "tag": [],
+    "layout": "van-ban.html",
+    "title": "Quyết định số 35/2016/QĐ-UBND, ngày 15/11/2016 của UBND tỉnh Đắk Nông V/v ban hành quy định sử dụng văn bản và hồ sơ điện tử trong các cơ quan nhà nước trên địa bàn tỉnh Đắk Nông",
+    "description": "",
+    "date": "02-12-2016 09:57:08",
+    "so": "",
+    "permalink": true,
+    "trich_yeu": "Quyết định số 35/2016/QĐ-UBND, ngày 15/11/2016 của UBND tỉnh Đắk Nông V/v ban hành quy định sử dụng văn bản và hồ sơ điện tử trong các cơ quan nhà nước trên địa bàn tỉnh Đắk Nông",
+    "co_quan_ban_hanh": "UBND tỉnh Đắk Nông",
+    "linh_vuc": "CNTT",
+    "loai_van_ban": "",
+    "nguoi_ky": "",
+    "ngay_co_hieu_luc": "",
+    "tai_lieu_dinh_kem": "img/QD ban hanh VB ho so dien tu.pdf",
+    "banner": "",
+    "draft": "",
+    "url": "",
+    "hinh_thuc_van_ban": "Quyết định",
+    "ngay_ban_hanh": "15-11-2016 00:00:00",
+    "so_hieu": "35/2016/QĐ-UBND"
+}
+---

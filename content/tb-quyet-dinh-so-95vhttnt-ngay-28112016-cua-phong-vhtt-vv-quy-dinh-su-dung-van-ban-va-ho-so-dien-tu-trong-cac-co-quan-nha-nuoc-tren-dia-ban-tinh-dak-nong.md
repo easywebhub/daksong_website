@@ -6,7 +6,7 @@
     "title": "Quyết định số 95/VHTT-NT, ngày 28/11/2016 của phòng VH-TT V/v Quy định sử dụng văn bản và hồ sơ điện tử trong các cơ quan nhà nước trên địa bàn tỉnh Đắk Nông",
     "description": "Quy định sử dụng văn bản và hồ sơ điện tử trong các cơ quan nhà nước trên địa bàn tỉnh Đắk Nông",
     "date": "02-12-2016 10:06:25",
-    "banner": "",
+    "banner": "img/phat.jpg",
     "tag": [],
     "permalink": true,
     "draft": "",

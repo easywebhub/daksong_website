@@ -69,9 +69,9 @@
     },
     "tinTucNoiBat": [
         {
-            "slug": "phe-duyet-chuong-trinh-phat-trien-nguon-nhan-luc-cong-nghe-thong-tin-tinh-den-nam-2020-va-tam-nhin-den-nam-2025",
-            "title": "Phê duyệt Chương trình phát triển nguồn nhân lực công nghệ thông tin tỉnh đến năm 2020 và tầm nhìn đến năm 2025",
-            "description": "UBND tỉnh Đắk Nông vừa có Quyết định số 1965/QĐ-UBND phê duyệt Chương trình phát triển nguồn nhân lực công nghệ thông tin (CNTT) tỉnh đến năm 2020 và tầm nhìn đến năm 2025",
+            "slug": "truong-xuan-nong-dan-mat-mua-khoai-lang-do-khong-chu-trong-khau-giong",
+            "title": "Trường Xuân, nông dân mất mùa khoai lang do không chú trọng khâu giống",
+            "description": "Hiện nay, các hộ dân trên địa bàn xã Trường Xuân (huyện Đắk Song, tỉnh Đắk Nông) đang bước vào thu hoạch rộ vụ khoai lang Nhật Bản, nhưng có phần kém vui vì năng suất, sản lượng giảm...",
             "banner": "img/Khoai lang truong xuan 2016.jpg"
         },
         {

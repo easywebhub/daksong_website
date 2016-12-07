@@ -72,13 +72,13 @@
             "slug": "phe-duyet-chuong-trinh-phat-trien-nguon-nhan-luc-cong-nghe-thong-tin-tinh-den-nam-2020-va-tam-nhin-den-nam-2025",
             "title": "Phê duyệt Chương trình phát triển nguồn nhân lực công nghệ thông tin tỉnh đến năm 2020 và tầm nhìn đến năm 2025",
             "description": "UBND tỉnh Đắk Nông vừa có Quyết định số 1965/QĐ-UBND phê duyệt Chương trình phát triển nguồn nhân lực công nghệ thông tin (CNTT) tỉnh đến năm 2020 và tầm nhìn đến năm 2025",
-            "banner": "hinh-anh/chi-dao-dieu-hanh/daksongtruso.jpg"
+            "banner": "img/Khoai lang truong xuan 2016.jpg"
         },
         {
-            "slug": "thong-bao-tuyen-dung-vien-chuc-su-nghiep-giao-duc-va-su-nghiep-khac-nam-2016",
-            "title": "Thông báo: Tuyển dụng viên chức sự nghiệp giáo dục và sự nghiệp khác năm 2016",
-            "description": "UBND huyện Đăk Song thông báo: Tuyển dụng viên chức sự nghiệp giáo dục và sự nghiệp khác năm 2016 của UBND huyện Đăk Song ",
-            "banner": "http://www.mediafire.com/convkey/7601/cf0c5r6ud9wu6npzg.jpg"
+            "slug": "phe-duyet-chuong-trinh-phat-trien-nguon-nhan-luc-cong-nghe-thong-tin-tinh-den-nam-2020-va-tam-nhin-den-nam-2025",
+            "title": "Phê duyệt Chương trình phát triển nguồn nhân lực công nghệ thông tin tỉnh đến năm 2020 và tầm nhìn đến năm 2025",
+            "description": "UBND tỉnh Đắk Nông vừa có Quyết định số 1965/QĐ-UBND phê duyệt Chương trình phát triển nguồn nhân lực công nghệ thông tin (CNTT) tỉnh đến năm 2020 và tầm nhìn đến năm 2025",
+            "banner": "hinh-anh/chi-dao-dieu-hanh/daksongtruso.jpg"
         },
         {
             "slug": "ke-hoach-to-chuc-le-ky-niem",

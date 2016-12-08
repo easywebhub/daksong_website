@@ -75,6 +75,12 @@
             "banner": "img/Khoai lang truong xuan 2016.jpg"
         },
         {
+            "slug": "trien-khai-cong-tac-chuan-bi-giai-bong-chuyen-nu-cac-doi-manh-toan-quoc-cup-dak-nong",
+            "title": "Triển khai công tác chuẩn bị Giải bóng chuyền nữ các đội mạnh toàn quốc Cúp Đắk Nông",
+            "description": "Chiều 7/12, UBND tỉnh đã tổ chức họp để chỉ đạo, triển khai công tác chuẩn bị tổ chức Giải bóng chuyền nữ các đội mạnh toàn quốc Cúp Đắk Nông năm 2016. Đồng chí Tôn Thị Ngọc Hạnh, TUV, Phó Chủ tịch UBND tỉnh - Trưởng Ban tổ chức chủ trì cuộc họp.",
+            "banner": "img/bongchuyennu2016.jpg"
+        },
+        {
             "slug": "phe-duyet-chuong-trinh-phat-trien-nguon-nhan-luc-cong-nghe-thong-tin-tinh-den-nam-2020-va-tam-nhin-den-nam-2025",
             "title": "Phê duyệt Chương trình phát triển nguồn nhân lực công nghệ thông tin tỉnh đến năm 2020 và tầm nhìn đến năm 2025",
             "description": "UBND tỉnh Đắk Nông vừa có Quyết định số 1965/QĐ-UBND phê duyệt Chương trình phát triển nguồn nhân lực công nghệ thông tin (CNTT) tỉnh đến năm 2020 và tầm nhìn đến năm 2025",
@@ -85,12 +91,6 @@
             "title": "Giải quần vợt Doanh Nhân Việt Nam tại huyện Đăk Song",
             "description": "Ngày 07/10/2016, UBND huyện Đăk Song tỉnh Đăk Nông tổ chức giải quần vợt Doanh Nhân VN tại huyện Đăk Song ",
             "banner": "img/Giai quan vot.jpg"
-        },
-        {
-            "slug": "thong-bao-ve-viec-tiep-cong-dan-cua-chu-tich",
-            "title": "THÔNG BÁO Về việc tiếp công dân của Chủ tịch UBND huyện Đăk Song",
-            "description": "THÔNG BÁO Về việc tiếp công dân của Chủ tịch UBND huyện Đăk Song",
-            "banner": "hinh-anh/chi-dao-dieu-hanh/daksongtruso.jpg"
         }
     ],
     "category": "",

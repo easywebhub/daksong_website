@@ -1,16 +1,26 @@
 ---json
 {
     "slug": "bao-cao-tinh-hinh-kinh-te-xa-hoi-dam-bao-quoc-phong-an-ninh-nam-2016-va-nhiem-vu-giai-phap-trong-tam-nam-2017",
-    "layout": "post.html",
     "category": "thong-bao-giay-moi.thong-bao",
+    "tag": [],
+    "layout": "van-ban.html",
     "title": "BÁO CÁO Tình hình kinh tế - xã hội, đảm bảo quốc phòng - an ninh năm 2016 và nhiệm vụ, giải pháp trọng tâm năm 2017",
     "description": "",
-    "date": "08-12-2016 08:52:21",
+    "date": "08-12-2016 08:55:55",
+    "so": "",
+    "permalink": true,
+    "trich_yeu": "",
+    "co_quan_ban_hanh": "",
+    "linh_vuc": "",
+    "loai_van_ban": "",
+    "nguoi_ky": "",
+    "ngay_co_hieu_luc": "",
+    "tai_lieu_dinh_kem": "img/báo cáo năm 2016 của UBND huyện (gửi huyện ủy).doc",
     "banner": "",
-    "tag": [],
-    "permalink": "",
     "draft": "",
-    "url": ""
+    "url": "",
+    "hinh_thuc_van_ban": "",
+    "ngay_ban_hanh": "",
+    "so_hieu": ""
 }
 ---
-<h5 style="margin:0in;margin-bottom:.0001pt;text-align:justify"><br></h5>

@@ -2,7 +2,7 @@
 {
     "slug": "tb-181tbubnd",
     "layout": "post.html",
-    "category": "thong-bao-giay-moi.thong-bao",
+    "category": "tiep-dan.lich-tiep-cong-dan",
     "title": "Thông báo 181/TB-UBND V/v tiếp công dân của Chủ tịch UBND huyện Đắk Song",
     "description": "",
     "date": "09-12-2016 15:24:29",

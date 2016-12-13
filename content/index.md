@@ -78,7 +78,7 @@
             "slug": "tb-181tbubnd",
             "title": "Thông báo 181/TB-UBND V/v tiếp công dân của Chủ tịch UBND huyện Đăk Song",
             "description": "Ngày 09/12/2016, UBND huyện Đăk Song ra thông báo 181/TB-UBND V/v tiếp công dân của Chủ tịch UBND huyện Đắk Song",
-            "banner": "img/trusoub.jpg"
+            "banner": "hinh-anh/chi-dao-dieu-hanh/trusoub.jpg"
         },
         {
             "slug": "trien-khai-cong-tac-chuan-bi-giai-bong-chuyen-nu-cac-doi-manh-toan-quoc-cup-dak-nong",

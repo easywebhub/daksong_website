@@ -69,15 +69,15 @@
     },
     "tinTucNoiBat": [
         {
-            "slug": "truong-xuan-nong-dan-mat-mua-khoai-lang-do-khong-chu-trong-khau-giong",
-            "title": "Trường Xuân, nông dân mất mùa khoai lang do không chú trọng khâu giống",
-            "description": "Hiện nay, các hộ dân trên địa bàn xã Trường Xuân (huyện Đắk Song, tỉnh Đắk Nông) đang bước vào thu hoạch rộ vụ khoai lang Nhật Bản, nhưng có phần kém vui vì năng suất, sản lượng giảm...",
-            "banner": "img/Khoai lang truong xuan 2016.jpg"
+            "slug": "thong-bao-tuyen-dung-vien-chuc-su-nghiep-giao-duc-va-su-nghiep-khac-nam-2016",
+            "title": "UBND Huyện Đăk Song thông báo: Tuyển dụng viên chức sự nghiệp giáo dục và sự nghiệp khác trực thuộc UBND huyện năm 2016",
+            "description": "UBND Huyện Đăk Song thông báo: Tuyển dụng viên chức sự nghiệp giáo dục và sự nghiệp khác trực thuộc UBND huyện năm 2016",
+            "banner": "hinh-anh/chi-dao-dieu-hanh/daksongtruso.jpg"
         },
         {
-            "slug": "tb-181tbubnd",
-            "title": "Thông báo 181/TB-UBND V/v tiếp công dân của Chủ tịch UBND huyện Đăk Song",
-            "description": "Ngày 09/12/2016, UBND huyện Đăk Song ra thông báo 181/TB-UBND V/v tiếp công dân của Chủ tịch UBND huyện Đắk Song",
+            "slug": "thong-bao-tuyen-dung-cong-chuc-cap-xa-tren-dia-ban-huyen-dak-song-nam-2016",
+            "title": "Thông báo tuyển dụng công chức cấp xã trên địa bàn huyện Đăk Song năm 2016",
+            "description": "Ngày 25 tháng 10 năm 2016 UBND huyện Đăk Song thông báo Về việc tuyển dụng công chức cấp xã trên địa bàn huyện Đăk Song năm 2016",
             "banner": "hinh-anh/chi-dao-dieu-hanh/daksongtruso.jpg"
         },
         {
@@ -87,10 +87,10 @@
             "banner": "img/bongchuyennu2016.jpg"
         },
         {
-            "slug": "phe-duyet-chuong-trinh-phat-trien-nguon-nhan-luc-cong-nghe-thong-tin-tinh-den-nam-2020-va-tam-nhin-den-nam-2025",
-            "title": "Phê duyệt Chương trình phát triển nguồn nhân lực công nghệ thông tin tỉnh đến năm 2020 và tầm nhìn đến năm 2025",
-            "description": "UBND tỉnh Đắk Nông vừa có Quyết định số 1965/QĐ-UBND phê duyệt Chương trình phát triển nguồn nhân lực công nghệ thông tin (CNTT) tỉnh đến năm 2020 và tầm nhìn đến năm 2025",
-            "banner": "hinh-anh/chi-dao-dieu-hanh/daksongtruso.jpg"
+            "slug": "truong-xuan-nong-dan-mat-mua-khoai-lang-do-khong-chu-trong-khau-giong",
+            "title": "Trường Xuân, nông dân mất mùa khoai lang do không chú trọng khâu giống",
+            "description": "Hiện nay, các hộ dân trên địa bàn xã Trường Xuân (huyện Đắk Song, tỉnh Đắk Nông) đang bước vào thu hoạch rộ vụ khoai lang Nhật Bản, nhưng có phần kém vui vì năng suất, sản lượng giảm...",
+            "banner": "img/Khoai lang truong xuan 2016.jpg"
         }
     ],
     "category": "",

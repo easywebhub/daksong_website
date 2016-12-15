@@ -69,22 +69,22 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "khai-mac-ky-hop-thu-3-hdnd-tinh-dak-nong-khoa-iii-nhiem-ky-20162021",
+            "title": "Khai mạc Kỳ họp thứ 3, HĐND tỉnh Đắk Nông khóa III, nhiệm kỳ 2016-2021",
+            "description": "Sáng nay 13/12, tại Trung tâm Hội nghị tỉnh, HĐND tỉnh khóa III, nhiệm kỳ 2016-2021 đã khai mạc Kỳ họp thứ 3 với sự có mặt của 53 đại biểu chính thức.",
+            "banner": "hinh-anh/chi-dao-dieu-hanh/ky hop th 31.jpg"
+        },
+        {
+            "slug": "ky-hop-thu-3-hdnd-tinh-dak-nong-khoa-iii-tiep-tuc-lam-ro-nhieu-van-de-qua-thao-luan-tai-hoi-truong",
+            "title": "Kỳ họp thứ 3, HĐND tỉnh Đắk Nông khóa III: Tiếp tục làm rõ nhiều vấn đề qua thảo luận tại hội trường",
+            "description": "Tiếp tục chương trình làm việc, chiều 14/12, Kỳ họp thứ 3, HĐND tỉnh khóa III đã tổ chức phiên thảo luận tập trung tại hội trường. Đồng chí Lê Diễn, Ủy viên Trung ương Đảng, Bí Thư Tỉnh ủy, Chủ tịch HĐND tỉnh chủ trì phiên thảo luận.",
+            "banner": "hinh-anh/chi-dao-dieu-hanh/ky hop th 3.jpg"
+        },
+        {
             "slug": "truong-xuan-nong-dan-mat-mua-khoai-lang-do-khong-chu-trong-khau-giong",
             "title": "Trường Xuân, nông dân mất mùa khoai lang do không chú trọng khâu giống",
             "description": "Hiện nay, các hộ dân trên địa bàn xã Trường Xuân (huyện Đắk Song, tỉnh Đắk Nông) đang bước vào thu hoạch rộ vụ khoai lang Nhật Bản, nhưng có phần kém vui vì năng suất, sản lượng giảm...",
             "banner": "img/Khoai lang truong xuan 2016.jpg"
-        },
-        {
-            "slug": "tb-181tbubnd",
-            "title": "Thông báo 181/TB-UBND V/v tiếp công dân của Chủ tịch UBND huyện Đăk Song",
-            "description": "Ngày 09/12/2016, UBND huyện Đăk Song ra thông báo 181/TB-UBND V/v tiếp công dân của Chủ tịch UBND huyện Đắk Song",
-            "banner": "hinh-anh/chi-dao-dieu-hanh/daksongtruso.jpg"
-        },
-        {
-            "slug": "trien-khai-cong-tac-chuan-bi-giai-bong-chuyen-nu-cac-doi-manh-toan-quoc-cup-dak-nong",
-            "title": "Triển khai công tác chuẩn bị Giải bóng chuyền nữ các đội mạnh toàn quốc Cúp Đắk Nông",
-            "description": "Chiều 7/12, UBND tỉnh đã tổ chức họp để chỉ đạo, triển khai công tác chuẩn bị tổ chức Giải bóng chuyền nữ các đội mạnh toàn quốc Cúp Đắk Nông năm 2016. Đồng chí Tôn Thị Ngọc Hạnh, TUV, Phó Chủ tịch UBND tỉnh - Trưởng Ban tổ chức chủ trì cuộc họp.",
-            "banner": "img/bongchuyennu2016.jpg"
         },
         {
             "slug": "phe-duyet-chuong-trinh-phat-trien-nguon-nhan-luc-cong-nghe-thong-tin-tinh-den-nam-2020-va-tam-nhin-den-nam-2025",

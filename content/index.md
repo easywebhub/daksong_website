@@ -69,6 +69,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "dung-viec-cap-phoi-chung-chi-tin-hoc-ung-dung-tu-ngay-1512",
+            "title": "Dừng việc cấp phôi chứng chỉ tin học ứng dụng từ ngày 15/12",
+            "description": "Bộ Giáo dục và Đào tạo vừa có công văn gửi các Sở Giáo dục và Đào tạo, các đại học, học viện, các trường đại học về việc tổ chức thi và cấp chứng chỉ ứng dụng công nghệ thông tin.",
+            "banner": "img/tinhoc2016.jpg"
+        },
+        {
             "slug": "khai-mac-ky-hop-thu-3-hdnd-tinh-dak-nong-khoa-iii-nhiem-ky-20162021",
             "title": "Khai mạc Kỳ họp thứ 3, HĐND tỉnh Đắk Nông khóa III, nhiệm kỳ 2016-2021",
             "description": "Sáng nay 13/12, tại Trung tâm Hội nghị tỉnh, HĐND tỉnh khóa III, nhiệm kỳ 2016-2021 đã khai mạc Kỳ họp thứ 3 với sự có mặt của 53 đại biểu chính thức.",
@@ -85,12 +91,6 @@
             "title": "Trường Xuân, nông dân mất mùa khoai lang do không chú trọng khâu giống",
             "description": "Hiện nay, các hộ dân trên địa bàn xã Trường Xuân (huyện Đắk Song, tỉnh Đắk Nông) đang bước vào thu hoạch rộ vụ khoai lang Nhật Bản, nhưng có phần kém vui vì năng suất, sản lượng giảm...",
             "banner": "img/Khoai lang truong xuan 2016.jpg"
-        },
-        {
-            "slug": "dung-viec-cap-phoi-chung-chi-tin-hoc-ung-dung-tu-ngay-1512",
-            "title": "Dừng việc cấp phôi chứng chỉ tin học ứng dụng từ ngày 15/12",
-            "description": "Bộ Giáo dục và Đào tạo vừa có công văn gửi các Sở Giáo dục và Đào tạo, các đại học, học viện, các trường đại học về việc tổ chức thi và cấp chứng chỉ ứng dụng công nghệ thông tin.",
-            "banner": "img/tinhoc2016.jpg"
         }
     ],
     "category": "",

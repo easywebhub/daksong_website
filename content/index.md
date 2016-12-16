@@ -87,10 +87,10 @@
             "banner": "img/Khoai lang truong xuan 2016.jpg"
         },
         {
-            "slug": "phe-duyet-chuong-trinh-phat-trien-nguon-nhan-luc-cong-nghe-thong-tin-tinh-den-nam-2020-va-tam-nhin-den-nam-2025",
-            "title": "Phê duyệt Chương trình phát triển nguồn nhân lực công nghệ thông tin tỉnh đến năm 2020 và tầm nhìn đến năm 2025",
-            "description": "UBND tỉnh Đắk Nông vừa có Quyết định số 1965/QĐ-UBND phê duyệt Chương trình phát triển nguồn nhân lực công nghệ thông tin (CNTT) tỉnh đến năm 2020 và tầm nhìn đến năm 2025",
-            "banner": "hinh-anh/chi-dao-dieu-hanh/daksongtruso.jpg"
+            "slug": "dung-viec-cap-phoi-chung-chi-tin-hoc-ung-dung-tu-ngay-1512",
+            "title": "Dừng việc cấp phôi chứng chỉ tin học ứng dụng từ ngày 15/12",
+            "description": "Bộ Giáo dục và Đào tạo vừa có công văn gửi các Sở Giáo dục và Đào tạo, các đại học, học viện, các trường đại học về việc tổ chức thi và cấp chứng chỉ ứng dụng công nghệ thông tin.",
+            "banner": "img/tinhoc2016.jpg"
         }
     ],
     "category": "",

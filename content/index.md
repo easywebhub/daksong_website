@@ -37,16 +37,16 @@
         "ten": "Thông tin chỉ đạo",
         "danh_sach": [
             {
-                "ten": "Thông tin tuyên truyền",
-                "collections_name": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
-                "name": "thongTinTuyenTruyen",
-                "url": "thong-tin-chi-dao/thong-tin-tuyen-truyen"
-            },
-            {
                 "ten": "Ý kiến chỉ đạo, phản hồi",
                 "collections_name": "thong-tin-chi-dao.y-kien-chi-dao-phan-hoi",
                 "name": "thongTinDieuChiDaoDh",
                 "url": "thong-tin-chi-dao/y-kien-chi-dao-phan-hoi"
+            },
+            {
+                "ten": "Thông tin tuyên truyền",
+                "collections_name": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
+                "name": "thongTinTuyenTruyen",
+                "url": "thong-tin-chi-dao/thong-tin-tuyen-truyen"
             }
         ]
     },
@@ -69,22 +69,22 @@
     },
     "tinTucNoiBat": [
         {
-            "slug": "dung-viec-cap-phoi-chung-chi-tin-hoc-ung-dung-tu-ngay-1512",
-            "title": "Dừng việc cấp phôi chứng chỉ tin học ứng dụng từ ngày 15/12",
-            "description": "Bộ Giáo dục và Đào tạo vừa có công văn gửi các Sở Giáo dục và Đào tạo, các đại học, học viện, các trường đại học về việc tổ chức thi và cấp chứng chỉ ứng dụng công nghệ thông tin.",
+            "slug": "day-manh-thuc-hien-chu-truong-tinh-gian-bien-che",
+            "title": "Đẩy mạnh thực hiện chủ trương tinh giản biên chế",
+            "description": "Chỉ thị nêu rõ, từ nay đến năm 2021, mỗi năm Bộ, ngành, địa phương thực hiện giảm 1,5 đến 2% biên chế công chức, biên chế sự nghiệp được giao năm 2015.",
             "banner": "img/tinhoc2016.jpg"
         },
         {
-            "slug": "khai-mac-ky-hop-thu-3-hdnd-tinh-dak-nong-khoa-iii-nhiem-ky-20162021",
-            "title": "Khai mạc Kỳ họp thứ 3, HĐND tỉnh Đắk Nông khóa III, nhiệm kỳ 2016-2021",
-            "description": "Sáng nay 13/12, tại Trung tâm Hội nghị tỉnh, HĐND tỉnh khóa III, nhiệm kỳ 2016-2021 đã khai mạc Kỳ họp thứ 3 với sự có mặt của 53 đại biểu chính thức.",
-            "banner": "hinh-anh/chi-dao-dieu-hanh/ky hop th 31.jpg"
+            "slug": "ubnd-tinh-yeu-cau-chan-chinh-ky-luat-ky-cuong-trong-tiep-nhan-giai-quyet-thu-tuc-hanh-chinh",
+            "title": "UBND tỉnh yêu cầu chấn chỉnh kỷ luật, kỷ cương trong tiếp nhận, giải quyết thủ tục hành chính",
+            "description": "Ngày 5/1, UBND tỉnh Đắk Nông ban hành Chỉ thị số 01/CT-UBND về việc chấn chỉnh kỷ luật, kỷ cương trong tiếp nhận, giải quyết thủ tục hành chính trên địa bàn tỉnh Đắk Nông.",
+            "banner": "hinh-anh/chi-dao-dieu-hanh/trusoub.jpg"
         },
         {
-            "slug": "ky-hop-thu-3-hdnd-tinh-dak-nong-khoa-iii-tiep-tuc-lam-ro-nhieu-van-de-qua-thao-luan-tai-hoi-truong",
-            "title": "Kỳ họp thứ 3, HĐND tỉnh Đắk Nông khóa III: Tiếp tục làm rõ nhiều vấn đề qua thảo luận tại hội trường",
-            "description": "Tiếp tục chương trình làm việc, chiều 14/12, Kỳ họp thứ 3, HĐND tỉnh khóa III đã tổ chức phiên thảo luận tập trung tại hội trường. Đồng chí Lê Diễn, Ủy viên Trung ương Đảng, Bí Thư Tỉnh ủy, Chủ tịch HĐND tỉnh chủ trì phiên thảo luận.",
-            "banner": "hinh-anh/chi-dao-dieu-hanh/ky hop th 3.jpg"
+            "slug": "tin-dieu-chinh-ma-vung-dien-thoai-co-dinh-59-tinh-thanh",
+            "title": "Điều chỉnh mã vùng điện thoại cố định 59 tỉnh thành",
+            "description": "Chiều 22/11, Bộ Thông tin - Truyền thông (TT-TT) công bố việc chuyển đổi mã vùng điện thoại cố định đối với 59 tỉnh thành. Cụ thể, theo Quyết định số 2036 ký ngày 21/11 của Bộ Thông tin và Truyền thông, từ 11/2/2017, mã vùng điện thoại cố định sẽ được thay đổi.",
+            "banner": "hinh-anh/chi-dao-dieu-hanh/ma vung dt.jpg"
         },
         {
             "slug": "truong-xuan-nong-dan-mat-mua-khoai-lang-do-khong-chu-trong-khau-giong",

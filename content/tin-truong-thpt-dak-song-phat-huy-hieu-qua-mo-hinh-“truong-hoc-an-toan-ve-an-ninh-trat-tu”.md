@@ -3,7 +3,7 @@
     "slug": "tin-truong-thpt-dak-song-phat-huy-hieu-qua-mo-hinh-“truong-hoc-an-toan-ve-an-ninh-trat-tu”",
     "layout": "post.html",
     "category": "tin-tuc-su-kien.tin-y-te-giao-duc",
-    "title": "Trường THPT Đắk Song phát huy hiệu quả mô hình “Trường học an toàn về an ninh trật tự”",
+    "title": "Trường THPT Đắk Song phát huy hiệu quả mô hình Trường học an toàn về an ninh trật tự",
     "description": "Xác định công tác bảo đảm an ninh trật tự trong và ngoài trường học là yếu tố quan trọng góp phần nâng cao chất lượng giáo dục, Trường THPT Đắk Song (huyện Đắk Song, tỉnh Đắk Nông) luôn chú trọng thực hiện tốt mô hình “Trường học an toàn về an ninh trật tự”.",
     "date": "01-01-2017",
     "banner": "img/TruongDakSong 1.jpg",

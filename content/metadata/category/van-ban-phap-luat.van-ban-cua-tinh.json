@@ -2,7 +2,7 @@
     "sortBy": "date",
     "reverse": true,
     "metadata": {"title":"Văn bản của tỉnh"},
-    "displayName": "Văn bản của tỉnh",
+    "displayName": "Văn bản của Tỉnh",
     "perPage": 10,
     "noPageOne": true,
     "layout": "vanban.category.html",

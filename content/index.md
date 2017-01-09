@@ -84,7 +84,7 @@
             "slug": "tin-dieu-chinh-ma-vung-dien-thoai-co-dinh-59-tinh-thanh",
             "title": "Điều chỉnh mã vùng điện thoại cố định 59 tỉnh thành",
             "description": "Chiều 22/11, Bộ Thông tin - Truyền thông (TT-TT) công bố việc chuyển đổi mã vùng điện thoại cố định đối với 59 tỉnh thành. Cụ thể, theo Quyết định số 2036 ký ngày 21/11 của Bộ Thông tin và Truyền thông, từ 11/2/2017, mã vùng điện thoại cố định sẽ được thay đổi.",
-            "banner": "hinh-anh/chi-dao-dieu-hanh/ma vung dt.jpg"
+            "banner": "img/daksongtruso.jpg"
         },
         {
             "slug": "truong-xuan-nong-dan-mat-mua-khoai-lang-do-khong-chu-trong-khau-giong",

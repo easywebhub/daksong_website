@@ -78,13 +78,13 @@
             "slug": "ubnd-tinh-yeu-cau-chan-chinh-ky-luat-ky-cuong-trong-tiep-nhan-giai-quyet-thu-tuc-hanh-chinh",
             "title": "UBND tỉnh yêu cầu chấn chỉnh kỷ luật, kỷ cương trong tiếp nhận, giải quyết thủ tục hành chính",
             "description": "Ngày 5/1, UBND tỉnh Đắk Nông ban hành Chỉ thị số 01/CT-UBND về việc chấn chỉnh kỷ luật, kỷ cương trong tiếp nhận, giải quyết thủ tục hành chính trên địa bàn tỉnh Đắk Nông.",
-            "banner": "hinh-anh/chi-dao-dieu-hanh/trusoub.jpg"
+            "banner": "img/daksongtruso.jpg"
         },
         {
             "slug": "tin-dieu-chinh-ma-vung-dien-thoai-co-dinh-59-tinh-thanh",
             "title": "Điều chỉnh mã vùng điện thoại cố định 59 tỉnh thành",
             "description": "Chiều 22/11, Bộ Thông tin - Truyền thông (TT-TT) công bố việc chuyển đổi mã vùng điện thoại cố định đối với 59 tỉnh thành. Cụ thể, theo Quyết định số 2036 ký ngày 21/11 của Bộ Thông tin và Truyền thông, từ 11/2/2017, mã vùng điện thoại cố định sẽ được thay đổi.",
-            "banner": "img/ma vung 1.jpg"
+            "banner": "img/daksongtruso.jpg"
         },
         {
             "slug": "truong-xuan-nong-dan-mat-mua-khoai-lang-do-khong-chu-trong-khau-giong",

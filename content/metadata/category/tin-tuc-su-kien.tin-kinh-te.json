@@ -2,7 +2,7 @@
     "sortBy": "date",
     "reverse": true,
         "metadata": {"title":"Tin Kinh tế - Đời sống"},
-    "displayName": "Tin kinh tế - Đời sống",
+    "displayName": "Tin Kinh tế - Đời sống",
     "perPage": 10,
     "noPageOne": true,
     "layout": "public.category.html",

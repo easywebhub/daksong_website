@@ -1,8 +1,8 @@
 {
     "sortBy": "date",
     "reverse": true,
-    "metadata": {"title":"Ý kiến chỉ đạo,phản hồi"},
-    "displayName": "Ý kiến chỉ đạo,phản hồi",
+    "metadata": {"title":"Ý kiến chỉ đạo phản hồi"},
+    "displayName": "Ý kiến chỉ đạo phản hồi",
     "perPage": 10,
     "noPageOne": true,
     "layout": "public.category.html",

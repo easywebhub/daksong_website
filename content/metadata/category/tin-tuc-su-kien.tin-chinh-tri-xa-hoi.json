@@ -2,7 +2,7 @@
     "sortBy": "date",
     "reverse": true,
     "metadata": {"title":"Tin Chính trị - Xã hội"},
-    "displayName": "Tin chính trị - Xã hội",
+    "displayName": "Tin Chính trị - Xã hội",
     "perPage": 10,
     "noPageOne": true,
     "layout": "public.category.html",

@@ -6,7 +6,7 @@
     "title": "Điều chỉnh mã vùng điện thoại cố định 59 tỉnh thành",
     "description": "Kể từ ngày 17.7.2017, mã vùng điện thoại của 59 tỉnh, thành phố tại Việt Nam sẽ chính thức được thay mới hoàn toàn, trừ Vĩnh Phúc, Phú Thọ, Hòa Bình và Hà Giang.",
     "date": "09-01-2017 09:27:17",
-    "banner": "img/phat.jpg",
+    "banner": "img/MaVungDT.JPG",
     "tag": [],
     "permalink": true,
     "draft": "",

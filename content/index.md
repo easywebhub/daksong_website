@@ -75,10 +75,10 @@
             "banner": "img/tinhoc2016.jpg"
         },
         {
-            "slug": "ubnd-tinh-yeu-cau-chan-chinh-ky-luat-ky-cuong-trong-tiep-nhan-giai-quyet-thu-tuc-hanh-chinh",
-            "title": "UBND tỉnh yêu cầu chấn chỉnh kỷ luật, kỷ cương trong tiếp nhận, giải quyết thủ tục hành chính",
-            "description": "Ngày 5/1, UBND tỉnh Đắk Nông ban hành Chỉ thị số 01/CT-UBND về việc chấn chỉnh kỷ luật, kỷ cương trong tiếp nhận, giải quyết thủ tục hành chính trên địa bàn tỉnh Đắk Nông.",
-            "banner": "img/daksongtruso.jpg"
+            "slug": "tin-hoat-dong-van-hoa-the-thao-du-lich-co-nhieu-khoi-sac",
+            "title": "Hoạt động văn hóa, thể thao, du lịch có nhiều khởi sắc",
+            "description": "Năm 2016 là năm đầu tiên toàn tỉnh Đắk Nông thực hiện Nghị quyết Đại hội Đảng bộ tỉnh lần thứ XI, nhiệm kỳ 2015-2020 và kế hoạch phát triển kinh tế - xã hội giai đoạn 2016-2020.",
+            "banner": "img/Thac Luu Ly - DS.jpg"
         },
         {
             "slug": "tin-dieu-chinh-ma-vung-dien-thoai-co-dinh-59-tinh-thanh",

@@ -152,5 +152,13 @@
         "validations": [],
         "viewOnly": false,
         "required": false
+    },
+    {
+        "name": "description",
+        "displayName": "description",
+        "type": "Text",
+        "validations": [],
+        "viewOnly": false,
+        "required": false
     }
 ]

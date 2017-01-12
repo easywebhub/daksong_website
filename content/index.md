@@ -69,6 +69,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "tin-nang-cao-chat-luong-doi-ngu-can-bo-o-thuan-hanh",
+            "title": "Nâng cao chất lượng đội ngũ cán bộ ở Thuận Hạnh",
+            "description": "Sau 5 năm thực hiện Nghị quyết Trung ương 4 (khóa XI) Một số vấn đề cấp bách về xây dựng Đảng hiện nay, cán bộ, đảng viên xã Thuận Hạnh (huyện Đắk Song, tỉnh Đắk Nông) đã có sự chuyển biến trong hành động, việc làm, góp phần tác động sâu rộng, toàn diện ở tất cả các lĩnh vực.",
+            "banner": "img/ThuanHanhT1.jpg"
+        },
+        {
             "slug": "day-manh-thuc-hien-chu-truong-tinh-gian-bien-che",
             "title": "Đẩy mạnh thực hiện chủ trương tinh giản biên chế",
             "description": "Chỉ thị nêu rõ, từ nay đến năm 2021, mỗi năm Bộ, ngành, địa phương thực hiện giảm 1,5 đến 2% biên chế công chức, biên chế sự nghiệp được giao năm 2015.",

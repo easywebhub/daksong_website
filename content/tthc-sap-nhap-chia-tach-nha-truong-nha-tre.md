@@ -4,7 +4,7 @@
     "layout": "cai-cach-hanh-chinh.html",
     "category": "cai-cach-hanh-chinh",
     "tag": [],
-    "title": "GD Sáp nhập, chia tách nhà trường, nhà trẻ",
+    "title": "GD_Sáp nhập, chia tách nhà trường, nhà trẻ",
     "date": "13-01-2017 08:46:09",
     "co_quan_thuc_hien": "",
     "co_so_phap_ly": "",

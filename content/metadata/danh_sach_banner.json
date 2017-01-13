@@ -31,12 +31,12 @@
     ],
     "banner_goc_phai_trang_chu": [
         {
-            "hinh_anh": "/hinh-anh/banner/vpdt.jpg",
-            "duong_dan": "https://ubnddaksong.vnptioffice.vn/CheckDefault.aspx"
+            "hinh_anh": "/hinh-anh/banner/cchc.png",
+            "duong_dan": "/cai-cach-hanh-chinh/"
         },
         {
-            "hinh_anh": "/hinh-anh/banner/cchc.png",
-            "duong_dan": "/dinh-huong-phat-trien/chinh-sach-uu-dai/"
+            "hinh_anh": "/hinh-anh/banner/vpdt.jpg",
+            "duong_dan": "https://ubnddaksong.vnptioffice.vn/CheckDefault.aspx"
         },
         {
             "hinh_anh": "/hinh-anh/banner/email.jpg",

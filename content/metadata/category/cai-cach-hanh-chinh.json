@@ -2,7 +2,7 @@
     "sortBy": "date",
     "reverse": true,
     "metadata": {"title":"Cải cách hành chính"},
-    "displayName": "Cải cách hành chính",
+    "displayName": "Tra cứu Thủ tục Hành chính",
     "perPage": 20,
     "noPageOne": true,
     "layout": "cai-cach-hanh-chinh.category.html",

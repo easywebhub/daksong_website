@@ -4,7 +4,7 @@
     "layout": "cai-cach-hanh-chinh.html",
     "category": "cai-cach-hanh-chinh",
     "tag": [],
-    "title": "TTHC Giải thể Trung tâm học tập cộng đồng tại xã, phường, thị trấn",
+    "title": "GD_Giải thể Trung tâm học tập cộng đồng tại xã, phường, thị trấn",
     "date": "13-01-2017 09:27:09",
     "co_quan_thuc_hien": "",
     "co_so_phap_ly": "",

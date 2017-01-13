@@ -1,0 +1,23 @@
+---json
+{
+    "slug": "tthc-cong-nhan-xa-dat-chuan-pho-cap-giao-duc-xoa-mu-chu",
+    "layout": "cai-cach-hanh-chinh.html",
+    "category": "cai-cach-hanh-chinh",
+    "tag": [],
+    "title": "GD_Công nhận xã đạt chuẩn phổ cập giáo dục, xóa mù chữ",
+    "date": "13-01-2017 10:13:07",
+    "co_quan_thuc_hien": "",
+    "co_so_phap_ly": "",
+    "thoi_gian_giai_quyet": "",
+    "trinh_tu_thuc_hien": "",
+    "ket_qua": "",
+    "doi_tuong_thuc_hien": "",
+    "le_phi": "",
+    "attachmments": "",
+    "tai_lieu_dinh_kem": "img/166 Công nhận xã đạt chuẩn phổ cập giáo dục, xóa mù chữ.doc",
+    "yeu_cau_va_dieu_kien": "",
+    "cach_thuc_thuc_hien": "",
+    "linh_vuc": "Giáo dục - Đào tạo",
+    "description": ""
+}
+---

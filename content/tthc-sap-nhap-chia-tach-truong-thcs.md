@@ -4,7 +4,7 @@
     "layout": "cai-cach-hanh-chinh.html",
     "category": "cai-cach-hanh-chinh",
     "tag": [],
-    "title": "TTHC Sáp nhập, chia tách  trường THCS",
+    "title": "GD_Sáp nhập, chia tách  trường THCS",
     "date": "13-01-2017 09:29:15",
     "co_quan_thuc_hien": "",
     "co_so_phap_ly": "",

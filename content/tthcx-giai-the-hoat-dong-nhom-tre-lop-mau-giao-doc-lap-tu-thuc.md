@@ -4,7 +4,7 @@
     "layout": "cai-cach-hanh-chinh.html",
     "category": "cai-cach-hanh-chinh",
     "tag": [],
-    "title": "TTHCX Giải thể hoạt động nhóm trẻ, lớp mẫu giáo độc lập tư thục",
+    "title": "GD Giải thể hoạt động nhóm trẻ, lớp mẫu giáo độc lập tư thục",
     "date": "13-01-2017 13:41:52",
     "co_quan_thuc_hien": "",
     "co_so_phap_ly": "",

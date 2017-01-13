@@ -4,7 +4,7 @@
     "layout": "cai-cach-hanh-chinh.html",
     "category": "cai-cach-hanh-chinh",
     "tag": [],
-    "title": "GD_Thành lập nhà Trường, nhà Trẻ",
+    "title": "GD_Thành lập nhà trường, nhà trẻ",
     "date": "13-01-2017 08:05:10",
     "co_quan_thuc_hien": "",
     "co_so_phap_ly": "",

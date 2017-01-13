@@ -4,7 +4,7 @@
     "layout": "cai-cach-hanh-chinh.html",
     "category": "cai-cach-hanh-chinh",
     "tag": [],
-    "title": "GD Cho phép hoạt động giáo dục nhà trường, nhà trẻ",
+    "title": "GD_Cho phép hoạt động giáo dục nhà trường, nhà trẻ",
     "date": "13-01-2017 08:12:50",
     "co_quan_thuc_hien": "",
     "co_so_phap_ly": "",

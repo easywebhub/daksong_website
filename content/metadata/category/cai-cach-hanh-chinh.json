@@ -3,7 +3,7 @@
     "reverse": true,
     "metadata": {"title":"Cải cách hành chính"},
     "displayName": "Cải cách hành chính",
-    "perPage": 10,
+    "perPage": 20,
     "noPageOne": true,
     "layout": "cai-cach-hanh-chinh.category.html",
     "first": ":categoryPath/index.html",

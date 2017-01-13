@@ -1,0 +1,23 @@
+---json
+{
+    "slug": "tthc-cho-phep-hoat-dong-giao-duc-truong-thcs",
+    "layout": "cai-cach-hanh-chinh.html",
+    "category": "cai-cach-hanh-chinh",
+    "tag": [],
+    "title": "TTHC Cho phép hoạt động giáo dục  trường THCS",
+    "date": "13-01-2017 09:28:32",
+    "co_quan_thuc_hien": "",
+    "co_so_phap_ly": "",
+    "thoi_gian_giai_quyet": "",
+    "trinh_tu_thuc_hien": "",
+    "ket_qua": "",
+    "doi_tuong_thuc_hien": "",
+    "le_phi": "",
+    "attachmments": "",
+    "tai_lieu_dinh_kem": "img/150 Cho phép hoạt động giáo dục  trường THCS.doc",
+    "yeu_cau_va_dieu_kien": "",
+    "cach_thuc_thuc_hien": "",
+    "linh_vuc": "Giáo dục - Đào tạo",
+    "description": ""
+}
+---

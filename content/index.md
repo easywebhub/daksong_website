@@ -81,6 +81,12 @@
             "banner": "img/tinhoc2016.jpg"
         },
         {
+            "slug": "tin-truong-thpt-dak-song-phat-huy-hieu-qua-mo-hinh-truong-hoc-an-toan-ve-an-ninh-trat-tu",
+            "title": "Trường THPT Đắk Song phát huy hiệu quả mô hình Trường học an toàn về an ninh trật tự",
+            "description": "Xác định công tác bảo đảm an ninh trật tự trong và ngoài trường học là yếu tố quan trọng góp phần nâng cao chất lượng giáo dục, Trường THPT Đắk Song huyện Đắk Song, tỉnh Đắk Nông luôn chú trọng thực hiện tốt mô hình Trường học an toàn về an ninh trật tự.",
+            "banner": "img/TruongDS0117.jpg"
+        },
+        {
             "slug": "tin-hoat-dong-van-hoa-the-thao-du-lich-co-nhieu-khoi-sac",
             "title": "Hoạt động văn hóa, thể thao, du lịch có nhiều khởi sắc",
             "description": "Năm 2016 là năm đầu tiên toàn tỉnh Đắk Nông thực hiện Nghị quyết Đại hội Đảng bộ tỉnh lần thứ XI, nhiệm kỳ 2015-2020 và kế hoạch phát triển kinh tế - xã hội giai đoạn 2016-2020.",
@@ -90,7 +96,7 @@
             "slug": "tin-dieu-chinh-ma-vung-dien-thoai-co-dinh-59-tinh-thanh",
             "title": "Điều chỉnh mã vùng điện thoại cố định 59 tỉnh thành",
             "description": "Chiều 22/11, Bộ Thông tin - Truyền thông (TT-TT) công bố việc chuyển đổi mã vùng điện thoại cố định đối với 59 tỉnh thành. Cụ thể, theo Quyết định số 2036 ký ngày 21/11 của Bộ Thông tin và Truyền thông, từ 11/2/2017, mã vùng điện thoại cố định sẽ được thay đổi.",
-            "banner": "img/MaVungDT.jpg"
+            "banner": "img/daksongtruso.jpg"
         },
         {
             "slug": "truong-xuan-nong-dan-mat-mua-khoai-lang-do-khong-chu-trong-khau-giong",

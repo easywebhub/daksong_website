@@ -69,16 +69,16 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "xac-dinh-ro-the-manh-huong-di-trong-lo-trinh-phia-truoc",
+            "title": "Xác định rõ thế mạnh, hướng đi trong lộ trình phía trước",
+            "description": "Trong những ngày đầu thành lập, Đắk Song là một huyện nghèo, hạ tầng cơ sở còn yếu, đời sống nhân dân gặp rất nhiều khó khăn. Sau 15 năm (2001-2016), tuy chặng đường chưa đủ dài để huyện phát huy hết những tiềm năng, thế mạnh, song những kết quả đạt được đã ghi nhận một bước tiến dài trên lộ trình phát triển.",
+            "banner": "img/DS T6 16.jpg"
+        },
+        {
             "slug": "tin-nang-cao-chat-luong-doi-ngu-can-bo-o-thuan-hanh",
             "title": "Nâng cao chất lượng đội ngũ cán bộ ở Thuận Hạnh",
             "description": "Sau 5 năm thực hiện Nghị quyết Trung ương 4 (khóa XI) Một số vấn đề cấp bách về xây dựng Đảng hiện nay, cán bộ, đảng viên xã Thuận Hạnh (huyện Đắk Song, tỉnh Đắk Nông) đã có sự chuyển biến trong hành động, việc làm, góp phần tác động sâu rộng, toàn diện ở tất cả các lĩnh vực.",
             "banner": "img/ThuanHanhT1.jpg"
-        },
-        {
-            "slug": "day-manh-thuc-hien-chu-truong-tinh-gian-bien-che",
-            "title": "Đẩy mạnh thực hiện chủ trương tinh giản biên chế",
-            "description": "Chỉ thị nêu rõ, từ nay đến năm 2021, mỗi năm Bộ, ngành, địa phương thực hiện giảm 1,5 đến 2% biên chế công chức, biên chế sự nghiệp được giao năm 2015.",
-            "banner": "img/tinhoc2016.jpg"
         },
         {
             "slug": "tin-truong-thpt-dak-song-phat-huy-hieu-qua-mo-hinh-truong-hoc-an-toan-ve-an-ninh-trat-tu",

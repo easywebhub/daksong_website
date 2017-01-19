@@ -69,6 +69,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "tin-dak-song-xuat-hien-giong-tieu-“la”-cho-nang-suat-vuot-troi",
+            "title": "Đắk Song, xuất hiện giống tiêu lạ cho năng suất vượt trội",
+            "description": "Thời gian gần đây, gia đình ông Vũ Văn Hiệu, ở thôn Thuận Hưng, xã Thuận Hạnh (huyện Đắk Song, tỉnh Đắk Nông) thường xuyên đón tiếp nhiều người dân trong và ngoài tỉnh đến tham quan, tìm hiểu vườn tiêu, khi trong vườn xuất hiện giống tiêu lạ cho năng suất rất cao.",
+            "banner": "img/Tieu Srilanka.jpg"
+        },
+        {
             "slug": "xac-dinh-ro-the-manh-huong-di-trong-lo-trinh-phia-truoc",
             "title": "Xác định rõ thế mạnh, hướng đi trong lộ trình phía trước",
             "description": "Trong những ngày đầu thành lập, Đắk Song là một huyện nghèo, hạ tầng cơ sở còn yếu, đời sống nhân dân gặp rất nhiều khó khăn. Sau 15 năm (2001-2016), tuy chặng đường chưa đủ dài để huyện phát huy hết những tiềm năng, thế mạnh, song những kết quả đạt được đã ghi nhận một bước tiến dài trên lộ trình phát triển.",
@@ -79,12 +85,6 @@
             "title": "Nâng cao chất lượng đội ngũ cán bộ ở Thuận Hạnh",
             "description": "Sau 5 năm thực hiện Nghị quyết Trung ương 4 (khóa XI) Một số vấn đề cấp bách về xây dựng Đảng hiện nay, cán bộ, đảng viên xã Thuận Hạnh (huyện Đắk Song, tỉnh Đắk Nông) đã có sự chuyển biến trong hành động, việc làm, góp phần tác động sâu rộng, toàn diện ở tất cả các lĩnh vực.",
             "banner": "img/ThuanHanhT1.jpg"
-        },
-        {
-            "slug": "tin-truong-thpt-dak-song-phat-huy-hieu-qua-mo-hinh-truong-hoc-an-toan-ve-an-ninh-trat-tu",
-            "title": "Trường THPT Đắk Song phát huy hiệu quả mô hình Trường học an toàn về an ninh trật tự",
-            "description": "Xác định công tác bảo đảm an ninh trật tự trong và ngoài trường học là yếu tố quan trọng góp phần nâng cao chất lượng giáo dục, Trường THPT Đắk Song huyện Đắk Song, tỉnh Đắk Nông luôn chú trọng thực hiện tốt mô hình Trường học an toàn về an ninh trật tự.",
-            "banner": "img/TruongDS0117.jpg"
         },
         {
             "slug": "tin-hoat-dong-van-hoa-the-thao-du-lich-co-nhieu-khoi-sac",

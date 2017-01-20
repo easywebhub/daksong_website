@@ -69,12 +69,6 @@
     },
     "tinTucNoiBat": [
         {
-            "slug": "tin-dak-song-xuat-hien-giong-tieu-“la”-cho-nang-suat-vuot-troi",
-            "title": "Đắk Song, xuất hiện giống tiêu lạ cho năng suất vượt trội",
-            "description": "Thời gian gần đây, gia đình ông Vũ Văn Hiệu, ở thôn Thuận Hưng, xã Thuận Hạnh (huyện Đắk Song, tỉnh Đắk Nông) thường xuyên đón tiếp nhiều người dân trong và ngoài tỉnh đến tham quan, tìm hiểu vườn tiêu, khi trong vườn xuất hiện giống tiêu lạ cho năng suất rất cao.",
-            "banner": "img/Tieu Srilanka.jpg"
-        },
-        {
             "slug": "xac-dinh-ro-the-manh-huong-di-trong-lo-trinh-phia-truoc",
             "title": "Xác định rõ thế mạnh, hướng đi trong lộ trình phía trước",
             "description": "Trong những ngày đầu thành lập, Đắk Song là một huyện nghèo, hạ tầng cơ sở còn yếu, đời sống nhân dân gặp rất nhiều khó khăn. Sau 15 năm (2001-2016), tuy chặng đường chưa đủ dài để huyện phát huy hết những tiềm năng, thế mạnh, song những kết quả đạt được đã ghi nhận một bước tiến dài trên lộ trình phát triển.",

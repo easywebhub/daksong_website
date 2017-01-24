@@ -6,7 +6,7 @@
     "title": "Kết quả giải quyết đơn kiếu kiện của bà Nguyễn Thị Hòa, TDP2, Đức An",
     "description": "",
     "date": "24-01-2017 14:16:39",
-    "banner": "",
+    "banner": "img/thongbao.jpg",
     "tag": [],
     "permalink": true,
     "draft": "",

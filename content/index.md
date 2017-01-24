@@ -69,6 +69,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "tin-ubnd-huyen-dak-song-tham-tang-qua-cac-don-vi-ca-nhan-tieu-bieu-nhan-dip-tet-nguyen-dan-dinh-dau-nam-2017",
+            "title": "UBND huyện Đăk Song thăm, tặng quà các đơn vị, cá nhân tiêu biểu nhân dịp Tết Nguyên đán Đinh Dậu năm 2017",
+            "description": "Thực hiện Quyết định số 01/QĐ-UBND ngày 03/01/2017 của UBND tỉnh Đăk Nông, UBND huyện Đăk Song đã ban hành kế hoạch thăm, tặng quà các đơn vị, cá nhân tiêu biểu và gia đình chính sách dịp Tết Nguyên đán Đinh Dậu năm 2017",
+            "banner": "img/Trao qua tet 2017a.jpg"
+        },
+        {
             "slug": "xac-dinh-ro-the-manh-huong-di-trong-lo-trinh-phia-truoc",
             "title": "Xác định rõ thế mạnh, hướng đi trong lộ trình phía trước",
             "description": "Trong những ngày đầu thành lập, Đắk Song là một huyện nghèo, hạ tầng cơ sở còn yếu, đời sống nhân dân gặp rất nhiều khó khăn. Sau 15 năm (2001-2016), tuy chặng đường chưa đủ dài để huyện phát huy hết những tiềm năng, thế mạnh, song những kết quả đạt được đã ghi nhận một bước tiến dài trên lộ trình phát triển.",

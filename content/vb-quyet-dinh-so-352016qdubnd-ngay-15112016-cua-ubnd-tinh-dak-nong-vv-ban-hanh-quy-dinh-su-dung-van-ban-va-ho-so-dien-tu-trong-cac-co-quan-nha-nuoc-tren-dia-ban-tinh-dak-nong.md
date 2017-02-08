@@ -10,7 +10,7 @@
     "so": "",
     "permalink": true,
     "trich_yeu": "Quyết định số 35/2016/QĐ-UBND, ngày 15/11/2016 của UBND tỉnh Đắk Nông V/v ban hành quy định sử dụng văn bản và hồ sơ điện tử trong các cơ quan nhà nước trên địa bàn tỉnh Đắk Nông",
-    "co_quan_ban_hanh": "UBND tỉnh Đắk Nông",
+    "co_quan_ban_hanh": "UBND tỉnh",
     "linh_vuc": "CNTT",
     "loai_van_ban": "",
     "nguoi_ky": "",

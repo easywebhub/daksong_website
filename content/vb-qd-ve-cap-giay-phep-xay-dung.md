@@ -1,0 +1,26 @@
+---json
+{
+    "slug": "vb-qd-ve-cap-giay-phep-xay-dung",
+    "category": "van-ban-phap-luat.van-ban-cua-tinh",
+    "tag": [],
+    "layout": "van-ban.html",
+    "title": "Quyết định ban hành Quy định về cấp giấy phép xây dựng trên địa bàn tỉnh Đăk Nông",
+    "description": "",
+    "date": "08-02-2017 09:51:39",
+    "so": "",
+    "permalink": true,
+    "trich_yeu": "Quyết định ban hành Quy định về cấp giấy phép xây dựng trên địa bàn tỉnh Đăk Nông",
+    "co_quan_ban_hanh": "UBND tỉnh",
+    "linh_vuc": "Xây dựng",
+    "loai_van_ban": "Quyết định",
+    "nguoi_ky": "",
+    "ngay_co_hieu_luc": "",
+    "tai_lieu_dinh_kem": "img/QD43 2016.pdf",
+    "banner": "",
+    "draft": "",
+    "url": "",
+    "hinh_thuc_van_ban": "",
+    "ngay_ban_hanh": "23-12-2016 00:00:00",
+    "so_hieu": "43/2016/QĐ-UBND"
+}
+---

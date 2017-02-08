@@ -43,16 +43,16 @@
         "ten": "Thông tin chỉ đạo",
         "danh_sach": [
             {
-                "ten": "Ý kiến chỉ đạo, phản hồi",
-                "collections_name": "thong-tin-chi-dao.y-kien-chi-dao-phan-hoi",
-                "name": "thongTinDieuChiDaoDh",
-                "url": "thong-tin-chi-dao/y-kien-chi-dao-phan-hoi"
-            },
-            {
                 "ten": "Thông báo",
                 "collections_name": "thong-bao-giay-moi.thong-bao",
                 "name": "thong-bao",
                 "url": "thong-bao-giay-moi/thong-bao"
+            },
+            {
+                "ten": "Ý kiến chỉ đạo, phản hồi",
+                "collections_name": "thong-tin-chi-dao.y-kien-chi-dao-phan-hoi",
+                "name": "thongTinDieuChiDaoDh",
+                "url": "thong-tin-chi-dao/y-kien-chi-dao-phan-hoi"
             }
         ]
     },

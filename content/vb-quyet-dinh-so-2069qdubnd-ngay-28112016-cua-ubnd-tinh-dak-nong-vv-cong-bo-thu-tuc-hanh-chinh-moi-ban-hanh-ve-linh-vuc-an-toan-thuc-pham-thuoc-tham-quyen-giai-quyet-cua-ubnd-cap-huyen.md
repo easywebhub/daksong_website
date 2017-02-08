@@ -10,7 +10,7 @@
     "so": "",
     "permalink": true,
     "trich_yeu": "Quyết định số 2069/QĐ-UBND, ngày 28/11/2016 của UBND tỉnh Đắk Nông V/v công bố thủ tục hành chính mới ban hành về lĩnh vực an toàn thực phẩm thuộc thẩm quyền giải quyết của UBND cấp huyện",
-    "co_quan_ban_hanh": "UBND tỉnh Đắk Nông",
+    "co_quan_ban_hanh": "UBND tỉnh",
     "linh_vuc": "Y Tế",
     "loai_van_ban": "",
     "nguoi_ky": "",

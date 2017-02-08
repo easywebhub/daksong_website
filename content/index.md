@@ -30,6 +30,12 @@
                 "name": "tinVanHoa",
                 "collections_name": "tin-tuc-su-kien.tin-van-hoa",
                 "url": "tin-tuc-su-kien/tin-van-hoa"
+            },
+            {
+                "ten": "Thông tin tuyên truyền",
+                "collections_name": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
+                "name": "thongTinTuyenTruyen",
+                "url": "thong-tin-chi-dao/thong-tin-tuyen-truyen"
             }
         ]
     },
@@ -43,10 +49,10 @@
                 "url": "thong-tin-chi-dao/y-kien-chi-dao-phan-hoi"
             },
             {
-                "ten": "Thông tin tuyên truyền",
-                "collections_name": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
-                "name": "thongTinTuyenTruyen",
-                "url": "thong-tin-chi-dao/thong-tin-tuyen-truyen"
+                "ten": "Thông báo",
+                "collections_name": "thong-bao-giay-moi.thong-bao",
+                "name": "thong-bao",
+                "url": "thong-bao-giay-moi/thong-bao"
             }
         ]
     },
@@ -54,16 +60,16 @@
         "ten": "An ninh trật tự",
         "danh_sach": [
             {
-                "ten": "An ninh Trật tự",
-                "collections_name": "tin-tuc-su-kien.tin-an-ninh-trat-tu",
-                "name": "tinAnNinhTratTu",
-                "url": "tin-tuc-su-kien/tin-an-ninh-trat-tu"
-            },
-            {
                 "ten": "Tin Chính trị - Xã hội",
                 "collections_name": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
                 "name": "tinChinhTriXaHoi",
                 "url": "tin-tuc-su-kien/tin-chinh-tri-xa-hoi"
+            },
+            {
+                "ten": "An ninh Trật tự",
+                "collections_name": "tin-tuc-su-kien.tin-an-ninh-trat-tu",
+                "name": "tinAnNinhTratTu",
+                "url": "tin-tuc-su-kien/tin-an-ninh-trat-tu"
             }
         ]
     },

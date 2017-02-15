@@ -6,7 +6,7 @@
     "title": "Ngày Hội Tòng quân huyện Đăk Song năm 2017",
     "description": "Sáng 13-2, Hội đồng Nghĩa vụ quân sự của huyện Đăk Song đã tổ chức lễ giao, nhận quân năm 2017.",
     "date": "14-02-2017",
-    "banner": "img/Tong quan 17h.JPG",
+    "banner": "img/Tong quan 17a.JPG",
     "tag": [],
     "permalink": true,
     "draft": "",

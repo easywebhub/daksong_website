@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "tin-ngay-hoi-tong-quan-huyen-dak-song-nam-2017",
+            "title": "Ngày Hội Tòng quân huyện Đăk Song năm 2017",
+            "description": "Sáng 13-2, Hội đồng Nghĩa vụ quân sự của huyện Đăk Song đã tổ chức lễ giao, nhận quân năm 2017.",
+            "banner": "img/Tong quan 17h.jpg"
+        },
+        {
             "slug": "tin-ubnd-huyen-dak-song-tham-tang-qua-cac-don-vi-ca-nhan-tieu-bieu-nhan-dip-tet-nguyen-dan-dinh-dau-nam-2017",
             "title": "UBND huyện Đăk Song thăm, tặng quà các đơn vị, cá nhân tiêu biểu nhân dịp Tết Nguyên đán Đinh Dậu năm 2017",
             "description": "Thực hiện Quyết định số 01/QĐ-UBND ngày 03/01/2017 của UBND tỉnh Đăk Nông, UBND huyện Đăk Song đã ban hành kế hoạch thăm, tặng quà các đơn vị, cá nhân tiêu biểu và gia đình chính sách dịp Tết Nguyên đán Đinh Dậu năm 2017",
@@ -103,12 +109,6 @@
             "title": "Điều chỉnh mã vùng điện thoại cố định 59 tỉnh thành",
             "description": "Chiều 22/11, Bộ Thông tin - Truyền thông (TT-TT) công bố việc chuyển đổi mã vùng điện thoại cố định đối với 59 tỉnh thành. Cụ thể, theo Quyết định số 2036 ký ngày 21/11 của Bộ Thông tin và Truyền thông, từ 11/2/2017, mã vùng điện thoại cố định sẽ được thay đổi.",
             "banner": "img/daksongtruso.jpg"
-        },
-        {
-            "slug": "tin-ngay-hoi-tong-quan-huyen-dak-song-nam-2017",
-            "title": "Ngày Hội Tòng quân huyện Đăk Song năm 2017",
-            "description": "Sáng 13-2, Hội đồng Nghĩa vụ quân sự của huyện Đăk Song đã tổ chức lễ giao, nhận quân năm 2017.",
-            "banner": "img/Tong quan 17h.jpg"
         }
     ],
     "category": "",

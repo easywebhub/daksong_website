@@ -105,10 +105,10 @@
             "banner": "img/daksongtruso.jpg"
         },
         {
-            "slug": "truong-xuan-nong-dan-mat-mua-khoai-lang-do-khong-chu-trong-khau-giong",
-            "title": "Trường Xuân, nông dân mất mùa khoai lang do không chú trọng khâu giống",
-            "description": "Hiện nay, các hộ dân trên địa bàn xã Trường Xuân (huyện Đắk Song, tỉnh Đắk Nông) đang bước vào thu hoạch rộ vụ khoai lang Nhật Bản, nhưng có phần kém vui vì năng suất, sản lượng giảm...",
-            "banner": "img/Khoai lang truong xuan 2016.jpg"
+            "slug": "tin-ngay-hoi-tong-quan-huyen-dak-song-nam-2017",
+            "title": "Ngày Hội Tòng quân huyện Đăk Song năm 2017",
+            "description": "Sáng 13-2, Hội đồng Nghĩa vụ quân sự của huyện Đăk Song đã tổ chức lễ giao, nhận quân năm 2017.",
+            "banner": "img/Tong quan 17h.jpg"
         }
     ],
     "category": "",

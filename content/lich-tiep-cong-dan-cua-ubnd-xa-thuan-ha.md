@@ -5,7 +5,7 @@
     "category": "tiep-dan.lich-tiep-cong-dan",
     "title": "Lịch tiếp công dân của UBND xã Thuận Hà",
     "description": "Ngày 05/09/2016 UBND xã Thuận Hà, huyện Đăk Song ra thông báo số 31/TB-UBND về việc tiếp công dân tại UBND xã Thuận Hà",
-    "date": "05-09-2016",
+    "date": "09-09-2016",
     "banner": "img/phat.jpg",
     "tag": [],
     "permalink": true,

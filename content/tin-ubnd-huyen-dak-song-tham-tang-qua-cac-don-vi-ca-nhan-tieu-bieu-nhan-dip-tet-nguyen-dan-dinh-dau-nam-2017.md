@@ -24,28 +24,28 @@
   mso-fareast-language:VI;mso-no-proof:yes"><!--[if gte vml 1]><v:shapetype
    id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
    path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
-   <v:stroke joinstyle="miter"/>
+   <v:stroke joinstyle="miter"></v:stroke>
    <v:formulas>
-    <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-    <v:f eqn="sum @0 1 0"/>
-    <v:f eqn="sum 0 0 @1"/>
-    <v:f eqn="prod @2 1 2"/>
-    <v:f eqn="prod @3 21600 pixelWidth"/>
-    <v:f eqn="prod @3 21600 pixelHeight"/>
-    <v:f eqn="sum @0 0 1"/>
-    <v:f eqn="prod @6 1 2"/>
-    <v:f eqn="prod @7 21600 pixelWidth"/>
-    <v:f eqn="sum @8 21600 0"/>
-    <v:f eqn="prod @7 21600 pixelHeight"/>
-    <v:f eqn="sum @10 21600 0"/>
+    <v:f eqn="if lineDrawn pixelLineWidth 0"></v:f>
+    <v:f eqn="sum @0 1 0"></v:f>
+    <v:f eqn="sum 0 0 @1"></v:f>
+    <v:f eqn="prod @2 1 2"></v:f>
+    <v:f eqn="prod @3 21600 pixelWidth"></v:f>
+    <v:f eqn="prod @3 21600 pixelHeight"></v:f>
+    <v:f eqn="sum @0 0 1"></v:f>
+    <v:f eqn="prod @6 1 2"></v:f>
+    <v:f eqn="prod @7 21600 pixelWidth"></v:f>
+    <v:f eqn="sum @8 21600 0"></v:f>
+    <v:f eqn="prod @7 21600 pixelHeight"></v:f>
+    <v:f eqn="sum @10 21600 0"></v:f>
    </v:formulas>
-   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
-   <o:lock v:ext="edit" aspectratio="t"/>
+   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path>
+   <o:lock v:ext="edit" aspectratio="t"></o:lock>
   </v:shapetype><v:shape id="Picture_x0020_3" o:spid="_x0000_i1028" type="#_x0000_t75"
    alt="Description: C:\Users\phuc\Desktop\Trao qua tet 2017a.jpg" style='width:237.75pt;
    height:170.25pt;visibility:visible;mso-wrap-style:square'>
    <v:imagedata src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image001.jpg"
-    o:title="Trao qua tet 2017a"/>
+    o:title="Trao qua tet 2017a"></v:imagedata>
   </v:shape><![endif]--><!--[if !vml]--><!--[endif]--></span><span style="font-size:14.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
   mso-ascii-theme-font:major-latin;mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;mso-fareast-language:
@@ -107,7 +107,7 @@
    o:spid="_x0000_i1027" type="#_x0000_t75" alt="Description: C:\Users\phuc\Desktop\Trao qua tet 2017d.JPG"
    style='width:234pt;height:207.75pt;visibility:visible;mso-wrap-style:square'>
    <v:imagedata src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image003.jpg"
-    o:title="Trao qua tet 2017d"/>
+    o:title="Trao qua tet 2017d"></v:imagedata>
   </v:shape><![endif]--><!--[if !vml]--><!--[endif]--></span><span style="font-size:14.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
   mso-ascii-theme-font:major-latin;mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;mso-fareast-language:
@@ -181,7 +181,7 @@
    o:spid="_x0000_i1026" type="#_x0000_t75" alt="Description: C:\Users\phuc\Desktop\Trao qua tet 2017b.jpg"
    style='width:241.5pt;height:172.5pt;visibility:visible;mso-wrap-style:square'>
    <v:imagedata src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image005.jpg"
-    o:title="Trao qua tet 2017b"/>
+    o:title="Trao qua tet 2017b"></v:imagedata>
   </v:shape><![endif]--><!--[if !vml]--><!--[endif]--></span><span lang="EN-US" style="font-size:14.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
   mso-ascii-theme-font:major-latin;mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;mso-ansi-language:
@@ -237,7 +237,7 @@ mso-fareast-language:VI;mso-no-proof:yes"><!--[if gte vml 1]><v:shape id="Pictur
  o:spid="_x0000_i1025" type="#_x0000_t75" alt="Description: C:\Users\phuc\Desktop\Trao qua tet 2017c.JPG"
  style='width:238.5pt;height:199.5pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image007.jpg"
-  o:title="Trao qua tet 2017c"/>
+  o:title="Trao qua tet 2017c"></v:imagedata>
 </v:shape><![endif]--><!--[if !vml]--><!--[endif]--></span><span lang="EN-US" style="font-size:14.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
 mso-ascii-theme-font:major-latin;mso-fareast-font-family:&quot;Times New Roman&quot;;
 mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;mso-ansi-language:
@@ -263,4 +263,4 @@ VI;mso-bidi-language:AR-SA"> </span><span lang="EN-US" style="font-size:14.0pt;
 line-height:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-ascii-theme-font:
 major-latin;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-theme-font:
 major-latin;mso-bidi-theme-font:major-latin;mso-ansi-language:EN-US;mso-fareast-language:
-VI;mso-bidi-language:AR-SA">Nguyễn Xuân Thanh gặp gỡ thăm hỏi đồn biên phòng 763</span></i></div><div style="text-align: right;"><span style="line-height: 1.4;"><span lang="EN-US" style="font-size: 14pt; line-height: 115%; font-family: &quot;Times New Roman&quot;, serif;">Nguồn UBND - HĐND huyện Đăk Song</span></span></div>
+VI;mso-bidi-language:AR-SA">Nguyễn Xuân Thanh gặp gỡ thăm hỏi đồn biên phòng 763</span></i></div><div style="text-align: right;"><span style="line-height: 1.4;"><span lang="EN-US" style="font-size: 14pt; line-height: 115%; font-family: &quot;Times New Roman&quot;, serif;">Tin, ảnh: T&amp;T</span></span></div>

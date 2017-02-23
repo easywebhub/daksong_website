@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "tin-doan-cong-tac-cua-ban-thuong-vu-tinh-uy-lam-viec-voi-huyen-uy-dak-song",
+            "title": "Đoàn công tác của Ban Thường vụ Tỉnh ủy làm việc với Huyện ủy Đắk Song",
+            "description": "Ngày 15/2, Đoàn công tác của Ban Thường vụ Tỉnh ủy do đồng chí Ngô Thanh Danh, Phó Bí thư Thường trực Tỉnh ủy, Trưởng Đoàn đại biểu Quốc hội tỉnh Đắk Nông dẫn đầu cùng các đồng chí K’Thanh – Tỉnh ủy viên, Phó Chủ tịch HĐND tỉnh, đồng chí Cao Huy – Tỉnh ủy viên, Phó Chủ tịch UBND tỉnh  và các đồng chí là lãnh đạo các sở, ban, ngành của tỉnh đã làm việc với Huyện ủy Đắk Song ",
+            "banner": "img/hop0217a.JPG"
+        },
+        {
             "slug": "tin-ngay-hoi-tong-quan-huyen-dak-song-nam-2017",
             "title": "Ngày Hội Tòng quân huyện Đăk Song năm 2017",
             "description": "Sáng 13-2, Hội đồng Nghĩa vụ quân sự của huyện Đăk Song đã tổ chức lễ giao, nhận quân năm 2017.",
@@ -91,12 +97,6 @@
             "title": "Xác định rõ thế mạnh, hướng đi trong lộ trình phía trước",
             "description": "Trong những ngày đầu thành lập, Đắk Song là một huyện nghèo, hạ tầng cơ sở còn yếu, đời sống nhân dân gặp rất nhiều khó khăn. Sau 15 năm (2001-2016), tuy chặng đường chưa đủ dài để huyện phát huy hết những tiềm năng, thế mạnh, song những kết quả đạt được đã ghi nhận một bước tiến dài trên lộ trình phát triển.",
             "banner": "img/DS T6 16.jpg"
-        },
-        {
-            "slug": "tin-nang-cao-chat-luong-doi-ngu-can-bo-o-thuan-hanh",
-            "title": "Nâng cao chất lượng đội ngũ cán bộ ở Thuận Hạnh",
-            "description": "Sau 5 năm thực hiện Nghị quyết Trung ương 4 (khóa XI) Một số vấn đề cấp bách về xây dựng Đảng hiện nay, cán bộ, đảng viên xã Thuận Hạnh (huyện Đắk Song, tỉnh Đắk Nông) đã có sự chuyển biến trong hành động, việc làm, góp phần tác động sâu rộng, toàn diện ở tất cả các lĩnh vực.",
-            "banner": "img/ThuanHanhT1.jpg"
         },
         {
             "slug": "tin-hoat-dong-van-hoa-the-thao-du-lich-co-nhieu-khoi-sac",

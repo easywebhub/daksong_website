@@ -6,7 +6,7 @@
     "title": "Thông báo Kết luận của đồng chí PCT UBND huyện Đăk Song về việc giải quyết khiếu kiện của bà Nguyễn Thị Phụng tại buổi tiếp công dân ngày 20-02-2017",
     "description": "",
     "date": "25-02-2017",
-    "banner": "",
+    "banner": "img/thongbao.jpg",
     "tag": [],
     "permalink": true,
     "draft": "",

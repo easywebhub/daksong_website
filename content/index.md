@@ -75,12 +75,6 @@
     },
     "tinTucNoiBat": [
         {
-            "slug": "tin-khi-ho-tieu-rot-gia-",
-            "title": "Khi hồ tiêu rớt giá...",
-            "description": "Vụ thu hoạch hồ tiêu năm 2016 - 2017, trên địa bàn các huyện, thị xã của tỉnh Đắk Nông nhìn chung đều đạt mức năng suất cao. Thế nhưng người trồng loại cây này kém vui bởi giá bán liên tục giảm, nhiều nơi tiêu chết vì bệnh.",
-            "banner": "img/tieudakglong2017.jpg"
-        },
-        {
             "slug": "tin-doan-cong-tac-cua-ban-thuong-vu-tinh-uy-lam-viec-voi-huyen-uy-dak-song",
             "title": "Đoàn công tác của Ban Thường vụ Tỉnh ủy làm việc với Huyện ủy Đắk Song",
             "description": "Ngày 15/2, Đoàn công tác của Ban Thường vụ Tỉnh ủy do đồng chí Ngô Thanh Danh, Phó Bí thư Thường trực Tỉnh ủy, Trưởng Đoàn đại biểu Quốc hội tỉnh Đắk Nông dẫn đầu cùng các đồng chí K’Thanh – Tỉnh ủy viên, Phó Chủ tịch HĐND tỉnh, đồng chí Cao Huy – Tỉnh ủy viên, Phó Chủ tịch UBND tỉnh  và các đồng chí là lãnh đạo các sở, ban, ngành của tỉnh đã làm việc với Huyện ủy Đắk Song ",

@@ -75,28 +75,28 @@
     },
     "tinTucNoiBat": [
         {
-            "slug": "tin-doan-cong-tac-cua-ban-thuong-vu-tinh-uy-lam-viec-voi-huyen-uy-dak-song",
-            "title": "Đoàn công tác của Ban Thường vụ Tỉnh ủy làm việc với Huyện ủy Đắk Song",
-            "description": "Ngày 15/2, Đoàn công tác của Ban Thường vụ Tỉnh ủy do đồng chí Ngô Thanh Danh, Phó Bí thư Thường trực Tỉnh ủy, Trưởng Đoàn đại biểu Quốc hội tỉnh Đắk Nông dẫn đầu cùng các đồng chí K’Thanh – Tỉnh ủy viên, Phó Chủ tịch HĐND tỉnh, đồng chí Cao Huy – Tỉnh ủy viên, Phó Chủ tịch UBND tỉnh  và các đồng chí là lãnh đạo các sở, ban, ngành của tỉnh đã làm việc với Huyện ủy Đắk Song ",
-            "banner": "img/hop0217a.JPG"
+            "slug": "tin-dak-song-bep-an-tinh-thuong-giup-benh-nhan-ngheo-them-am-long",
+            "title": "Đắk Song, Bếp ăn tình thương giúp bệnh nhân nghèo thêm ấm lòng",
+            "description": "Hơn 7 tháng nay, Bếp ăn tình thương Bệnh viện Đa khoa huyện Đắk Song (Đắk Nông) luôn đỏ lửa để phục vụ các suất ăn miễn phí cho bệnh nhân nghèo đang lưu trú tại bệnh viện. Hầu hết bệnh nhân điều trị tại bệnh viện là đồng bào dân tộc thiểu số, hoàn cảnh gia đình khó khăn.",
+            "banner": "img/bep an tinh thuong 2017.jpg"
         },
         {
-            "slug": "tin-ngay-hoi-tong-quan-huyen-dak-song-nam-2017",
-            "title": "Ngày Hội Tòng quân huyện Đăk Song năm 2017",
-            "description": "Sáng 13-2, Hội đồng Nghĩa vụ quân sự của huyện Đăk Song đã tổ chức lễ giao, nhận quân năm 2017.",
-            "banner": "img/tongquan17.JPG"
+            "slug": "tin-don-bien-phong-dak-song-xung-danh-“don-vi-quyet-thang”",
+            "title": "Đồn Biên phòng Đắk Song xứng danh đơn vị quyết thắng",
+            "description": "Với tinh thần đoàn kết thống nhất, nỗ lực vượt qua khó khăn, Đồn Biên phòng Đắk Song luôn hoàn thành tốt nhiệm vụ được giao",
+            "banner": "img/don bien phong ds 2017.jpg"
         },
         {
-            "slug": "tin-ubnd-huyen-dak-song-tham-tang-qua-cac-don-vi-ca-nhan-tieu-bieu-nhan-dip-tet-nguyen-dan-dinh-dau-nam-2017",
-            "title": "UBND huyện Đăk Song thăm, tặng quà các đơn vị, cá nhân tiêu biểu nhân dịp Tết Nguyên đán Đinh Dậu năm 2017",
-            "description": "Thực hiện Quyết định số 01/QĐ-UBND ngày 03/01/2017 của UBND tỉnh Đăk Nông, UBND huyện Đăk Song đã ban hành kế hoạch thăm, tặng quà các đơn vị, cá nhân tiêu biểu và gia đình chính sách dịp Tết Nguyên đán Đinh Dậu năm 2017",
-            "banner": "img/Trao qua tet 2017a.jpg"
+            "slug": "tin-toan-tinh-co-hon-441-ha-ho-tieu-nhiem-benh-chet-nhanh-chet-cham",
+            "title": "Toàn tỉnh có hơn 441 ha hồ tiêu nhiễm bệnh chết nhanh, chết chậm",
+            "description": "Theo bà Hoàng Ngọc Duyên, Phó Chi cục Trưởng Chi cục Trồng trọt và Bảo vệ thực vật (Sở Nông nghiệp-PTNT), toàn tỉnh hiện có 441,36 ha hồ tiêu bị nhiễm bệnh chết nhanh, chết chậm. Trong đó, diện tích bị nặng là 66,43 ha, trung bình 110 ha và nhẹ 264,87 ha.",
+            "banner": "img/tieu chet nhanh 2017.jpg"
         },
         {
-            "slug": "xac-dinh-ro-the-manh-huong-di-trong-lo-trinh-phia-truoc",
-            "title": "Xác định rõ thế mạnh, hướng đi trong lộ trình phía trước",
-            "description": "Trong những ngày đầu thành lập, Đắk Song là một huyện nghèo, hạ tầng cơ sở còn yếu, đời sống nhân dân gặp rất nhiều khó khăn. Sau 15 năm (2001-2016), tuy chặng đường chưa đủ dài để huyện phát huy hết những tiềm năng, thế mạnh, song những kết quả đạt được đã ghi nhận một bước tiến dài trên lộ trình phát triển.",
-            "banner": "img/DS T6 16.jpg"
+            "slug": "tin-kien-quyet-xu-ly-thu-hoi-hon-29ha-dat-thuoc-rung-phong-ho-canh-quan-quoc-lo-14-bi-xam-chiem",
+            "title": "Kiên quyết xử lý, thu hồi hơn 29ha đất thuộc Rừng phòng hộ cảnh quan Quốc lộ 14 bị xâm chiếm",
+            "description": "Ngày 20/3/2017, Văn phòng UBND tỉnh Đắk Nông ban hành văn bản thông báo ý kiến chỉ đạo của Phó Chủ tịch UBND tỉnh Trương Thanh Tùng về việc xử lý, thu hồi 29,1ha đất bị xâm chiếm thuộc Rừng phòng hộ cảnh quan Quốc lộ 14 đoạn qua huyện Đắk Song (Thông báo số 33/TB-UBND).",
+            "banner": "img/rung phong ho 2017.jpg"
         },
         {
             "slug": "tin-hoat-dong-van-hoa-the-thao-du-lich-co-nhieu-khoi-sac",

@@ -1,8 +1,5 @@
 {
-    "banner_lon": {
-        "hinh_anh": "./HinhAnhLienKet/Baner-chinh.jpg",
-        "duong_dan": "#"
-    },
+    "banner_lon": {},
     "banner_nho": [
         {
             "hinh_anh": "/img/thudientu.jpg",

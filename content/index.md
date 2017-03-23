@@ -81,7 +81,7 @@
             "banner": "img/bep an tinh thuong 2017.jpg"
         },
         {
-            "slug": "tin-don-bien-phong-dak-song-xung-danh-“don-vi-quyet-thang”",
+            "slug": "tin-don-bien-phong-dak-song-xung-danh-don-vi-quyet-thang",
             "title": "Đồn Biên phòng Đắk Song xứng danh đơn vị quyết thắng",
             "description": "Với tinh thần đoàn kết thống nhất, nỗ lực vượt qua khó khăn, Đồn Biên phòng Đắk Song luôn hoàn thành tốt nhiệm vụ được giao",
             "banner": "img/don bien phong ds 2017.jpg"

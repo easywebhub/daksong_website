@@ -78,7 +78,7 @@
             "slug": "tin-dak-song-43-thi-sinh-ve-tham-du-xet-tuyen-cong-chuc-cap-xa-nam-2016",
             "title": "Đắk Song: 43 thí sinh về tham dự xét tuyển công chức cấp xã năm 2016",
             "description": "Sáng 5/4/2017, tại trung tâm bồi dưỡng chính trị huyện Đăk Song, Hội đồng xét tuyển công chức huyện tổ chức Xét tuyển công chức cấp xã năm 2016, với sự tham gia của 43 thí sinh. ",
-            "banner": "img/Cong chuc xa 2.jpg"
+            "banner": "img/Cong chuc xa 2.JPG"
         },
         {
             "slug": "tin-dak-song-bep-an-tinh-thuong-giup-benh-nhan-ngheo-them-am-long",

@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "tin-dak-song-43-thi-sinh-ve-tham-du-xet-tuyen-cong-chuc-cap-xa-nam-2016",
+            "title": "Đắk Song: 43 thí sinh về tham dự xét tuyển công chức cấp xã năm 2016",
+            "description": "Sáng 5/4/2017, tại trung tâm bồi dưỡng chính trị huyện Đăk Song, Hội đồng xét tuyển công chức huyện tổ chức Xét tuyển công chức cấp xã năm 2016, với sự tham gia của 43 thí sinh. ",
+            "banner": "img/Cong chuc xa 2.jpg"
+        },
+        {
             "slug": "tin-dak-song-bep-an-tinh-thuong-giup-benh-nhan-ngheo-them-am-long",
             "title": "Đắk Song, Bếp ăn tình thương giúp bệnh nhân nghèo thêm ấm lòng",
             "description": "Hơn 7 tháng nay, Bếp ăn tình thương Bệnh viện Đa khoa huyện Đắk Song (Đắk Nông) luôn đỏ lửa để phục vụ các suất ăn miễn phí cho bệnh nhân nghèo đang lưu trú tại bệnh viện. Hầu hết bệnh nhân điều trị tại bệnh viện là đồng bào dân tộc thiểu số, hoàn cảnh gia đình khó khăn.",
@@ -91,12 +97,6 @@
             "title": "Toàn tỉnh có hơn 441 ha hồ tiêu nhiễm bệnh chết nhanh, chết chậm",
             "description": "Theo bà Hoàng Ngọc Duyên, Phó Chi cục Trưởng Chi cục Trồng trọt và Bảo vệ thực vật (Sở Nông nghiệp-PTNT), toàn tỉnh hiện có 441,36 ha hồ tiêu bị nhiễm bệnh chết nhanh, chết chậm. Trong đó, diện tích bị nặng là 66,43 ha, trung bình 110 ha và nhẹ 264,87 ha.",
             "banner": "img/tieu chet nhanh 2017.jpg"
-        },
-        {
-            "slug": "tin-kien-quyet-xu-ly-thu-hoi-hon-29ha-dat-thuoc-rung-phong-ho-canh-quan-quoc-lo-14-bi-xam-chiem",
-            "title": "Kiên quyết xử lý, thu hồi hơn 29ha đất thuộc Rừng phòng hộ cảnh quan Quốc lộ 14 bị xâm chiếm",
-            "description": "Ngày 20/3/2017, Văn phòng UBND tỉnh Đắk Nông ban hành văn bản thông báo ý kiến chỉ đạo của Phó Chủ tịch UBND tỉnh Trương Thanh Tùng về việc xử lý, thu hồi 29,1ha đất bị xâm chiếm thuộc Rừng phòng hộ cảnh quan Quốc lộ 14 đoạn qua huyện Đắk Song (Thông báo số 33/TB-UBND).",
-            "banner": "img/rung phong ho 2017.jpg"
         },
         {
             "slug": "tin-hoat-dong-van-hoa-the-thao-du-lich-co-nhieu-khoi-sac",

@@ -81,6 +81,12 @@
             "banner": "img/Cong chuc xa 2.JPG"
         },
         {
+            "slug": "tin-nhieu-dien-tich-ho-tieu-o-quang-son-bi-chet-sau-khi-bon-phan",
+            "title": "Nhiều diện tích hồ tiêu ở Quảng Sơn bị chết sau khi bón phân",
+            "description": "Nhiều hộ trồng tiêu ở xã Quảng Sơn (huyện Đắk Glong, tỉnh Đắk Nông) phản ánh, vườn tiêu của họ sau khi bón phân xảy ra hiện tượng vàng lá, rụng đốt rồi chết hàng loạt. Nghi tiêu chết là do phân bón “có vấn đề” nên người dân đã giữ lại một số bao phân bón rồi báo với chính quyền địa phương.",
+            "banner": "img/tieu quang son chet 17b.jpg"
+        },
+        {
             "slug": "tin-dak-song-bep-an-tinh-thuong-giup-benh-nhan-ngheo-them-am-long",
             "title": "Đắk Song, Bếp ăn tình thương giúp bệnh nhân nghèo thêm ấm lòng",
             "description": "Hơn 7 tháng nay, Bếp ăn tình thương Bệnh viện Đa khoa huyện Đắk Song (Đắk Nông) luôn đỏ lửa để phục vụ các suất ăn miễn phí cho bệnh nhân nghèo đang lưu trú tại bệnh viện. Hầu hết bệnh nhân điều trị tại bệnh viện là đồng bào dân tộc thiểu số, hoàn cảnh gia đình khó khăn.",
@@ -97,12 +103,6 @@
             "title": "Toàn tỉnh có hơn 441 ha hồ tiêu nhiễm bệnh chết nhanh, chết chậm",
             "description": "Theo bà Hoàng Ngọc Duyên, Phó Chi cục Trưởng Chi cục Trồng trọt và Bảo vệ thực vật (Sở Nông nghiệp-PTNT), toàn tỉnh hiện có 441,36 ha hồ tiêu bị nhiễm bệnh chết nhanh, chết chậm. Trong đó, diện tích bị nặng là 66,43 ha, trung bình 110 ha và nhẹ 264,87 ha.",
             "banner": "img/tieu chet nhanh 2017.jpg"
-        },
-        {
-            "slug": "tin-hoat-dong-van-hoa-the-thao-du-lich-co-nhieu-khoi-sac",
-            "title": "Hoạt động văn hóa, thể thao, du lịch có nhiều khởi sắc",
-            "description": "Năm 2016 là năm đầu tiên toàn tỉnh Đắk Nông thực hiện Nghị quyết Đại hội Đảng bộ tỉnh lần thứ XI, nhiệm kỳ 2015-2020 và kế hoạch phát triển kinh tế - xã hội giai đoạn 2016-2020.",
-            "banner": "img/Thac Luu Ly - DS.jpg"
         }
     ],
     "category": "",

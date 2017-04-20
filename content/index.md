@@ -77,7 +77,7 @@
         {
             "slug": "tb-ket-qua-xet-tuyen-cong-chuc-xa-huyen-dak-song",
             "title": "Kết quả xét tuyển công chức xã huyện Đăk Song",
-            "description": "",
+            "description": "Ngày 20/4/2017 Hội đồng xét tuyển công chức xã ra thông báo số 52/TB-HĐXTCC thông báo kết quả xét tuyển công chức xã huyện Đăk Song",
             "banner": "img/CCXa.JPG"
         },
         {

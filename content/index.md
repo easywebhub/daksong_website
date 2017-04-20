@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "tb-ket-qua-xet-tuyen-cong-chuc-xa-huyen-dak-song",
+            "title": "Kết quả xét tuyển công chức xã huyện Đăk Song",
+            "description": "",
+            "banner": "img/CCXa.JPG"
+        },
+        {
             "slug": "tin-dak-song-43-thi-sinh-ve-tham-du-xet-tuyen-cong-chuc-cap-xa-nam-2016",
             "title": "Đắk Song: 43 thí sinh về tham dự xét tuyển công chức cấp xã năm 2016",
             "description": "Sáng 5/4/2017, tại trung tâm bồi dưỡng chính trị huyện Đăk Song, Hội đồng xét tuyển công chức huyện tổ chức Xét tuyển công chức cấp xã năm 2016, với sự tham gia của 43 thí sinh. ",
@@ -91,12 +97,6 @@
             "title": "Đắk Song, Bếp ăn tình thương giúp bệnh nhân nghèo thêm ấm lòng",
             "description": "Hơn 7 tháng nay, Bếp ăn tình thương Bệnh viện Đa khoa huyện Đắk Song (Đắk Nông) luôn đỏ lửa để phục vụ các suất ăn miễn phí cho bệnh nhân nghèo đang lưu trú tại bệnh viện. Hầu hết bệnh nhân điều trị tại bệnh viện là đồng bào dân tộc thiểu số, hoàn cảnh gia đình khó khăn.",
             "banner": "img/bep an tinh thuong 2017.jpg"
-        },
-        {
-            "slug": "tin-don-bien-phong-dak-song-xung-danh-don-vi-quyet-thang",
-            "title": "Đồn Biên phòng Đắk Song xứng danh đơn vị quyết thắng",
-            "description": "Với tinh thần đoàn kết thống nhất, nỗ lực vượt qua khó khăn, Đồn Biên phòng Đắk Song luôn hoàn thành tốt nhiệm vụ được giao",
-            "banner": "img/don bien phong ds 2017.jpg"
         },
         {
             "slug": "tin-toan-tinh-co-hon-441-ha-ho-tieu-nhiem-benh-chet-nhanh-chet-cham",

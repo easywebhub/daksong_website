@@ -81,16 +81,16 @@
             "banner": "img/CCXa.JPG"
         },
         {
+            "slug": "tin-dak-song-phat-dong-thang-hanh-dong-vi-an-toan-thuc-pham-nam-2017",
+            "title": "Đăk Song phát động Tháng hành động vì An toàn thực phẩm năm 2017",
+            "description": "Ngày 21/4/2017 UBND huyện tổ chức hội nghị triển khai và phát động tháng hành động vì an toàn thực phẩm năm 2017, về dự khai mạc có đồng chí Lê Viết Sinh - Phó chủ tịch UBND huyện; đại diện lãnh đạo UBND huyện, huyện ủy, các phòng, ban liên quan và đông đảo người dân địa phương trong huyện.",
+            "banner": "img/ATTP17.jpg"
+        },
+        {
             "slug": "tin-dak-song-43-thi-sinh-ve-tham-du-xet-tuyen-cong-chuc-cap-xa-nam-2016",
             "title": "Đắk Song: 43 thí sinh về tham dự xét tuyển công chức cấp xã năm 2016",
             "description": "Sáng 5/4/2017, tại trung tâm bồi dưỡng chính trị huyện Đăk Song, Hội đồng xét tuyển công chức huyện tổ chức Xét tuyển công chức cấp xã năm 2016, với sự tham gia của 43 thí sinh. ",
             "banner": "img/Cong chuc xa 2.JPG"
-        },
-        {
-            "slug": "tin-nhieu-dien-tich-ho-tieu-o-quang-son-bi-chet-sau-khi-bon-phan",
-            "title": "Nhiều diện tích hồ tiêu ở Quảng Sơn bị chết sau khi bón phân",
-            "description": "Nhiều hộ trồng tiêu ở xã Quảng Sơn (huyện Đắk Glong, tỉnh Đắk Nông) phản ánh, vườn tiêu của họ sau khi bón phân xảy ra hiện tượng vàng lá, rụng đốt rồi chết hàng loạt. Nghi tiêu chết là do phân bón “có vấn đề” nên người dân đã giữ lại một số bao phân bón rồi báo với chính quyền địa phương.",
-            "banner": "img/tieu quang son chet 17b.jpg"
         },
         {
             "slug": "tin-dak-song-bep-an-tinh-thuong-giup-benh-nhan-ngheo-them-am-long",

@@ -90,7 +90,7 @@
             "slug": "tin-le-khai-mac-ngay-sach-viet-nam-dien-ra-tai-nha-van-hoa-huyen-dak-song",
             "title": "Sáng 20/4, lễ khai mạc Ngày sách Việt Nam diễn ra tại Nhà văn hóa huyện Đăk Song",
             "description": "Ngày sách Việt Nam là dịp để mọi người thắp sáng tình yêu sách, thúc đẩy văn hóa đọc. Buổi lễ có sự tham gia của các lãnh đạo UBND huyện, huyện ủy, lãnh đạo các xã, thị trấn, các phòng, ban chuyên môn cùng toàn thể các thầy, cô, các em học sinh trên địa bàn huyện...",
-            "banner": "img/21-4-17a.JPG"
+            "banner": "img/21-4-17a.jpg"
         },
         {
             "slug": "tin-dak-song-bep-an-tinh-thuong-giup-benh-nhan-ngheo-them-am-long",

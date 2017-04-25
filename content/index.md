@@ -87,10 +87,10 @@
             "banner": "img/ATTP17.jpg"
         },
         {
-            "slug": "tin-dak-song-43-thi-sinh-ve-tham-du-xet-tuyen-cong-chuc-cap-xa-nam-2016",
-            "title": "Đắk Song: 43 thí sinh về tham dự xét tuyển công chức cấp xã năm 2016",
-            "description": "Sáng 5/4/2017, tại trung tâm bồi dưỡng chính trị huyện Đăk Song, Hội đồng xét tuyển công chức huyện tổ chức Xét tuyển công chức cấp xã năm 2016, với sự tham gia của 43 thí sinh. ",
-            "banner": "img/Cong chuc xa 2.JPG"
+            "slug": "tin-le-khai-mac-ngay-sach-viet-nam-dien-ra-tai-nha-van-hoa-huyen-dak-song",
+            "title": "Sáng 20/4, lễ khai mạc Ngày sách Việt Nam diễn ra tại Nhà văn hóa huyện Đăk Song",
+            "description": "Ngày sách Việt Nam là dịp để mọi người thắp sáng tình yêu sách, thúc đẩy văn hóa đọc. Buổi lễ có sự tham gia của các lãnh đạo UBND huyện, huyện ủy, lãnh đạo các xã, thị trấn, các phòng, ban chuyên môn cùng toàn thể các thầy, cô, các em học sinh trên địa bàn huyện...",
+            "banner": "img/21-4-17a.JPG"
         },
         {
             "slug": "tin-dak-song-bep-an-tinh-thuong-giup-benh-nhan-ngheo-them-am-long",

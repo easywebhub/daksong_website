@@ -81,6 +81,12 @@
             "banner": "img/CCXa.JPG"
         },
         {
+            "slug": "tin-giai-quan-vot-chao-mung-ky-niem-42-nam-ngay-giai-phong-hoan-toan-mien-nam-va-ngay-quoc-te-lao-dong",
+            "title": "Giải quần vợt chào mừng kỷ niệm 42 năm ngày Giải phóng hoàn toàn miền Nam và Ngày quốc tế lao động 1/5",
+            "description": "Trong 2 ngày 20-21/4/2017, Câu lạc bộ quần vợt Đăk Song tổ chức giải quần vợt chào mừng chào mừng kỷ niệm 42 ngày Giải phóng hoàn toàn miền Nam thống nhất đất nước (30/4/1975 - 30/4/2017) và Ngày quốc tế lao động 1/5",
+            "banner": "img/QV30-4-17c.jpg"
+        },
+        {
             "slug": "tin-dak-song-phat-dong-thang-hanh-dong-vi-an-toan-thuc-pham-nam-2017",
             "title": "Đăk Song phát động Tháng hành động vì An toàn thực phẩm năm 2017",
             "description": "Ngày 21/4/2017 UBND huyện tổ chức hội nghị triển khai và phát động tháng hành động vì an toàn thực phẩm năm 2017, về dự khai mạc có đồng chí Lê Viết Sinh - Phó chủ tịch UBND huyện; đại diện lãnh đạo UBND huyện, huyện ủy, các phòng, ban liên quan và đông đảo người dân địa phương trong huyện.",
@@ -91,12 +97,6 @@
             "title": "Sáng 20/4, lễ khai mạc Ngày sách Việt Nam diễn ra tại Nhà văn hóa huyện Đăk Song",
             "description": "Ngày sách Việt Nam là dịp để mọi người thắp sáng tình yêu sách, thúc đẩy văn hóa đọc. Buổi lễ có sự tham gia của các lãnh đạo UBND huyện, huyện ủy, lãnh đạo các xã, thị trấn, các phòng, ban chuyên môn cùng toàn thể các thầy, cô, các em học sinh trên địa bàn huyện...",
             "banner": "img/21-4-17a.jpg"
-        },
-        {
-            "slug": "tin-dak-song-bep-an-tinh-thuong-giup-benh-nhan-ngheo-them-am-long",
-            "title": "Đắk Song, Bếp ăn tình thương giúp bệnh nhân nghèo thêm ấm lòng",
-            "description": "Hơn 7 tháng nay, Bếp ăn tình thương Bệnh viện Đa khoa huyện Đắk Song (Đắk Nông) luôn đỏ lửa để phục vụ các suất ăn miễn phí cho bệnh nhân nghèo đang lưu trú tại bệnh viện. Hầu hết bệnh nhân điều trị tại bệnh viện là đồng bào dân tộc thiểu số, hoàn cảnh gia đình khó khăn.",
-            "banner": "img/bep an tinh thuong 2017.jpg"
         },
         {
             "slug": "tin-toan-tinh-co-hon-441-ha-ho-tieu-nhiem-benh-chet-nhanh-chet-cham",

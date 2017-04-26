@@ -84,7 +84,7 @@
             "slug": "tin-giai-quan-vot-chao-mung-ky-niem-42-nam-ngay-giai-phong-hoan-toan-mien-nam-va-ngay-quoc-te-lao-dong",
             "title": "Giải quần vợt chào mừng kỷ niệm 42 năm ngày Giải phóng hoàn toàn miền Nam và Ngày quốc tế lao động 1/5",
             "description": "Trong 2 ngày 20-21/4/2017, Câu lạc bộ quần vợt Đăk Song tổ chức giải quần vợt chào mừng chào mừng kỷ niệm 42 ngày Giải phóng hoàn toàn miền Nam thống nhất đất nước (30/4/1975 - 30/4/2017) và Ngày quốc tế lao động 1/5",
-            "banner": "img/QV30-4-17c.jpg"
+            "banner": "img/Qv30-4-17 2.JPG"
         },
         {
             "slug": "tin-dak-song-phat-dong-thang-hanh-dong-vi-an-toan-thuc-pham-nam-2017",

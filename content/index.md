@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "tin-ban-van-hoaxa-hoi-hdnd-tinh-khao-sat-tinh-hinh-thuc-hien-du-an-dau-tu-sua-chua-nang-cap-dai-truyen-thanh-tai-huyen-dak-song",
+            "title": "Ban Văn hóa-Xã hội HĐND tỉnh khảo sát tình hình thực hiện dự án đầu tư, sửa chữa, nâng cấp đài truyền thanh tại huyện Đắk Song",
+            "description": "Ngày 30/5, Ban Văn hóa-Xã hội HĐND tỉnh do đồng chí Hà Trung Ký, UVTV, Trưởng Ban Tuyên giáo Tỉnh ủy, Trưởng Ban Văn hóa-Xã hội HĐND tỉnh dẫn đầu đã có cuộc khảo sát về tình hình thực hiện dự án đầu tư, sửa chữa, nâng cấp hệ thống đài truyền thanh cơ sở tại huyện Đắk Song",
+            "banner": "img/nam binh 17.jpg"
+        },
+        {
             "slug": "tb-ket-qua-xet-tuyen-cong-chuc-xa-huyen-dak-song",
             "title": "Kết quả xét tuyển công chức xã huyện Đăk Song",
             "description": "Ngày 20/4/2017 Hội đồng xét tuyển công chức xã ra thông báo số 52/TB-HĐXTCC thông báo kết quả xét tuyển công chức xã huyện Đăk Song",
@@ -91,12 +97,6 @@
             "title": "Đăk Song phát động Tháng hành động vì An toàn thực phẩm năm 2017",
             "description": "Ngày 21/4/2017 UBND huyện tổ chức hội nghị triển khai và phát động tháng hành động vì an toàn thực phẩm năm 2017, về dự khai mạc có đồng chí Lê Viết Sinh - Phó chủ tịch UBND huyện; đại diện lãnh đạo UBND huyện, huyện ủy, các phòng, ban liên quan và đông đảo người dân địa phương trong huyện.",
             "banner": "img/ATTP17.jpg"
-        },
-        {
-            "slug": "tin-le-khai-mac-ngay-sach-viet-nam-dien-ra-tai-nha-van-hoa-huyen-dak-song",
-            "title": "Sáng 20/4, lễ khai mạc Ngày sách Việt Nam diễn ra tại Nhà văn hóa huyện Đăk Song",
-            "description": "Ngày sách Việt Nam là dịp để mọi người thắp sáng tình yêu sách, thúc đẩy văn hóa đọc. Buổi lễ có sự tham gia của các lãnh đạo UBND huyện, huyện ủy, lãnh đạo các xã, thị trấn, các phòng, ban chuyên môn cùng toàn thể các thầy, cô, các em học sinh trên địa bàn huyện...",
-            "banner": "img/21-4-17a.jpg"
         },
         {
             "slug": "tin-toan-tinh-co-hon-441-ha-ho-tieu-nhiem-benh-chet-nhanh-chet-cham",

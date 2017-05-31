@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "tin-khoi-cong-xay-dung-8-cau-dan-sinh-tren-dia-ban-huyen-dak-song",
+            "title": "Khởi công xây dựng 8 cầu dân sinh trên địa bàn huyện Đắk Song",
+            "description": "Ngày 30/5, Ban Quản lý dự án (QLDA) 8 (thuộc Tổng cục Đường bộ Việt Nam, Bộ Giao thông vận tải) phối hợp với Ban QLDA bảo trì đường bộ - Sở Giao thông vận tải Đắk Nông, tổ chức Lễ khởi công cầu dân sinh tại bon Jăng Plei 2, ở xã Trường Xuân (Đắk Song).",
+            "banner": "img/xaycau17e.jpg"
+        },
+        {
             "slug": "tin-ban-van-hoaxa-hoi-hdnd-tinh-khao-sat-tinh-hinh-thuc-hien-du-an-dau-tu-sua-chua-nang-cap-dai-truyen-thanh-tai-huyen-dak-song",
             "title": "Ban Văn hóa-Xã hội HĐND tỉnh khảo sát tình hình thực hiện dự án đầu tư, sửa chữa, nâng cấp đài truyền thanh tại huyện Đắk Song",
             "description": "Ngày 30/5, Ban Văn hóa-Xã hội HĐND tỉnh do đồng chí Hà Trung Ký, UVTV, Trưởng Ban Tuyên giáo Tỉnh ủy, Trưởng Ban Văn hóa-Xã hội HĐND tỉnh dẫn đầu đã có cuộc khảo sát về tình hình thực hiện dự án đầu tư, sửa chữa, nâng cấp hệ thống đài truyền thanh cơ sở tại huyện Đắk Song",

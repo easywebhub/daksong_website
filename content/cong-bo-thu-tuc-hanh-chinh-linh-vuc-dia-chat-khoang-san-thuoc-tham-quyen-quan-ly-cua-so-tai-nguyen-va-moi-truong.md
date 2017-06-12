@@ -1,0 +1,16 @@
+---json
+{
+    "slug": "cong-bo-thu-tuc-hanh-chinh-linh-vuc-dia-chat-khoang-san-thuoc-tham-quyen-quan-ly-cua-so-tai-nguyen-va-moi-truong",
+    "layout": "post.html",
+    "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
+    "title": "Công bố thủ tục hành chính sửa đổi bổ sung; thủ tục hành chính mới ban hành lĩnh vực địa chất khoáng sản thuộc thẩm quyền quản lý chuyên ngành của Sở Tài nguyên và Môi trường",
+    "description": "Ngày 07/6/2017 UBND tỉnh ban hành quyết định 956/QĐ - UBND về việc Công bố thủ tục hành chính sửa đổi bổ sung; thủ tục hành chính mới ban hành lĩnh vực địa chất khoáng sản thuộc thẩm quyền quản lý chuyên ngành của Sở Tài nguyên và Môi trường",
+    "date": "12-06-2017 08:22:50",
+    "banner": "img/hop-kq.jpg",
+    "tag": [],
+    "permalink": true,
+    "draft": "",
+    "url": ""
+}
+---
+<p>Chi tiết quyết định:&nbsp;<a href="http://www.mediafire.com/file/zsl8fh99u5a7lnm/QD-956_Q%C4%90_-_UBND.pdf" target="_blank">Tại đây</a></p>

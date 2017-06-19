@@ -87,10 +87,10 @@
             "banner": "img/nam binh 17.jpg"
         },
         {
-            "slug": "tb-ket-qua-xet-tuyen-cong-chuc-xa-huyen-dak-song",
-            "title": "Kết quả xét tuyển công chức xã huyện Đăk Song",
-            "description": "Ngày 20/4/2017 Hội đồng xét tuyển công chức xã ra thông báo số 52/TB-HĐXTCC thông báo kết quả xét tuyển công chức xã huyện Đăk Song",
-            "banner": "img/CCXa.JPG"
+            "slug": "nong-dan-dak-song-lao-dao-vi-bi-do-rot-gia-bai-hoc-cu-trong-khong-theo-quy-hoach",
+            "title": "Nông dân Đắk Song lao đao vì bí đỏ rớt giá: Bài học cũ trồng không theo quy hoạch",
+            "description": "Vào những ngày này, nông dân huyện Đắk Song (Đắk Nông) đang bước vào giai đoạn thu hoạch bí đỏ chính vụ. Theo đánh giá thì năm nay năng suất, sản lượng bí đỏ đạt cao hơn so với các năm trước. Tuy nhiên, người trồng bí đỏ lại đứng ngồi không yên vì giá liên tục xuống thấp, thậm chí nhiều nông hộ không tìm được đầu ra khiến bí đỏ thối ngay tại vườn",
+            "banner": "img/bi-do-17b.jpg"
         },
         {
             "slug": "tin-giai-quan-vot-chao-mung-ky-niem-42-nam-ngay-giai-phong-hoan-toan-mien-nam-va-ngay-quoc-te-lao-dong",

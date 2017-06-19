@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "nong-dan-dak-song-lao-dao-vi-bi-do-rot-gia-bai-hoc-cu-trong-khong-theo-quy-hoach",
+            "title": "Nông dân Đắk Song lao đao vì bí đỏ rớt giá: Bài học cũ trồng không theo quy hoạch",
+            "description": "Vào những ngày này, nông dân huyện Đắk Song (Đắk Nông) đang bước vào giai đoạn thu hoạch bí đỏ chính vụ. Theo đánh giá thì năm nay năng suất, sản lượng bí đỏ đạt cao hơn so với các năm trước. Tuy nhiên, người trồng bí đỏ lại đứng ngồi không yên vì giá liên tục xuống thấp, thậm chí nhiều nông hộ không tìm được đầu ra khiến bí đỏ thối ngay tại vườn",
+            "banner": "img/bi-do-17b.jpg"
+        },
+        {
             "slug": "tin-khoi-cong-xay-dung-8-cau-dan-sinh-tren-dia-ban-huyen-dak-song",
             "title": "Khởi công xây dựng 8 cầu dân sinh trên địa bàn huyện Đắk Song",
             "description": "Ngày 30/5, Ban Quản lý dự án (QLDA) 8 (thuộc Tổng cục Đường bộ Việt Nam, Bộ Giao thông vận tải) phối hợp với Ban QLDA bảo trì đường bộ - Sở Giao thông vận tải Đắk Nông, tổ chức Lễ khởi công cầu dân sinh tại bon Jăng Plei 2, ở xã Trường Xuân (Đắk Song).",
@@ -85,12 +91,6 @@
             "title": "Ban Văn hóa-Xã hội HĐND tỉnh khảo sát tình hình thực hiện dự án đầu tư, sửa chữa, nâng cấp đài truyền thanh tại huyện Đắk Song",
             "description": "Ngày 30/5, Ban Văn hóa-Xã hội HĐND tỉnh do đồng chí Hà Trung Ký, UVTV, Trưởng Ban Tuyên giáo Tỉnh ủy, Trưởng Ban Văn hóa-Xã hội HĐND tỉnh dẫn đầu đã có cuộc khảo sát về tình hình thực hiện dự án đầu tư, sửa chữa, nâng cấp hệ thống đài truyền thanh cơ sở tại huyện Đắk Song",
             "banner": "img/nam binh 17.jpg"
-        },
-        {
-            "slug": "nong-dan-dak-song-lao-dao-vi-bi-do-rot-gia-bai-hoc-cu-trong-khong-theo-quy-hoach",
-            "title": "Nông dân Đắk Song lao đao vì bí đỏ rớt giá: Bài học cũ trồng không theo quy hoạch",
-            "description": "Vào những ngày này, nông dân huyện Đắk Song (Đắk Nông) đang bước vào giai đoạn thu hoạch bí đỏ chính vụ. Theo đánh giá thì năm nay năng suất, sản lượng bí đỏ đạt cao hơn so với các năm trước. Tuy nhiên, người trồng bí đỏ lại đứng ngồi không yên vì giá liên tục xuống thấp, thậm chí nhiều nông hộ không tìm được đầu ra khiến bí đỏ thối ngay tại vườn",
-            "banner": "img/bi-do-17b.jpg"
         },
         {
             "slug": "tin-giai-quan-vot-chao-mung-ky-niem-42-nam-ngay-giai-phong-hoan-toan-mien-nam-va-ngay-quoc-te-lao-dong",

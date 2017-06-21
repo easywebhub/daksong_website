@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "tin-dak-hoa-thoat-ngheo-ben-vung-nho-duoc-vay-von-uu-dai",
+            "title": "Đắk Hòa: Thoát nghèo bền vững nhờ được vay vốn ưu đãi",
+            "description": "Trước đây, với 3 sào rẫy được bố mẹ hai bên gia đình hỗ trợ khi ra ở riêng, gia đình anh Trần Cao Cường, ở thôn Tân Bình 2, xã Đắk Hòa (Đắk Song) chủ yếu dựa vào công việc phụ hồ của anh nên cuộc sống của hai vợ chồng và 3 đứa con cứ bữa no, bữa đói.",
+            "banner": "img/dak-hoa-17.jpg"
+        },
+        {
             "slug": "nong-dan-dak-song-lao-dao-vi-bi-do-rot-gia-bai-hoc-cu-trong-khong-theo-quy-hoach",
             "title": "Nông dân Đắk Song lao đao vì bí đỏ rớt giá: Bài học cũ trồng không theo quy hoạch",
             "description": "Vào những ngày này, nông dân huyện Đắk Song (Đắk Nông) đang bước vào giai đoạn thu hoạch bí đỏ chính vụ. Theo đánh giá thì năm nay năng suất, sản lượng bí đỏ đạt cao hơn so với các năm trước. Tuy nhiên, người trồng bí đỏ lại đứng ngồi không yên vì giá liên tục xuống thấp, thậm chí nhiều nông hộ không tìm được đầu ra khiến bí đỏ thối ngay tại vườn",
@@ -91,12 +97,6 @@
             "title": "Ban Văn hóa-Xã hội HĐND tỉnh khảo sát tình hình thực hiện dự án đầu tư, sửa chữa, nâng cấp đài truyền thanh tại huyện Đắk Song",
             "description": "Ngày 30/5, Ban Văn hóa-Xã hội HĐND tỉnh do đồng chí Hà Trung Ký, UVTV, Trưởng Ban Tuyên giáo Tỉnh ủy, Trưởng Ban Văn hóa-Xã hội HĐND tỉnh dẫn đầu đã có cuộc khảo sát về tình hình thực hiện dự án đầu tư, sửa chữa, nâng cấp hệ thống đài truyền thanh cơ sở tại huyện Đắk Song",
             "banner": "img/nam binh 17.jpg"
-        },
-        {
-            "slug": "tin-giai-quan-vot-chao-mung-ky-niem-42-nam-ngay-giai-phong-hoan-toan-mien-nam-va-ngay-quoc-te-lao-dong",
-            "title": "Giải quần vợt chào mừng kỷ niệm 42 năm ngày Giải phóng hoàn toàn miền Nam và Ngày quốc tế lao động 1/5",
-            "description": "Trong 2 ngày 20-21/4/2017, Câu lạc bộ quần vợt Đăk Song tổ chức giải quần vợt chào mừng chào mừng kỷ niệm 42 ngày Giải phóng hoàn toàn miền Nam thống nhất đất nước (30/4/1975 - 30/4/2017) và Ngày quốc tế lao động 1/5",
-            "banner": "img/Qv30-4-17 2.JPG"
         },
         {
             "slug": "tin-dak-song-phat-dong-thang-hanh-dong-vi-an-toan-thuc-pham-nam-2017",

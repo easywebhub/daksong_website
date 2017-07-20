@@ -75,6 +75,24 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "trung-uong-dong-y-bo-tri-8-ty-dong-de-dak-nong-sua-chua-3-tuyen-tinh-lo",
+            "title": "Trung ương đồng ý bố trí 8 tỷ đồng để Đắk Nông sửa chữa 3 tuyến tỉnh lộ",
+            "description": "Ngày 20/7, ông Nguyễn Nhân Bản, Phó Giám đốc Sở Giao thông vận tải (GTVT) cho biết: Quỹ Bảo trì đường bộ (Tổng cục Đường bộ Việt Nam, Bộ GTVT) vừa đồng ý chủ trương bố trí cho tỉnh Đắk Nông 8 tỷ đồng để sửa chữa, bảo dưỡng 3 tuyến tỉnh lộ hư hỏng nặng.",
+            "banner": "img/8ty-7-17.jpg"
+        },
+        {
+            "slug": "tung-buoc-ung-dung-chu-ky-so-dien-tu",
+            "title": "Từng bước ứng dụng chữ ký số điện tử",
+            "description": "Thực hiện Nghị quyết 36a/NQ-CP ngày 14/10/2015 của Chính phủ về Chính phủ điện tử, UBND tỉnh vừa ban hành các quyết định triển khai ứng dụng chữ ký số chuyên dùng trong hoạt động của các cơ quan nhà nước tỉnh, trong đó giao nhiệm vụ cho Sở Thông tin và Truyền thông chủ trì tham mưu các quy định về an toàn thông tin, đẩy mạnh cấp phát chứng thư số, chữ ký số trong hoạt động của các cơ quan nhà nước trên địa bàn.",
+            "banner": "img/CKS-7-17.jpg"
+        },
+        {
+            "slug": "dak-song-cuong-che-giai-toa-thu-hoi-hon-57-ha-dat-rung-bi-lan-chiem-trai-phep",
+            "title": "Đắk Song: Cưỡng chế, giải tỏa thu hồi hơn 57 ha đất rừng bị lấn chiếm trái phép",
+            "description": "Trong khoảng 1 tháng (từ cuối tháng 5 đến cuối tháng 6/2017), Đoàn thực hiện Chỉ thị 12 (Đoàn 12) của UBND huyện Đắk Song (Đắk Nông) đã tiến hành cưỡng chế, phá bỏ cây trồng trên đất phá rừng, lấn chiếm đất rừng trái pháp luật tại lâm phận Công ty TNHH MTV Đắk N’Tao và Công ty TNHH MTV Thuận Tân (đã giải thể), thuộc địa giới hành chính xã Nâm N’Jang, huyện Đắk Song để thu hồi diện tích đất rừng và trồng lại rừng trên diện tích đất bị lấn chiếm.",
+            "banner": "img/rung-7-17a.jpg"
+        },
+        {
             "slug": "tin-dak-hoa-thoat-ngheo-ben-vung-nho-duoc-vay-von-uu-dai",
             "title": "Đắk Hòa: Thoát nghèo bền vững nhờ được vay vốn ưu đãi",
             "description": "Trước đây, với 3 sào rẫy được bố mẹ hai bên gia đình hỗ trợ khi ra ở riêng, gia đình anh Trần Cao Cường, ở thôn Tân Bình 2, xã Đắk Hòa (Đắk Song) chủ yếu dựa vào công việc phụ hồ của anh nên cuộc sống của hai vợ chồng và 3 đứa con cứ bữa no, bữa đói.",
@@ -91,24 +109,6 @@
             "title": "Khởi công xây dựng 8 cầu dân sinh trên địa bàn huyện Đắk Song",
             "description": "Ngày 30/5, Ban Quản lý dự án (QLDA) 8 (thuộc Tổng cục Đường bộ Việt Nam, Bộ Giao thông vận tải) phối hợp với Ban QLDA bảo trì đường bộ - Sở Giao thông vận tải Đắk Nông, tổ chức Lễ khởi công cầu dân sinh tại bon Jăng Plei 2, ở xã Trường Xuân (Đắk Song).",
             "banner": "img/xaycau17e.jpg"
-        },
-        {
-            "slug": "tin-ban-van-hoaxa-hoi-hdnd-tinh-khao-sat-tinh-hinh-thuc-hien-du-an-dau-tu-sua-chua-nang-cap-dai-truyen-thanh-tai-huyen-dak-song",
-            "title": "Ban Văn hóa-Xã hội HĐND tỉnh khảo sát tình hình thực hiện dự án đầu tư, sửa chữa, nâng cấp đài truyền thanh tại huyện Đắk Song",
-            "description": "Ngày 30/5, Ban Văn hóa-Xã hội HĐND tỉnh do đồng chí Hà Trung Ký, UVTV, Trưởng Ban Tuyên giáo Tỉnh ủy, Trưởng Ban Văn hóa-Xã hội HĐND tỉnh dẫn đầu đã có cuộc khảo sát về tình hình thực hiện dự án đầu tư, sửa chữa, nâng cấp hệ thống đài truyền thanh cơ sở tại huyện Đắk Song",
-            "banner": "img/nam binh 17.jpg"
-        },
-        {
-            "slug": "tin-dak-song-phat-dong-thang-hanh-dong-vi-an-toan-thuc-pham-nam-2017",
-            "title": "Đăk Song phát động Tháng hành động vì An toàn thực phẩm năm 2017",
-            "description": "Ngày 21/4/2017 UBND huyện tổ chức hội nghị triển khai và phát động tháng hành động vì an toàn thực phẩm năm 2017, về dự khai mạc có đồng chí Lê Viết Sinh - Phó chủ tịch UBND huyện; đại diện lãnh đạo UBND huyện, huyện ủy, các phòng, ban liên quan và đông đảo người dân địa phương trong huyện.",
-            "banner": "img/ATTP17.jpg"
-        },
-        {
-            "slug": "tin-toan-tinh-co-hon-441-ha-ho-tieu-nhiem-benh-chet-nhanh-chet-cham",
-            "title": "Toàn tỉnh có hơn 441 ha hồ tiêu nhiễm bệnh chết nhanh, chết chậm",
-            "description": "Theo bà Hoàng Ngọc Duyên, Phó Chi cục Trưởng Chi cục Trồng trọt và Bảo vệ thực vật (Sở Nông nghiệp-PTNT), toàn tỉnh hiện có 441,36 ha hồ tiêu bị nhiễm bệnh chết nhanh, chết chậm. Trong đó, diện tích bị nặng là 66,43 ha, trung bình 110 ha và nhẹ 264,87 ha.",
-            "banner": "img/tieu chet nhanh 2017.jpg"
         }
     ],
     "category": "",

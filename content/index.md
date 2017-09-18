@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "huong-ung-cuoc-thi-sang-kien-vi-cong-dong-lan-2",
+            "title": "Huyện Đăk Song hưởng ứng cuộc thi Sáng kiến vì cộng đồng lần thứ 2",
+            "description": "Ngày 01/9/2017 UBND huyện Đăk Song ban hành Công văn số 3349/UBND-VP về việc hưởng ứng cuộc thi Sáng kiến vì cộng đồng lần thứ 2.",
+            "banner": "img/SKVCĐ17.jpg"
+        },
+        {
             "slug": "the-le-cuoc-thi-sang-kien-vi-cong-dong-lan-thu-2",
             "title": "Thể lệ cuộc thi Sáng kiến vì cộng đồng lần thứ 2",
             "description": "Ngày 05/9/2017 Ban tuyên giáo (Huyện ủy Đăk Song) ban hành Công văn số 203-CV/BTGHU về việc hưởng ứng cuộc thi Sáng kiến vì cộng đồng lần thứ II; Chi tiết Thể lệ cuộc thi Sáng kiến vì cộng đồng lần thứ II như sau:",
@@ -103,12 +109,6 @@
             "title": "Đắk Song: Cưỡng chế, giải tỏa thu hồi hơn 57 ha đất rừng bị lấn chiếm trái phép",
             "description": "Trong khoảng 1 tháng (từ cuối tháng 5 đến cuối tháng 6/2017), Đoàn thực hiện Chỉ thị 12 (Đoàn 12) của UBND huyện Đắk Song (Đắk Nông) đã tiến hành cưỡng chế, phá bỏ cây trồng trên đất phá rừng, lấn chiếm đất rừng trái pháp luật tại lâm phận Công ty TNHH MTV Đắk N’Tao và Công ty TNHH MTV Thuận Tân (đã giải thể), thuộc địa giới hành chính xã Nâm N’Jang, huyện Đắk Song để thu hồi diện tích đất rừng và trồng lại rừng trên diện tích đất bị lấn chiếm.",
             "banner": "img/rung-7-17a.jpg"
-        },
-        {
-            "slug": "tin-dak-hoa-thoat-ngheo-ben-vung-nho-duoc-vay-von-uu-dai",
-            "title": "Đắk Hòa: Thoát nghèo bền vững nhờ được vay vốn ưu đãi",
-            "description": "Trước đây, với 3 sào rẫy được bố mẹ hai bên gia đình hỗ trợ khi ra ở riêng, gia đình anh Trần Cao Cường, ở thôn Tân Bình 2, xã Đắk Hòa (Đắk Song) chủ yếu dựa vào công việc phụ hồ của anh nên cuộc sống của hai vợ chồng và 3 đứa con cứ bữa no, bữa đói.",
-            "banner": "img/dak-hoa-17.jpg"
         }
     ],
     "category": "",

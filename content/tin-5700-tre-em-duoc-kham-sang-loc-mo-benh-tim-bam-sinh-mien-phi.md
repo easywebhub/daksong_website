@@ -3,7 +3,7 @@
     "slug": "tin-5700-tre-em-duoc-kham-sang-loc-mo-benh-tim-bam-sinh-mien-phi",
     "layout": "post.html",
     "category": "tin-tuc-su-kien.tin-y-te-giao-duc",
-    "title": "Tin 5700 trẻ em được khám sàng lọc mổ bệnh tim bẩm sinh miễn phí",
+    "title": "5700 trẻ em được khám sàng lọc mổ bệnh tim bẩm sinh miễn phí",
     "description": "Trong 2 ngày 16 và 17/9, tại Bệnh viện Đa khoa huyện Đắk Mil (Đắk Mil), Quỹ Tấm lòng Việt (Đài Truyền hình Việt Nam) và Tập đoàn Viettel phối hợp với Bệnh viện Tim TP. Hồ Chí Minh, Bệnh viện Tim Tâm Đức, Bệnh viện Đại học Y dược TP.Hồ Chí Minh tổ chức khám sàng lọc bệnh tim bẩm sinh miễn phí cho trẻ em nghèo trên địa bàn tỉnh Đắk Nông.",
     "date": "18-09-2017 08:16:59",
     "banner": "img/Tim2017 (1).jpg",

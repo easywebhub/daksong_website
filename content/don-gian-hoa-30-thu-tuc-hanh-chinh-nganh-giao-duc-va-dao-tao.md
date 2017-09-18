@@ -1,0 +1,16 @@
+---json
+{
+    "slug": "don-gian-hoa-30-thu-tuc-hanh-chinh-nganh-giao-duc-va-dao-tao",
+    "layout": "post.html",
+    "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
+    "title": "Đơn giản hóa 30 thủ tục hành chính ngành Giáo dục và Đào tạo",
+    "description": "Chính phủ vừa thông qua Phương án đơn giản hóa thủ tục hành chính, giấy tờ công dân liên quan đến quản lý dân cư thuộc phạm vi chức năng quản lý nhà nước của Bộ Giáo dục và Đào tạo.",
+    "date": "16-09-2017",
+    "banner": "",
+    "tag": [],
+    "permalink": true,
+    "draft": "",
+    "url": ""
+}
+---
+<div>Theo đó, nội dung đơn giản hóa liên quan đến 30 thủ tục hành chính trong 4 lĩnh vực: 1- Giáo dục và Đào tạo (24 thủ tục); 2- Tiêu chuẩn nhà giáo (2 thủ tục); 3- Quy chế thi tuyển sinh (2 thủ tục); 4- Hệ thống văn bằng, chứng chỉ (2 thủ tục).</div><div><br></div><div>Trong đó, với lĩnh vực giáo dục và đào tạo, đơn giản hóa thủ tục đề nghị miễn giảm học phí cho học sinh, sinh viên. Cụ thể, bỏ thành phần hồ sơ: Bản sao giấy khai sinh, bản sao sổ hộ khẩu (đối với các đối tượng có yêu cầu nộp các thành phần hồ sơ này); giảm bớt các yêu cầu thông tin về: Ngày tháng năm sinh, nơi sinh, họ tên cha, mẹ học sinh sinh viên, hộ khẩu thường trú tại Mẫu đơn đề nghị miễn, giảm học phí; Mẫu đơn đề nghị cấp bù tiền miễn, giảm học phí (dùng cho học sinh, sinh viên đang học tại các cơ sở giáo dục nghề nghiệp và giáo dục đại học ngoài công lập hoặc tại cơ sở giáo dục nghề nghiệp và giáo dục đại học thuộc các doanh nghiệp nhà nước, tổ chức kinh tế) và thay các thông tin trên bằng số định danh cá nhân.</div><div><br></div><div>Với thủ tục chuyển trường đối với học sinh tiểu học, học sinh trung học cơ sở, bỏ thành phần hồ sơ bản sao giấy khai sinh.</div><div><br></div><div>Còn với lĩnh vực quy chế thi tuyển sinh, đơn giản hóa thủ tục đăng ký dự thi trung học phổ thông quốc gia. Cụ thể, bỏ thành phần hồ sơ: Bản sao Giấy khai sinh (đối với đối tượng thí sinh tự do), bản sao sổ hộ khẩu (đối với đối tượng ưu tiên theo hộ khẩu); giảm bớt các yêu cầu thông tin về: Giới tính, nơi sinh, hộ khẩu thường trú, ảnh, mã tỉnh, mã huyện, mã trường tại Phiếu đăng ký dự thi kỳ thi THPT Quốc gia; thay các thông tin trên bằng số định danh cá nhân và chỉ yêu cầu nộp 1 phiếu.</div><div><br></div><div>Chính phủ giao Bộ giáo dục và Đào tạo căn cứ nội dung Phương án đơn giản hóa được Chính phủ thông qua, trong phạm vi thẩm quyền chủ trì, phối hợp với bộ, ngành, cơ quan có liên quan chịu trách nhiệm sửa đổi, bổ sung, thay thế hoặc hủy bỏ, bãi bỏ thủ tục hành chính, giấy tờ công dân quy định tại văn bản quy phạm pháp luật để ban hành theo thẩm quyền hoặc trình cấp có thẩm quyền ban hành phù hợp với thời điểm hoàn thành, vận hành của Cơ sở dữ liệu quốc gia về dân cư.</div><div><br></div><div>Chính phủ giao Văn phòng Chính phủ theo dõi, kiểm tra việc thực hiện và tổng hợp vướng mắc của Bộ Giáo dục và Đào tạo, các bộ, ngành có liên quan để kịp thời báo cáo Thủ tướng Chính phủ tháo gỡ trong quá trình thực thi Phương án đơn giản hóa thủ tục hành chính, giấy tờ công dân đã được Chính phủ thông qua tại Nghị quyết này.</div><div><br></div><div>Theo chinhphu.vn</div>

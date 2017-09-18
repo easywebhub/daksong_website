@@ -3,7 +3,7 @@
     "slug": "tin-hoc-sinh-duoc-huong-loi-khi-tham-gia-bao-hiem-y-te",
     "layout": "post.html",
     "category": "tin-tuc-su-kien.tin-y-te-giao-duc",
-    "title": "Tin Học sinh được hưởng lợi khi tham gia bảo hiểm y tế",
+    "title": "Học sinh được hưởng lợi khi tham gia bảo hiểm y tế",
     "description": "Thời gian qua, với việc triển khai chính sách Bảo hiểm y tế (BHYT) học sinh, sinh viên, nhiều học sinh trên địa bàn tỉnh Đắk Nông đã được chia sẻ gánh nặng viện phí khi không may bị tai nạn thương tích, mắc bệnh, nhất là mắc các bệnh mạn tính...",
     "date": "14-09-2017",
     "banner": "img/BHXH-17a.jpg",

@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "the-le-cuoc-thi-sang-kien-vi-cong-dong-lan-thu-2",
+            "title": "Thể lệ cuộc thi Sáng kiến vì cộng đồng lần thứ 2",
+            "description": "Ngày 05/9/2017 Ban tuyên giáo (Huyện ủy Đăk Song) ban hành Công văn số 203-CV/BTGHU về việc hưởng ứng cuộc thi Sáng kiến vì cộng đồng lần thứ II; Chi tiết Thể lệ cuộc thi Sáng kiến vì cộng đồng lần thứ II như sau:",
+            "banner": "img/SangKienVCĐ17.jpg"
+        },
+        {
             "slug": "tin-gan-22-trieu-hoc-sinh-sinh-vien-ca-nuoc-buoc-vao-nam-hoc-moi",
             "title": "Gần 22 triệu học sinh, sinh viên cả nước bước vào năm học mới",
             "description": "Hôm nay (5/9), gần 22 triệu học sinh, sinh viên cả nước tưng bừng dự lễ khai giảng đón chào năm học 2017 - 2018 với nhiều đổi mới.",
@@ -91,12 +97,6 @@
             "title": "Tin Học sinh được hưởng lợi khi tham gia bảo hiểm y tế",
             "description": "Thời gian qua, với việc triển khai chính sách Bảo hiểm y tế (BHYT) học sinh, sinh viên, nhiều học sinh trên địa bàn tỉnh Đắk Nông đã được chia sẻ gánh nặng viện phí khi không may bị tai nạn thương tích, mắc bệnh, nhất là mắc các bệnh mạn tính...",
             "banner": "img/BHXH-17a.jpg"
-        },
-        {
-            "slug": "tung-buoc-ung-dung-chu-ky-so-dien-tu",
-            "title": "Từng bước ứng dụng chữ ký số điện tử",
-            "description": "Thực hiện Nghị quyết 36a/NQ-CP ngày 14/10/2015 của Chính phủ về Chính phủ điện tử, UBND tỉnh vừa ban hành các quyết định triển khai ứng dụng chữ ký số chuyên dùng trong hoạt động của các cơ quan nhà nước tỉnh, trong đó giao nhiệm vụ cho Sở Thông tin và Truyền thông chủ trì tham mưu các quy định về an toàn thông tin, đẩy mạnh cấp phát chứng thư số, chữ ký số trong hoạt động của các cơ quan nhà nước trên địa bàn.",
-            "banner": "img/CKS-7-17.jpg"
         },
         {
             "slug": "dak-song-cuong-che-giai-toa-thu-hoi-hon-57-ha-dat-rung-bi-lan-chiem-trai-phep",

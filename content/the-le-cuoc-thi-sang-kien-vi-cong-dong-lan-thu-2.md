@@ -4,7 +4,7 @@
     "layout": "post.html",
     "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
     "title": "Thể lệ cuộc thi Sáng kiến vì cộng đồng lần thứ 2",
-    "description": "Ngày 05/9/2017 Ban tuyên giáo (Huyện ủy Đăk Song) ban hành Công văn số 203-CV/BTGHU về việc hưởng ứng cuộc thi \"Sáng kiến vì cộng đồng\" lần thứ II; Chi tiết Thể lệ cuộc thi Sáng kiến vì cộng đồng lần thứ 2 như sau:",
+    "description": "Ngày 05/9/2017 Ban tuyên giáo (Huyện ủy Đăk Song) ban hành Công văn số 203-CV/BTGHU về việc hưởng ứng cuộc thi \"Sáng kiến vì cộng đồng\" lần thứ II; Chi tiết Thể lệ cuộc thi Sáng kiến vì cộng đồng lần thứ II như sau:",
     "date": "15-09-2017",
     "banner": "",
     "tag": [],

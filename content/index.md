@@ -81,6 +81,18 @@
             "banner": "img/8ty-7-17.jpg"
         },
         {
+            "slug": "tin-5700-tre-em-duoc-kham-sang-loc-mo-benh-tim-bam-sinh-mien-phi",
+            "title": "Tin 5700 trẻ em được khám sàng lọc mổ bệnh tim bẩm sinh miễn phí",
+            "description": "Trong 2 ngày 16 và 17/9, tại Bệnh viện Đa khoa huyện Đắk Mil (Đắk Mil), Quỹ Tấm lòng Việt (Đài Truyền hình Việt Nam) và Tập đoàn Viettel phối hợp với Bệnh viện Tim TP. Hồ Chí Minh, Bệnh viện Tim Tâm Đức, Bệnh viện Đại học Y dược TP.Hồ Chí Minh tổ chức khám sàng lọc bệnh tim bẩm sinh miễn phí cho trẻ em nghèo trên địa bàn tỉnh Đắk Nông.",
+            "banner": "img/Tim2017 (1).jpg"
+        },
+        {
+            "slug": "tin-hoc-sinh-duoc-huong-loi-khi-tham-gia-bao-hiem-y-te",
+            "title": "Tin Học sinh được hưởng lợi khi tham gia bảo hiểm y tế",
+            "description": "Thời gian qua, với việc triển khai chính sách Bảo hiểm y tế (BHYT) học sinh, sinh viên, nhiều học sinh trên địa bàn tỉnh Đắk Nông đã được chia sẻ gánh nặng viện phí khi không may bị tai nạn thương tích, mắc bệnh, nhất là mắc các bệnh mạn tính...",
+            "banner": "img/BHXH-17a.jpg"
+        },
+        {
             "slug": "tung-buoc-ung-dung-chu-ky-so-dien-tu",
             "title": "Từng bước ứng dụng chữ ký số điện tử",
             "description": "Thực hiện Nghị quyết 36a/NQ-CP ngày 14/10/2015 của Chính phủ về Chính phủ điện tử, UBND tỉnh vừa ban hành các quyết định triển khai ứng dụng chữ ký số chuyên dùng trong hoạt động của các cơ quan nhà nước tỉnh, trong đó giao nhiệm vụ cho Sở Thông tin và Truyền thông chủ trì tham mưu các quy định về an toàn thông tin, đẩy mạnh cấp phát chứng thư số, chữ ký số trong hoạt động của các cơ quan nhà nước trên địa bàn.",
@@ -97,18 +109,6 @@
             "title": "Đắk Hòa: Thoát nghèo bền vững nhờ được vay vốn ưu đãi",
             "description": "Trước đây, với 3 sào rẫy được bố mẹ hai bên gia đình hỗ trợ khi ra ở riêng, gia đình anh Trần Cao Cường, ở thôn Tân Bình 2, xã Đắk Hòa (Đắk Song) chủ yếu dựa vào công việc phụ hồ của anh nên cuộc sống của hai vợ chồng và 3 đứa con cứ bữa no, bữa đói.",
             "banner": "img/dak-hoa-17.jpg"
-        },
-        {
-            "slug": "nong-dan-dak-song-lao-dao-vi-bi-do-rot-gia-bai-hoc-cu-trong-khong-theo-quy-hoach",
-            "title": "Nông dân Đắk Song lao đao vì bí đỏ rớt giá: Bài học cũ trồng không theo quy hoạch",
-            "description": "Vào những ngày này, nông dân huyện Đắk Song (Đắk Nông) đang bước vào giai đoạn thu hoạch bí đỏ chính vụ. Theo đánh giá thì năm nay năng suất, sản lượng bí đỏ đạt cao hơn so với các năm trước. Tuy nhiên, người trồng bí đỏ lại đứng ngồi không yên vì giá liên tục xuống thấp, thậm chí nhiều nông hộ không tìm được đầu ra khiến bí đỏ thối ngay tại vườn",
-            "banner": "img/bi-do-17b.jpg"
-        },
-        {
-            "slug": "tin-khoi-cong-xay-dung-8-cau-dan-sinh-tren-dia-ban-huyen-dak-song",
-            "title": "Khởi công xây dựng 8 cầu dân sinh trên địa bàn huyện Đắk Song",
-            "description": "Ngày 30/5, Ban Quản lý dự án (QLDA) 8 (thuộc Tổng cục Đường bộ Việt Nam, Bộ Giao thông vận tải) phối hợp với Ban QLDA bảo trì đường bộ - Sở Giao thông vận tải Đắk Nông, tổ chức Lễ khởi công cầu dân sinh tại bon Jăng Plei 2, ở xã Trường Xuân (Đắk Song).",
-            "banner": "img/xaycau17e.jpg"
         }
     ],
     "category": "",

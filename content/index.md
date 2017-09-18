@@ -75,10 +75,10 @@
     },
     "tinTucNoiBat": [
         {
-            "slug": "trung-uong-dong-y-bo-tri-8-ty-dong-de-dak-nong-sua-chua-3-tuyen-tinh-lo",
-            "title": "Trung ương đồng ý bố trí 8 tỷ đồng để Đắk Nông sửa chữa 3 tuyến tỉnh lộ",
-            "description": "Ngày 20/7, ông Nguyễn Nhân Bản, Phó Giám đốc Sở Giao thông vận tải (GTVT) cho biết: Quỹ Bảo trì đường bộ (Tổng cục Đường bộ Việt Nam, Bộ GTVT) vừa đồng ý chủ trương bố trí cho tỉnh Đắk Nông 8 tỷ đồng để sửa chữa, bảo dưỡng 3 tuyến tỉnh lộ hư hỏng nặng.",
-            "banner": "img/8ty-7-17.jpg"
+            "slug": "tin-gan-22-trieu-hoc-sinh-sinh-vien-ca-nuoc-buoc-vao-nam-hoc-moi",
+            "title": "Gần 22 triệu học sinh, sinh viên cả nước bước vào năm học mới",
+            "description": "Hôm nay (5/9), gần 22 triệu học sinh, sinh viên cả nước tưng bừng dự lễ khai giảng đón chào năm học 2017 - 2018 với nhiều đổi mới.",
+            "banner": "img/khaigiang17.jpg"
         },
         {
             "slug": "tin-5700-tre-em-duoc-kham-sang-loc-mo-benh-tim-bam-sinh-mien-phi",

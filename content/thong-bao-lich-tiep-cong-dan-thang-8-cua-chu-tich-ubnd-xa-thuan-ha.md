@@ -8,7 +8,7 @@
     "date": "04-08-2017",
     "banner": "",
     "tag": [],
-    "permalink": "",
+    "permalink": true,
     "draft": "",
     "url": ""
 }

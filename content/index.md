@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "tin-mot-giot-mau-dao-gui-trao-hi-vong",
+            "title": "MỘT GIỌT MÁU ĐÀO - GỬI TRAO HI VỌNG",
+            "description": "Thực hiện kế hoạch số 78/KH-BCĐ ngày 18/5/2017 của Ban chỉ đạo vận động hiến máu tình nguyện huyện Đăk Song về việc Tổ chức hiến máu tình nguyện năm 2017",
+            "banner": "img/Hienmau173.jpg"
+        },
+        {
             "slug": "huong-ung-cuoc-thi-sang-kien-vi-cong-dong-lan-2",
             "title": "Huyện Đăk Song hưởng ứng cuộc thi Sáng kiến vì cộng đồng lần thứ 2",
             "description": "Ngày 01/9/2017 UBND huyện Đăk Song ban hành Công văn số 3349/UBND-VP về việc hưởng ứng cuộc thi Sáng kiến vì cộng đồng lần thứ 2.",
@@ -103,12 +109,6 @@
             "title": "Học sinh được hưởng lợi khi tham gia bảo hiểm y tế",
             "description": "Thời gian qua, với việc triển khai chính sách Bảo hiểm y tế (BHYT) học sinh, sinh viên, nhiều học sinh trên địa bàn tỉnh Đắk Nông đã được chia sẻ gánh nặng viện phí khi không may bị tai nạn thương tích, mắc bệnh, nhất là mắc các bệnh mạn tính...",
             "banner": "img/BHXH-17a.jpg"
-        },
-        {
-            "slug": "dak-song-cuong-che-giai-toa-thu-hoi-hon-57-ha-dat-rung-bi-lan-chiem-trai-phep",
-            "title": "Đắk Song: Cưỡng chế, giải tỏa thu hồi hơn 57 ha đất rừng bị lấn chiếm trái phép",
-            "description": "Trong khoảng 1 tháng (từ cuối tháng 5 đến cuối tháng 6/2017), Đoàn thực hiện Chỉ thị 12 (Đoàn 12) của UBND huyện Đắk Song (Đắk Nông) đã tiến hành cưỡng chế, phá bỏ cây trồng trên đất phá rừng, lấn chiếm đất rừng trái pháp luật tại lâm phận Công ty TNHH MTV Đắk N’Tao và Công ty TNHH MTV Thuận Tân (đã giải thể), thuộc địa giới hành chính xã Nâm N’Jang, huyện Đắk Song để thu hồi diện tích đất rừng và trồng lại rừng trên diện tích đất bị lấn chiếm.",
-            "banner": "img/rung-7-17a.jpg"
         }
     ],
     "category": "",

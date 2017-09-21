@@ -5,7 +5,7 @@
     "category": "tiep-dan.quy-che-tiep-dan",
     "title": "Ban hành quy chế tiếp công dân của UBND xã Thuận Hà, huyện Đăk Song",
     "description": "",
-    "date": "21-09-2017 15:18:27",
+    "date": "04-08-2017",
     "banner": "",
     "tag": [],
     "permalink": "",

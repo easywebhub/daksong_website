@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "tin-dong-bao-m-nong-o-dak-n-drung-no-luc-vuon-len-lam-giau",
+            "title": "Đồng bào M’nông ở Đắk N'Drung nỗ lực vươn lên làm giàu",
+            "description": "Xã Ðắk N’Drung (Ðắk Song) có 20 thôn, bon, 2.856 hộ với khoảng 12.000 nhân khẩu; trong đó đồng bào dân tộc M’nông chiếm hơn 30%. Trước đây, do tập quán canh tác còn lạc hậu, trình độ dân trí thấp nên cuộc sống của người dân nơi đây gặp không ít khó khăn, thiếu thốn. Số hộ nghèo là đồng bào dân tộc M'nông chiếm hơn 40%.",
+            "banner": "img/Mnong171.jpg"
+        },
+        {
             "slug": "tin-mot-giot-mau-dao-gui-trao-hi-vong",
             "title": "MỘT GIỌT MÁU ĐÀO - GỬI TRAO HI VỌNG",
             "description": "Thực hiện kế hoạch số 78/KH-BCĐ ngày 18/5/2017 của Ban chỉ đạo vận động hiến máu tình nguyện huyện Đăk Song về việc Tổ chức hiến máu tình nguyện năm 2017",
@@ -91,12 +97,6 @@
             "title": "Thể lệ cuộc thi Sáng kiến vì cộng đồng lần thứ 2",
             "description": "Ngày 05/9/2017 Ban tuyên giáo (Huyện ủy Đăk Song) ban hành Công văn số 203-CV/BTGHU về việc hưởng ứng cuộc thi Sáng kiến vì cộng đồng lần thứ II; Chi tiết Thể lệ cuộc thi Sáng kiến vì cộng đồng lần thứ II như sau:",
             "banner": "img/SangKienVCĐ17.jpg"
-        },
-        {
-            "slug": "tin-gan-22-trieu-hoc-sinh-sinh-vien-ca-nuoc-buoc-vao-nam-hoc-moi",
-            "title": "Gần 22 triệu học sinh, sinh viên cả nước bước vào năm học mới",
-            "description": "Hôm nay (5/9), gần 22 triệu học sinh, sinh viên cả nước tưng bừng dự lễ khai giảng đón chào năm học 2017 - 2018 với nhiều đổi mới.",
-            "banner": "img/khaigiang17.jpg"
         },
         {
             "slug": "tin-5700-tre-em-duoc-kham-sang-loc-mo-benh-tim-bam-sinh-mien-phi",

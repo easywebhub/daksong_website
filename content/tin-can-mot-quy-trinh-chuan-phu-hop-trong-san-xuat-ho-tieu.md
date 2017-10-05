@@ -6,7 +6,7 @@
     "title": "Cần một quy trình chuẩn, phù hợp trong sản xuất hồ tiêu",
     "description": "Để phát triển cây hồ tiêu bền vững, nhiều chuyên gia cho rằng ngành Nông nghiệp tỉnh Đắk Nông cần định hướng cho từng vùng trồng hồ tiêu thực hiện theo một quy trình thích hợp để phát huy hiệu quả loại cây trồng này.",
     "date": "27-09-2017",
-    "banner": "",
+    "banner": "img/quy-trinh-tieu-171.jpg",
     "tag": [],
     "permalink": true,
     "draft": "",

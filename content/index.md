@@ -75,6 +75,18 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "tb153-vv-tuyen-dung-cong-chuc-cap-xa-huyen-dak-song-nam-2017",
+            "title": "Thông báo 153/TB-UBND Vv tuyển dụng công chức cấp xã huyện Đăk Song năm 2017",
+            "description": "Ngày 02/10/2017 Ủy ban nhân dân huyện Đăk Song ban hành Thông báo số 153/TB-UBND Vv tuyển dụng công chức cấp xã huyện Đăk Song năm 2017",
+            "banner": "img/TB-153-17.JPG"
+        },
+        {
+            "slug": "tb158-ve-viec-cong-bo-ket-qua-thi-tuyen-vien-chuc",
+            "title": "Thông báo số 158/TB-HĐTDVC Vv công bố kết quả thi tuyển viên chức",
+            "description": "Ngày 04/10/2017, Hội đồng tuyển dụng viên chức ra thông báo số 158/TB-HĐTDVC Về việc công bố kết quả thi tuyển viên chức",
+            "banner": "img/TB-158-171.JPG"
+        },
+        {
             "slug": "tin-dong-bao-m-nong-o-dak-n-drung-no-luc-vuon-len-lam-giau",
             "title": "Đồng bào M’nông ở Đắk N'Drung nỗ lực vươn lên làm giàu",
             "description": "Xã Ðắk N’Drung (Ðắk Song) có 20 thôn, bon, 2.856 hộ với khoảng 12.000 nhân khẩu; trong đó đồng bào dân tộc M’nông chiếm hơn 30%. Trước đây, do tập quán canh tác còn lạc hậu, trình độ dân trí thấp nên cuộc sống của người dân nơi đây gặp không ít khó khăn, thiếu thốn. Số hộ nghèo là đồng bào dân tộc M'nông chiếm hơn 40%.",
@@ -87,22 +99,10 @@
             "banner": "img/Hienmau173.jpg"
         },
         {
-            "slug": "huong-ung-cuoc-thi-sang-kien-vi-cong-dong-lan-2",
-            "title": "Huyện Đăk Song hưởng ứng cuộc thi Sáng kiến vì cộng đồng lần thứ 2",
-            "description": "Ngày 01/9/2017 UBND huyện Đăk Song ban hành Công văn số 3349/UBND-VP về việc hưởng ứng cuộc thi Sáng kiến vì cộng đồng lần thứ 2.",
-            "banner": "img/SKVCĐ17.jpg"
-        },
-        {
             "slug": "the-le-cuoc-thi-sang-kien-vi-cong-dong-lan-thu-2",
             "title": "Thể lệ cuộc thi Sáng kiến vì cộng đồng lần thứ 2",
             "description": "Ngày 05/9/2017 Ban tuyên giáo (Huyện ủy Đăk Song) ban hành Công văn số 203-CV/BTGHU về việc hưởng ứng cuộc thi Sáng kiến vì cộng đồng lần thứ II; Chi tiết Thể lệ cuộc thi Sáng kiến vì cộng đồng lần thứ II như sau:",
             "banner": "img/SangKienVCĐ17.jpg"
-        },
-        {
-            "slug": "tin-5700-tre-em-duoc-kham-sang-loc-mo-benh-tim-bam-sinh-mien-phi",
-            "title": "5700 trẻ em được khám sàng lọc mổ bệnh tim bẩm sinh miễn phí",
-            "description": "Trong 2 ngày 16 và 17/9, tại Bệnh viện Đa khoa huyện Đắk Mil (Đắk Mil), Quỹ Tấm lòng Việt (Đài Truyền hình Việt Nam) và Tập đoàn Viettel phối hợp với Bệnh viện Tim TP. Hồ Chí Minh, Bệnh viện Tim Tâm Đức, Bệnh viện Đại học Y dược TP.Hồ Chí Minh tổ chức khám sàng lọc bệnh tim bẩm sinh miễn phí cho trẻ em nghèo trên địa bàn tỉnh Đắk Nông.",
-            "banner": "img/Tim2017 (1).jpg"
         },
         {
             "slug": "tin-hoc-sinh-duoc-huong-loi-khi-tham-gia-bao-hiem-y-te",

@@ -2,7 +2,7 @@
 {
     "slug": "kh144-vv-tuyen-dung-cong-chuc-cap-xa-huyen-dak-song-nam-2017",
     "layout": "post.html",
-    "category": "ke-hoach-phat-trien",
+    "category": "thong-bao-giay-moi.thong-bao",
     "title": "Kế hoạch 144/KH-UBND Vv tuyển dụng công chức cấp xã huyện Đăk Song năm 2017",
     "description": "Ngày 25/9/2017 Ủy ban nhân dân huyện Đăk Song ban hành Kế hoạch số 144/KH-UBND Vv tuyển dụng công chức cấp xã huyện Đăk Song năm 2017",
     "date": "25-09-2017",

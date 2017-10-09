@@ -3,7 +3,7 @@
     "slug": "tin-quy-dinh-cua-bo-chinh-tri-ve-luan-chuyen-can-bo",
     "layout": "post.html",
     "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
-    "title": "Tin Quy định của Bộ Chính trị về luân chuyển cán bộ",
+    "title": "Quy định của Bộ Chính trị về luân chuyển cán bộ",
     "description": "Ngày 7/10, Tổng Bí thư Nguyễn Phú Trọng đã ký ban hành Quy định số 98-QĐ/TW của Bộ Chính trị về luân chuyển cán bộ.",
     "date": "09-10-2017 09:50:04",
     "banner": "",

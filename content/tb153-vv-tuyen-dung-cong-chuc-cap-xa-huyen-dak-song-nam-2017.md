@@ -6,7 +6,7 @@
     "title": "Thông báo 153/TB-UBND Vv tuyển dụng công chức cấp xã huyện Đăk Song năm 2017",
     "description": "Ngày 02/10/2017 Ủy ban nhân dân huyện Đăk Song ban hành Thông báo số 153/TB-UBND Vv tuyển dụng công chức cấp xã huyện Đăk Song năm 2017",
     "date": "02-10-2017",
-    "banner": "img/thongbao2.jpg",
+    "banner": "img/TB-153-17.JPG",
     "tag": [],
     "permalink": true,
     "draft": "",

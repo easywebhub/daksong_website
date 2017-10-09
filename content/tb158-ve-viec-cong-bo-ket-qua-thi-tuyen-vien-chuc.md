@@ -6,7 +6,7 @@
     "title": "Thông báo số 158/TB-HĐTDVC Vv công bố kết quả thi tuyển viên chức",
     "description": "Ngày 04/10/2017, Hội đồng tuyển dụng viên chức ra thông báo số 158/TB-HĐTDVC Về việc công bố kết quả thi tuyển viên chức",
     "date": "04-10-2017",
-    "banner": "img/thongbao2.jpg",
+    "banner": "img/TB-158-171.JPG",
     "tag": [],
     "permalink": true,
     "draft": "",

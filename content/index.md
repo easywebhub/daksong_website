@@ -81,6 +81,12 @@
             "banner": "img/TB-153-17.JPG"
         },
         {
+            "slug": "tin-khoi-sac-xa-bien-gioi-thuan-ha",
+            "title": "Khởi sắc xã biên giới Thuận Hà",
+            "description": "Vượt qua những khó khăn của những năm đầu mới thành lập, xã biên giới Thuận Hà (Đắk Song) hôm nay đã thật sự khởi sắc. Trong 10 năm qua, Đảng bộ, chính quyền và nhân dân các dân tộc xã Thuận Hà tranh thủ các nguồn vốn đầu tư của Nhà nước cũng như khai thác tiềm năng lợi thế sẵn có để thúc đẩy kinh tế-xã hội ngày càng phát triển.",
+            "banner": "img/thuan-ha-18-10-17a.jpg"
+        },
+        {
             "slug": "tb158-ve-viec-cong-bo-ket-qua-thi-tuyen-vien-chuc",
             "title": "Thông báo số 158/TB-HĐTDVC Vv công bố kết quả thi tuyển viên chức",
             "description": "Ngày 04/10/2017, Hội đồng tuyển dụng viên chức ra thông báo số 158/TB-HĐTDVC Về việc công bố kết quả thi tuyển viên chức",
@@ -103,12 +109,6 @@
             "title": "Thể lệ cuộc thi Sáng kiến vì cộng đồng lần thứ 2",
             "description": "Ngày 05/9/2017 Ban tuyên giáo (Huyện ủy Đăk Song) ban hành Công văn số 203-CV/BTGHU về việc hưởng ứng cuộc thi Sáng kiến vì cộng đồng lần thứ II; Chi tiết Thể lệ cuộc thi Sáng kiến vì cộng đồng lần thứ II như sau:",
             "banner": "img/SangKienVCĐ17.jpg"
-        },
-        {
-            "slug": "tin-hoc-sinh-duoc-huong-loi-khi-tham-gia-bao-hiem-y-te",
-            "title": "Học sinh được hưởng lợi khi tham gia bảo hiểm y tế",
-            "description": "Thời gian qua, với việc triển khai chính sách Bảo hiểm y tế (BHYT) học sinh, sinh viên, nhiều học sinh trên địa bàn tỉnh Đắk Nông đã được chia sẻ gánh nặng viện phí khi không may bị tai nạn thương tích, mắc bệnh, nhất là mắc các bệnh mạn tính...",
-            "banner": "img/BHXH-17a.jpg"
         }
     ],
     "category": "",

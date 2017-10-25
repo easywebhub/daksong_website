@@ -81,16 +81,16 @@
             "banner": "img/TB-153-17.JPG"
         },
         {
-            "slug": "tin-khoi-sac-xa-bien-gioi-thuan-ha",
-            "title": "Khởi sắc xã biên giới Thuận Hà",
-            "description": "Vượt qua những khó khăn của những năm đầu mới thành lập, xã biên giới Thuận Hà (Đắk Song) hôm nay đã thật sự khởi sắc. Trong 10 năm qua, Đảng bộ, chính quyền và nhân dân các dân tộc xã Thuận Hà tranh thủ các nguồn vốn đầu tư của Nhà nước cũng như khai thác tiềm năng lợi thế sẵn có để thúc đẩy kinh tế-xã hội ngày càng phát triển.",
-            "banner": "img/thuan-ha-18-10-17a.jpg"
+            "slug": "tin-xa-thuan-ha-ky-niem-10-nam-ngay-thanh-lap",
+            "title": "Xã Thuận Hà kỷ niệm 10 năm ngày thành lập",
+            "description": "Ngày 18/10, xã Thuận Hà (Đắk Song) đã trọng thể tổ chức Lễ kỷ niệm 10 năm ngày thành lập xã (18/10/2007-18/10/2017).",
+            "banner": "img/TH-10-171.jpg"
         },
         {
-            "slug": "tb158-ve-viec-cong-bo-ket-qua-thi-tuyen-vien-chuc",
-            "title": "Thông báo số 158/TB-HĐTDVC Vv công bố kết quả thi tuyển viên chức",
-            "description": "Ngày 04/10/2017, Hội đồng tuyển dụng viên chức ra thông báo số 158/TB-HĐTDVC Về việc công bố kết quả thi tuyển viên chức",
-            "banner": "img/TB-158-171.JPG"
+            "slug": "tin-giai-quan-vot-chao-mung-dai-hoi-thi-dua-quyet-thang-llvt-huyen-dak-song-giai-doan-20122017",
+            "title": "Giải quần vợt chào mừng Đại hội thi đua quyết thắng LLVT huyện Đăk Song giai đoạn 2012-2017",
+            "description": "Nhằm thực hiện kế hoạch Đại hội thi đua quyết thắng LLVT huyện giai đoạn 2012-2017; được sự cho phép của các cấp lãnh đạo, CLB quần vợt huyện Đăk Song đã tổ chức giải quần vợt chào mừng Đại hội thi đua quyết thắng Lực lượng Vũ trang huyện Đăk Song giai đoạn 2012-2017.",
+            "banner": "img/QV-10-17-Trao-giai.JPG"
         },
         {
             "slug": "tin-dong-bao-m-nong-o-dak-n-drung-no-luc-vuon-len-lam-giau",

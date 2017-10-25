@@ -1,0 +1,21 @@
+---json
+{
+    "slug": "xin-loi-doanh-nghiep-nguoi-dan-khi-tre-han-ho-so",
+    "layout": "post.html",
+    "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
+    "title": "Xin lỗi doanh nghiệp, người dân khi trễ hạn hồ sơ",
+    "description": "Theo chỉ đạo của UBND tỉnh Đắk Nông thì các sở, ngành phải thực hiện nghiêm túc việc xin lỗi bằng văn bản đối với tổ chức và công dân khi để xảy ra trễ hạn trong quá trình giải quyết thủ tục hành chính. Quy định đã rõ nhưng qua thực tế triển khai thực hiện, chuyện làm chậm hồ sơ nhưng việc xin lỗi lại rất “khiêm tốn”.",
+    "date": "25-10-2017 14:43:10",
+    "banner": "",
+    "tag": [],
+    "permalink": true,
+    "draft": "",
+    "url": ""
+}
+---
+<p style="color: rgb(51, 51, 51); font-family: Arial, sans-serif; text-align: justify;">Theo Trung tâm Hành chính công tỉnh thì trong thời gian qua, đối tượng phục vụ chủ yếu là doanh nghiệp khi chiếm tới gần 80%. Đến nay, dù tình tình đã được cải thiện đáng kể nhưng số lượng hồ sơ quá hạn trong 9 tháng đầu năm 2017 vẫn còn khá nhiều với 84 hồ sơ liên quan đến thủ tục quyết định chủ trương đầu tư, thủ tục về đất đai và thủ tục nghiệm thu hoàn thành đưa công trình vào sử dụng. Nguyên nhân chính ngoài một số yếu tố khách quan như dự án chưa có trong danh mục kêu gọi đầu tư, chưa có quy hoạch thì cách làm việc chưa hết trách nhiệm của một số đơn vị trong quy trình “một cửa liên thông” đã làm chậm thời gian giải quyết thủ tục hành chính so với quy định.</p><p style="color: rgb(51, 51, 51); font-family: Arial, sans-serif; text-align: justify;">Cũng theo đánh giá của Trung tâm Hành chính công tỉnh thì quy định xin lỗi tổ chức, công dân khi để hồ sơ trễ hạn vẫn chưa được các ngành thực hiện nghiêm túc. Đến nay, mới chỉ có Sở Tài nguyên-Môi trường có Công văn số 1649/CV-STNMT gửi Công ty TNHH MTV An Phương Đắk Nông xin lỗi về việc trễ hẹn 2 ngày làm việc trong giải quyết thủ tục hành chính về lĩnh vực đất đai. Nguyên nhân dẫn đến việc trễ hẹn là do thủ tục tách thửa với số lượng nhiều thửa đất nên mất nhiều thời gian để in giấy chứng nhận quyền sử dụng đất; một phần do Công ty TNHH MTV An Phương chậm bổ sung hồ sơ theo quy định dẫn đến việc trễ hẹn 2 ngày so với thời gian quy định của thủ tục hành chính trên.</p><p style="color: rgb(51, 51, 51); font-family: Arial, sans-serif; text-align: justify;">Trước những bất cập trong thực hiện theo cơ chế “một cửa liên thông”, Trung tâm Hành chính công cũng đề xuất UBND tỉnh quy định, xác định rõ trách nhiệm và xử lý trách nhiệm ở từng bộ phận qua các bước giải quyết thủ tục hành chính cho tổ chức, cá nhân.</p><p style="color: rgb(51, 51, 51); font-family: Arial, sans-serif; text-align: justify;">Tại thông báo kết luận chỉ đạo của UBND tỉnh về hội nghị đánh giá tình hình phát triển kinh tế, xã hội, quốc phòng an ninh 9 tháng đầu năm 2017, UBND tỉnh đã yêu cầu thủ trưởng các sở, ngành quán triệt, nhanh chóng chấn chỉnh tình trạng này. UBND tỉnh cũng chỉ đạo các sở không được liên hệ trực tiếp với doanh nghiệp để đề nghị bổ sung hồ sơ, nhận kết quả tại đơn vị thay vì đề nghị bổ sung hồ sơ, nhận kết quả giải quyết thủ tục hành chính thông qua Trung tâm Hành chính công tỉnh.</p><p style="color: rgb(51, 51, 51); font-family: Arial, sans-serif; text-align: justify;">Có thể nói, việc chú trọng cải cách thủ tục hành chính để hướng tới chính quyền phục vụ, sẵn sàng gửi văn bản xin lỗi đến tổ chức, cá nhân khi giải quyết hồ sơ trễ hạn không chỉ thể hiện sự cầu thị của chính quyền địa phương, mà còn góp phần củng cố niềm tin của người dân, doanh nghiệp đối với các cơ quan hành chính nhà nước và đội ngũ cán bộ, công chức, viên chức, hướng tới xây dựng “văn hóa xin lỗi”.</p><p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt;line-height:115%;
+font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-ascii-theme-font:major-latin;
+mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;mso-ansi-language:
+EN-US">Nguồn "Đắk Nông Điện tử"</span><span style="font-size:12.0pt;
+line-height:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-ascii-theme-font:
+major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin"><o:p></o:p></span></p>

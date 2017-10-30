@@ -75,10 +75,10 @@
     },
     "tinTucNoiBat": [
         {
-            "slug": "tb153-vv-tuyen-dung-cong-chuc-cap-xa-huyen-dak-song-nam-2017",
-            "title": "Thông báo 153/TB-UBND Vv tuyển dụng công chức cấp xã huyện Đăk Song năm 2017",
-            "description": "Ngày 02/10/2017 Ủy ban nhân dân huyện Đăk Song ban hành Thông báo số 153/TB-UBND Vv tuyển dụng công chức cấp xã huyện Đăk Song năm 2017",
-            "banner": "img/TB-153-17.JPG"
+            "slug": "tin-nong-dan-phan-khoi-buoc-vao-mua-vu-thu-hoach-ca-phe",
+            "title": "Nông dân phấn khởi bước vào mùa vụ thu hoạch cà phê",
+            "description": "Vụ cà phê 2017-2018 đang bắt đầu bước vào mùa thu hoạch, không khí chuẩn bị và thu hái diễn ra sôi động ở khắp nơi trong tỉnh Đắk Nông. Theo nhận định, năm nay, năng suất cà phê nhiều vùng tăng so với năm trước, giá bán cũng ở mức khá nên đa phần bà con đều rất phấn khởi.",
+            "banner": "img/ca-phe-10-171.jpg"
         },
         {
             "slug": "tin-xa-thuan-ha-ky-niem-10-nam-ngay-thanh-lap",

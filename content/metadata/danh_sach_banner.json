@@ -1,8 +1,10 @@
 {
-    "banner_lon": {
-        "hinh_anh": "./HinhAnhLienKet/baner_lon.png",
-        "duong_dan": "#"
-    },
+    "banner_lon": [
+        {
+            "hinh_anh": "./HinhAnhLienKet/baner_lon.png",
+            "duong_dan": "/khuc-trang-ca-duong-hanh-lang-chien-luoc-bacnam/"
+        }
+    ],
     "banner_nho": [
         {
             "hinh_anh": "/img/thudientu.jpg",

@@ -1,0 +1,16 @@
+---json
+{
+    "slug": "hoi-thao-lay-y-kien-gop-y-du-an-quy-hoach-chi-tiet-xay-dung-nong-thon-moi-xa-thuan-hanh",
+    "layout": "post.html",
+    "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
+    "title": "Hội thảo lấy ý kiến, góp ý dự án quy hoạch chi tiết xây dựng nông thôn mới xã Thuận Hạnh",
+    "description": "Ngày 05/10 UBND huyện Đăk Song tổ chức hội thảo lấy ý kiến, dự thảo quy hoạch chi tiết xây dựng nông thôn mới xã Thuận Hạnh. Về dự có đồng chí Nguyễn Hữu Khánh – phó bí thư, chủ tịch HĐND huyện; các đồng chí thành viên BCĐ xây dựng NTM và các banh ngành xã Thuận Hạnh. Đồng chí Nguyễn Xuân Thanh - Chủ tịch UBND huyện chủ trì hội thảo.",
+    "date": "06-10-2017",
+    "banner": "",
+    "tag": [],
+    "permalink": true,
+    "draft": "",
+    "url": ""
+}
+---
+<div>Tại hội thảo, các đại biểu đã được nghe đơn vị tư vấn trình bày quy hoạch chi tiết xây dựng nông thôn mới của xã Thuận hạnh giai đoạn 2007 – 2020 định hướng đến năm 2030. Sau khi nghe đơn vị tư vấn trình bày quy hoach chi tiết đã có 15 ý kiến đóng góp của các phòng ban ngành của huyện về dự thảo. </div><div><br></div><div>Các &nbsp;ý kiến &nbsp;tập trung vào một số tiêu chí quy hoạch không gian gian xã; quy hoạch khu trung tâm xã; quy hoạch cụm dân cư; quy hoạch đường giao thông, các trục đường chính liên thôn, liên xã… &nbsp;Theo tính toán của UBND huyện, để xã Thuận Hạnh về đích vào năm 2018 xã cần ít nhất 51 tỷ đồng. Trong đó, nhà nước đầu tư khoảng 34 tỷ đồng và vốn huy động sức dân đóng góp 17 tỷ đồng. Hiện này, xã đã hoàn thành được 12/19 tiêu chí về xây dựng nông thôn mới.&nbsp;</div><div><span class="Apple-tab-span" style="white-space:pre"><br></span></div><div>Kết luận buổi hội thảo đồng chí Nguyễn Xuân Thanh – chủ tịch UBND huyện mong muốn đơn vị tư vấn, thiết kế cần điều chỉnh lại một số hạng mục trong bản quy hoạch. Cần chi tiết hơn và cần viết bố cục ngắn gọn xúc tích hơn, cần xây dựng bản quy hoạch tầm nhìn đến năm 2030. Đồng &nbsp;chí cũng đề nghị các phòng ban chuyên môn của huyện, cử cán bộ có chuyên môn phối hợp với xã Thuận Hạnh, với đơn vị tư vấn hoàn thiện quy hoạch chi tiết để cùng xã Thuận Hạnh xây dựng nông thôn mới, phấn đấu về đích đúng tiến độ đã đề ra.</div><div><br></div><div>Vương Hợp</div><div><br></div>

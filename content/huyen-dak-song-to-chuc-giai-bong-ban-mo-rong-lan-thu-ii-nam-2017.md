@@ -1,0 +1,16 @@
+---json
+{
+    "slug": "huyen-dak-song-to-chuc-giai-bong-ban-mo-rong-lan-thu-ii-nam-2017",
+    "layout": "post.html",
+    "category": "tin-tuc-su-kien.tin-van-hoa",
+    "title": "Huyện Đăk Song tổ chức giải bóng bàn mở rộng lần thứ II năm 2017",
+    "description": "Ngày 26/10 huyện Đăk Song đã tổ chức giải bóng bàn mở rộng  lần thứ II năm 2017.",
+    "date": "27-10-2017",
+    "banner": "",
+    "tag": [],
+    "permalink": true,
+    "draft": "",
+    "url": ""
+}
+---
+<p class="MsoNormal" style="text-align:justify"><font face="Arial"><span style="font-size: 16px; line-height: 18.4px;">Tham gia giải có trên 50 vận động viên đến từ các câu lạc bộ bóng bàn tỉnh Đăk Nông, tỉnh Đăk Lăk và huyện Mondulkiri của Vương Quốc Campuchia. Các vận động viên tham gia giải ở các nội dung: Đồng đội nam; Đồng đội nữ; Đơn nam và Đơn nữ. Các đội được chia thành các bảng và thi đấu theo thể thức vòng tròn tính điểm để xác định các danh hiệu chung cuộc.</span></font></p><p class="MsoNormal" style="text-align:justify"><font face="Arial"><span style="font-size: 16px; line-height: 18.4px;"><br></span></font></p><p class="MsoNormal" style="text-align:justify"><font face="Arial"><span style="font-size: 16px; line-height: 18.4px;">Sau một ngày tranh tài sôi nổi, kết thúc giải, Ban tổ chức đã trao Giải nhất cho câu lạc bộ bóng bàn Giang Tiến thành phố Buôn Mê Thuột; Giải nhì cho CLB bóng bàn huyện Đak Song; Giải ba cho CLB bóng bàn Viện vệ sinh dịch Tễ Tây Nguyên - Đăk Lăk. Ngoài ra, Ban tổ chức còn trao giải nhất, nhì, ba ở các nội dung đơn nam, đơn nữ.</span></font></p><p class="MsoNormal" style="text-align:justify"><font face="Arial"><span style="font-size: 16px; line-height: 18.4px;"><br></span></font></p><p class="MsoNormal" style="text-align:justify"><font face="Arial"><span style="font-size: 16px; line-height: 18.4px;">Nhân dịp này huyện Đăk Song đã ra mắt CLB bóng bàn huyện với 22 thành viên.</span></font></p><p class="MsoNormal" style="text-align:justify"><font face="Arial"><span style="font-size: 16px; line-height: 18.4px;"><br></span></font></p><p class="MsoNormal" style="text-align:justify"><font face="Arial"><span style="font-size: 16px; line-height: 18.4px;">Lê Xuân- Vương Hợp</span></font></p>

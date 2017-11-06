@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "tb-183-thong-bao-vv-ket-qua-cham-phuc-khao-bai-thi-cua-thi-sinh-tham-du-ky-thi-tuyen-vien-chuc-huyen-dak-song",
+            "title": "Thông báo số:183/TB-HĐXT V/v Kết quả chấm phúc khảo bài thi của thí sinh tham dự kỳ thi tuyển viên chức huyện Đăk Song",
+            "description": "Ngày 01/11/2017, Hội đồng tuyển dụng viên chức ra thông báo số:183/TB-HĐXT V/v Kết quả chấm phúc khảo bài thi của thí sinh tham dự kỳ thi tuyển viên chức huyện Đăk Song",
+            "banner": "img/tb-183-171.JPG"
+        },
+        {
             "slug": "tin-nong-dan-phan-khoi-buoc-vao-mua-vu-thu-hoach-ca-phe",
             "title": "Nông dân phấn khởi bước vào mùa vụ thu hoạch cà phê",
             "description": "Vụ cà phê 2017-2018 đang bắt đầu bước vào mùa thu hoạch, không khí chuẩn bị và thu hái diễn ra sôi động ở khắp nơi trong tỉnh Đắk Nông. Theo nhận định, năm nay, năng suất cà phê nhiều vùng tăng so với năm trước, giá bán cũng ở mức khá nên đa phần bà con đều rất phấn khởi.",
@@ -97,12 +103,6 @@
             "title": "Đồng bào M’nông ở Đắk N'Drung nỗ lực vươn lên làm giàu",
             "description": "Xã Ðắk N’Drung (Ðắk Song) có 20 thôn, bon, 2.856 hộ với khoảng 12.000 nhân khẩu; trong đó đồng bào dân tộc M’nông chiếm hơn 30%. Trước đây, do tập quán canh tác còn lạc hậu, trình độ dân trí thấp nên cuộc sống của người dân nơi đây gặp không ít khó khăn, thiếu thốn. Số hộ nghèo là đồng bào dân tộc M'nông chiếm hơn 40%.",
             "banner": "img/Mnong171.jpg"
-        },
-        {
-            "slug": "tin-mot-giot-mau-dao-gui-trao-hi-vong",
-            "title": "MỘT GIỌT MÁU ĐÀO - GỬI TRAO HI VỌNG",
-            "description": "Thực hiện kế hoạch số 78/KH-BCĐ ngày 18/5/2017 của Ban chỉ đạo vận động hiến máu tình nguyện huyện Đăk Song về việc Tổ chức hiến máu tình nguyện năm 2017",
-            "banner": "img/Hienmau173.jpg"
         },
         {
             "slug": "the-le-cuoc-thi-sang-kien-vi-cong-dong-lan-thu-2",

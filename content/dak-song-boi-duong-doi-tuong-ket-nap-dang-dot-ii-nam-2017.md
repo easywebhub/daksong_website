@@ -1,0 +1,16 @@
+---json
+{
+    "slug": "dak-song-boi-duong-doi-tuong-ket-nap-dang-dot-ii-nam-2017",
+    "layout": "post.html",
+    "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
+    "title": "Đăk Song: Bồi dưỡng đối tượng kết nạp Đảng đợt II năm 2017",
+    "description": "Từ ngày 24 đến 27/10/2017, tại Trung tâm Bồi dưỡng chính trị huyện Đăk Song đã tổ chức lớp bồi dưỡng kết nạp Đảng đợt II năm 2017 cho gần 90 quần chúng ưu tú.",
+    "date": "28-10-2017",
+    "banner": "",
+    "tag": [],
+    "permalink": true,
+    "draft": "",
+    "url": ""
+}
+---
+<div>Trong 5 ngày học tập các học viên được truyền đạt các chuyên đề, gồm: Khái lược lịch sử &nbsp;Đảng cộng sản Việt Nam, cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội. Một số nội dung cơ bản của điều lệ Đảng cộng sản Việt Nam, học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh; &nbsp;phấn đấu rèn luyện để trở thành Đảng viên Đảng cộng sản Việt Nam.</div><div><br></div><div>Lớp bồi dưỡng nhằm giúp các học viên nắm được những kiến thức cơ bản của Chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh, những vấn đề cốt lõi của đường lối Cách mạng Việt Nam. Trên cơ sở đó, mỗi quần chúng ưu tú sẽ phấn đấu, rèn luyện để trở thành Đảng viên Đảng cộng sản Việt Nam.</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </div><div>Lê Xuân&nbsp;</div>

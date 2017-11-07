@@ -75,28 +75,28 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "tin-khai-mac-dai-hoi-the-duc-the-thao-huyen-dak-song-lan-thu-iv-nam-2017",
+            "title": "Khai mạc Đại hội Thể dục thể thao huyện Đăk Song lần thứ IV năm 2017",
+            "description": "Sáng nay (07/11), Đại hội thể dục thể thao (TDTT) huyện Đăk Song lần thứ IV năm 2017 đã chính thức khai mạc tại sân vận động huyện Đăk Song.",
+            "banner": "img/ĐH-TDTT-176.jpg"
+        },
+        {
             "slug": "tb-183-thong-bao-vv-ket-qua-cham-phuc-khao-bai-thi-cua-thi-sinh-tham-du-ky-thi-tuyen-vien-chuc-huyen-dak-song",
             "title": "Thông báo số:183/TB-HĐXT V/v Kết quả chấm phúc khảo bài thi của thí sinh tham dự kỳ thi tuyển viên chức huyện Đăk Song",
             "description": "Ngày 01/11/2017, Hội đồng tuyển dụng viên chức ra thông báo số:183/TB-HĐXT V/v Kết quả chấm phúc khảo bài thi của thí sinh tham dự kỳ thi tuyển viên chức huyện Đăk Song",
             "banner": "img/tb-183-171.JPG"
         },
         {
-            "slug": "tin-nong-dan-phan-khoi-buoc-vao-mua-vu-thu-hoach-ca-phe",
-            "title": "Nông dân phấn khởi bước vào mùa vụ thu hoạch cà phê",
-            "description": "Vụ cà phê 2017-2018 đang bắt đầu bước vào mùa thu hoạch, không khí chuẩn bị và thu hái diễn ra sôi động ở khắp nơi trong tỉnh Đắk Nông. Theo nhận định, năm nay, năng suất cà phê nhiều vùng tăng so với năm trước, giá bán cũng ở mức khá nên đa phần bà con đều rất phấn khởi.",
-            "banner": "img/ca-phe-10-171.jpg"
+            "slug": "chinh-phu-dong-y-phuong-an-bai-bo-hinh-thuc-quan-ly-dan-cu-dang-ky-thuong-tru-bang-so-ho-khau",
+            "title": "Chính phủ đồng ý phương án bãi bỏ hình thức quản lý dân cư đăng ký thường trú bằng sổ hộ khẩu",
+            "description": "Chính phủ đồng ý với phương án bãi bỏ hình thức quản lý dân cư đăng ký thường trú bằng sổ hộ khẩu và thay thế bằng hình thức quản lý thông qua mã số định danh cá nhân.",
+            "banner": "img/NQ-112-17.JPG"
         },
         {
             "slug": "tin-xa-thuan-ha-ky-niem-10-nam-ngay-thanh-lap",
             "title": "Xã Thuận Hà kỷ niệm 10 năm ngày thành lập",
             "description": "Ngày 18/10, xã Thuận Hà (Đắk Song) đã trọng thể tổ chức Lễ kỷ niệm 10 năm ngày thành lập xã (18/10/2007-18/10/2017).",
             "banner": "img/TH-10-171.jpg"
-        },
-        {
-            "slug": "tin-giai-quan-vot-chao-mung-dai-hoi-thi-dua-quyet-thang-llvt-huyen-dak-song-giai-doan-20122017",
-            "title": "Giải quần vợt chào mừng Đại hội thi đua quyết thắng LLVT huyện Đăk Song giai đoạn 2012-2017",
-            "description": "Nhằm thực hiện kế hoạch Đại hội thi đua quyết thắng LLVT huyện giai đoạn 2012-2017; được sự cho phép của các cấp lãnh đạo, CLB quần vợt huyện Đăk Song đã tổ chức giải quần vợt chào mừng Đại hội thi đua quyết thắng Lực lượng Vũ trang huyện Đăk Song giai đoạn 2012-2017.",
-            "banner": "img/QV-10-17-Trao-giai.JPG"
         },
         {
             "slug": "tin-dong-bao-m-nong-o-dak-n-drung-no-luc-vuon-len-lam-giau",

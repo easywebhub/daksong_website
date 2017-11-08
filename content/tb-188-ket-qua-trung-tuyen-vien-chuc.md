@@ -6,7 +6,7 @@
     "title": "Thông báo kết quả trúng tuyển viên chức tại các đơn vị sự nghiệp thuộc UBND huyện Đăk Song",
     "description": "Ngày 07/11/2017, UBND huyện ra thông báo số:188/TB-UBND thông báo kết quả trúng tuyển viên chức tại các đơn vị sự nghiệp thuộc UBND huyện Đăk Song",
     "date": "07-11-2017",
-    "banner": "",
+    "banner": "img/tb-188-171.JPG",
     "tag": [],
     "permalink": true,
     "draft": "",

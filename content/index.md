@@ -75,16 +75,16 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "tb-188-ket-qua-trung-tuyen-vien-chuc",
+            "title": "Thông báo kết quả trúng tuyển viên chức tại các đơn vị sự nghiệp thuộc UBND huyện Đăk Song",
+            "description": "Ngày 07/11/2017, UBND huyện ra thông báo số:188/TB-UBND thông báo kết quả trúng tuyển viên chức tại các đơn vị sự nghiệp thuộc UBND huyện Đăk Song",
+            "banner": "img/tb-188-171.JPG"
+        },
+        {
             "slug": "tin-khai-mac-dai-hoi-the-duc-the-thao-huyen-dak-song-lan-thu-iv-nam-2017",
             "title": "Khai mạc Đại hội Thể dục thể thao huyện Đăk Song lần thứ IV năm 2017",
             "description": "Sáng nay (07/11), Đại hội thể dục thể thao (TDTT) huyện Đăk Song lần thứ IV năm 2017 đã chính thức khai mạc tại sân vận động huyện Đăk Song.",
             "banner": "img/ĐH-TDTT-176.jpg"
-        },
-        {
-            "slug": "tb-183-thong-bao-vv-ket-qua-cham-phuc-khao-bai-thi-cua-thi-sinh-tham-du-ky-thi-tuyen-vien-chuc-huyen-dak-song",
-            "title": "Thông báo số:183/TB-HĐXT V/v Kết quả chấm phúc khảo bài thi của thí sinh tham dự kỳ thi tuyển viên chức huyện Đăk Song",
-            "description": "Ngày 01/11/2017, Hội đồng tuyển dụng viên chức ra thông báo số:183/TB-HĐXT V/v Kết quả chấm phúc khảo bài thi của thí sinh tham dự kỳ thi tuyển viên chức huyện Đăk Song",
-            "banner": "img/tb-183-171.JPG"
         },
         {
             "slug": "chinh-phu-dong-y-phuong-an-bai-bo-hinh-thuc-quan-ly-dan-cu-dang-ky-thuong-tru-bang-so-ho-khau",

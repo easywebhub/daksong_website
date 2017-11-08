@@ -2,9 +2,7 @@
     {
         "name": "banner_lon",
         "displayName": "banner lớn trang chủ",
-        "type": "Object",
-        "validations": [],
-        "required": false
+        "type": "Array"
     },
     {
         "name": "banner_nho",

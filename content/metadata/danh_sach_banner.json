@@ -1,8 +1,8 @@
 {
     "banner_lon": [
         {
-            "hinh_anh": "./HinhAnhLienKet/baner_lon.png",
-            "duong_dan": "/khuc-trang-ca-duong-hanh-lang-chien-luoc-bacnam/"
+            "hinh_anh": "/hinh-anh/banner/baner_lon.png",
+            "duong_dan": "#"
         }
     ],
     "banner_nho": [

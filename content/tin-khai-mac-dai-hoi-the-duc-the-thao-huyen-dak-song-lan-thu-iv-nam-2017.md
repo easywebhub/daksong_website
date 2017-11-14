@@ -59,28 +59,28 @@ mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme
 major-latin;mso-fareast-language:VI;mso-no-proof:yes"><!--[if gte vml 1]><v:shapetype
  id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
  path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
- <v:stroke joinstyle="miter"/>
+ <v:stroke joinstyle="miter"></v:stroke>
  <v:formulas>
-  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-  <v:f eqn="sum @0 1 0"/>
-  <v:f eqn="sum 0 0 @1"/>
-  <v:f eqn="prod @2 1 2"/>
-  <v:f eqn="prod @3 21600 pixelWidth"/>
-  <v:f eqn="prod @3 21600 pixelHeight"/>
-  <v:f eqn="sum @0 0 1"/>
-  <v:f eqn="prod @6 1 2"/>
-  <v:f eqn="prod @7 21600 pixelWidth"/>
-  <v:f eqn="sum @8 21600 0"/>
-  <v:f eqn="prod @7 21600 pixelHeight"/>
-  <v:f eqn="sum @10 21600 0"/>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"></v:f>
+  <v:f eqn="sum @0 1 0"></v:f>
+  <v:f eqn="sum 0 0 @1"></v:f>
+  <v:f eqn="prod @2 1 2"></v:f>
+  <v:f eqn="prod @3 21600 pixelWidth"></v:f>
+  <v:f eqn="prod @3 21600 pixelHeight"></v:f>
+  <v:f eqn="sum @0 0 1"></v:f>
+  <v:f eqn="prod @6 1 2"></v:f>
+  <v:f eqn="prod @7 21600 pixelWidth"></v:f>
+  <v:f eqn="sum @8 21600 0"></v:f>
+  <v:f eqn="prod @7 21600 pixelHeight"></v:f>
+  <v:f eqn="sum @10 21600 0"></v:f>
  </v:formulas>
- <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
- <o:lock v:ext="edit" aspectratio="t"/>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path>
+ <o:lock v:ext="edit" aspectratio="t"></o:lock>
 </v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1030" type="#_x0000_t75"
  alt="Description: C:\Users\phuc\Desktop\ĐH-TDTT-171.jpg" style='width:416.25pt;
  height:311.25pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image001.jpg"
-  o:title="ĐH-TDTT-171"/>
+  o:title="ĐH-TDTT-171"></v:imagedata>
 </v:shape><![endif]--><!--[if !vml]--><!--[endif]--></span><span lang="EN-US" style="font-size:12.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
 mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
 major-latin;mso-ansi-language:EN-US"><o:p></o:p></span></p>
@@ -129,7 +129,7 @@ major-latin;mso-fareast-language:VI;mso-no-proof:yes"><!--[if gte vml 1]><v:shap
  id="Picture_x0020_2" o:spid="_x0000_i1029" type="#_x0000_t75" alt="Description: C:\Users\phuc\Desktop\ĐH-TDTT-172.jpg"
  style='width:451.5pt;height:338.25pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image003.jpg"
-  o:title="ĐH-TDTT-172"/>
+  o:title="ĐH-TDTT-172"></v:imagedata>
 </v:shape><![endif]--><!--[if !vml]--><!--[endif]--></span><span style="font-size:12.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
 mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
 major-latin"><o:p></o:p></span></p>
@@ -167,7 +167,7 @@ major-latin;mso-fareast-language:VI;mso-no-proof:yes"><!--[if gte vml 1]><v:shap
  id="Picture_x0020_3" o:spid="_x0000_i1028" type="#_x0000_t75" alt="Description: C:\Users\phuc\Desktop\ĐH-TDTT-173.jpg"
  style='width:451.5pt;height:228pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image005.jpg"
-  o:title="ĐH-TDTT-173"/>
+  o:title="ĐH-TDTT-173"></v:imagedata>
 </v:shape><![endif]--><!--[if !vml]--><!--[endif]--></span><span style="font-size:12.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
 mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
 major-latin"><o:p></o:p></span></font></p>
@@ -214,7 +214,7 @@ major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin">,
 </span><span lang="EN-US" style="font-size:12.0pt;line-height:115%;font-family:
 &quot;Times New Roman&quot;,&quot;serif&quot;;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
 major-latin;mso-bidi-theme-font:major-latin;mso-ansi-language:EN-US">từ ngày 07
-đến ngày 10/11</span><span style="font-size:12.0pt;line-height:115%;font-family:
+đến ngày 09/11</span><span style="font-size:12.0pt;line-height:115%;font-family:
 &quot;Times New Roman&quot;,&quot;serif&quot;;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
 major-latin;mso-bidi-theme-font:major-latin">/2017 với nhiều nội dung thi đấu
 như: cờ tướng, bóng bàn, cầu lông, </span><span lang="EN-US" style="font-size:
@@ -231,7 +231,7 @@ major-latin;mso-fareast-language:VI;mso-no-proof:yes"><!--[if gte vml 1]><v:shap
  id="Picture_x0020_4" o:spid="_x0000_i1027" type="#_x0000_t75" alt="Description: C:\Users\phuc\Desktop\ĐH-TDTT-174.jpg"
  style='width:5in;height:270pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image007.jpg"
-  o:title="ĐH-TDTT-174"/>
+  o:title="ĐH-TDTT-174"></v:imagedata>
 </v:shape><![endif]--><!--[if !vml]--><!--[endif]--></span><span style="font-size:12.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
 mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
 major-latin"><o:p></o:p></span></p>
@@ -253,7 +253,7 @@ major-latin;mso-fareast-language:VI;mso-no-proof:yes"><!--[if gte vml 1]><v:shap
  id="Picture_x0020_5" o:spid="_x0000_i1026" type="#_x0000_t75" alt="Description: C:\Users\phuc\Desktop\ĐH-TDTT-175.jpg"
  style='width:357.75pt;height:268.5pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image009.jpg"
-  o:title="ĐH-TDTT-175"/>
+  o:title="ĐH-TDTT-175"></v:imagedata>
 </v:shape><![endif]--><!--[if !vml]--><!--[endif]--></span><span style="font-size:12.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
 mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
 major-latin"><o:p></o:p></span></font></p>
@@ -276,7 +276,7 @@ major-latin;mso-fareast-language:VI;mso-no-proof:yes"><!--[if gte vml 1]><v:shap
  id="Picture_x0020_6" o:spid="_x0000_i1025" type="#_x0000_t75" alt="Description: C:\Users\phuc\Desktop\ĐH-TDTT-176.jpg"
  style='width:413.25pt;height:309.75pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="file:///C:\Users\phuc\AppData\Local\Temp\msohtmlclip1\01\clip_image011.jpg"
-  o:title="ĐH-TDTT-176"/>
+  o:title="ĐH-TDTT-176"></v:imagedata>
 </v:shape><![endif]--><!--[if !vml]--><!--[endif]--></span><span style="font-size:12.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
 mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
 major-latin"><o:p></o:p></span></font></p>

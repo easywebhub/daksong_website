@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "title": "Khai giảng Lớp bồi dưỡng công tác Đảng cho Bí thư chi bộ năm 2017",
     "description": "Thực hiện Kế hoạch số 19-KH/TTBDCT ngày 01/11/2017 của Trung tâm Bồi dưỡng chính trị huyện Đăk Song, ngày 09/11, tại Hội trường Trung tâm Bồi dưỡng chính trị huyện Đăk Song đã tổ chức Lớp bồi dưỡng công tác Đảng cho Bí thư chi bộ năm 2017.",
-    "date": "14-11-2017 16:06:49",
+    "date": "02-11-2017",
     "banner": "img/TH-bi-thu-171.jpg",
     "tag": [],
     "permalink": true,

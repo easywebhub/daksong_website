@@ -75,10 +75,10 @@
     },
     "tinTucNoiBat": [
         {
-            "slug": "tb-188-ket-qua-trung-tuyen-vien-chuc",
-            "title": "Thông báo kết quả trúng tuyển viên chức tại các đơn vị sự nghiệp thuộc UBND huyện Đăk Song",
-            "description": "Ngày 07/11/2017, UBND huyện ra thông báo số:188/TB-UBND thông báo kết quả trúng tuyển viên chức tại các đơn vị sự nghiệp thuộc UBND huyện Đăk Song",
-            "banner": "img/tb-188-171.JPG"
+            "slug": "tin-quy-hoach-vung-nong-nghiep-ung-dung-cong-nghe-cao",
+            "title": "Quy hoạch Vùng nông nghiệp ứng dụng công nghệ cao",
+            "description": "Mới đây, UBND tỉnh Đắk Nông đã tổ chức Hội thảo góp ý Dự thảo Quy hoạch Vùng nông nghiệp ứng dụng công nghệ cao đến năm 2030, tầm nhìn đến năm 2035. Hội thảo đã ghi nhận nhiều ý kiến của các đại biểu, trong đó vấn đề trọng tâm được đề cập đó là bảo đảm tính khả thi của Quy hoạch trên cơ sở phát huy tốt các lợi thế cạnh tranh về sản phẩm nông nghiệp của tỉnh.",
+            "banner": "img/cnc-11-171.jpg"
         },
         {
             "slug": "tin-khai-mac-dai-hoi-the-duc-the-thao-huyen-dak-song-lan-thu-iv-nam-2017",
@@ -87,10 +87,10 @@
             "banner": "img/ĐH-TDTT-176.jpg"
         },
         {
-            "slug": "chinh-phu-dong-y-phuong-an-bai-bo-hinh-thuc-quan-ly-dan-cu-dang-ky-thuong-tru-bang-so-ho-khau",
-            "title": "Chính phủ đồng ý phương án bãi bỏ hình thức quản lý dân cư đăng ký thường trú bằng sổ hộ khẩu",
-            "description": "Chính phủ đồng ý với phương án bãi bỏ hình thức quản lý dân cư đăng ký thường trú bằng sổ hộ khẩu và thay thế bằng hình thức quản lý thông qua mã số định danh cá nhân.",
-            "banner": "img/NQ-112-17.JPG"
+            "slug": "tin-thi-cong-duong-vanh-dai-phia-tay-nam-huyen-dak-song-phat-sinh-nhieu-van-de-anh-huong-den-dan-sinh",
+            "title": "Thi công đường vành đai phía Tây Nam huyện Đắk Song: Phát sinh nhiều vấn đề ảnh hưởng đến dân sinh",
+            "description": "Đường vành đai phía Tây Nam huyện Đắk Song được UBND tỉnh phê duyệt theo Quyết định số 1720 ngày 30/10/2013, chủ dự án là UBND huyện Đắk Song. Đến năm 2015, dự án chính thức khởi công, nhưng trong quá trình thi công đã phát sinh nhiều vấn đề ảnh hưởng đến dân sinh, buộc huyện phải nỗ lực giải quyết.",
+            "banner": "img/dak-song-11-172.jpg"
         },
         {
             "slug": "tin-xa-thuan-ha-ky-niem-10-nam-ngay-thanh-lap",

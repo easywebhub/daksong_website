@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "title": "Xây dựng sản phẩm quốc gia Cà phê Việt Nam chất lượng cao",
     "description": "Bộ Nông nghiệp-PTNT vừa phê duyệt Đề án khung phát triển sản phẩm quốc gia “Cà phê Việt Nam chất lượng cao” với tổng kinh phí dự kiến khoảng 170 tỷ đồng và được thực hiện trong giai đoạn 2018-2023, tầm nhìn đến năm 2030. Đây là chính sách rất quan trọng nhằm nâng cao giá trị xuất khẩu, thương hiệu, vì sau gần 20 năm, dù Việt Nam đứng thứ 2 về xuất khẩu cà phê trên thế giới nhưng thương hiệu cà phê Việt còn rất nhỏ.",
-    "date": "30-11-2017 08:50:39",
+    "date": "24-11-2017",
     "banner": "img/cf-11-171.jpg",
     "tag": [],
     "permalink": true,

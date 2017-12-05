@@ -2,7 +2,7 @@
 {
     "slug": "tb-duong-day-nong-tiep-nhan-va-xu-ly-thong-tin-phan-anh-kien-nghi-ve-o-nhiem-moi-truong-",
     "layout": "post.html",
-    "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
+    "category": "thong-bao-giay-moi.thong-bao",
     "title": "Thông báo đường dây nóng tiếp nhận và xử lý thông tin phản ánh, kiến nghị về ô nhiễm môi trường ",
     "description": "Ngày 05/12/2017 UBND tỉnh ban hành thông báo số 134/TB-UBND về việc thiết lập đường dây nóng tiếp nhận và xử lý thông tin phản ánh, kiến nghị của tổ chức, cá nhân về ô nhiễm môi trường trên địa bàn tỉnh",
     "date": "05-12-2017 13:36:37",

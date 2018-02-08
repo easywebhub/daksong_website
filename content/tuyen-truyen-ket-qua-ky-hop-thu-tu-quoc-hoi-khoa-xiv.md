@@ -9,7 +9,7 @@
     "date": "08-02-2018 10:23:33",
     "so": "",
     "permalink": "",
-    "trich_yeu": "",
+    "trich_yeu": "Tuyên truyền kết quả kỳ họp thứ tư Quốc hội khóa XIV",
     "co_quan_ban_hanh": "Ban tuyên Giáo (Huyện ủy Đăk Song)",
     "linh_vuc": "Chính trị",
     "loai_van_ban": "",

@@ -1,0 +1,26 @@
+---json
+{
+    "slug": "tuyen-truyen-ket-qua-ky-hop-thu-tu-quoc-hoi-khoa-xiv",
+    "category": "van-ban-phap-luat.van-ban-cua-huyen",
+    "tag": [],
+    "layout": "van-ban.html",
+    "title": "Tuyên truyền kết quả kỳ họp thứ tư Quốc hội khóa XIV",
+    "description": "",
+    "date": "08-02-2018 10:23:33",
+    "so": "",
+    "permalink": "",
+    "trich_yeu": "",
+    "co_quan_ban_hanh": "Ban tuyên Giáo (Huyện ủy Đăk Song)",
+    "linh_vuc": "Chính trị",
+    "loai_van_ban": "",
+    "nguoi_ky": "",
+    "ngay_co_hieu_luc": "",
+    "tai_lieu_dinh_kem": "img/424-CV- BTGHU.PDF",
+    "banner": "",
+    "draft": "",
+    "url": "",
+    "hinh_thuc_van_ban": "Công văn",
+    "ngay_ban_hanh": "28-12-2017 00:00:00",
+    "so_hieu": "Số 242-CV/BTGHU"
+}
+---

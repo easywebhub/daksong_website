@@ -1586,9 +1586,998 @@ nhân dân huyện</span></b></p><p class="MsoNormal" align="center" style="text
 </tbody></table>
 
 <p class="MsoNormal" align="right" style="text-align: justify;"><span style="font-size:
-13.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><br></span></p><table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0">
+13.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><br></span></p><p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><b><span lang="EN-US" style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Danh sách Đại biểu Hội đồng nhân dân huyện<o:p></o:p></span></b></p><p class="MsoNormal" align="center" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><b><span lang="EN-US" style="font-size: 13pt; font-family: &quot;Times New Roman&quot;, serif;"><o:p>&nbsp;</o:p></span></b></p><p class="MsoNormal" align="right" style="text-align: justify;">
+
+
+
+</p><table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0">
  <tbody><tr>
-  <td width="593" colspan="4" valign="top" style="width:444.85pt;border:solid windowtext 1.0pt;
+  <td width="54" valign="top" style="width:40.85pt;border:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">STT<o:p></o:p></span></p>
+  </td>
+  <td width="151" valign="top" style="width:113.4pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Họ
+  và tên<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" valign="top" style="width:163.0pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Chức
+  vụ<o:p></o:p></span></p>
+  </td>
+  <td width="170" valign="top" style="width:127.6pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đơn
+  vị công tác<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">1<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Nguyeãn Höõu
+  Khaùnh<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Huyện
+  ủy Đăk Song<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">2<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Nguyeãn Xuaân
+  Thanh<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">UBND
+  huyện Đăk Song<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">3<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Nguyeãn Vaên
+  Phoø<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">UBND
+  huyện Đăk Song<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">4<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Leâ Xuaân
+  Töông<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">HĐND
+  huyện Đăk Song<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">5<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Thò Traõi<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">HĐND
+  huyện Đăk Song<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">6<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Phaïm Quoác
+  Laäp<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Công
+  an huyện<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">7<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Huyønh Taán
+  Tuaán<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Chánh
+  VP HĐND&amp;UBND huyện<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">8<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Traàn Thanh
+  Nghieâm<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Trưởng
+  phòng TC-KH<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">9<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Nguyeãn Nam
+  Thaéng<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Bí
+  Thư- CT HĐND TT Đức An<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">10<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">H'Luyeân Nieâ<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">CT
+  hội nông dân huyện<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">11<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Y Nhoan<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">PCT
+  HĐND xã Đăk Mol<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">12<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Toáng Tröôøng
+  Kyù<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Bệnh
+  viện đa khoa<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">13<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Nguyeãn Ñöùc
+  Phöông<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Bí
+  thư đoàn huyện<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:14;height:47.25pt">
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:47.25pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">14<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:47.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Hoaøng Thò
+  Taùm<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:47.25pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:47.25pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Bí
+  Thư- CT HĐND xã Đăk Hòa<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">15<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Nguyeãn Thò
+  Höông<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Trưởng
+  phòng GD&amp;ĐT<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">16<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Nieâ Sô
+  Nghieâm<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Bí
+  thư xã Nam Bình<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">17<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Phaïm Vaên
+  Phieám<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Chánh
+  toàn án<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">18<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Nguyeãn Ngoïc
+  Sôn<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">CT
+  UBMT TQ huyện<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">19<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Voõ Quoác
+  Tuaán<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Trưởng
+  ban tổ chức<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">20<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Vuõ Thò Kim
+  Soa<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Phó
+  CT UBND xã Thuận Hà<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">21<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Nguyeãn Thò
+  Thoa<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Phó
+  trưởng ban KT-XH<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">22<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Ñoã Thò Minh
+  Haûi<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Phó
+  chánh VP huyện ủy<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">23<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Hoaøng Vaên
+  Hieåu<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Chính
+  trị viên đồn biên phòng<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">24<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Leâ Ngoïc
+  Phuùc<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Chánh
+  VP huyện ủy<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">25<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Ñoaøn Thò
+  Toát<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">CT
+  UBND xã Thuận Hạnh<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">26<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Leâ Vaên
+  Duõng<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Phó
+  ban pháp chế<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">27<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Ñieåu Khaùnh
+  Rin<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Chủ
+  tịch UBND xã Đăk N’Drung<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">28<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Traàn Baûo
+  Laâm<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Chánh
+  thanh tra huyện<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">29<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Nguyeãn Höõu
+  Taàm<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Chủ
+  tịch UBND xã Nâm N’Jang<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">30<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">H' Buoát<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">CT
+  HLHPN xã Trường Xuân<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">31<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Traàn Vaên
+  Tín<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">CT
+  liên đoàn LĐ huyện<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">32<o:p></o:p></span></p>
+  </td>
+  <td width="151" style="width:113.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:13.0pt;line-height:115%;font-family:VNI-Times">Leâ Hoaøng
+  Vinh<o:p></o:p></span></p>
+  </td>
+  <td width="217" colspan="2" style="width:163.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Đại
+  biểu HĐND<o:p></o:p></span></p>
+  </td>
+  <td width="170" style="width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
+  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">Trưởng
+  phòng Nông nghiệp và PTNT<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="593" colspan="5" valign="top" style="width:444.85pt;border:solid windowtext 1.0pt;
   border-top:none;padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><span style="font-family: &quot;Times New Roman&quot;, serif; font-size: 13pt; background-color: transparent;">&nbsp;</span><br></p>
@@ -1606,8 +2595,8 @@ nhân dân huyện</span></b></p><p class="MsoNormal" align="center" style="text
   text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
   font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">STT<o:p></o:p></span></p>
   </td>
-  <td width="182" valign="top" style="width:136.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width="182" colspan="2" valign="top" style="width:136.55pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
@@ -1632,7 +2621,7 @@ nhân dân huyện</span></b></p><p class="MsoNormal" align="center" style="text
   </td>
  </tr>
  <tr>
-  <td width="593" colspan="4" valign="top" style="width:444.85pt;border:solid windowtext 1.0pt;
+  <td width="593" colspan="5" valign="top" style="width:444.85pt;border:solid windowtext 1.0pt;
   border-top:none;padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><b><span lang="EN-US" style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
@@ -1646,8 +2635,8 @@ nhân dân huyện</span></b></p><p class="MsoNormal" align="center" style="text
   text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
   font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">1<o:p></o:p></span></p>
   </td>
-  <td width="182" valign="top" style="width:136.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width="182" colspan="2" valign="top" style="width:136.55pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
@@ -1678,8 +2667,8 @@ nhân dân huyện</span></b></p><p class="MsoNormal" align="center" style="text
   text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
   font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">2<o:p></o:p></span></p>
   </td>
-  <td width="182" valign="top" style="width:136.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width="182" colspan="2" valign="top" style="width:136.55pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
@@ -1704,7 +2693,7 @@ nhân dân huyện</span></b></p><p class="MsoNormal" align="center" style="text
   </td>
  </tr>
  <tr>
-  <td width="593" colspan="4" valign="top" style="width:444.85pt;border:solid windowtext 1.0pt;
+  <td width="593" colspan="5" valign="top" style="width:444.85pt;border:solid windowtext 1.0pt;
   border-top:none;padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><b><span lang="EN-US" style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
@@ -1718,8 +2707,8 @@ nhân dân huyện</span></b></p><p class="MsoNormal" align="center" style="text
   text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
   font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">1<o:p></o:p></span></p>
   </td>
-  <td width="182" valign="top" style="width:136.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width="182" colspan="2" valign="top" style="width:136.55pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
@@ -1750,8 +2739,8 @@ nhân dân huyện</span></b></p><p class="MsoNormal" align="center" style="text
   text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;
   font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;">2<o:p></o:p></span></p>
   </td>
-  <td width="182" valign="top" style="width:136.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width="182" colspan="2" valign="top" style="width:136.55pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt">
   <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal"><span lang="EN-US" style="font-size:13.0pt;

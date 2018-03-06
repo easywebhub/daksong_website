@@ -6,7 +6,7 @@
     "title": "Huyện Đăk Song tổ chức lễ giao nhận quân năm 2018",
     "description": "Huyện Đăk Song tổ chức lễ giao nhận quân năm 2018",
     "date": "06-03-2018 15:15:15",
-    "banner": "",
+    "banner": "img/anh 01.JPG",
     "tag": [],
     "permalink": "",
     "draft": "",

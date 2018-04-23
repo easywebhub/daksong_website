@@ -109,6 +109,12 @@
             "title": "Thể lệ cuộc thi Sáng kiến vì cộng đồng lần thứ 2",
             "description": "Ngày 05/9/2017 Ban tuyên giáo (Huyện ủy Đăk Song) ban hành Công văn số 203-CV/BTGHU về việc hưởng ứng cuộc thi Sáng kiến vì cộng đồng lần thứ II; Chi tiết Thể lệ cuộc thi Sáng kiến vì cộng đồng lần thứ II như sau:",
             "banner": "img/SangKienVCĐ17.jpg"
+        },
+        {
+            "slug": "chuong-trinh-kham-benh-nhan-dao-cap-thuoc-mien-phi",
+            "title": "Chương trình khám bệnh nhân đạo, cấp thuốc miễn phí",
+            "description": "Đoàn tình nguyện  Thiện Nguyện Sài Gòn  Lan Tỏa yêu thương đến khám chữa bệnh nhân đạo, cấp thuốc miễn phí và tặng quà cho 500 bà con nghèo tại xã Thuận Hà, huyện Đăk Song, tỉnh Đăk Nông vào ngày 21/04/2018",
+            "banner": "img/Capture 01.JPG"
         }
     ],
     "category": "",

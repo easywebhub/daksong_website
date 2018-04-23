@@ -10,7 +10,7 @@
     "tag": [
         "tin-tuc-noi-bat"
     ],
-    "permalink": "",
+    "permalink": true,
     "draft": "",
     "url": ""
 }

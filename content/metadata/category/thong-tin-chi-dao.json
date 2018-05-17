@@ -1,7 +1,9 @@
 {
     "sortBy": "date",
     "reverse": true,
-    "metadata": {"title":"Thông tin chỉ đạo"},
+    "metadata": {
+        "title": "Th.tin chỉ đạo"
+    },
     "displayName": "Thông tin chỉ đạo",
     "perPage": 10,
     "noPageOne": true,

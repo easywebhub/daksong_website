@@ -1,7 +1,9 @@
 {
     "sortBy": "date",
     "reverse": true,
-    "metadata": { "title":"Định hướng phát triển "},
+    "metadata": {
+        "title": "Đ.hướng ph.triển"
+    },
     "displayName": "Định hướng phát triển",
     "perPage": 10,
     "noPageOne": true,

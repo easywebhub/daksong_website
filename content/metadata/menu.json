@@ -191,6 +191,10 @@
                 {
                     "title": "Công khai tài sản",
                     "url": "cong-khai/cong-khai-tai-san"
+                },
+                {
+                    "title": "Công khai thủ tục hành chính",
+                    "url": "cong-khai/cong-khai-thu-tuc-hanh-chinh"
                 }
             ]
         }

@@ -176,6 +176,23 @@
                     "url": "van-ban-phap-luat/van-ban-cua-huyen"
                 }
             ]
+        },
+        {
+            "title": "Công khai",
+            "url": "cong-khai",
+            "type": {
+                "isMulti": true
+            },
+            "subMenu": [
+                {
+                    "title": "Công khai tài chính",
+                    "url": "cong-khai/cong-khai-tai-chinh"
+                },
+                {
+                    "title": "Công khai tài sản",
+                    "url": "cong-khai/cong-khai-tai-san"
+                }
+            ]
         }
     ],
     "menuList": [

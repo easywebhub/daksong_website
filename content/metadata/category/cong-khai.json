@@ -1,0 +1,11 @@
+{
+    "sortBy": "date",
+    "reverse": true,
+    "metadata": {},
+    "displayName": "Công khai",
+    "perPage": 10,
+    "noPageOne": true,
+    "layout": "public.category.html",
+    "first": ":categoryPath/index.html",
+    "path": ":categoryPath/page/:num/index.html"
+}

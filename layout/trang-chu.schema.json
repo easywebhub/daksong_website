@@ -1,0 +1,228 @@
+{
+    "_$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+        "slug": {
+            "type": "string",
+            "propertyOrder": 100,
+            "readOnly": true,
+            "options": {
+                "hidden": false
+            }
+        },
+        "layout": {
+            "type": "string",
+            "propertyOrder": 100,
+            "options": {
+                "hidden": true
+            }
+        },
+        "title": {
+            "type": "string",
+            "propertyOrder": 100,
+            "options": {
+                "hidden": false
+            }
+        },
+        "description": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "block-1": {
+            "type": "object",
+            "properties": {
+                "ten": {
+                    "type": "string"
+                },
+                "danh-sach": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "ten": {
+                                "type": "string"
+                            },
+                            "name": {
+                                "type": "string"
+                            },
+                            "collections_name": {
+                                "type": "string"
+                            },
+                            "url": {
+                                "type": "string"
+                            }
+                        }
+                    },
+                    "format": "table"
+                }
+            },
+            "propertyOrder": 1000
+        },
+        "block-2": {
+            "type": "object",
+            "properties": {},
+            "propertyOrder": 1000
+        },
+        "tabVanHoa": {
+            "type": "object",
+            "properties": {
+                "ten": {
+                    "type": "string"
+                },
+                "danhSach": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "ten": {
+                                "type": "string"
+                            },
+                            "collections_name": {
+                                "type": "string"
+                            },
+                            "name": {
+                                "type": "string"
+                            },
+                            "url": {
+                                "type": "string"
+                            }
+                        }
+                    },
+                    "format": "table"
+                }
+            },
+            "propertyOrder": 1000
+        },
+        "tab_thong_tin_dieu_hanh": {
+            "type": "object",
+            "properties": {
+                "ten": {
+                    "type": "string"
+                },
+                "danh_sach": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "ten": {
+                                "type": "string"
+                            },
+                            "collections_name": {
+                                "type": "string"
+                            },
+                            "name": {
+                                "type": "string"
+                            },
+                            "url": {
+                                "type": "string"
+                            }
+                        }
+                    },
+                    "format": "table"
+                }
+            },
+            "propertyOrder": 1000
+        },
+        "tab_an_ninh": {
+            "type": "object",
+            "properties": {
+                "ten": {
+                    "type": "string"
+                },
+                "danh_sach": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "ten": {
+                                "type": "string"
+                            },
+                            "collections_name": {
+                                "type": "string"
+                            },
+                            "name": {
+                                "type": "string"
+                            },
+                            "url": {
+                                "type": "string"
+                            }
+                        }
+                    },
+                    "format": "table"
+                }
+            },
+            "propertyOrder": 1000
+        },
+        "tinTucNoiBat": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "slug": {
+                        "type": "string"
+                    },
+                    "title": {
+                        "type": "string"
+                    },
+                    "description": {
+                        "type": "string"
+                    },
+                    "banner": {
+                        "type": "string"
+                    }
+                }
+            },
+            "format": "table",
+            "propertyOrder": 1000
+        },
+        "category": {
+            "type": "string",
+            "propertyOrder": 100,
+            "options": {
+                "hidden": false
+            }
+        },
+        "tag": {
+            "type": "array",
+            "format": "checkbox",
+            "propertyOrder": 100,
+            "uniqueItems": true,
+            "items": {
+                "type": "string",
+                "enum": []
+            }
+        },
+        "date": {
+            "type": "string",
+            "format": "datetime",
+            "propertyOrder": 100,
+            "options": {
+                "hidden": false
+            }
+        },
+        "__content__": {
+            "type": "string",
+            "format": "text",
+            "propertyOrder": 100,
+            "options": {
+                "hidden": true
+            }
+        },
+        "publishDate": {
+            "type": "string",
+            "format": "datetime",
+            "propertyOrder": 100,
+            "options": {
+                "hidden": true
+            }
+        },
+        "draft": {
+            "type": "boolean",
+            "format": "checkbox",
+            "propertyOrder": 100,
+            "options": {
+                "hidden": true
+            }
+        }
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "_$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+        "slug": {
+            "type": "string",
+            "propertyOrder": 100,
+            "readOnly": true,
+            "options": {
+                "hidden": false
+            }
+        },
+        "category": {
+            "type": "string",
+            "propertyOrder": 100,
+            "options": {
+                "hidden": false
+            }
+        },
+        "tag": {
+            "type": "array",
+            "format": "checkbox",
+            "propertyOrder": 100,
+            "uniqueItems": true,
+            "items": {
+                "type": "string",
+                "enum": []
+            }
+        },
+        "layout": {
+            "type": "string",
+            "propertyOrder": 100,
+            "options": {
+                "hidden": true
+            }
+        },
+        "title": {
+            "type": "string",
+            "propertyOrder": 100,
+            "options": {
+                "hidden": false
+            }
+        },
+        "description": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "date": {
+            "type": "string",
+            "format": "datetime",
+            "propertyOrder": 100,
+            "options": {
+                "hidden": false
+            }
+        },
+        "so": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "permalink": {
+            "type": "boolean",
+            "propertyOrder": 1000
+        },
+        "trich_yeu": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "co_quan_ban_hanh": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "linh_vuc": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "loai_van_ban": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "nguoi_ky": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "ngay_co_hieu_luc": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "tai_lieu_dinh_kem": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "banner": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "draft": {
+            "type": "boolean",
+            "format": "checkbox",
+            "propertyOrder": 100,
+            "options": {
+                "hidden": true
+            }
+        },
+        "url": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "hinh_thuc_van_ban": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "ngay_ban_hanh": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "so_hieu": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "__content__": {
+            "type": "string",
+            "format": "text",
+            "propertyOrder": 100,
+            "options": {
+                "hidden": true
+            }
+        },
+        "publishDate": {
+            "type": "string",
+            "format": "datetime",
+            "propertyOrder": 100,
+            "options": {
+                "hidden": true
+            }
+        }
+    }
+}

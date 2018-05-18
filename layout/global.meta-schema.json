@@ -1,0 +1,29 @@
+{
+    "_$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+        "title": {
+            "type": "string"
+        },
+        "description": {
+            "type": "string"
+        },
+        "url": {
+            "type": "string"
+        },
+        "github-url": {
+            "type": "string"
+        },
+        "meta-tag": {
+            "type": "object",
+            "properties": {
+                "keywords": {
+                    "type": "string"
+                },
+                "author": {
+                    "type": "string"
+                }
+            }
+        }
+    }
+}

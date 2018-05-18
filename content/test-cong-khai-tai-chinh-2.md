@@ -1,7 +1,7 @@
 ---json
 {
     "slug": "test-cong-khai-tai-chinh-2",
-    "layout": "page.html",
+    "layout": "post.html",
     "title": "Test công khai tài chính 2",
     "description": "",
     "date": "18-05-2018 09:40:19",

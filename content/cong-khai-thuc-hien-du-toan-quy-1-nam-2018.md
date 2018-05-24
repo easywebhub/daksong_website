@@ -9,7 +9,7 @@
     "date": "12-04-2018",
     "so": "",
     "permalink": "",
-    "trich_yeu": "",
+    "trich_yeu": "Công khai số liệu và thuyết minh tình hình thực hiện dự toán ngân sách địa phương quý I năm 2018",
     "co_quan_ban_hanh": "Phòng Tài chính - Kế hoạch huyện Đăk Song",
     "linh_vuc": "Tài chính",
     "loai_van_ban": "",

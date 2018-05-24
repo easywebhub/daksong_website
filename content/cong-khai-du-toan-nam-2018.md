@@ -9,7 +9,7 @@
     "date": "18-05-2018 10:06:01",
     "so": "",
     "permalink": "",
-    "trich_yeu": "",
+    "trich_yeu": "Công khai dự toán năm 2018",
     "co_quan_ban_hanh": "UBND huyện Đăk Song",
     "linh_vuc": "Tài chính",
     "loai_van_ban": "",

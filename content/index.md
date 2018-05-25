@@ -97,6 +97,12 @@
             "title": "Nhiệt liệt chào mừng ngày giải phóng miền nam 30/4 và ngày Quốc tế lao động 1/5",
             "description": "Huyện Đăk Song, tỉnh Đăk Nông nêu cao khẩu hiệu: Nhiệt liệt chào mừng 43 năm ngày giải phóng miền nam thống nhất đất nước (30/4/1975 - 30/4/2018) và ngày Quốc tế lao động 1/5.",
             "banner": "img/chao mung 30.4.JPG"
+        },
+        {
+            "slug": "to-chuc-hoi-nghi-so-ket-02-nam-thuc-hien-chi-thi-05cttw-ngay-1552016-cua-bo-chinh-tri",
+            "title": "Tổ chức hội nghị Sơ kết 02 năm thực hiện  Chỉ thị 05-CT/TW, ngày 15/5/2016 của Bộ Chính trị",
+            "description": "Tổ chức hội nghị Sơ kết 02 năm thực hiện Chỉ thị 05-CT/TW, ngày 15/5/2016 của Bộ Chính trị",
+            "banner": "img/DSC_1123.JPG"
         }
     ],
     "category": "",

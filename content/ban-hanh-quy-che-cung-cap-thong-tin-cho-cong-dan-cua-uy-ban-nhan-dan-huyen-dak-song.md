@@ -1,0 +1,26 @@
+---json
+{
+    "slug": "ban-hanh-quy-che-cung-cap-thong-tin-cho-cong-dan-cua-uy-ban-nhan-dan-huyen-dak-song",
+    "category": "van-ban-phap-luat.van-ban-cua-huyen",
+    "tag": [],
+    "layout": "van-ban.html",
+    "title": "Ban hành Quy chế cung cấp thông tin cho công dân của Ủy ban nhân dân huyện Đăk Song",
+    "description": "",
+    "date": "14-05-2018",
+    "so": "",
+    "permalink": "",
+    "trich_yeu": "Ban hành Quy chế cung cấp thông tin cho công dân của Ủy ban nhân dân huyện Đăk Song",
+    "co_quan_ban_hanh": "Ủy ban nhân dân huyện Đăk Song",
+    "linh_vuc": "Công nghệ thông tin",
+    "loai_van_ban": "Quyết định",
+    "nguoi_ky": "Nguyễn Xuân Thanh",
+    "ngay_co_hieu_luc": "14-05-2018",
+    "tai_lieu_dinh_kem": "img/quy che cung cap thong tin.pdf",
+    "banner": "",
+    "draft": "",
+    "url": "",
+    "hinh_thuc_van_ban": "Quyết định",
+    "ngay_ban_hanh": "14-05-2018 00:00:00",
+    "so_hieu": "Số 406/QĐ-UBND"
+}
+---

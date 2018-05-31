@@ -1,4 +1,4 @@
-﻿---json
+---json
 {
     "slug": "ngay-1952018-ubnd-huyen-dak-song-to-chuc-phat-dong-tet-trong-cay-doi-doi-nho-on-bac-ho",
     "layout": "post.html",

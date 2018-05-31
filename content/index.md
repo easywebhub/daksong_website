@@ -103,6 +103,12 @@
             "title": "Tổ chức hội nghị Sơ kết 02 năm thực hiện  Chỉ thị 05-CT/TW, ngày 15/5/2016 của Bộ Chính trị",
             "description": "Tổ chức hội nghị Sơ kết 02 năm thực hiện Chỉ thị 05-CT/TW, ngày 15/5/2016 của Bộ Chính trị",
             "banner": "img/DSC_1123.JPG"
+        },
+        {
+            "slug": "ngay-1952018-ubnd-huyen-dak-song-to-chuc-phat-dong-“tet-trong-cay-doi-doi-nho-on-bac-ho”",
+            "title": "Ngày 19/5/2018 UBND huyện Đăk Song tổ chức phát động “Tết trồng cầy đời đời nhớ ơn Bác Hồ”",
+            "description": "Ngày 19/5/2018 UBND huyện Đăk Song tổ chức phát động “Tết trồng cầy đời đời nhớ ơn Bác Hồ”",
+            "banner": "img/tet trong cay 1.PNG"
         }
     ],
     "category": "",

@@ -1,6 +1,6 @@
----json
+﻿---json
 {
-    "slug": "ngay-1952018-ubnd-huyen-dak-song-to-chuc-phat-dong-“tet-trong-cay-doi-doi-nho-on-bac-ho”",
+    "slug": "ngay-1952018-ubnd-huyen-dak-song-to-chuc-phat-dong-tet-trong-cay-doi-doi-nho-on-bac-ho",
     "layout": "post.html",
     "category": "tin-tuc-su-kien.tin-van-hoa",
     "title": "Ngày 19/5/2018 UBND huyện Đăk Song tổ chức phát động “Tết trồng cầy đời đời nhớ ơn Bác Hồ”",

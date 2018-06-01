@@ -1,0 +1,26 @@
+---json
+{
+    "slug": "cong-khai-du-toan-nam-2018-cua-ubnd-huyen",
+    "category": "cong-khai.cong-khai-tai-chinh",
+    "tag": [],
+    "layout": "van-ban.html",
+    "title": "Công khai dự toán năm 2018 của UBND huyện",
+    "description": "",
+    "date": "04-01-2018",
+    "so": "",
+    "permalink": "",
+    "trich_yeu": "Công khai dự toán năm 2018 của UBND huyện",
+    "co_quan_ban_hanh": "UBND huyện",
+    "linh_vuc": "Tài chính",
+    "loai_van_ban": "Quyết định",
+    "nguoi_ky": "Nguyễn Xuân Thanh",
+    "ngay_co_hieu_luc": "01-04-2018",
+    "tai_lieu_dinh_kem": "img/cong khai du toan 2018.pdf",
+    "banner": "",
+    "draft": "",
+    "url": "",
+    "hinh_thuc_van_ban": "Quyết định",
+    "ngay_ban_hanh": "04-01-2018 00:00:00",
+    "so_hieu": "Số 07/QĐ/UBND"
+}
+---

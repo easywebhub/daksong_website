@@ -1,0 +1,26 @@
+---json
+{
+    "slug": "giai-quyet-don-nguyen-thi-lan",
+    "category": "tiep-dan.ket-qua-tiep-dan",
+    "tag": [],
+    "layout": "van-ban.html",
+    "title": "giải quyết đơn Nguyễn Thị Lan",
+    "description": "giải quyết đơn Nguyễn Thị Lan",
+    "date": "08-06-2018",
+    "so": "",
+    "permalink": "",
+    "trich_yeu": "Kết quả giải quyết đơn của bà Nguyễn Thị Lan, trú tại thôn 3 xã Nâm N'Jang huyện Đăk Song",
+    "co_quan_ban_hanh": "",
+    "linh_vuc": "",
+    "loai_van_ban": "",
+    "nguoi_ky": "",
+    "ngay_co_hieu_luc": "",
+    "tai_lieu_dinh_kem": "img/giai quyet don nguyen thi lan.pdf",
+    "banner": "",
+    "draft": "",
+    "url": "",
+    "hinh_thuc_van_ban": "",
+    "ngay_ban_hanh": "",
+    "so_hieu": ""
+}
+---

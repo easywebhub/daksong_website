@@ -75,18 +75,6 @@
     },
     "tinTucNoiBat": [
         {
-            "slug": "tin-quy-hoach-vung-nong-nghiep-ung-dung-cong-nghe-cao",
-            "title": "Quy hoạch Vùng nông nghiệp ứng dụng công nghệ cao",
-            "description": "Mới đây, UBND tỉnh Đắk Nông đã tổ chức Hội thảo góp ý Dự thảo Quy hoạch Vùng nông nghiệp ứng dụng công nghệ cao đến năm 2030, tầm nhìn đến năm 2035. Hội thảo đã ghi nhận nhiều ý kiến của các đại biểu, trong đó vấn đề trọng tâm được đề cập đó là bảo đảm tính khả thi của Quy hoạch trên cơ sở phát huy tốt các lợi thế cạnh tranh về sản phẩm nông nghiệp của tỉnh.",
-            "banner": "img/cnc-11-171.jpg"
-        },
-        {
-            "slug": "tin-dong-bao-m-nong-o-dak-n-drung-no-luc-vuon-len-lam-giau",
-            "title": "Đồng bào M’nông ở Đắk N'Drung nỗ lực vươn lên làm giàu",
-            "description": "Xã Ðắk N’Drung (Ðắk Song) có 20 thôn, bon, 2.856 hộ với khoảng 12.000 nhân khẩu; trong đó đồng bào dân tộc M’nông chiếm hơn 30%. Trước đây, do tập quán canh tác còn lạc hậu, trình độ dân trí thấp nên cuộc sống của người dân nơi đây gặp không ít khó khăn, thiếu thốn. Số hộ nghèo là đồng bào dân tộc M'nông chiếm hơn 40%.",
-            "banner": "img/Mnong171.jpg"
-        },
-        {
             "slug": "chuong-trinh-kham-benh-nhan-dao-cap-thuoc-mien-phi",
             "title": "Chương trình khám bệnh nhân đạo, cấp thuốc miễn phí",
             "description": "Đoàn tình nguyện  Thiện Nguyện Sài Gòn  Lan Tỏa yêu thương đến khám chữa bệnh nhân đạo, cấp thuốc miễn phí và tặng quà cho 500 bà con nghèo tại xã Thuận Hà, huyện Đăk Song, tỉnh Đăk Nông vào ngày 21/04/2018",
@@ -109,6 +97,12 @@
             "title": "Ngày 19/5/2018 UBND huyện Đăk Song tổ chức phát động “Tết trồng cầy đời đời nhớ ơn Bác Hồ”",
             "description": "Ngày 19/5/2018 UBND huyện Đăk Song tổ chức phát động “Tết trồng cầy đời đời nhớ ơn Bác Hồ”",
             "banner": "img/tet trong cay 1.PNG"
+        },
+        {
+            "slug": "tin-dong-bao-m-nong-o-dak-n-drung-no-luc-vuon-len-lam-giau",
+            "title": "Đồng bào M’nông ở Đắk N'Drung nỗ lực vươn lên làm giàu",
+            "description": "Xã Ðắk N’Drung (Ðắk Song) có 20 thôn, bon, 2.856 hộ với khoảng 12.000 nhân khẩu; trong đó đồng bào dân tộc M’nông chiếm hơn 30%. Trước đây, do tập quán canh tác còn lạc hậu, trình độ dân trí thấp nên cuộc sống của người dân nơi đây gặp không ít khó khăn, thiếu thốn. Số hộ nghèo là đồng bào dân tộc M'nông chiếm hơn 40%.",
+            "banner": "img/Mnong171.jpg"
         }
     ],
     "category": "",

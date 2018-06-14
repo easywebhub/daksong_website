@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "ky-niem-17-nam-thanh-lap-huyen",
+            "title": "Kỷ niệm 17 năm thành lập huyện",
+            "description": "Hội thao chào mừng 17 năm ngày thành lập huyện Đăk Song",
+            "banner": "img/TYUT0453.JPG"
+        },
+        {
             "slug": "chuong-trinh-kham-benh-nhan-dao-cap-thuoc-mien-phi",
             "title": "Chương trình khám bệnh nhân đạo, cấp thuốc miễn phí",
             "description": "Đoàn tình nguyện  Thiện Nguyện Sài Gòn  Lan Tỏa yêu thương đến khám chữa bệnh nhân đạo, cấp thuốc miễn phí và tặng quà cho 500 bà con nghèo tại xã Thuận Hà, huyện Đăk Song, tỉnh Đăk Nông vào ngày 21/04/2018",

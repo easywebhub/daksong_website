@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "chấm dứt thụ lý xem xét giải quyết khiếu kiện bà Trương Thị Nhìn",
     "description": "",
-    "date": "09-07-2018 10:39:35",
+    "date": "30-05-2018",
     "so": "",
     "permalink": "",
     "trich_yeu": "Chấm dứt thụ lý xem xét giải quyết khiếu kiện bà Trương Thị Nhìn",

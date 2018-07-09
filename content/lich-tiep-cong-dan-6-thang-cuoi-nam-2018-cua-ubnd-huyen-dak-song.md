@@ -1,0 +1,26 @@
+---json
+{
+    "slug": "lich-tiep-cong-dan-6-thang-cuoi-nam-2018-cua-ubnd-huyen-dak-song",
+    "category": "tiep-dan.lich-tiep-cong-dan",
+    "tag": [],
+    "layout": "van-ban.html",
+    "title": "Lịch tiếp công dân 6 tháng cuối năm 2018 của UBND huyện Đăk Song",
+    "description": "Lịch tiếp công dân 6 tháng cuối năm 2018 của Lãnh đạo UBND huyện Đăk Song",
+    "date": "09-07-2018 15:43:51",
+    "so": "",
+    "permalink": "",
+    "trich_yeu": "Lịch tiếp công dân 6 tháng cuối năm 2018 của Lãnh đạo UBND huyện Đăk Song",
+    "co_quan_ban_hanh": "",
+    "linh_vuc": "",
+    "loai_van_ban": "",
+    "nguoi_ky": "",
+    "ngay_co_hieu_luc": "",
+    "tai_lieu_dinh_kem": "img/lich tiep cong dan cua lanh dao UBND huyen 6 thang cuoi nam.pdf",
+    "banner": "",
+    "draft": "",
+    "url": "",
+    "hinh_thuc_van_ban": "",
+    "ngay_ban_hanh": "",
+    "so_hieu": ""
+}
+---

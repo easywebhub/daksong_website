@@ -4,7 +4,7 @@
     "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
     "tag": [],
     "layout": "van-ban.html",
-    "title": "Đề cương tuyên truyền",
+    "title": "Đề cương tuyên truyền phòng chống thiên tai",
     "description": "",
     "date": "01-06-2018 08:51:32",
     "so": "",

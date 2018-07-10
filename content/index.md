@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "dak-nong-mua-bo-chin-nam-2018",
+            "title": "Đăk Nông Mùa bơ chín năm 2018",
+            "description": "Đăk Nông Mùa bơ chín năm 2018",
+            "banner": "img/dak nong mua bo chin.PNG"
+        },
+        {
             "slug": "ky-niem-17-nam-thanh-lap-huyen",
             "title": "Kỷ niệm 17 năm thành lập huyện",
             "description": "Hội thao chào mừng 17 năm ngày thành lập huyện Đăk Song",

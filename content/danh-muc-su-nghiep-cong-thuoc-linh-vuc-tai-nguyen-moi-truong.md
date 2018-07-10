@@ -1,0 +1,26 @@
+---json
+{
+    "slug": "danh-muc-su-nghiep-cong-thuoc-linh-vuc-tai-nguyen-moi-truong",
+    "category": "cong-khai.cong-khai-thu-tuc-hanh-chinh",
+    "tag": [],
+    "layout": "van-ban.html",
+    "title": "danh mục sự nghiệp công thuộc lĩnh vực Tài nguyên môi trường",
+    "description": "danh mục sự nghiệp công thuộc lĩnh vực Tài nguyên môi trường",
+    "date": "10-07-2018 13:57:50",
+    "so": "",
+    "permalink": "",
+    "trich_yeu": "danh mục sự nghiệp công thuộc lĩnh vực Tài nguyên môi trường",
+    "co_quan_ban_hanh": "",
+    "linh_vuc": "",
+    "loai_van_ban": "",
+    "nguoi_ky": "",
+    "ngay_co_hieu_luc": "",
+    "tai_lieu_dinh_kem": "img/danh muc dich vu su nghiep cong thuoc linh vuc tai nguyen moi truong.pdf",
+    "banner": "",
+    "draft": "",
+    "url": "",
+    "hinh_thuc_van_ban": "",
+    "ngay_ban_hanh": "",
+    "so_hieu": ""
+}
+---

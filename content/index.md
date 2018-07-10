@@ -78,7 +78,7 @@
             "slug": "dak-nong-mua-bo-chin-nam-2018",
             "title": "Đăk Nông Mùa bơ chín năm 2018",
             "description": "Đăk Nông Mùa bơ chín năm 2018",
-            "banner": "img/dak nong mua bo chin.PNG"
+            "banner": "img/dak nong mua bo chin.jpg"
         },
         {
             "slug": "ky-niem-17-nam-thanh-lap-huyen",

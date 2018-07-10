@@ -6,7 +6,7 @@
     "title": "Đăk Nông Mùa bơ chín năm 2018",
     "description": "Đăk Nông \"Mùa bơ chín\" năm 2018",
     "date": "10-07-2018 08:01:26",
-    "banner": "img/dak nong mua bo chin.PNG",
+    "banner": "img/dak nong mua bo chin.jpg",
     "tag": [],
     "permalink": "",
     "draft": "",

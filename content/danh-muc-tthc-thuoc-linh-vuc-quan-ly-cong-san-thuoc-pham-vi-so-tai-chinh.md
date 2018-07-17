@@ -1,0 +1,26 @@
+---json
+{
+    "slug": "danh-muc-tthc-thuoc-linh-vuc-quan-ly-cong-san-thuoc-pham-vi-so-tai-chinh",
+    "category": "cong-khai.cong-khai-thu-tuc-hanh-chinh",
+    "tag": [],
+    "layout": "van-ban.html",
+    "title": "Danh mục TTHC thuộc lĩnh vực quản lý công sản thuộc phạm vi Sở tài chính",
+    "description": "Danh mục TTHC mới ban hành, TTHC bãi bỏ thuộc lĩnh vực quản lý công sản thuộc phạm vi Sở tài chính",
+    "date": "13-04-2018",
+    "so": "",
+    "permalink": "",
+    "trich_yeu": "Danh mục TTHC mới ban hành, TTHC bãi bỏ thuộc lĩnh vực quản lý công sản thuộc phạm vi Sở tài chính",
+    "co_quan_ban_hanh": "",
+    "linh_vuc": "",
+    "loai_van_ban": "",
+    "nguoi_ky": "",
+    "ngay_co_hieu_luc": "",
+    "tai_lieu_dinh_kem": "img/danh muc quan ly cong san tham quyen so tai chinh.pdf",
+    "banner": "",
+    "draft": "",
+    "url": "",
+    "hinh_thuc_van_ban": "",
+    "ngay_ban_hanh": "",
+    "so_hieu": ""
+}
+---

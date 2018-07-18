@@ -1,0 +1,26 @@
+---json
+{
+    "slug": "danh-muc-tthc-linh-vuc-chinh-quyen-dia-phuong-tham-quyen-giai-quyet-so-noi-vu",
+    "category": "cong-khai.cong-khai-thu-tuc-hanh-chinh",
+    "tag": [],
+    "layout": "van-ban.html",
+    "title": "danh mục TTHC lĩnh vực chính quyền địa phương thẩm quyền giải quyết Sở Nội vụ",
+    "description": "danh mục TTHC lĩnh vực chính quyền địa phương thẩm quyền giải quyết Sở Nội vụ",
+    "date": "18-01-2018",
+    "so": "",
+    "permalink": "",
+    "trich_yeu": "danh mục TTHC lĩnh vực chính quyền địa phương thẩm quyền giải quyết Sở Nội vụ",
+    "co_quan_ban_hanh": "",
+    "linh_vuc": "",
+    "loai_van_ban": "",
+    "nguoi_ky": "",
+    "ngay_co_hieu_luc": "",
+    "tai_lieu_dinh_kem": "img/danh muc TTHC linh vuc so noi vu thang 1.pdf",
+    "banner": "",
+    "draft": "",
+    "url": "",
+    "hinh_thuc_van_ban": "",
+    "ngay_ban_hanh": "",
+    "so_hieu": ""
+}
+---

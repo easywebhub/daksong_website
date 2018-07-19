@@ -1,0 +1,26 @@
+---json
+{
+    "slug": "tuyen-truyen-ket-qua-ky-hop-thu-5-quoc-hoi-khoa-xiv",
+    "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
+    "tag": [],
+    "layout": "van-ban.html",
+    "title": "Tuyên truyền kết quả kỳ họp thứ 5 Quốc hội khóa XIV",
+    "description": "Tuyên truyền kết quả kỳ họp thứ 5 Quốc hội khóa XIV",
+    "date": "19-07-2018 14:24:56",
+    "so": "",
+    "permalink": "",
+    "trich_yeu": "Tuyên truyền kết quả kỳ họp thứ 5 Quốc hội khóa XIV",
+    "co_quan_ban_hanh": "",
+    "linh_vuc": "",
+    "loai_van_ban": "",
+    "nguoi_ky": "",
+    "ngay_co_hieu_luc": "",
+    "tai_lieu_dinh_kem": "img/tuyen truyen ket qua ky hop thu 5 QH khoa XIV.PDF",
+    "banner": "",
+    "draft": "",
+    "url": "",
+    "hinh_thuc_van_ban": "",
+    "ngay_ban_hanh": "",
+    "so_hieu": ""
+}
+---

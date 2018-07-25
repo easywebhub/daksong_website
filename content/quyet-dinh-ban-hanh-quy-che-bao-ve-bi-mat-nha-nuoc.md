@@ -1,0 +1,26 @@
+---json
+{
+    "slug": "quyet-dinh-ban-hanh-quy-che-bao-ve-bi-mat-nha-nuoc",
+    "category": "van-ban-phap-luat.van-ban-cua-huyen",
+    "tag": [],
+    "layout": "van-ban.html",
+    "title": "Quyết định ban hành Quy chế bảo vệ bí mật Nhà nước",
+    "description": "Quyết định ban hành Quy chế bảo vệ bí mật Nhà nước trên địa bàn huyện Đăk Song",
+    "date": "03-07-2018",
+    "so": "",
+    "permalink": "",
+    "trich_yeu": "Quyết định ban hành Quy chế bảo vệ bí mật Nhà nước trên địa bàn huyện Đăk Song",
+    "co_quan_ban_hanh": "UBND huyện",
+    "linh_vuc": "Bảo vệ bí mật nhà nước",
+    "loai_van_ban": "Quyết định",
+    "nguoi_ky": "Nguyễn Văn Phò",
+    "ngay_co_hieu_luc": "03-07-2018",
+    "tai_lieu_dinh_kem": "img/QD ban hanh quy che bao ve bi mat.pdf",
+    "banner": "",
+    "draft": "",
+    "url": "",
+    "hinh_thuc_van_ban": "Quyết định",
+    "ngay_ban_hanh": "03-07-2018 00:00:00",
+    "so_hieu": "Số 01/2018/QĐ-UBND"
+}
+---

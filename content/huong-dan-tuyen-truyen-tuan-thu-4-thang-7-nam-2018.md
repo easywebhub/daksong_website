@@ -1,0 +1,26 @@
+---json
+{
+    "slug": "huong-dan-tuyen-truyen-tuan-thu-4-thang-7-nam-2018",
+    "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
+    "tag": [],
+    "layout": "van-ban.html",
+    "title": "Hướng dẫn tuyên truyền tuần thứ 4 tháng 7 năm 2018",
+    "description": "Sở Thông tin truyền thông Hướng dẫn tuyên truyền tuần thứ 4 tháng 7 năm 2018",
+    "date": "25-07-2018",
+    "so": "",
+    "permalink": "",
+    "trich_yeu": "Sở Thông tin truyền thông Hướng dẫn tuyên truyền tuần thứ 4 tháng 7 năm 2018",
+    "co_quan_ban_hanh": "",
+    "linh_vuc": "",
+    "loai_van_ban": "",
+    "nguoi_ky": "",
+    "ngay_co_hieu_luc": "",
+    "tai_lieu_dinh_kem": "img/huong dan tuyen truyen tuan 4 thang 7.pdf",
+    "banner": "",
+    "draft": "",
+    "url": "",
+    "hinh_thuc_van_ban": "",
+    "ngay_ban_hanh": "",
+    "so_hieu": ""
+}
+---

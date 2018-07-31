@@ -1,0 +1,26 @@
+---json
+{
+    "slug": "thuc-hien-chi-thi-so-23cttw",
+    "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
+    "tag": [],
+    "layout": "van-ban.html",
+    "title": "Thực hiện chỉ thị số 23-CT/TW",
+    "description": "Thực hiện chỉ thị số 23-CT/TW, ngày 9/2/2018 của Ban bí thư khóa XII",
+    "date": "31-07-2018 10:42:55",
+    "so": "",
+    "permalink": "",
+    "trich_yeu": "Thực hiện chỉ thị số 23-CT/TW, ngày 9/2/2018 của Ban bí thư khóa XII \" Về tiếp tục đổi mới, nâng cao chất lượng, hiệu quả học tập, nghiên cứu, vận dụng và phát triển chủ nghĩa Mác - Leenin, tư tưởng Hồ chí Minh trong tình hình mới\"",
+    "co_quan_ban_hanh": "",
+    "linh_vuc": "",
+    "loai_van_ban": "",
+    "nguoi_ky": "",
+    "ngay_co_hieu_luc": "",
+    "tai_lieu_dinh_kem": "img/chi thi 23.PDF",
+    "banner": "",
+    "draft": "",
+    "url": "",
+    "hinh_thuc_van_ban": "",
+    "ngay_ban_hanh": "",
+    "so_hieu": ""
+}
+---

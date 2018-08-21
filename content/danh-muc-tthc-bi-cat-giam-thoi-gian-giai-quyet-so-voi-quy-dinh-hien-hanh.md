@@ -1,0 +1,26 @@
+---json
+{
+    "slug": "danh-muc-tthc-bi-cat-giam-thoi-gian-giai-quyet-so-voi-quy-dinh-hien-hanh",
+    "category": "cong-khai.cong-khai-thu-tuc-hanh-chinh",
+    "tag": [],
+    "layout": "van-ban.html",
+    "title": "Danh mục TTHC bị cắt giảm thời gian giải quyết so với quy định hiện hành",
+    "description": "Danh mục TTHC bị cắt giảm thời gian giải quyết so với quy định hiện hành thuộc thẩm quyền giải quyết của các sở, ban, ngành trền địa bàn tỉnh Đăk Nông",
+    "date": "21-08-2018 08:33:43",
+    "so": "",
+    "permalink": "",
+    "trich_yeu": "Danh mục TTHC bị cắt giảm thời gian giải quyết so với quy định hiện hành thuộc thẩm quyền giải quyết của các sở, ban, ngành trền địa bàn tỉnh Đăk Nông",
+    "co_quan_ban_hanh": "",
+    "linh_vuc": "",
+    "loai_van_ban": "",
+    "nguoi_ky": "",
+    "ngay_co_hieu_luc": "",
+    "tai_lieu_dinh_kem": "img/danh muc TTHC bi cat giam thoi gian giai quyet.pdf",
+    "banner": "",
+    "draft": "",
+    "url": "",
+    "hinh_thuc_van_ban": "",
+    "ngay_ban_hanh": "",
+    "so_hieu": ""
+}
+---

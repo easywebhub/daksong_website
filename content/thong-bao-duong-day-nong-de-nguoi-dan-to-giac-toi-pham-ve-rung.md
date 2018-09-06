@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Thông Báo đường dây nóng để người dân tố giác tội phạm về rừng",
     "description": "Thông Báo đường dây nóng để người dân tố giác tội phạm về rừng",
-    "date": "06-09-2018 09:09:41",
+    "date": "06-09-2018 09:15:05",
     "so": "",
     "permalink": "",
     "trich_yeu": "Thông Báo đường dây nóng để người dân tố giác tội phạm về rừng",

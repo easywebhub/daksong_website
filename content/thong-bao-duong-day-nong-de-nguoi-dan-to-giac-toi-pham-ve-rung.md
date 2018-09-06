@@ -1,7 +1,7 @@
 ---json
 {
     "slug": "thong-bao-duong-day-nong-de-nguoi-dan-to-giac-toi-pham-ve-rung",
-    "category": "thong-bao-giay-moi",
+    "category": "thong-bao-giay-moi.thong-bao",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Thông Báo đường dây nóng để người dân tố giác tội phạm về rừng",

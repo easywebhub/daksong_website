@@ -1,0 +1,26 @@
+---json
+{
+    "slug": "danh-muc-thu-tuc-hanh-chinh-tham-quyen-so-thong-tin-va-truyen-thong",
+    "category": "cong-khai.cong-khai-thu-tuc-hanh-chinh",
+    "tag": [],
+    "layout": "van-ban.html",
+    "title": "Danh mục thủ tục hành chính thẩm quyền sở thông tin và truyền thông",
+    "description": "Công bố Danh mục thủ tục hành chính mới ban hành, sửa đổi, bổ sung, bãi bỏ lĩnh vực Phát thanh, truyền hình và Thông tin điện tử; lĩnh vực Xuất bản, in và Phát hành thuộc thẩm quyền giải quyết của Sở Thông tin và Truyền thông tỉnh Đắk Nông",
+    "date": "07-09-2018",
+    "so": "",
+    "permalink": "",
+    "trich_yeu": "Công bố Danh mục thủ tục hành chính mới ban hành, sửa đổi, bổ sung, bãi bỏ lĩnh vực Phát thanh, truyền hình và Thông tin điện tử; lĩnh vực Xuất bản, in và Phát hành thuộc thẩm quyền giải quyết của Sở Thông tin và Truyền thông tỉnh Đắk Nông",
+    "co_quan_ban_hanh": "",
+    "linh_vuc": "",
+    "loai_van_ban": "",
+    "nguoi_ky": "",
+    "ngay_co_hieu_luc": "",
+    "tai_lieu_dinh_kem": "img/danh muc TTHC tham quyen so thong tin truyen thong.pdf",
+    "banner": "",
+    "draft": "",
+    "url": "",
+    "hinh_thuc_van_ban": "",
+    "ngay_ban_hanh": "",
+    "so_hieu": ""
+}
+---

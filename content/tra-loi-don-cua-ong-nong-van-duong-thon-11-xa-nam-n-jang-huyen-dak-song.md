@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Trả lời đơn của Ông Nông Văn Đường thôn 11, xã Nâm N'Jang, huyện Đắk Song",
     "description": "",
-    "date": "13-09-2018 14:13:36",
+    "date": "31-08-2018",
     "so": "",
     "permalink": "",
     "trich_yeu": "",

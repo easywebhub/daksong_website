@@ -1,0 +1,26 @@
+---json
+{
+    "slug": "tra-loi-don-cua-ong-tran-van-manh-tru-tai-thon-18-xa-ea-ninh-huyen-cu-kuin-tinh-dak-lak",
+    "category": "tiep-dan.ket-qua-tiep-dan",
+    "tag": [],
+    "layout": "van-ban.html",
+    "title": "Trả lời đơn của Ông Trần Văn Mạnh, trú tại thôn 18, xã Ea Ninh, huyện Cư Kuin, Tỉnh Đắk Lắk",
+    "description": "",
+    "date": "22-08-2018",
+    "so": "",
+    "permalink": "",
+    "trich_yeu": "Trả lời đơn của Ông Trần Văn Mạnh, trú tại thôn 18, xã Ea Ninh, huyện Cư Kuin, Tỉnh Đắk Lắk",
+    "co_quan_ban_hanh": "",
+    "linh_vuc": "",
+    "loai_van_ban": "",
+    "nguoi_ky": "",
+    "ngay_co_hieu_luc": "",
+    "tai_lieu_dinh_kem": "img/120-UBND-TTr(CD)_20180822082603674670.PDF",
+    "banner": "",
+    "draft": "",
+    "url": "",
+    "hinh_thuc_van_ban": "",
+    "ngay_ban_hanh": "",
+    "so_hieu": ""
+}
+---

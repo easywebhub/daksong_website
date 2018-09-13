@@ -1,0 +1,26 @@
+---json
+{
+    "slug": "quyet-dinh-ve-viec-dinh-chi-kieu-nai-cua-ong-do-hoang-suat-vo-la-ba-nguyen-thi-hong",
+    "category": "tiep-dan.ket-qua-tiep-dan",
+    "tag": [],
+    "layout": "van-ban.html",
+    "title": "Quyết định về việc đình chỉ kiếu nại của ông Đỗ Hoàng Suất vợ là bà Nguyễn Thị Hồng",
+    "description": "",
+    "date": "31-08-2018",
+    "so": "",
+    "permalink": "",
+    "trich_yeu": "Quyết định về việc đình chỉ kiếu nại của ông Đỗ Hoàng Suất vợ là bà Nguyễn Thị Hồng",
+    "co_quan_ban_hanh": "",
+    "linh_vuc": "",
+    "loai_van_ban": "",
+    "nguoi_ky": "",
+    "ngay_co_hieu_luc": "",
+    "tai_lieu_dinh_kem": "img/840-QD-UBND_20180830014710752750.PDF",
+    "banner": "",
+    "draft": "",
+    "url": "",
+    "hinh_thuc_van_ban": "",
+    "ngay_ban_hanh": "",
+    "so_hieu": ""
+}
+---

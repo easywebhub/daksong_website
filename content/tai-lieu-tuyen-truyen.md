@@ -19,8 +19,8 @@
     "banner": "",
     "draft": "",
     "url": "",
-    "hinh_thuc_van_ban": "Tài liệu",
+    "hinh_thuc_van_ban": "Tài liệu tuyên truyền",
     "ngay_ban_hanh": "10-08-2018 00:00:00",
-    "so_hieu": "291-CV/BTGHU"
+    "so_hieu": "Sô 291-CV/BTGHU"
 }
 ---

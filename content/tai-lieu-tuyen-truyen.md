@@ -10,7 +10,7 @@
     "so": "",
     "permalink": "",
     "trich_yeu": "Thực hiên Công văn số 1254 - CV/BTGTU, ngày 01/08/1018 của Ban Tuyên Giáo Tỉnh ủy Đắk Nông về việc gửi tài liệu tuyên truyền;\nBan Tuyên giáo Huyện ủy sao gởi đến các cơ quan đơn vị:",
-    "co_quan_ban_hanh": "Ban Tuyên giáo Tỉnh Ủy Đắk Nông",
+    "co_quan_ban_hanh": "Ban Tuyên giáo Huyện Ủy Đắk Song",
     "linh_vuc": "",
     "loai_van_ban": "",
     "nguoi_ky": "",

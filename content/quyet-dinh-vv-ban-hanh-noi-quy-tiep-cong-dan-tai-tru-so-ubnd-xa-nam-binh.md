@@ -1,0 +1,26 @@
+---json
+{
+    "slug": "quyet-dinh-vv-ban-hanh-noi-quy-tiep-cong-dan-tai-tru-so-ubnd-xa-nam-binh",
+    "category": "tiep-dan.quy-che-tiep-dan",
+    "tag": [],
+    "layout": "van-ban.html",
+    "title": "Quyết định v/v ban hành nội quy tiếp công dân tại trụ sở UBND xã Nam Bình",
+    "description": "",
+    "date": "07-06-2018",
+    "so": "",
+    "permalink": "",
+    "trich_yeu": "Quyết định v/v ban hành nội quy tiếp công dân tại trụ sở UBND xã Nam Bình",
+    "co_quan_ban_hanh": "",
+    "linh_vuc": "",
+    "loai_van_ban": "",
+    "nguoi_ky": "",
+    "ngay_co_hieu_luc": "",
+    "tai_lieu_dinh_kem": "img/quyet_dinh_ban_hanh_quy_che_tiep_cong_dan_20180911085259239230.pdf",
+    "banner": "",
+    "draft": "",
+    "url": "",
+    "hinh_thuc_van_ban": "",
+    "ngay_ban_hanh": "",
+    "so_hieu": "Số 70/QĐ-UBND"
+}
+---

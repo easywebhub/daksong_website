@@ -1,0 +1,26 @@
+---json
+{
+    "slug": "bao-cao-cong-tac-tiep-cong-dan-giai-quyet-khieu-naito-caophan-anh-cua-tt-duc-an",
+    "category": "tiep-dan.ket-qua-tiep-dan",
+    "tag": [],
+    "layout": "van-ban.html",
+    "title": "Báo Cáo công tác tiếp công dân giải quyết khiếu nại,tố cáo,phản ánh của TT Đức An",
+    "description": "",
+    "date": "12-09-2018",
+    "so": "",
+    "permalink": "",
+    "trich_yeu": "Báo Cáo công tác tiếp công dân giải quyết khiếu nại,tố cáo,phản ánh của TT Đức An",
+    "co_quan_ban_hanh": "",
+    "linh_vuc": "",
+    "loai_van_ban": "",
+    "nguoi_ky": "",
+    "ngay_co_hieu_luc": "",
+    "tai_lieu_dinh_kem": "img/scan0068_20180910090505377370.pdf",
+    "banner": "",
+    "draft": "",
+    "url": "",
+    "hinh_thuc_van_ban": "",
+    "ngay_ban_hanh": "",
+    "so_hieu": ""
+}
+---

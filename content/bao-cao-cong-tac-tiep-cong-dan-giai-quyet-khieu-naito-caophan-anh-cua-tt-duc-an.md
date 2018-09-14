@@ -21,6 +21,6 @@
     "url": "",
     "hinh_thuc_van_ban": "",
     "ngay_ban_hanh": "",
-    "so_hieu": ""
+    "so_hieu": "Số 179/BC-UBND"
 }
 ---

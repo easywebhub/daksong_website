@@ -1,0 +1,26 @@
+---json
+{
+    "slug": "giai-quyet-don-thu-khieu-nai-to-cao-9-thang-dau-nam-2018-tai-xa-thuan-hanh",
+    "category": "tiep-dan.ket-qua-tiep-dan",
+    "tag": [],
+    "layout": "van-ban.html",
+    "title": "Giải quyết đơn thư khiếu nại, tố cáo 9 tháng đầu nắm 2018 tại xã Thuận Hạnh",
+    "description": "",
+    "date": "11-09-2018",
+    "so": "",
+    "permalink": "",
+    "trich_yeu": "Giải quyết đơn thư khiếu nại, tố cáo 9 tháng đầu nắm 2018 tại xã Thuận Hạnh",
+    "co_quan_ban_hanh": "",
+    "linh_vuc": "",
+    "loai_van_ban": "",
+    "nguoi_ky": "",
+    "ngay_co_hieu_luc": "",
+    "tai_lieu_dinh_kem": "img/tiep_cong_dan0001_20180910111507814810.pdf",
+    "banner": "",
+    "draft": "",
+    "url": "",
+    "hinh_thuc_van_ban": "",
+    "ngay_ban_hanh": "",
+    "so_hieu": ""
+}
+---

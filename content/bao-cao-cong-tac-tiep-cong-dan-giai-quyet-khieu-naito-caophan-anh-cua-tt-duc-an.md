@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "bao-cao-cong-tac-tiep-cong-dan-giai-quyet-khieu-naito-caophan-anh-cua-tt-duc-an",
+    "slug": "bao-cao-cong-tac-tiep-cong-dan-giai-quyet-khieu-nai-to-cao-phan-anh-cua-tt-duc-an",
     "category": "tiep-dan.ket-qua-tiep-dan",
     "tag": [],
     "layout": "van-ban.html",

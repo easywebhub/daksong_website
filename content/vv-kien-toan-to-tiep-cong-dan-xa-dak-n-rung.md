@@ -1,12 +1,12 @@
 ---json
 {
     "slug": "vv-kien-toan-to-tiep-cong-dan-xa-dak-n-rung",
-    "category": "tiep-dan.lich-tiep-cong-dan",
+    "category": "tiep-dan.tiep-cong-dan-va-xu-ly-don-thu-cap-xa",
     "tag": [],
     "layout": "van-ban.html",
     "title": "V/v kiện toàn tổ tiếp công dân xã Đắk N'rung",
     "description": "",
-    "date": "04-08-2016",
+    "date": "19-09-2016",
     "so": "",
     "permalink": "",
     "trich_yeu": "V/v kiện toàn tổ tiếp công dân xã Đắk N'rung",

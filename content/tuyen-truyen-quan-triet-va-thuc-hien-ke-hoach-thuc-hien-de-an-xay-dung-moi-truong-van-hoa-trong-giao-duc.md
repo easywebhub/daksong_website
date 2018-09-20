@@ -11,15 +11,15 @@
     "permalink": "",
     "trich_yeu": "Tuyên truyền, quán triệt và thực hiện kế hoạch thực hiện đề án xây dựng môi trường văn hóa trong giáo dục",
     "co_quan_ban_hanh": "Ban Tuyên Giáo (Huyện Ủy Đắk Song)",
-    "linh_vuc": "",
-    "loai_van_ban": "Công Văn",
+    "linh_vuc": "Văn Hóa Xã Hội",
+    "loai_van_ban": "",
     "nguoi_ky": "",
     "ngay_co_hieu_luc": "",
     "tai_lieu_dinh_kem": "img/297-CV-TG.PDF",
     "banner": "",
     "draft": "",
     "url": "",
-    "hinh_thuc_van_ban": "Văn hóa xã hội",
+    "hinh_thuc_van_ban": "Công Văn",
     "ngay_ban_hanh": "17-09-2018 00:00:00",
     "so_hieu": "Số 297- CV/BTGHU"
 }

@@ -1,0 +1,26 @@
+---json
+{
+    "slug": "tuyen-truyen-quan-triet-va-thuc-hien-ke-hoach-thuc-hien-de-an-xay-dung-moi-truong-van-hoa-trong-giao-duc",
+    "category": "van-ban-phap-luat.van-ban-cua-huyen",
+    "tag": [],
+    "layout": "van-ban.html",
+    "title": "Tuyên truyền, quán triệt và thực hiện kế hoạch thực hiện đề án xây dựng môi trường văn hóa trong giáo dục",
+    "description": "",
+    "date": "20-09-2018 16:28:34",
+    "so": "",
+    "permalink": "",
+    "trich_yeu": "Tuyên truyền, quán triệt và thực hiện kế hoạch thực hiện đề án xây dựng môi trường văn hóa trong giáo dục",
+    "co_quan_ban_hanh": "Ban Tuyên Giáo (Huyện Ủy Đắk Song)",
+    "linh_vuc": "",
+    "loai_van_ban": "Công Văn",
+    "nguoi_ky": "",
+    "ngay_co_hieu_luc": "",
+    "tai_lieu_dinh_kem": "img/297-CV-TG.PDF",
+    "banner": "",
+    "draft": "",
+    "url": "",
+    "hinh_thuc_van_ban": "Văn hóa xã hội",
+    "ngay_ban_hanh": "17-09-2018 00:00:00",
+    "so_hieu": "Số 297- CV/BTGHU"
+}
+---

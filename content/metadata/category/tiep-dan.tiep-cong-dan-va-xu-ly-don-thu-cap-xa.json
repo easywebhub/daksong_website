@@ -1,6 +1,6 @@
 {
     "sortBy": "date",
-    "reverse": false,
+    "reverse": true,
     "metadata": {"title":"Tiếp công dân và xử lý đơn thư cấp xã"},
     "displayName": "Tiếp công dân và xử lý đơn thư cấp xã",
      "perPage": 10,

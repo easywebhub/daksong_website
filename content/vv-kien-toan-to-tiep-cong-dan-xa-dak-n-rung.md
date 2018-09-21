@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "V/v kiện toàn tổ tiếp công dân xã Đắk N'rung",
     "description": "",
-    "date": "19-09-2016",
+    "date": "20-09-2016",
     "so": "",
     "permalink": "",
     "trich_yeu": "V/v kiện toàn tổ tiếp công dân xã Đắk N'rung",

@@ -20,7 +20,7 @@
     "draft": "",
     "url": "",
     "hinh_thuc_van_ban": "Tuyên Truyền",
-    "ngay_ban_hanh": "",
+    "ngay_ban_hanh": "20-09-2018 00:00:00",
     "so_hieu": "298 - CV/BTGHU"
 }
 ---

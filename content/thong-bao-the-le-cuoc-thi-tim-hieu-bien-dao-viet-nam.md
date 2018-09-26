@@ -9,9 +9,9 @@
     "date": "26-09-2018 13:45:33",
     "so": "",
     "permalink": "",
-    "trich_yeu": "",
+    "trich_yeu": "Thông báo thể lệ cuộc thi tìm hiểu biển, đảo Việt Nam",
     "co_quan_ban_hanh": "Ban Tuyên Giáo Huyện Ủy Đắk Song",
-    "linh_vuc": "Tuyên Truyền",
+    "linh_vuc": "Văn Hóa Xã Hội",
     "loai_van_ban": "",
     "nguoi_ky": "",
     "ngay_co_hieu_luc": "",
@@ -19,7 +19,7 @@
     "banner": "",
     "draft": "",
     "url": "",
-    "hinh_thuc_van_ban": "",
+    "hinh_thuc_van_ban": "Tuyên Truyền",
     "ngay_ban_hanh": "",
     "so_hieu": "298 - CV/BTGHU"
 }

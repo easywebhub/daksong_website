@@ -19,7 +19,7 @@
     "banner": "",
     "draft": "",
     "url": "",
-    "hinh_thuc_van_ban": "Tuyên Truyền",
+    "hinh_thuc_van_ban": "Thông báo",
     "ngay_ban_hanh": "20-09-2018 00:00:00",
     "so_hieu": "298 - CV/BTGHU"
 }

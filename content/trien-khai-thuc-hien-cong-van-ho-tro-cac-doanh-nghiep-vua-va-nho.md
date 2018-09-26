@@ -15,7 +15,7 @@
     "loai_van_ban": "",
     "nguoi_ky": "",
     "ngay_co_hieu_luc": "",
-    "tai_lieu_dinh_kem": "img/374signed_20180919083825493503_000.09.33.H16.pdf",
+    "tai_lieu_dinh_kem": "img/374-CV-TCKH.PDF",
     "banner": "",
     "draft": "",
     "url": "",

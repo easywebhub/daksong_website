@@ -1,0 +1,26 @@
+---json
+{
+    "slug": "tuyen-truyen-guong-dien-hinh-tien-tien-hoc-tap-va-lam-theo-bac",
+    "category": "van-ban-phap-luat.van-ban-cua-huyen",
+    "tag": [],
+    "layout": "van-ban.html",
+    "title": "Tuyên truyền gương điển hình tiên tiến học tập và làm theo Bác",
+    "description": "",
+    "date": "04-10-2018 14:00:01",
+    "so": "",
+    "permalink": "",
+    "trich_yeu": "Thực hiện công văn sô 1332 - CV/BTGTU, ngày 24/9/2018 của ban Tuyên Giáo Tỉnh Ủy về việc khai thác thông tin tuyên truyền gương điển hình tiên tiến học tập và theo lời Bác.",
+    "co_quan_ban_hanh": "",
+    "linh_vuc": "Văn Hóa Xã Hội",
+    "loai_van_ban": "",
+    "nguoi_ky": "",
+    "ngay_co_hieu_luc": "",
+    "tai_lieu_dinh_kem": "img/Số 305.PDF",
+    "banner": "",
+    "draft": "",
+    "url": "",
+    "hinh_thuc_van_ban": "Tuyên Truyền",
+    "ngay_ban_hanh": "01-10-2018 00:00:00",
+    "so_hieu": "Số 305 - CV/BTGHU"
+}
+---

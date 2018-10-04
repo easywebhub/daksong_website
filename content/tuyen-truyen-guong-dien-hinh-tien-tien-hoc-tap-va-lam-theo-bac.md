@@ -10,7 +10,7 @@
     "so": "",
     "permalink": "",
     "trich_yeu": "Thực hiện công văn sô 1332 - CV/BTGTU, ngày 24/9/2018 của ban Tuyên Giáo Tỉnh Ủy về việc khai thác thông tin tuyên truyền gương điển hình tiên tiến học tập và theo lời Bác.",
-    "co_quan_ban_hanh": "",
+    "co_quan_ban_hanh": "Ban Tuyên Giáo Huyện Ủy Đắk Song",
     "linh_vuc": "Văn Hóa Xã Hội",
     "loai_van_ban": "",
     "nguoi_ky": "",

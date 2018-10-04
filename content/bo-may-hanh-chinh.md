@@ -4,7 +4,7 @@
     "layout": "page.html",
     "title": "Bộ máy hành chính",
     "description": "",
-    "date": "01-11-2016 00:00:00",
+    "date": "01-11-2016 ",
     "permalink": true,
     "category": "",
     "tag": ""

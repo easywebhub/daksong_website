@@ -1,11 +1,12 @@
 ---json
 {
-    "title": "Định hướng phát triển",
     "slug": "dinh-huong-phat-trien",
-    "description": "",
-    "category": "",
-    "tag": [],
     "layout": "page.html",
-    "date": "31-10-2016 10:08:10"
+    "title": "Định hướng phát triển",
+    "description": "",
+    "date": "31-10-2016 00:00:00",
+    "permalink": "",
+    "category": "",
+    "tag": []
 }
 ---

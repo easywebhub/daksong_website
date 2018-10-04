@@ -4,7 +4,7 @@
     "layout": "page.html",
     "title": "Đóng góp ý kiến",
     "description": "",
-    "date": "01-11-2016 11:58:30",
+    "date": "01-11-2016 00:00:00",
     "permalink": "",
     "category": "",
     "tag": []

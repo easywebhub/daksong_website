@@ -4,7 +4,7 @@
     "layout": "page.html",
     "title": "Di tích - Thằng cảnh",
     "description": "Các di tích, danh thắng trên địa bàn huyện Ðắk Song, tỉnh Đắk Nông.",
-    "date": "31-10-2016 10:07:45",
+    "date": "31-10-2016 00:00:00",
     "permalink": true,
     "category": "",
     "tag": []

@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Danh mục thủ tục hành chinh sửa đổi, bổ sung quyết định 34-QĐ-UBND về cung cấp dịch vụ cổng trục tuyến mức độ 3-4",
     "description": "",
-    "date": "28-09-2018",
+    "date": "01-10-2018",
     "so": "",
     "permalink": "",
     "trich_yeu": "Danh mục thủ tục hành chinh sửa đổi, bổ sung quyết định 34-QĐ-UBND về cung cấp dịch vụ cổng trục tuyến mức độ 3-4",

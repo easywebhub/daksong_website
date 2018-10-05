@@ -5,7 +5,7 @@
     "category": "cai-cach-hanh-chinh",
     "tag": [],
     "title": "GD_Sáp nhập, chia tách trường tiểu học",
-    "date": "13-01-2017 09:24:32",
+    "date": "13-01-2017",
     "co_quan_thuc_hien": "",
     "co_so_phap_ly": "",
     "thoi_gian_giai_quyet": "",

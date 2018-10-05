@@ -4,7 +4,7 @@
     "layout": "page.html",
     "title": "Giới thiệu chung",
     "description": "",
-    "date": "08-09-2016",
+    "date": "08-09-2016 ",
     "permalink": true,
     "category": "",
     "tag": ""

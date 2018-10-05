@@ -5,7 +5,7 @@
     "category": "cai-cach-hanh-chinh",
     "tag": [],
     "title": "GD Giải thể hoạt động nhóm trẻ, lớp mẫu giáo độc lập tư thục",
-    "date": "13-01-2017 13:41:52",
+    "date": "13-01-2017",
     "co_quan_thuc_hien": "",
     "co_so_phap_ly": "",
     "thoi_gian_giai_quyet": "",

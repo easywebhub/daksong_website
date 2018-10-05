@@ -4,7 +4,7 @@
     "layout": "gop-y-du-thao-van-ban-qppl.html",
     "category": "gop-y-du-thao-van-ban-qppl",
     "tag": [],
-    "date": "08-11-2016 22:19:44",
+    "date": "08-11-2016 00:00:00",
     "tieu_de": "Góp ý dự thảo Chương trình phát triển nguồn nhân lực công nghệ thông tin tỉnh Đắk Nông đến năm 2020 và tầm nhìn đến năm 2025",
     "mo_ta": "Ngày 11/8/2016, Sở Thông tin và Truyền thông có Công văn số 487/STTTT-CNTT gửi các Sở, Ban, Ngành, UBND các huyện, thị xã về việc góp ý dự thảo Chương trình phát triển nguồn nhân lực công nghệ thông tin tỉnh Đắk Nông đến năm 2020 và tầm nhìn đến năm 2025.\n",
     "tieu_de_dinh_kem": "Để tải bản dự thảo kế hoạch, quyết định",

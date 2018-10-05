@@ -4,7 +4,7 @@
     "layout": "page.html",
     "title": "Thông tin liên lạc",
     "description": "",
-    "date": "31-10-2016 10:08:32",
+    "date": "31-10-2016 00:00:00",
     "permalink": "",
     "category": "",
     "tag": []

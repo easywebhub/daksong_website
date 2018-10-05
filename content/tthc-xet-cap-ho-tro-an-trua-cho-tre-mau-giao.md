@@ -5,7 +5,7 @@
     "category": "cai-cach-hanh-chinh",
     "tag": [],
     "title": "GD_Xét cấp hỗ trợ ăn trưa cho trẻ mẫu giáo",
-    "date": "13-01-2017 10:17:11",
+    "date": "13-01-2017 ",
     "co_quan_thuc_hien": "",
     "co_so_phap_ly": "",
     "thoi_gian_giai_quyet": "",

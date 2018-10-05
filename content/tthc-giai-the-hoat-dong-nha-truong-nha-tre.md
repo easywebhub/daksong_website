@@ -5,7 +5,7 @@
     "category": "cai-cach-hanh-chinh",
     "tag": [],
     "title": "GD_Giải thể hoạt động nhà trường, nhà trẻ",
-    "date": "13-01-2017 09:21:11",
+    "date": "13-01-2017 ",
     "co_quan_thuc_hien": "",
     "co_so_phap_ly": "",
     "thoi_gian_giai_quyet": "",

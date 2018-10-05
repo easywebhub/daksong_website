@@ -5,7 +5,7 @@
     "category": "cai-cach-hanh-chinh",
     "tag": [],
     "title": "GD_Cho phép  nhà trường, nhà trẻ dân lập hoạt động giáo dục",
-    "date": "13-01-2017 10:11:21",
+    "date": "13-01-2017",
     "co_quan_thuc_hien": "",
     "co_so_phap_ly": "",
     "thoi_gian_giai_quyet": "",

@@ -5,7 +5,7 @@
     "category": "cai-cach-hanh-chinh",
     "tag": [],
     "title": "GD Đăng ký hoạt động nhóm trẻ đối với những nơi mạng lưới cơ sở giáo dục mầm non chưa đáp ứng đủ nhu cầu đưa trẻ tới trường, lớp",
-    "date": "13-01-2017 13:42:35",
+    "date": "13-01-2017",
     "co_quan_thuc_hien": "",
     "co_so_phap_ly": "",
     "thoi_gian_giai_quyet": "",

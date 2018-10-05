@@ -5,7 +5,7 @@
     "category": "cai-cach-hanh-chinh",
     "tag": [],
     "title": "GD_Cho phép thành lập trường THCS",
-    "date": "13-01-2017 09:27:43",
+    "date": "13-01-2017 ",
     "co_quan_thuc_hien": "",
     "co_so_phap_ly": "",
     "thoi_gian_giai_quyet": "",

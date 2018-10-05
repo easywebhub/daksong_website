@@ -5,7 +5,7 @@
     "category": "cai-cach-hanh-chinh",
     "tag": [],
     "title": "GD_Công nhận phổ cập giáo dục mầm non cho trẻ em 5 tuổi đối với đơn vị cấp cơ sở",
-    "date": "13-01-2017 10:15:55",
+    "date": "13-01-2017",
     "co_quan_thuc_hien": "",
     "co_so_phap_ly": "",
     "thoi_gian_giai_quyet": "",

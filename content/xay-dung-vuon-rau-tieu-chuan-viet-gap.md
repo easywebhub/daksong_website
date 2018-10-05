@@ -5,7 +5,7 @@
     "category": "dinh-huong-phat-trien.thong-tin-du-an-dau-tu",
     "title": "Xây dựng vườn rau theo tiêu chuẩn Viet Gap",
     "description": "Ngày 24/02/2016, UBND quyết định phê duyệt hồ sơ mời thầu gói thầu tư vấn xây dựng vườn rau theo tiêu chuẩn Viet Gap",
-    "date": "25-02-2016",
+    "date": "24-02-2016",
     "banner": "img/hop-kq.jpg",
     "tag": [],
     "permalink": true,

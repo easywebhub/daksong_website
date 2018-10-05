@@ -4,8 +4,9 @@
     "layout": "page.html",
     "title": "sơ đồ tổ chức",
     "description": "",
-    "date": "01-11-2016 14:20:33",
+    "date": "01-11-2016 00:00:00",
     "permalink": "",
+    "category": "",
     "tag": []
 }
 ---

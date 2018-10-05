@@ -5,7 +5,7 @@
     "category": "cai-cach-hanh-chinh",
     "tag": [],
     "title": "GD_Công nhận trường Tiểu học đạt mức chất lượng tối thiểu",
-    "date": "13-01-2017 10:13:33",
+    "date": "13-01-2017",
     "co_quan_thuc_hien": "",
     "co_so_phap_ly": "",
     "thoi_gian_giai_quyet": "",

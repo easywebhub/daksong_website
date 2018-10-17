@@ -1,11 +1,11 @@
 ---json
 {
-    "slug": "test-2",
+    "slug": "test1",
     "layout": "post.html",
     "category": "dinh-huong-phat-trien.quy-hoach-ke-hoach",
-    "title": "test 2",
-    "description": "123",
-    "date": "17-10-2018 16:20:57",
+    "title": "test1",
+    "description": "",
+    "date": "17-10-2018 16:53:42",
     "banner": "",
     "tag": [],
     "permalink": "",
@@ -13,4 +13,3 @@
     "url": ""
 }
 ---
-1234

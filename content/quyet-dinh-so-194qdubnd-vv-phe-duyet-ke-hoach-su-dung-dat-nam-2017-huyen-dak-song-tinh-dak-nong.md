@@ -5,7 +5,7 @@
     "category": "dinh-huong-phat-trien.quy-hoach-ke-hoach",
     "title": "Quyết định số 194/QĐ-UBND về việc phê duyệt Kế hoạch sử dụng đất năm 2017 huyện Đắk Song, tỉnh Đăk Nông",
     "description": "",
-    "date": "29-01-2017",
+    "date": "25-01-2017",
     "banner": "",
     "tag": [],
     "permalink": true,

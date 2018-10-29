@@ -1,16 +1,4 @@
 ---json
-{
-    "slug": "lop-boi-duong-nghiep-vu-cong-tac-ton-giao-co-so-nam-2017",
-    "layout": "post.html",
-    "category": "tin-tuc-su-kien.tin-y-te-giao-duc",
-    "title": "Lớp bồi dưỡng nghiệp vụ công tác tôn giáo cơ sở năm 2017",
-    "description": "Từ ngày 03 đến 05/10/2017 Phòng Nội vụ huyện Đắk Song phối hợp với Trung tâm BDCT huyện tổ chức lớp bồi dưỡng nghiệp vụ công tác tôn giao cơ sở năm 2017 cho 190 học viên là cán bộ làm công tác tôn giáo và một số chức sắc, chức việc, nhà tu hành trên địa bàn 08 xã, thị trấn.",
-    "date": "06-10-2017",
-    "banner": "",
-    "tag": [],
-    "permalink": true,
-    "draft": "",
-    "url": ""
-}
+{"slug":"lop-boi-duong-nghiep-vu-cong-tac-ton-giao-co-so-nam-2017","layout":"post.html","category":"tin-tuc-su-kien.tin-y-te-giao-duc","title":"Lớp bồi dưỡng nghiệp vụ công tác tôn giáo cơ sở năm 2017","description":"Từ ngày 03 đến 05/10/2017 Phòng Nội vụ huyện Đắk Song phối hợp với Trung tâm BDCT huyện tổ chức lớp bồi dưỡng nghiệp vụ công tác tôn giao cơ sở năm 2017 cho 190 học viên là cán bộ làm công tác tôn giáo và một số chức sắc, chức việc, nhà tu hành trên địa bàn 08 xã, thị trấn.","date":"2017-10-06T00:00:00.000Z","banner":"","tag":[],"permalink":true,"draft":"","url":""}
 ---
 <div>Tại lớp bồi dưỡng các học viên được nghiên cứu 05 chuyên đề: Báo cáo các nghị quyết hội nghị lần thứ tư, lần thứ năm Ban Chấp hành Trung ương Đảng khóa XII; Quán triệt nghị quyết số 102/2014/NĐ- CP, ngày 10/11/2014 của Chính phủ về xử phạt hành chính trong lĩnh vực đất đai; Luật đất đai năm 2013; Quán triệt Luật sô 02/2016/QH14, ngày 18/11/2016 về luật tín ngưỡng tôn giáo; Quán triệt nghị định số: 121/2013/NĐ- CP, ngày 10/10/2013 về quy định xử phạt vi phạm hành chính trong hoạt động xây dựng, kinh doanh bất động sản, khai thác, sản xuất, kinh doanh vật liệu xây dựng, quản lý công trình hạ tầng kỹ thuật, quản lý phát triển đất ở và công sở.</div><div><br></div><div>Qua lớp bồi dưỡng giúp cho các học viên &nbsp;nắm bắt được bắt được chủ trương, đường lối, chính sách của Đảng, pháp luật của Nhà nước về công tác tôn giáo trong giai đoạn hiện nay. Đồng thời, trang bị một số kỹ năng nghiệp vụ công tác tôn giáo trong tình hình mới theo tinh thần Nghị quyết Đại hội lần thứ XII của Đảng.</div><div><span class="Apple-tab-span" style="white-space:pre"><br></span>Vương Hợp</div><div><br></div>

@@ -1,17 +1,5 @@
 ---json
-{
-    "slug": "du-an-vnsat-ho-tro-nang-cap-vuon-uom",
-    "layout": "post.html",
-    "category": "tin-tuc-su-kien.tin-kinh-te",
-    "title": "Dự án VnSAT hỗ trợ nâng cấp vườn ươm",
-    "description": "Dự án VnSAT hỗ trợ nâng cấp vườn ươm và xây lắp vườn ươm giống đầu dòng cho Khu Nông nghiệp Ứng dụng công nghệ cao tỉnh Đắk Nông(XL21).",
-    "date": "29-05-2018",
-    "banner": "img/anh 1 xay dung.PNG",
-    "tag": [],
-    "permalink": "",
-    "draft": "",
-    "url": ""
-}
+{"slug":"du-an-vnsat-ho-tro-nang-cap-vuon-uom","layout":"post.html","category":"tin-tuc-su-kien.tin-kinh-te","title":"Dự án VnSAT hỗ trợ nâng cấp vườn ươm","description":"Dự án VnSAT hỗ trợ nâng cấp vườn ươm và xây lắp vườn ươm giống đầu dòng cho Khu Nông nghiệp Ứng dụng công nghệ cao tỉnh Đắk Nông(XL21).","date":"2018-05-29T00:00:00.000Z","banner":"img/anh 1 xay dung.PNG","tag":[],"permalink":"","draft":"","url":""}
 ---
 <p class="MsoPlainText"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
 mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:

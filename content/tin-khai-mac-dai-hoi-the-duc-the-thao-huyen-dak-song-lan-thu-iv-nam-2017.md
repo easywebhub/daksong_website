@@ -1,17 +1,5 @@
 ---json
-{
-    "slug": "tin-khai-mac-dai-hoi-the-duc-the-thao-huyen-dak-song-lan-thu-iv-nam-2017",
-    "layout": "post.html",
-    "category": "tin-tuc-su-kien.tin-van-hoa",
-    "title": "Khai mạc Đại hội Thể dục thể thao huyện Đăk Song lần thứ IV năm 2017",
-    "description": "Sáng nay (07/11), Đại hội thể dục thể thao (TDTT) huyện Đăk Song lần thứ IV năm 2017 đã chính thức khai mạc tại sân vận động huyện Đăk Song.",
-    "date": "07-11-2017 15:15:23",
-    "banner": "img/ĐH-TDTT-176.jpg",
-    "tag": [],
-    "permalink": true,
-    "draft": "",
-    "url": ""
-}
+{"slug":"tin-khai-mac-dai-hoi-the-duc-the-thao-huyen-dak-song-lan-thu-iv-nam-2017","layout":"post.html","category":"tin-tuc-su-kien.tin-van-hoa","title":"Khai mạc Đại hội Thể dục thể thao huyện Đăk Song lần thứ IV năm 2017","description":"Sáng nay (07/11), Đại hội thể dục thể thao (TDTT) huyện Đăk Song lần thứ IV năm 2017 đã chính thức khai mạc tại sân vận động huyện Đăk Song.","date":"2017-11-07T00:00:00.000Z","banner":"img/ĐH-TDTT-176.jpg","tag":[],"permalink":true,"draft":"","url":""}
 ---
 <p class="MsoNormal" style="text-align:justify"><span lang="EN-US" style="font-size:12.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
 mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:

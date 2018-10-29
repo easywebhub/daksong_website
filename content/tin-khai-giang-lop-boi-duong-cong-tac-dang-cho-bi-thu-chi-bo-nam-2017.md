@@ -1,17 +1,5 @@
 ---json
-{
-    "slug": "tin-khai-giang-lop-boi-duong-cong-tac-dang-cho-bi-thu-chi-bo-nam-2017",
-    "layout": "post.html",
-    "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
-    "title": "Khai giảng Lớp bồi dưỡng công tác Đảng cho Bí thư chi bộ năm 2017",
-    "description": "Thực hiện Kế hoạch số 19-KH/TTBDCT ngày 01/11/2017 của Trung tâm Bồi dưỡng chính trị huyện Đăk Song, ngày 09/11, tại Hội trường Trung tâm Bồi dưỡng chính trị huyện Đăk Song đã tổ chức Lớp bồi dưỡng công tác Đảng cho Bí thư chi bộ năm 2017.",
-    "date": "02-11-2017",
-    "banner": "img/TH-bi-thu-171.jpg",
-    "tag": [],
-    "permalink": true,
-    "draft": "",
-    "url": ""
-}
+{"slug":"tin-khai-giang-lop-boi-duong-cong-tac-dang-cho-bi-thu-chi-bo-nam-2017","layout":"post.html","category":"tin-tuc-su-kien.tin-chinh-tri-xa-hoi","title":"Khai giảng Lớp bồi dưỡng công tác Đảng cho Bí thư chi bộ năm 2017","description":"Thực hiện Kế hoạch số 19-KH/TTBDCT ngày 01/11/2017 của Trung tâm Bồi dưỡng chính trị huyện Đăk Song, ngày 09/11, tại Hội trường Trung tâm Bồi dưỡng chính trị huyện Đăk Song đã tổ chức Lớp bồi dưỡng công tác Đảng cho Bí thư chi bộ năm 2017.","date":"2017-11-02T00:00:00.000Z","banner":"img/TH-bi-thu-171.jpg","tag":[],"permalink":true,"draft":"","url":""}
 ---
 <p class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 16.5pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span lang="EN-US" style="font-size:
 13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-ascii-theme-font:major-latin;

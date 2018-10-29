@@ -1,14 +1,5 @@
 ---json
-{
-    "slug": "bo-may-hanh-chinh",
-    "layout": "page.html",
-    "title": "Bộ máy hành chính",
-    "description": "",
-    "date": "01-11-2016 ",
-    "permalink": true,
-    "category": "",
-    "tag": ""
-}
+{"slug":"bo-may-hanh-chinh","layout":"page.html","title":"Bộ máy hành chính","description":"","date":"2016-11-01T00:00:00.000Z","permalink":true,"category":"","tag":""}
 ---
 <p class="MsoNormal" align="center" style="text-align: justify; margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><b><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;">HUYỆN ỦY<o:p></o:p></span></b></p>
 

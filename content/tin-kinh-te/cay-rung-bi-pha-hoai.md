@@ -3,7 +3,7 @@
     "title":"Cây rừng mới trồng dọc quốc lộ 14 ở Đắk Song bị phá hoại",
     "description":"Cây rừng mới trồng dọc quốc lộ 14 ở Đắk Song bị phá hoại",
     "layout":"post.html",
-    "date": "2015-11-04",
+    "date": "2015-11-04T00:00:00.000Z",
    
     "banner": "/img/1898-CD-1.jpg",
     "slug": "Cay-rung-moi-trong-doc-quoc-lo-14-bi-pah-hoai",

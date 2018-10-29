@@ -1,14 +1,5 @@
 ---json
-{
-    "slug": "danh-ba",
-    "layout": "page.html",
-    "title": "Danh bạ",
-    "description": "Danh bạ các lãnh đạo HĐND & UBND huyện và lãnh đạo các phòng, ban.",
-    "date": "2016-07-24",
-    "permalink": true,
-    "category": "",
-    "tag": ""
-}
+{"slug":"danh-ba","layout":"page.html","title":"Danh bạ","description":"Danh bạ các lãnh đạo HĐND & UBND huyện và lãnh đạo các phòng, ban.","date":"2016-07-24T00:00:00.000Z","permalink":true,"category":"","tag":""}
 ---
 **I/ Lãnh đạo HĐND & UBND huyện:**
 

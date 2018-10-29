@@ -1,17 +1,5 @@
 ---json
-{
-    "slug": "lich-cong-tac-tuan-tu-28112016-den-02122016",
-    "layout": "post.html",
-    "category": "thong-tin-chi-dao.lich-lam-viec-cua-lanh-dao",
-    "title": "Lịch công tác tuần (Từ 28/11/2016 đến 02/12/2016)",
-    "description": "",
-    "date": "02-12-2016 14:09:27",
-    "banner": "img/LichLV.jpg",
-    "tag": [],
-    "permalink": true,
-    "draft": "",
-    "url": ""
-}
+{"slug":"lich-cong-tac-tuan-tu-28112016-den-02122016","layout":"post.html","category":"thong-tin-chi-dao.lich-lam-viec-cua-lanh-dao","title":"Lịch công tác tuần (Từ 28/11/2016 đến 02/12/2016)","description":"","date":"2016-12-02T00:00:00.000Z","banner":"img/LichLV.jpg","tag":[],"permalink":true,"draft":"","url":""}
 ---
 <p class="MsoNormal" align="center" style="text-align:center"><b><span lang="EN-US">HỘI
 ĐỒNG NHÂN DÂN - ỦY BAN NHÂN DÂN </span></b><b>HUYỆN ĐẮK SONG</b><br>

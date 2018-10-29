@@ -1,17 +1,5 @@
 ---json
-{
-    "slug": "hoi-nghi-thong-tin-tinh-hinh-bien-dao-viet-nam",
-    "layout": "post.html",
-    "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
-    "title": "Hội nghị thông tin tình hình biển đảo Việt Nam",
-    "description": "Hội nghị  thông tin tình hình biển, đảo Việt Nam cho lãnh đạo các phòng, ban, ngành đoàn thể trên địa bàn huyện Đăk Song",
-    "date": "09-04-2018 08:20:18",
-    "banner": "img/DSC_0860.JPG",
-    "tag": [],
-    "permalink": "",
-    "draft": "",
-    "url": ""
-}
+{"slug":"hoi-nghi-thong-tin-tinh-hinh-bien-dao-viet-nam","layout":"post.html","category":"tin-tuc-su-kien.tin-chinh-tri-xa-hoi","title":"Hội nghị thông tin tình hình biển đảo Việt Nam","description":"Hội nghị  thông tin tình hình biển, đảo Việt Nam cho lãnh đạo các phòng, ban, ngành đoàn thể trên địa bàn huyện Đăk Song","date":"2018-04-09T00:00:00.000Z","banner":"img/DSC_0860.JPG","tag":[],"permalink":"","draft":"","url":""}
 ---
 <p class="MsoNormal" style="margin-bottom: 7.5pt; text-align: justify; text-indent: 0.5in; line-height: 150%; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span lang="EN-US" style="font-size:14.0pt;
 line-height:150%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:

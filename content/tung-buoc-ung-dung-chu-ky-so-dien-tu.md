@@ -1,16 +1,4 @@
 ---json
-{
-    "slug": "tung-buoc-ung-dung-chu-ky-so-dien-tu",
-    "layout": "post.html",
-    "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
-    "title": "Từng bước ứng dụng chữ ký số điện tử",
-    "description": "Thực hiện Nghị quyết 36a/NQ-CP ngày 14/10/2015 của Chính phủ về Chính phủ điện tử, UBND tỉnh vừa ban hành các quyết định triển khai ứng dụng chữ ký số chuyên dùng trong hoạt động của các cơ quan nhà nước tỉnh, trong đó giao nhiệm vụ cho Sở Thông tin và Truyền thông chủ trì tham mưu các quy định về an toàn thông tin, đẩy mạnh cấp phát chứng thư số, chữ ký số trong hoạt động của các cơ quan nhà nước trên địa bàn.",
-    "date": "20-07-2017 09:56:56",
-    "banner": "img/CKS-7-17.jpg",
-    "tag": [],
-    "permalink": true,
-    "draft": "",
-    "url": ""
-}
+{"slug":"tung-buoc-ung-dung-chu-ky-so-dien-tu","layout":"post.html","category":"tin-tuc-su-kien.tin-chinh-tri-xa-hoi","title":"Từng bước ứng dụng chữ ký số điện tử","description":"Thực hiện Nghị quyết 36a/NQ-CP ngày 14/10/2015 của Chính phủ về Chính phủ điện tử, UBND tỉnh vừa ban hành các quyết định triển khai ứng dụng chữ ký số chuyên dùng trong hoạt động của các cơ quan nhà nước tỉnh, trong đó giao nhiệm vụ cho Sở Thông tin và Truyền thông chủ trì tham mưu các quy định về an toàn thông tin, đẩy mạnh cấp phát chứng thư số, chữ ký số trong hoạt động của các cơ quan nhà nước trên địa bàn.","date":"2017-07-20T00:00:00.000Z","banner":"img/CKS-7-17.jpg","tag":[],"permalink":true,"draft":"","url":""}
 ---
 <p style="text-align: justify;"><font color="#333333" face="Arial, sans-serif">Qua hơn 1 năm triển khai, Sở Thông tin và Truyền thông đã phối hợp với Ban Cơ yếu Chính phủ tiến hành cấp phát cho các sở, ban, ngành, UBND các huyện, thị xã; UBND các xã, phường, thị trấn hơn 1.638 chứng thư số và chữ ký số. Kết quả bước đầu triển khai chữ ký số, chứng thư số vào phần mềm văn phòng điện tử của tỉnh cho thấy đã cải thiện rất nhiều về công tác quản lý, chỉ đạo điều hành và mang lại hiệu quả thiết thực cho các đơn vị. Hoạt động này đã nâng cao hiệu quả xử lý công việc, tiết kiệm thời gian gửi nhận văn bản, chi phí phát hành văn bản; nâng cao mức độ an toàn và bảo mật cho các giao dịch qua phần mềm văn phòng điện tử giữa các cơ quan nhà nước trên môi trường mạng máy tính.</font></p><p style="text-align: justify;"><font color="#333333" face="Arial, sans-serif">Trong thời gian tới, Sở Thông tin và Truyền thông tiếp tục phối hợp với Ban Cơ yếu Chính phủ từng bước tích hợp hệ thống chữ ký số vào các phần mềm thư điện tử công vụ, phần mềm một cửa điện tử liên thông và dịch vụ công trực tuyến mức độ 3, mức độ 4 trên toàn tỉnh phục vụ tác nghiệp giữa các cơ quan nhà nước, người dân và doanh nghiệp. Từ đó, góp phần ứng dụng công nghệ thông tin phục vụ cải cách hành chính, nâng cao tính minh bạch và chỉ số minh bạch thông tin của tỉnh… tạo môi trường kết nối liên thông đồng bộ giữa tỉnh Đắk Nông với Chính phủ và các bộ, ban, ngành ở Trung ương.</font></p><p style="text-align: justify;"><font color="#333333" face="Arial, sans-serif">Chữ ký số cho phép các dữ liệu điện tử có tính pháp lý tương đương với các dữ liệu truyền thống. Ứng dụng chữ ký số bảo đảm an toàn thông tin mạng cho hoạt động ứng dụng công nghệ thông tin là nhiệm vụ quan trọng, có tính quyết định đến xây dựng thành công chính quyền điện tử tỉnh Đắk Nông.</font></p><p style="text-align: justify;"><font color="#333333" face="Arial, sans-serif">Nguồn “Đắk Nông Điện tử”<br></font></p>

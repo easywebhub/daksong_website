@@ -1,17 +1,5 @@
 ---json
-{
-    "slug": "du-an-vnsat-san-xuat-va-cung-ung-nguon-giong-cay-ca-phe-",
-    "layout": "post.html",
-    "category": "tin-tuc-su-kien.tin-kinh-te",
-    "title": "dự án VnSAT sản xuất và cung ứng nguồn giống cây cà phê ",
-    "description": "Các vườn ươm tham gia dự án VnSAT sản xuất và cung ứng nguồn giống cây cà phê  đảm bảo chất lượng phục vụ tái canh cho nông dân sản xuất cà phê.",
-    "date": "29-05-2018",
-    "banner": "img/anh 5 vuon uom.PNG",
-    "tag": [],
-    "permalink": "",
-    "draft": "",
-    "url": ""
-}
+{"slug":"du-an-vnsat-san-xuat-va-cung-ung-nguon-giong-cay-ca-phe-","layout":"post.html","category":"tin-tuc-su-kien.tin-kinh-te","title":"dự án VnSAT sản xuất và cung ứng nguồn giống cây cà phê ","description":"Các vườn ươm tham gia dự án VnSAT sản xuất và cung ứng nguồn giống cây cà phê  đảm bảo chất lượng phục vụ tái canh cho nông dân sản xuất cà phê.","date":"2018-05-29T00:00:00.000Z","banner":"img/anh 5 vuon uom.PNG","tag":[],"permalink":"","draft":"","url":""}
 ---
 <p></p><p class="MsoNormal" style="text-align:justify"><span style="font-size:12.0pt;
 line-height:107%;mso-ansi-language:EN-US">Yếu tố quyết định đến thành công

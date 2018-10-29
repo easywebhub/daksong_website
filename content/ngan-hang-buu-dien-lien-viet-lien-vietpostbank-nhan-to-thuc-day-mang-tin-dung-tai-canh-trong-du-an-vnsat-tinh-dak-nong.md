@@ -1,17 +1,5 @@
 ---json
-{
-    "slug": "ngan-hang-buu-dien-lien-viet-lien-vietpostbank-nhan-to-thuc-day-mang-tin-dung-tai-canh-trong-du-an-vnsat-tinh-dak-nong",
-    "layout": "post.html",
-    "category": "tin-tuc-su-kien.tin-kinh-te",
-    "title": "Ngân hàng Bưu điện Liên Việt (Lien Vietpostbank) nhân tố thúc đẩy mảng tín dụng tái canh trong dự án VnSAT tỉnh Đắk Nông",
-    "description": "Ngân hàng Bưu điện Liên Việt (Lien Vietpostbank) nhân tố thúc đẩy mảng tín dụng tái canh trong dự án VnSAT tỉnh Đắk Nông",
-    "date": "29-05-2018 13:40:33",
-    "banner": "img/anh 2 ngan hang.png",
-    "tag": [],
-    "permalink": "",
-    "draft": "",
-    "url": ""
-}
+{"slug":"ngan-hang-buu-dien-lien-viet-lien-vietpostbank-nhan-to-thuc-day-mang-tin-dung-tai-canh-trong-du-an-vnsat-tinh-dak-nong","layout":"post.html","category":"tin-tuc-su-kien.tin-kinh-te","title":"Ngân hàng Bưu điện Liên Việt (Lien Vietpostbank) nhân tố thúc đẩy mảng tín dụng tái canh trong dự án VnSAT tỉnh Đắk Nông","description":"Ngân hàng Bưu điện Liên Việt (Lien Vietpostbank) nhân tố thúc đẩy mảng tín dụng tái canh trong dự án VnSAT tỉnh Đắk Nông","date":"2018-05-29T00:00:00.000Z","banner":"img/anh 2 ngan hang.png","tag":[],"permalink":"","draft":"","url":""}
 ---
 <p class="MsoNormal" style="text-align:justify;text-indent:.5in"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
 mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:

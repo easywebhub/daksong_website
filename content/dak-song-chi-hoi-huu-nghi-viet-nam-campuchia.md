@@ -1,16 +1,4 @@
 ---json
-{
-    "slug": "dak-song-chi-hoi-huu-nghi-viet-nam-campuchia",
-    "layout": "post.html",
-    "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
-    "title": "Đăk Song: Chi hội hữu nghị Việt Nam - Campuchia",
-    "description": "Ngày 27/10/2017, Chi hội hữu nghị Việt Nam – Campuchia huyện đã tổ chức Đại hội Đại biểu lần thứ II, nhiệm kỳ 2017 – 2022",
-    "date": "28-10-2017",
-    "banner": "",
-    "tag": [],
-    "permalink": true,
-    "draft": "",
-    "url": ""
-}
+{"slug":"dak-song-chi-hoi-huu-nghi-viet-nam-campuchia","layout":"post.html","category":"tin-tuc-su-kien.tin-chinh-tri-xa-hoi","title":"Đăk Song: Chi hội hữu nghị Việt Nam - Campuchia","description":"Ngày 27/10/2017, Chi hội hữu nghị Việt Nam – Campuchia huyện đã tổ chức Đại hội Đại biểu lần thứ II, nhiệm kỳ 2017 – 2022","date":"2017-10-28T00:00:00.000Z","banner":"","tag":[],"permalink":true,"draft":"","url":""}
 ---
 <div><font face="Arial">Tham dự có Đồng chí Phan Văn Hợp – Tỉnh ủy viên, Bí thư Huyện ủy; Bà Trần Thị Thảo - Chủ tịch hội hữu nghị Việt Nam – CamPuChia tỉnh Đăk Nông; Ngài Nông TuNaRy - Bí thư, Chủ tịch huyện Ô Răng, tỉnh Mundulkirry Vương quốc Campuchia và lãnh đạo các phòng, ban của hội hữu nghị Việt Nam – Campuchia huyện.</font></div><div><font face="Arial"><br></font></div><div><font face="Arial">Trong nhiệm kỳ qua, với phương châm "Láng giềng tốt đẹp, Hữu nghị truyền thống, Hợp tác toàn diện, Bền vững lâu dài”, Chi hội hữu nghị Việt Nam – Campuchia huyện đã phối hợp với các ban, ngành, đoàn thể, lực lượng vũ trang, các Đồn Biên phòng đóng chân trên địa bàn huyện tổ chức các đợt thăm hỏi, tặng quà, trao đổi thông tin với lực lượng quản lý bảo vệ biên giới của CamPuChia theo định kỳ.&nbsp;</font><span style="font-family: Arial; line-height: 1.4;">Hỗ trợ trên &nbsp;800 triệu đồng từ ngân sách huyện để thăm hỏi tặng quà vào ngày lễ, tết; Tạo điều kiện thuận lợi cho nhân dân hai bên biên giới mua bán &nbsp;trao đổi hàng hóa phục vụ dân sinh, tổ chức khám chữa bệnh cho nhân dân tỉnh Ô Răng theo đúng biên bản ghi nhớ giữa hai Tỉnh Đăk Nông và tỉnh Munddikirry đã ký kết. </span></div><div><span style="font-family: Arial; line-height: 1.4;"><br></span></div><div><span style="font-family: Arial; line-height: 1.4;">Từng bước tiến hành giao lưu kết nghĩa với huyện ÔRăng, hỗ trợ giống cây trồng như khoai lang, cây mắc ca, tiêu, bơ..; Tổ chức các đoàn thăm hỏi, trao tặng gạo nhu yếu phẩm, máy vi tính,... với số tiền hơn 1 tỷ đồng. Tổ chức tuyên truyền, vun đắp tình hữu nghị &nbsp;truyền thống, hợp tác toàn diện giữa Việt Nam – CamPuChia. Củng cố tổ chức, xây dựng hội ngày càng vững mạnh.</span></div><div><font face="Arial"><br></font></div><div><font face="Arial">Tại Đại hội, các đại biểu đã tiến hành thảo luận bổ sung ý kiến vào dự thảo báo cáo, đồng thời tiến hành bầu ra Ban chấp hành khóa II gồm 13 đồng chí và bầu Đồng chí Đoàn Văn Sự - Phó bí thư Huyện ủy giữ chức Chủ tịch Chi hội hữu nghị Việt Nam – Campuchia huyện.</font></div><div><font face="Arial">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </font></div><div><font face="Arial">Vương Hợp - Xuân An</font></div><div><br></div>

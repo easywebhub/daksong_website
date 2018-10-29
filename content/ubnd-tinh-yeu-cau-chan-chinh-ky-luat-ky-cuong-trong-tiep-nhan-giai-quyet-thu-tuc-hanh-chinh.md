@@ -1,16 +1,4 @@
 ---json
-{
-    "slug": "ubnd-tinh-yeu-cau-chan-chinh-ky-luat-ky-cuong-trong-tiep-nhan-giai-quyet-thu-tuc-hanh-chinh",
-    "layout": "post.html",
-    "category": "thong-tin-chi-dao.y-kien-chi-dao-phan-hoi",
-    "title": "UBND tỉnh yêu cầu chấn chỉnh kỷ luật, kỷ cương trong tiếp nhận, giải quyết thủ tục hành chính",
-    "description": "Ngày 5/1, UBND tỉnh Đắk Nông ban hành Chỉ thị số 01/CT-UBND về việc chấn chỉnh kỷ luật, kỷ cương trong tiếp nhận, giải quyết thủ tục hành chính trên địa bàn tỉnh Đắk Nông.",
-    "date": "06-01-2017",
-    "banner": "img/phat.jpg",
-    "tag": [],
-    "permalink": true,
-    "draft": "",
-    "url": ""
-}
+{"slug":"ubnd-tinh-yeu-cau-chan-chinh-ky-luat-ky-cuong-trong-tiep-nhan-giai-quyet-thu-tuc-hanh-chinh","layout":"post.html","category":"thong-tin-chi-dao.y-kien-chi-dao-phan-hoi","title":"UBND tỉnh yêu cầu chấn chỉnh kỷ luật, kỷ cương trong tiếp nhận, giải quyết thủ tục hành chính","description":"Ngày 5/1, UBND tỉnh Đắk Nông ban hành Chỉ thị số 01/CT-UBND về việc chấn chỉnh kỷ luật, kỷ cương trong tiếp nhận, giải quyết thủ tục hành chính trên địa bàn tỉnh Đắk Nông.","date":"2017-01-06T00:00:00.000Z","banner":"img/phat.jpg","tag":[],"permalink":true,"draft":"","url":""}
 ---
 <p style="color: rgb(51, 51, 51); font-family: Arial, sans-serif; text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;Chỉ thị nêu rõ, trong những năm qua, UBND tỉnh đã triển khai nhiều biện pháp nhằm đẩy mạnh cải cách hành chính, tăng cường kỷ luật, kỷ cương hành chính, đặc biệt là trong tiếp nhận, giải quyết thủ tục hành chính (TTHC) cho tổ chức, cá nhân.</p><p style="color: rgb(51, 51, 51); font-family: Arial, sans-serif; text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;Tuy nhiên, trong quá trình tiếp nhận, giải quyết TTHC vẫn xảy ra tình trạng nhận thành phần hồ sơ ngoài quy định; thời gian giải quyết kéo dài;&nbsp;bộ phận công chức, viên chức có biểu hiện nhũng nhiễu, tiêu cực trong giải quyết công việc, gây bức xúc cho tổ chức, cá nhân; ảnh hưởng đến môi trường đầu tư, kinh doanh của tỉnh.</p><p style="color: rgb(51, 51, 51); font-family: Arial, sans-serif; text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;Để chấn chỉnh tình trạng trên, đồng thời tăng cường kỷ luật, kỷ cương hành chính trong tiếp nhận, giải quyết TTHC cho tổ chức, cá nhân, chủ tịch UBND tỉnh yêu cầu thủ trưởng các sở, ban, ngành, chủ tịch UBND các huyện, thị xã thực hiện nghiêm Quyết định số 601/QĐ-UBND ngày 22/4/2016 của UBND tỉnh quy định về cơ chế hoạt động và tiêu chuẩn công chức tại bộ phận tiếp nhận và trả kết quả các cấp trên địa bàn tỉnh; tập trung giải quyết tốt TTHC thuộc thẩm quyền được giao…</p><p style="color: rgb(51, 51, 51); font-family: Arial, sans-serif; text-align: right;"><br></p><p style="color: rgb(51, 51, 51); font-family: Arial, sans-serif; text-align: right;"><span style="color: rgb(85, 85, 85); font-size: 13px; text-align: start; background-color: rgb(245, 245, 245);">Nguồn "Đắk Nông Điện tử"</span><br></p>

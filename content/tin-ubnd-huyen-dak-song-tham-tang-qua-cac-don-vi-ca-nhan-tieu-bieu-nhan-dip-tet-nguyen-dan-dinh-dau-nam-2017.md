@@ -1,17 +1,5 @@
 ---json
-{
-    "slug": "tin-ubnd-huyen-dak-song-tham-tang-qua-cac-don-vi-ca-nhan-tieu-bieu-nhan-dip-tet-nguyen-dan-dinh-dau-nam-2017",
-    "layout": "post.html",
-    "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
-    "title": "UBND huyện Đăk Song thăm, tặng quà các đơn vị, cá nhân tiêu biểu  nhân dịp Tết Nguyên đán Đinh Dậu năm 2017",
-    "description": "Thực hiện Quyết định số 01/QĐ-UBND ngày 03/01/2017 của UBND tỉnh Đăk Nông, UBND huyện Đăk Song đã ban hành kế hoạch thăm, tặng quà các đơn vị, cá nhân tiêu biểu và gia đình chính sách dịp Tết Nguyên đán Đinh Dậu năm 2017.",
-    "date": "19-01-2017",
-    "banner": "img/Trao qua tet 2017a.jpg",
-    "tag": [],
-    "permalink": true,
-    "draft": "",
-    "url": ""
-}
+{"slug":"tin-ubnd-huyen-dak-song-tham-tang-qua-cac-don-vi-ca-nhan-tieu-bieu-nhan-dip-tet-nguyen-dan-dinh-dau-nam-2017","layout":"post.html","category":"tin-tuc-su-kien.tin-chinh-tri-xa-hoi","title":"UBND huyện Đăk Song thăm, tặng quà các đơn vị, cá nhân tiêu biểu  nhân dịp Tết Nguyên đán Đinh Dậu năm 2017","description":"Thực hiện Quyết định số 01/QĐ-UBND ngày 03/01/2017 của UBND tỉnh Đăk Nông, UBND huyện Đăk Song đã ban hành kế hoạch thăm, tặng quà các đơn vị, cá nhân tiêu biểu và gia đình chính sách dịp Tết Nguyên đán Đinh Dậu năm 2017.","date":"2017-01-19T00:00:00.000Z","banner":"img/Trao qua tet 2017a.jpg","tag":[],"permalink":true,"draft":"","url":""}
 ---
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;mso-cellspacing:0in;background:white;mso-yfti-tbllook:
  1184;mso-padding-alt:7.5pt 7.5pt 7.5pt 7.5pt">

@@ -1,17 +1,5 @@
 ---json
-{
-    "slug": "thong-bao-tuyen-dung-cong-chuc-cap-xa-tren-dia-ban-huyen-dak-song-nam-2016",
-    "layout": "post.html",
-    "category": "thong-bao-giay-moi.thong-bao",
-    "title": "Thông báo tuyển dụng công chức cấp xã trên địa bàn huyện Đăk Song năm 2016",
-    "description": "Ngày 25 tháng 10 năm 2016\nUBND huyện Đăk Song thông báo \nVề việc tuyển dụng công chức cấp xã trên địa bàn huyện Đăk Song năm 2016",
-    "date": "17-11-2016",
-    "banner": "img/T1001-10-2011-9.25.15 AM13-10-2011-12.55.52 PM10-18-2016-2.14.08 PM10-21-2016-8.37.57 AM10-25-2016-9.37.15 AM.jpg",
-    "tag": [],
-    "permalink": "",
-    "draft": "",
-    "url": ""
-}
+{"slug":"thong-bao-tuyen-dung-cong-chuc-cap-xa-tren-dia-ban-huyen-dak-song-nam-2016","layout":"post.html","category":"thong-bao-giay-moi.thong-bao","title":"Thông báo tuyển dụng công chức cấp xã trên địa bàn huyện Đăk Song năm 2016","description":"Ngày 25 tháng 10 năm 2016\nUBND huyện Đăk Song thông báo \nVề việc tuyển dụng công chức cấp xã trên địa bàn huyện Đăk Song năm 2016","date":"2016-11-17T00:00:00.000Z","banner":"img/T1001-10-2011-9.25.15 AM13-10-2011-12.55.52 PM10-18-2016-2.14.08 PM10-21-2016-8.37.57 AM10-25-2016-9.37.15 AM.jpg","tag":[],"permalink":"","draft":"","url":""}
 ---
 Ngày 25 tháng 10 năm 2016
 UBND huyện Đăk Song thông báo 

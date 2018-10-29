@@ -1,17 +1,5 @@
 ---json
-{
-    "slug": "lich-cong-tac-tuan-tu-ngay-14112016-den-ngay-18112016",
-    "layout": "post.html",
-    "category": "thong-tin-chi-dao.lich-lam-viec-cua-lanh-dao",
-    "title": "Lịch công tác tuần (Từ 14/11/2016 đến 18/11/2016)",
-    "description": "",
-    "date": "14-11-2016 09:15:16",
-    "banner": "img/LichLV.jpg",
-    "tag": [],
-    "permalink": true,
-    "draft": "",
-    "url": ""
-}
+{"slug":"lich-cong-tac-tuan-tu-ngay-14112016-den-ngay-18112016","layout":"post.html","category":"thong-tin-chi-dao.lich-lam-viec-cua-lanh-dao","title":"Lịch công tác tuần (Từ 14/11/2016 đến 18/11/2016)","description":"","date":"2016-11-14T00:00:00.000Z","banner":"img/LichLV.jpg","tag":[],"permalink":true,"draft":"","url":""}
 ---
 <p class="MsoNormal" align="center" style="text-align:center"><b>HỘI ĐỒNG NHÂN DÂN
 - ỦY BAN NHÂN DÂN </b><b><span lang="VI">HUYỆN ĐẮK

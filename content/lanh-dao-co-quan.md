@@ -1,14 +1,5 @@
 ---json
-{
-    "slug": "lanh-dao-co-quan",
-    "layout": "page.html",
-    "title": "Lãnh đạo cơ quan",
-    "description": "Tóm tắt quá trình học tập, tiểu sử của cấp lãnh đạo huyện Đắk Song",
-    "date": "06-10-2016 00:00:00",
-    "permalink": true,
-    "category": "",
-    "tag": []
-}
+{"slug":"lanh-dao-co-quan","layout":"page.html","title":"Lãnh đạo cơ quan","description":"Tóm tắt quá trình học tập, tiểu sử của cấp lãnh đạo huyện Đắk Song","date":"2016-10-06T00:00:00.000Z","permalink":true,"category":"","tag":[]}
 ---
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border: none;"></table><table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border: none;">
  <tbody><tr>

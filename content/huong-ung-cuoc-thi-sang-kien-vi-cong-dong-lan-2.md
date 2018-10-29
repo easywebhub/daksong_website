@@ -1,17 +1,5 @@
 ---json
-{
-    "slug": "huong-ung-cuoc-thi-sang-kien-vi-cong-dong-lan-2",
-    "layout": "post.html",
-    "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
-    "title": "Huyện Đăk Song hưởng ứng cuộc thi Sáng kiến vì cộng đồng lần 2",
-    "description": "Ngày 01/9/2017 UBND huyện Đăk Song ban hành Công văn số 3349/UBND-VP về việc hưởng ứng cuộc thi “Sáng kiến vì cộng đồng” lần thứ 2.",
-    "date": "01-09-2017",
-    "banner": "img/SKVCĐ17.jpg",
-    "tag": [],
-    "permalink": true,
-    "draft": "",
-    "url": ""
-}
+{"slug":"huong-ung-cuoc-thi-sang-kien-vi-cong-dong-lan-2","layout":"post.html","category":"thong-tin-chi-dao.thong-tin-tuyen-truyen","title":"Huyện Đăk Song hưởng ứng cuộc thi Sáng kiến vì cộng đồng lần 2","description":"Ngày 01/9/2017 UBND huyện Đăk Song ban hành Công văn số 3349/UBND-VP về việc hưởng ứng cuộc thi “Sáng kiến vì cộng đồng” lần thứ 2.","date":"2017-09-01T00:00:00.000Z","banner":"img/SKVCĐ17.jpg","tag":[],"permalink":true,"draft":"","url":""}
 ---
 <p class="MsoNormal"><span lang="EN-US">C</span>uộc
 thi “Sáng kiến vì cộng đồng” lần thứ 2 <span lang="EN-US">do </span>Bộ Biên tập Tạp chí Cộng sản, Bộ KH&amp;CN, Tập đoàn Điện lực

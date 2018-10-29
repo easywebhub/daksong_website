@@ -1,17 +1,5 @@
 ---json
-{
-    "slug": "ngay-1952018-ubnd-huyen-dak-song-to-chuc-phat-dong-tet-trong-cay-doi-doi-nho-on-bac-ho",
-    "layout": "post.html",
-    "category": "tin-tuc-su-kien.tin-van-hoa",
-    "title": "Ngày 19/5/2018 UBND huyện Đăk Song tổ chức phát động “Tết trồng cầy đời đời nhớ ơn Bác Hồ”",
-    "description": "Ngày 19/5/2018 UBND huyện Đăk Song tổ chức phát động “Tết trồng cầy đời đời nhớ ơn Bác Hồ”",
-    "date": "19-05-2018",
-    "banner": "img/tet trong cay 1.PNG",
-    "tag": [],
-    "permalink": "",
-    "draft": "",
-    "url": ""
-}
+{"slug":"ngay-1952018-ubnd-huyen-dak-song-to-chuc-phat-dong-tet-trong-cay-doi-doi-nho-on-bac-ho","layout":"post.html","category":"tin-tuc-su-kien.tin-van-hoa","title":"Ngày 19/5/2018 UBND huyện Đăk Song tổ chức phát động “Tết trồng cầy đời đời nhớ ơn Bác Hồ”","description":"Ngày 19/5/2018 UBND huyện Đăk Song tổ chức phát động “Tết trồng cầy đời đời nhớ ơn Bác Hồ”","date":"2018-05-19T00:00:00.000Z","banner":"img/tet trong cay 1.PNG","tag":[],"permalink":"","draft":"","url":""}
 ---
 <p class="MsoNormal"><span style="font-size: 14pt; line-height: 115%; font-family: &quot;Times New Roman&quot;, serif;">Đất nước ta đã bước vào nhiều mùa xuân mới
 kể từ ngày Bác đi xa, nhưng Tết trồng cây của Bác vẫn còn nguyên giá trị và đã

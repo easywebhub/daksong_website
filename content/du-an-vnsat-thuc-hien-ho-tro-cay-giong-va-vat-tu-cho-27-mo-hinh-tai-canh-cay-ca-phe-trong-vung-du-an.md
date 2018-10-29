@@ -1,17 +1,5 @@
 ---json
-{
-    "slug": "du-an-vnsat-thuc-hien-ho-tro-cay-giong-va-vat-tu-cho-27-mo-hinh-tai-canh-cay-ca-phe-trong-vung-du-an",
-    "layout": "post.html",
-    "category": "tin-tuc-su-kien.tin-kinh-te",
-    "title": "Dự án VnSAT Thực hiện hỗ trợ cây giống và vật tư cho 27 mô hình tái canh cây cà phê trong vùng dự án",
-    "description": "Dự án VnSAT Thực hiện hỗ trợ cây giống và vật tư cho 27 mô hình tái canh cây cà phê trong vùng dự án",
-    "date": "29-05-2018 13:32:22",
-    "banner": "img/anh 1 du an.png",
-    "tag": [],
-    "permalink": "",
-    "draft": "",
-    "url": ""
-}
+{"slug":"du-an-vnsat-thuc-hien-ho-tro-cay-giong-va-vat-tu-cho-27-mo-hinh-tai-canh-cay-ca-phe-trong-vung-du-an","layout":"post.html","category":"tin-tuc-su-kien.tin-kinh-te","title":"Dự án VnSAT Thực hiện hỗ trợ cây giống và vật tư cho 27 mô hình tái canh cây cà phê trong vùng dự án","description":"Dự án VnSAT Thực hiện hỗ trợ cây giống và vật tư cho 27 mô hình tái canh cây cà phê trong vùng dự án","date":"2018-05-29T00:00:00.000Z","banner":"img/anh 1 du an.png","tag":[],"permalink":"","draft":"","url":""}
 ---
 <p></p><p class="MsoNormal" style="text-align:justify"><span style="font-size:12.0pt;
 line-height:107%;mso-ansi-language:EN-US">Tái canh cà phê nhằm cải tạo các vườn

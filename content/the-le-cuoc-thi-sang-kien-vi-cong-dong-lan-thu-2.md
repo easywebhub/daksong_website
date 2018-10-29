@@ -1,17 +1,5 @@
 ---json
-{
-    "slug": "the-le-cuoc-thi-sang-kien-vi-cong-dong-lan-thu-2",
-    "layout": "post.html",
-    "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
-    "title": "Thể lệ cuộc thi Sáng kiến vì cộng đồng lần thứ 2",
-    "description": "Ngày 05/9/2017 Ban tuyên giáo (Huyện ủy Đăk Song) ban hành Công văn số 203-CV/BTGHU về việc hưởng ứng cuộc thi \"Sáng kiến vì cộng đồng\" lần thứ II; Chi tiết Thể lệ cuộc thi Sáng kiến vì cộng đồng lần thứ II như sau:",
-    "date": "05-09-2017",
-    "banner": "img/SangKienVCĐ17.jpg",
-    "tag": [],
-    "permalink": true,
-    "draft": "",
-    "url": ""
-}
+{"slug":"the-le-cuoc-thi-sang-kien-vi-cong-dong-lan-thu-2","layout":"post.html","category":"thong-tin-chi-dao.thong-tin-tuyen-truyen","title":"Thể lệ cuộc thi Sáng kiến vì cộng đồng lần thứ 2","description":"Ngày 05/9/2017 Ban tuyên giáo (Huyện ủy Đăk Song) ban hành Công văn số 203-CV/BTGHU về việc hưởng ứng cuộc thi \"Sáng kiến vì cộng đồng\" lần thứ II; Chi tiết Thể lệ cuộc thi Sáng kiến vì cộng đồng lần thứ II như sau:","date":"2017-09-05T00:00:00.000Z","banner":"img/SangKienVCĐ17.jpg","tag":[],"permalink":true,"draft":"","url":""}
 ---
 <p class="MsoNormal" align="center" style="text-align: left;"><b style="text-align: justify; line-height: 1.4;"><span style="font-size:12.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
 mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:

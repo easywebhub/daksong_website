@@ -1,14 +1,5 @@
 ---json
-{
-    "slug": "thong-tin-lien-lac",
-    "layout": "page.html",
-    "title": "Thông tin liên lạc",
-    "description": "",
-    "date": "31-10-2016 00:00:00",
-    "permalink": "",
-    "category": "",
-    "tag": []
-}
+{"slug":"thong-tin-lien-lac","layout":"page.html","title":"Thông tin liên lạc","description":"","date":"2016-10-31T00:00:00.000Z","permalink":"","category":"","tag":[]}
 ---
 <p class="MsoNormal" style="margin-bottom:12.0pt;line-height:14.7pt"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
 &quot;Times New Roman&quot;;color:#333333">Lãnh đạo HĐND &amp; UBND huyện:<o:p></o:p></span></b></p><table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="604" style="width: 452.95pt;">

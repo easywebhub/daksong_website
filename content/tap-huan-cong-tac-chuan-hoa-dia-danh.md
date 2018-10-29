@@ -1,17 +1,5 @@
 ---json
-{
-    "slug": "tap-huan-cong-tac-chuan-hoa-dia-danh",
-    "layout": "post.html",
-    "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
-    "title": "tập huấn công tác chuẩn hóa địa danh",
-    "description": "Hội nghị tập huấn công tác chuẩn hóa địa danh phục vụ việc lập bản đồ\n",
-    "date": "23-06-2018",
-    "banner": "img/Hội nghị tập huấn công tác chuẩn hóa địa danh phục vụ việc lập bản đồ.doc",
-    "tag": [],
-    "permalink": "",
-    "draft": "",
-    "url": ""
-}
+{"slug":"tap-huan-cong-tac-chuan-hoa-dia-danh","layout":"post.html","category":"tin-tuc-su-kien.tin-chinh-tri-xa-hoi","title":"tập huấn công tác chuẩn hóa địa danh","description":"Hội nghị tập huấn công tác chuẩn hóa địa danh phục vụ việc lập bản đồ\n","date":"2018-06-23T00:00:00.000Z","banner":"img/Hội nghị tập huấn công tác chuẩn hóa địa danh phục vụ việc lập bản đồ.doc","tag":[],"permalink":"","draft":"","url":""}
 ---
 <p class="MsoNormal" align="center" style="text-align:center;text-indent:.5in"><b><span style="font-size: 16pt; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">Hội nghị tập huấn<o:p></o:p></span></b></p>
 

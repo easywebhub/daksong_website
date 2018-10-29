@@ -14,7 +14,7 @@
                             {{displayName}}
                          {{/with}}
              </TD>
-            <TD style="TEXT-ALIGN: right; FONT-WEIGHT: normal" class="Time" vAlign="top" align="right">{{date}}</TD></TR></TBODY>
+            <TD style="TEXT-ALIGN: right; FONT-WEIGHT: normal" class="Time" vAlign="top" align="right">{{moment date lang="vi" format="DD/MM/YYYY"}}</TD></TR></TBODY>
           </TABLE>
           </DIV>
             <DIV id="part1" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts">
@@ -70,7 +70,7 @@
 				<TBODY><TR><TD class="Other" width="100%"><UL>
 				{{#each   (last ( first (lookup (lookupCategory AllCategory category) 'files') 5) 4) }}
 						 <li><a href="./{{slug}}">{{title}}</a>
-							 <SPAN class="ShowDate">({{date}})</SPAN>
+							 <SPAN class="ShowDate">({{moment date lang="vi" format="DD/MM/YYYY"}})</SPAN>
 						 </li>
 			      {{/each}}
 

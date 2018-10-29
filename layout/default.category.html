@@ -18,7 +18,7 @@
                        {{/if}}
                    {{/each}}
                 </TD>
-            <TD style="TEXT-ALIGN: right; FONT-WEIGHT: normal" class="Time" vAlign="top" align="right">{{date}}</TD></TR></TBODY>
+            <TD style="TEXT-ALIGN: right; FONT-WEIGHT: normal" class="Time" vAlign="top" align="right">{{moment date lang="vi" format="DD/MM/YYYY"}}</TD></TR></TBODY>
           </TABLE>
           </DIV>
            
@@ -55,7 +55,7 @@
 
             {{#each (first pagination.files 5)  }}
             <tr><td class="TitleFront"><a href="{{slug}}">{{title}}<span class="ShowDate">
-                      {{date}}
+                      {{moment date lang="vi" format="DD/MM/YYYY"}}
                     </span></a></td></tr>
            
             
@@ -67,7 +67,7 @@
 				<TBODY><TR><TD class="Other" width="100%"><UL>
 						{{#each pagination.files}}
 						 <li><a href="./{{slug}}">{{title}}</a>
-							 <SPAN class="ShowDate">({{date}})</SPAN>
+							 <SPAN class="ShowDate">({{moment date lang="vi" format="DD/MM/YYYY"}})</SPAN>
 						 </li>
 			             {{/each}}
 

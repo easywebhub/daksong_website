@@ -157,6 +157,15 @@
                 {
                     "title": "Kết quả giải quyết huyện",
                     "url": "tiep-dan/ket-qua-tiep-dan"
+                },
+                {
+                    "title": "TCD cấp xã & thị trấn",
+                    "url": "tiep-dan/tcd-cap-xa&thi-tran"
+                },
+                {
+                    "title": "KQGQ đơn thư cấp xã & thị trấn",
+                    "url": "tiep-dan/kqgq-don-thu-cap-xa-&-thi-tran"
+                    
                 }
             ]
         },

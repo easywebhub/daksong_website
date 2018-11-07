@@ -3,7 +3,7 @@
     "slug": "test1",
     "category": "tiep-dan.tiep-cong-dan-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "test1",
     "description": "",
     "so": "",

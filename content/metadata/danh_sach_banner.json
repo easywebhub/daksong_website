@@ -34,6 +34,10 @@
     ],
     "banner_goc_phai_trang_chu": [
         {
+            "hinh_anh": "/hinh-anh/banner/cchc.png",
+            "duong_dan": "/cai-cach-hanh-chinh/"
+        },
+        {
             "hinh_anh": "/hinh-anh/banner/lk-csdl.png",
             "duong_dan": "http://csdl.thutuchanhchinh.vn/Pages/danh-sach-thu-tuc-hanh-chinh.aspx?&filter=1&tthcDonVi=%C4%90%E1%BA%AFk%20N%C3%B4ng"
         },

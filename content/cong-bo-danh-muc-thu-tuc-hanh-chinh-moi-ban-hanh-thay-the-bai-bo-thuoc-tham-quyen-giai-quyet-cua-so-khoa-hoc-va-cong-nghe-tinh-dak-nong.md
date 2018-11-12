@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Công bố Danh mục thủ tục hành chính mới ban hành, thay thế, bãi bỏ thuộc thẩm quyền giải quyết của Sở Khoa học và Công nghệ tỉnh Đắk Nông",
     "description": "",
+    "date": "2018-11-12T02:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "Công bố Danh mục thủ tục hành chính mới ban hành, thay thế, bãi bỏ thuộc thẩm quyền giải quyết của Sở Khoa học và Công nghệ tỉnh Đắk Nông",

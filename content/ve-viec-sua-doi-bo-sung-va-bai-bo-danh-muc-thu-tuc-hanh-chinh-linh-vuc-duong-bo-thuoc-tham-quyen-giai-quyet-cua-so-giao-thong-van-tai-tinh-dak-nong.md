@@ -3,7 +3,7 @@
     "slug": "ve-viec-sua-doi-bo-sung-va-bai-bo-danh-muc-thu-tuc-hanh-chinh-linh-vuc-duong-bo-thuoc-tham-quyen-giai-quyet-cua-so-giao-thong-van-tai-tinh-dak-nong",
     "category": "cong-khai.cong-khai-thu-tuc-hanh-chinh",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Về việc sửa đổi, bổ sung và bãi bỏ Danh mục thủ tục hành chính lĩnh vực Đường bộ thuộc thẩm quyền giải quyết của Sở Giao thông vận tải tỉnh Đắk Nông",
     "description": "",
     "so": "",

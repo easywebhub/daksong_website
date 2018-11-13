@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Về việc sửa đổi, bổ sung và bãi bỏ Danh mục thủ tục hành chính lĩnh vực Đường bộ thuộc thẩm quyền giải quyết của Sở Giao thông vận tải tỉnh Đắk Nông",
     "description": "",
+    "date": "2018-11-13T02:30:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

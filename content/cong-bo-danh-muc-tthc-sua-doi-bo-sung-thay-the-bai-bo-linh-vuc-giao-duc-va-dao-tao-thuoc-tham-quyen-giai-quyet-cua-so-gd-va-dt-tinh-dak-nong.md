@@ -3,7 +3,7 @@
     "slug": "cong-bo-danh-muc-tthc-sua-doi-bo-sung-thay-the-bai-bo-linh-vuc-giao-duc-va-dao-tao-thuoc-tham-quyen-giai-quyet-cua-so-gd-va-dt-tinh-dak-nong",
     "category": "cong-khai.cong-khai-thu-tuc-hanh-chinh",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Công bố Danh mục TTHC sửa đổi, bổ sung, thay thế, bãi bỏ lĩnh vực Giáo dục và Đào tạo thuộc thẩm quyền giải quyết của Sở GD và ĐT tỉnh Đắk Nông",
     "description": "",
     "so": "",

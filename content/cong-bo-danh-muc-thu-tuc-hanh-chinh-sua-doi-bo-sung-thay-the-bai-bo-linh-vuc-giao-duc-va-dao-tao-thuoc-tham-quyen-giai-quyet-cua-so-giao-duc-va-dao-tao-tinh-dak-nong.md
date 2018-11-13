@@ -8,7 +8,7 @@
     "description": "",
     "so": "",
     "permalink": true,
-    "trich_yeu": "",
+    "trich_yeu": "Công bố Danh mục thủ tục hành chính sửa đổi, bổ sung, thay thế, bãi bỏ lĩnh vực Giáo dục và Đào tạo thuộc thẩm quyền giải quyết của Sở Giáo dục và Đào tạo tỉnh Đắk Nông",
     "co_quan_ban_hanh": "UBND tỉnh Đắk Nông",
     "linh_vuc": "",
     "loai_van_ban": "",

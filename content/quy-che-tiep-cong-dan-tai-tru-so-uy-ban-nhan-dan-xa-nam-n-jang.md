@@ -4,7 +4,7 @@
     "category": "tiep-dan.quy-che-tiep-dan",
     "tag": [],
     "layout": "van-ban.html",
-    "title": "QUY CHẾ TIẾP CÔNG DÂN TẠI TRỤ SỞ ỦY BAN NHÂN DÂN XÃ NÂM N'JANG",
+    "title": "Quy chế Tiếp công dân tại trụ sở  UBND xã Nâm N'Jang",
     "description": "",
     "date": "2018-11-06T07:08:00.000Z",
     "so": "",

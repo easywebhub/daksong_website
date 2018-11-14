@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "UBND huyện vừa có công văn số 3896 về việc triển khai các giải pháp thực hiện chính sách BHYT nhằm nâng cao tỷ lệ người dân, học sinh tham gia BHYT",
     "description": "",
-    "date": "2018-05-02T07:59:00.000Z",
+    "date": "2018-08-02T07:59:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Huyện Đak Song  Cấp GCNQSDĐ theo Kế hoạch 437 ",
     "description": "",
+    "date": "2018-05-10T07:55:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

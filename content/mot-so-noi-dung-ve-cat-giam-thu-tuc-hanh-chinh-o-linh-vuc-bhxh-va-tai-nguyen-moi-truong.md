@@ -14,7 +14,7 @@
     "loai_van_ban": "",
     "nguoi_ky": "",
     "ngay_co_hieu_luc": "",
-    "tai_lieu_dinh_kem": "/img/Cắt giảm thủ tục hành chính không cần thiết.doc",
+    "tai_lieu_dinh_kem": "/img/Cắt giảm thủ tục hành chính không cần thiết.pdf",
     "banner": "",
     "draft": false,
     "url": "",

@@ -6,6 +6,7 @@
     "tag": [],
     "layout": "post.html",
     "draft": false,
+    "upload-image": "/img/Chrysanthemum.jpg",
     "__content__": ""
 }
 ---

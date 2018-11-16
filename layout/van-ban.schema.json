@@ -137,7 +137,7 @@
             "required": false,
             "readOnly": false,
             "pattern": "",
-            "propertyOrder": 22,
+            "propertyOrder": 23,
             "minLength": 0,
             "maxLength": 140,
             "options": {
@@ -148,10 +148,26 @@
         "publishDate": {
             "type": "string",
             "format": "datetime",
-            "propertyOrder": 23,
+            "propertyOrder": 24,
             "options": {
                 "hidden": true
             }
+        },
+        "upload-image": {
+            "title": "",
+            "description": "",
+            "default": "",
+            "format": "upload",
+            "required": false,
+            "readOnly": false,
+            "pattern": "",
+            "propertyOrder": 22,
+            "minLength": 0,
+            "maxLength": 140,
+            "options": {
+                "hidden": false
+            },
+            "type": "string"
         }
     }
 }

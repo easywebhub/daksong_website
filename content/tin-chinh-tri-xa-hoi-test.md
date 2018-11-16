@@ -8,6 +8,7 @@
     "draft": false,
     "upload-image": "",
     "description": "23rwẻwe rwẻwẻ",
+    "banner": "/img/Capture6.PNG",
     "__content__": ""
 }
 ---

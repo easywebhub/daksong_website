@@ -4,7 +4,7 @@
     "properties": {
         "slug": {
             "type": "string",
-            "propertyOrder": 100,
+            "propertyOrder": 0,
             "readOnly": true,
             "options": {
                 "hidden": false
@@ -12,7 +12,7 @@
         },
         "category": {
             "type": "string",
-            "propertyOrder": 100,
+            "propertyOrder": 1,
             "options": {
                 "hidden": false
             }
@@ -20,7 +20,7 @@
         "tag": {
             "type": "array",
             "format": "checkbox",
-            "propertyOrder": 100,
+            "propertyOrder": 2,
             "uniqueItems": true,
             "items": {
                 "type": "string",
@@ -29,61 +29,61 @@
         },
         "layout": {
             "type": "string",
-            "propertyOrder": 100,
+            "propertyOrder": 3,
             "options": {
                 "hidden": true
             }
         },
         "title": {
             "type": "string",
-            "propertyOrder": 100,
+            "propertyOrder": 4,
             "options": {
                 "hidden": false
             }
         },
         "description": {
             "type": "string",
-            "propertyOrder": 1000
+            "propertyOrder": 5
         },
         "date": {
             "type": "string",
             "format": "datetime",
-            "propertyOrder": 100,
+            "propertyOrder": 6,
             "options": {
                 "hidden": false
             }
         },
         "so": {
             "type": "string",
-            "propertyOrder": 1000
+            "propertyOrder": 7
         },
         "permalink": {
             "type": "boolean",
-            "propertyOrder": 1000
+            "propertyOrder": 8
         },
         "trich_yeu": {
             "type": "string",
-            "propertyOrder": 1000
+            "propertyOrder": 9
         },
         "co_quan_ban_hanh": {
             "type": "string",
-            "propertyOrder": 1000
+            "propertyOrder": 10
         },
         "linh_vuc": {
             "type": "string",
-            "propertyOrder": 1000
+            "propertyOrder": 11
         },
         "loai_van_ban": {
             "type": "string",
-            "propertyOrder": 1000
+            "propertyOrder": 12
         },
         "nguoi_ky": {
             "type": "string",
-            "propertyOrder": 1000
+            "propertyOrder": 13
         },
         "ngay_co_hieu_luc": {
             "type": "string",
-            "propertyOrder": 1000
+            "propertyOrder": 14
         },
         "tai_lieu_dinh_kem": {
             "title": "",
@@ -93,7 +93,7 @@
             "required": false,
             "readOnly": false,
             "pattern": "",
-            "propertyOrder": 1000,
+            "propertyOrder": 15,
             "minLength": 0,
             "maxLength": 140,
             "options": {
@@ -103,44 +103,52 @@
         },
         "banner": {
             "type": "string",
-            "propertyOrder": 1000
+            "propertyOrder": 16
         },
         "draft": {
             "type": "boolean",
             "format": "checkbox",
-            "propertyOrder": 100,
+            "propertyOrder": 17,
             "options": {
                 "hidden": true
             }
         },
         "url": {
             "type": "string",
-            "propertyOrder": 1000
+            "propertyOrder": 18
         },
         "hinh_thuc_van_ban": {
             "type": "string",
-            "propertyOrder": 1000
+            "propertyOrder": 19
         },
         "ngay_ban_hanh": {
             "type": "string",
-            "propertyOrder": 1000
+            "propertyOrder": 20
         },
         "so_hieu": {
             "type": "string",
-            "propertyOrder": 1000
+            "propertyOrder": 21
         },
         "__content__": {
-            "type": "string",
+            "title": "",
+            "description": "",
+            "default": "",
             "format": "text",
-            "propertyOrder": 100,
+            "required": false,
+            "readOnly": false,
+            "pattern": "",
+            "propertyOrder": 22,
+            "minLength": 0,
+            "maxLength": 140,
             "options": {
-                "hidden": true
-            }
+                "hidden": false
+            },
+            "type": "string"
         },
         "publishDate": {
             "type": "string",
             "format": "datetime",
-            "propertyOrder": 100,
+            "propertyOrder": 23,
             "options": {
                 "hidden": true
             }

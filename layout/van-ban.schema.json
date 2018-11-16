@@ -102,8 +102,20 @@
             "type": "string"
         },
         "banner": {
-            "type": "string",
-            "propertyOrder": 16
+            "title": "",
+            "description": "",
+            "default": "",
+            "format": "upload",
+            "required": false,
+            "readOnly": false,
+            "pattern": "",
+            "propertyOrder": 16,
+            "minLength": 0,
+            "maxLength": 140,
+            "options": {
+                "hidden": false
+            },
+            "type": "string"
         },
         "draft": {
             "type": "boolean",

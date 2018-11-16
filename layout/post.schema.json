@@ -11,11 +11,20 @@
             }
         },
         "title": {
-            "type": "string",
+            "title": "Tiêu đề",
+            "description": "",
+            "default": "",
+            "format": "text",
+            "required": false,
+            "readOnly": false,
+            "pattern": "",
             "propertyOrder": 100,
+            "minLength": 0,
+            "maxLength": 140,
             "options": {
                 "hidden": false
-            }
+            },
+            "type": "string"
         },
         "category": {
             "type": "string",

@@ -4,7 +4,7 @@
     "properties": {
         "slug": {
             "type": "string",
-            "propertyOrder": 100,
+            "propertyOrder": 0,
             "readOnly": true,
             "options": {
                 "hidden": false
@@ -18,7 +18,7 @@
             "required": false,
             "readOnly": false,
             "pattern": "",
-            "propertyOrder": 100,
+            "propertyOrder": 2,
             "minLength": 0,
             "maxLength": 140,
             "options": {
@@ -34,7 +34,7 @@
             "required": false,
             "readOnly": false,
             "pattern": "",
-            "propertyOrder": 100,
+            "propertyOrder": 1,
             "minLength": 0,
             "maxLength": 140,
             "options": {
@@ -45,7 +45,7 @@
         "tag": {
             "type": "array",
             "format": "checkbox",
-            "propertyOrder": 100,
+            "propertyOrder": 5,
             "uniqueItems": true,
             "items": {
                 "type": "string",
@@ -54,23 +54,31 @@
         },
         "layout": {
             "type": "string",
-            "propertyOrder": 100,
+            "propertyOrder": 6,
             "options": {
                 "hidden": true
             }
         },
         "date": {
-            "type": "string",
+            "title": "thời gian",
+            "description": "",
+            "default": "",
             "format": "datetime",
-            "propertyOrder": 100,
+            "required": false,
+            "readOnly": false,
+            "pattern": "",
+            "propertyOrder": 4,
+            "minLength": 0,
+            "maxLength": 140,
             "options": {
                 "hidden": false
-            }
+            },
+            "type": "string"
         },
         "publishDate": {
             "type": "string",
             "format": "datetime",
-            "propertyOrder": 100,
+            "propertyOrder": 8,
             "options": {
                 "hidden": true
             }
@@ -78,7 +86,7 @@
         "draft": {
             "type": "boolean",
             "format": "checkbox",
-            "propertyOrder": 100,
+            "propertyOrder": 9,
             "options": {
                 "hidden": true
             }
@@ -91,7 +99,7 @@
             "required": false,
             "readOnly": false,
             "pattern": "",
-            "propertyOrder": 100,
+            "propertyOrder": 10,
             "minLength": 0,
             "maxLength": 140,
             "options": {
@@ -107,7 +115,7 @@
             "required": false,
             "readOnly": false,
             "pattern": "",
-            "propertyOrder": 1000,
+            "propertyOrder": 7,
             "minLength": 0,
             "maxLength": 140,
             "options": {
@@ -123,7 +131,7 @@
             "required": false,
             "readOnly": false,
             "pattern": "",
-            "propertyOrder": 1000,
+            "propertyOrder": 3,
             "minLength": 0,
             "maxLength": 140,
             "options": {

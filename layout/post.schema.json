@@ -11,7 +11,7 @@
             }
         },
         "title": {
-            "title": "Tiêu đề",
+            "title": "tiêu đề",
             "description": "",
             "default": "",
             "format": "text",
@@ -27,11 +27,20 @@
             "type": "string"
         },
         "category": {
-            "type": "string",
+            "title": "danh mục",
+            "description": "",
+            "default": "",
+            "format": "text",
+            "required": false,
+            "readOnly": false,
+            "pattern": "",
             "propertyOrder": 100,
+            "minLength": 0,
+            "maxLength": 140,
             "options": {
                 "hidden": false
-            }
+            },
+            "type": "string"
         },
         "tag": {
             "type": "array",

@@ -18,7 +18,7 @@
             "required": false,
             "readOnly": false,
             "pattern": "",
-            "propertyOrder": 2,
+            "propertyOrder": 3,
             "minLength": 0,
             "maxLength": 140,
             "options": {
@@ -45,7 +45,7 @@
         "tag": {
             "type": "array",
             "format": "checkbox",
-            "propertyOrder": 5,
+            "propertyOrder": 6,
             "uniqueItems": true,
             "items": {
                 "type": "string",
@@ -54,7 +54,7 @@
         },
         "layout": {
             "type": "string",
-            "propertyOrder": 6,
+            "propertyOrder": 7,
             "options": {
                 "hidden": true
             }
@@ -67,7 +67,7 @@
             "required": false,
             "readOnly": false,
             "pattern": "",
-            "propertyOrder": 4,
+            "propertyOrder": 5,
             "minLength": 0,
             "maxLength": 140,
             "options": {
@@ -78,7 +78,7 @@
         "publishDate": {
             "type": "string",
             "format": "datetime",
-            "propertyOrder": 8,
+            "propertyOrder": 9,
             "options": {
                 "hidden": true
             }
@@ -86,7 +86,7 @@
         "draft": {
             "type": "boolean",
             "format": "checkbox",
-            "propertyOrder": 9,
+            "propertyOrder": 10,
             "options": {
                 "hidden": true
             }
@@ -99,7 +99,7 @@
             "required": false,
             "readOnly": false,
             "pattern": "",
-            "propertyOrder": 10,
+            "propertyOrder": 11,
             "minLength": 0,
             "maxLength": 140,
             "options": {
@@ -115,7 +115,7 @@
             "required": false,
             "readOnly": false,
             "pattern": "",
-            "propertyOrder": 7,
+            "propertyOrder": 8,
             "minLength": 0,
             "maxLength": 140,
             "options": {
@@ -131,7 +131,23 @@
             "required": false,
             "readOnly": false,
             "pattern": "",
-            "propertyOrder": 3,
+            "propertyOrder": 4,
+            "minLength": 0,
+            "maxLength": 140,
+            "options": {
+                "hidden": false
+            },
+            "type": "string"
+        },
+        "banner": {
+            "title": "",
+            "description": "",
+            "default": "",
+            "format": "upload",
+            "required": false,
+            "readOnly": false,
+            "pattern": "",
+            "propertyOrder": 2,
             "minLength": 0,
             "maxLength": 140,
             "options": {

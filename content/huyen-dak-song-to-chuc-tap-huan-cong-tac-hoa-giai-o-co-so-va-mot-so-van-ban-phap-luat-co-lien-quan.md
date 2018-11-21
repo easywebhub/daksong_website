@@ -8,7 +8,7 @@
     "date": "2018-11-12T02:04:00.000Z",
     "draft": false,
     "upload-image": "/img/20181108_082252.jpg",
-    "description": "Huyện Đăk Song tổ chức tập huấn công tác hòa giải ở cơ sở và một số văn bản pháp luật có liên quan",
+    "description": "",
     "banner": "",
     "__content__": ""
 }

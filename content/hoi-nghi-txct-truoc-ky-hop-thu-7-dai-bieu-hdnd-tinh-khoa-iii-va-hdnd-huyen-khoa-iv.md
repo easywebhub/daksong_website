@@ -1,7 +1,7 @@
 ---json
 {
     "slug": "hoi-nghi-txct-truoc-ky-hop-thu-7-dai-bieu-hdnd-tinh-khoa-iii-va-hdnd-huyen-khoa-iv",
-    "title": "Hội nghị TXCT trước kỳ họp thứ 7 đại biểu HĐND tỉnh khóa III và HĐND huyện khóa IV, nhiệm kỳ 2016 - 2021 ",
+    "title": "Hội nghị TXCT trước kỳ họp thứ 7 đại biểu HĐND tỉnh khóa III và HĐND huyện khóa IV",
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",

@@ -1,15 +1,14 @@
 ---json
 {
-    "slug": "huyen-doan-to-chuc-tap-huan-chuyen-de-cong-tac-doi-va-ky-nang-xa-hoi-huyen-dak-song-nam-hoc-2018--2019",
-    "title": "Huyện đoàn tổ chức tập huấn chuyên đề công tác Đội và kỹ năng xã hội huyện Đăk Song năm học 2018- 2019",
+    "slug": "huyen-doan-to-chuc-tap-huan-chuyen-de-cong-tac-doi-va-ky-nang-xa-hoi-huyen-dak-song-nam-hoc-2018-2019",
+    "title": "Huyện đoàn tổ chức tập huấn chuyên đề công tác Đội và kỹ năng xã hội huyện Đăk Song năm học 2018-2019",
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2018-11-05T03:34:00.000Z",
     "draft": false,
     "upload-image": "/img/20181102_075920.jpg",
     "description": "",
-    "banner": "/img/20181102_080815.jpg",
+    "banner": "",
     "__content__": ""
 }
 ---
@@ -21,7 +20,7 @@
 
 <p style="text-align:justify"><span style="font-size:14.0pt"><span style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Ng&agrave;y 02/11, Tại Hội trường D&acirc;n Vận, &nbsp;Huyện đo&agrave;n tổ chức tập huấn chuy&ecirc;n đề &ldquo;c&ocirc;ng t&aacute;c Đội v&agrave; kỹ năng x&atilde; hội&rdquo; huyện Đăk Song năm học 2018- 2019 cho 30 </em></span></span></p>
 
-<p style="text-align:justify"><img alt="" src="/img/20181102_080850.jpg" /></p>
+<p style="text-align:justify"><span style="font-size:14.0pt"><span style="color:black"><em><img alt="" src="/img/20181102_080850.jpg" /></em></span></span></p>
 
 <p style="text-align:justify"><span style="font-size:14.0pt"><span style="color:black"><em>đồng ch&iacute; tổng phụ tr&aacute;ch Đội của c&aacute;c trường học tr&ecirc;n địa b&agrave;n huyện.</em></span></span></p>
 

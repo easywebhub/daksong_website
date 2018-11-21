@@ -9,7 +9,7 @@
     "draft": false,
     "upload-image": "/img/Capture4.PNG",
     "description": "Hội nghị TXCT trước kỳ họp thứ 7 đại biểu HĐND tỉnh khóa III và HĐND huyện khóa IV, nhiệm kỳ 2016 - 2021 tại xã Đăk N’Drung\n\n",
-    "banner": "",
+    "banner": "/img/Capture4.PNG",
     "__content__": ""
 }
 ---

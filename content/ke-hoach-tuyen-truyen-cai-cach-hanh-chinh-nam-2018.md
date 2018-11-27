@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Kế hoạch Tuyên truyền cải cách hành chính năm 2018",
     "description": "",
-    "date": "2018-02-28T08:26:00.000Z",
+    "date": "2018-02-28T08:07:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "Kế hoạch Tuyên truyền cải cách hành chính năm 2018",
@@ -22,8 +22,16 @@
     "hinh_thuc_van_ban": "",
     "ngay_ban_hanh": "",
     "so_hieu": "",
-    "upload-image": "/img/42-KH-UBND_20180227082743604600.PDF",
+    "upload-image": "/img/IMG_9812.JPG",
     "__content__": ""
 }
 ---
-<p><img alt="" src="/img/42-KH-UBND_20180227082743604600.PDF" /></p>
+<p><img alt="" src="/img/IMG_9807 1.jpg" /></p>
+
+<p><img alt="" src="/img/IMG_9808.JPG" /></p>
+
+<p><img alt="" src="/img/IMG_9809.JPG" /></p>
+
+<p><img alt="" src="/img/IMG_9810.JPG" /></p>
+
+<p><img alt="" src="/img/IMG_9812.JPG" /></p>

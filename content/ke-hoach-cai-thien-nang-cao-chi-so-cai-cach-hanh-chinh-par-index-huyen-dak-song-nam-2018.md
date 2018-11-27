@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Kế hoạch Cải thiện, nâng cao Chỉ số Cải cách hành chính (Par Index) huyện Đắk Song năm 2018",
     "description": "",
+    "date": "2018-06-20T07:55:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "Kế hoạch Cải thiện, nâng cao Chỉ số Cải cách hành chính (Par Index) huyện Đắk Song năm 2018",

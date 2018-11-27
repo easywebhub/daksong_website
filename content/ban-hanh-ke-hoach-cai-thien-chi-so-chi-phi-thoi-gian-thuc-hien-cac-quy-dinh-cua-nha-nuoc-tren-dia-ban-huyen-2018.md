@@ -10,8 +10,8 @@
     "so": "",
     "permalink": true,
     "trich_yeu": "Ban hành Kế hoạch cải thiện Chỉ số chi phí thời gian thực hiện các quy định của Nhà nước trên địa bàn huyện 2018",
-    "co_quan_ban_hanh": "",
-    "linh_vuc": "",
+    "co_quan_ban_hanh": "UBND HUYỆN ĐẮK SONG",
+    "linh_vuc": "Cải cách hành chính",
     "loai_van_ban": "",
     "nguoi_ky": "",
     "ngay_co_hieu_luc": "",
@@ -19,9 +19,9 @@
     "banner": "",
     "draft": false,
     "url": "",
-    "hinh_thuc_van_ban": "",
+    "hinh_thuc_van_ban": "Kế hoạch",
     "ngay_ban_hanh": "",
-    "so_hieu": "",
+    "so_hieu": "1388/QD - UBND",
     "upload-image": "/img/IMG_9844.JPG",
     "__content__": ""
 }

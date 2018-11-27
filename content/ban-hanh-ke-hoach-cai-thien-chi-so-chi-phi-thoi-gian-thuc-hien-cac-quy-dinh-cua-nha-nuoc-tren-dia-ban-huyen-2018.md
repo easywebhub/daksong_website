@@ -20,7 +20,7 @@
     "draft": false,
     "url": "",
     "hinh_thuc_van_ban": "Kế hoạch",
-    "ngay_ban_hanh": "",
+    "ngay_ban_hanh": "02-10-2017",
     "so_hieu": "1388/QD - UBND",
     "upload-image": "/img/IMG_9844.JPG",
     "__content__": ""

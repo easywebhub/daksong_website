@@ -6,18 +6,25 @@ const gulp = require('gulp');
 const browser = require('browser-sync');
 const Metalsmith = require('metalsmith');
 const Handlebars = require('handlebars');
+
+var changed = require('metalsmith-changed');
+var category = require('metalsmith-category'); 
+var updated = require('metalsmith-updated');
 require('./handlebars-helper')(Handlebars);
+//http://www.mograblog.com/2016/11/speed-up-metalsmith.html
+// require('debug').enable('metalsmith-timer')
+var timer = require('metalsmith-timer');
 
 // load metalsmith plugin
 const $ = {
-    plumber:      require('gulp-plumber'),
-    sourcemaps:   require('gulp-sourcemaps'),
-    uglify:       require('gulp-uglify'),
-    cssnano:      require('gulp-cssnano'),
+    plumber: require('gulp-plumber'),
+    sourcemaps: require('gulp-sourcemaps'),
+    uglify: require('gulp-uglify'),
+    cssnano: require('gulp-cssnano'),
     autoprefixer: require('gulp-autoprefixer'),
     inlineSource: require('gulp-inline-source'),
-    babel:        require('gulp-babel'),
-    concat:       require('gulp-concat')
+    babel: require('gulp-babel'),
+    concat: require('gulp-concat')
 };
 
 const MetalSmithProductionPlugins = [
@@ -63,6 +70,16 @@ function metalsmith(done) {
             case 'metalsmith-html-minifier':
                 ms.use(plugin('*.html', options));
                 break;
+            case 'metalsmith-category':
+                ms.use(plugin(options));
+                ms.use(changed({
+                    forcePattern: [
+                        // '**/index.md',
+                        // 'index.html'
+                    ]
+                }))
+                break;
+
             default:
                 ms.use(plugin(options));
         }
@@ -86,7 +103,7 @@ function metalsmith(done) {
 function script() {
     const IS_CONCAT = site.script.concat && site.script.concat === true;
     let concatName = 'app.js';
-    if (site.script.concatName !== undefined && typeof(site.script.concatName) === 'string')
+    if (site.script.concatName !== undefined && typeof (site.script.concatName) === 'string')
         concatName = site.script.concatName;
     let task = gulp.src(site.script.files)
         .pipe($.plumber());
@@ -94,7 +111,7 @@ function script() {
         task = task.pipe($.sourcemaps.init());
 
     // babel es6 -> es5
-    task = task.pipe($.babel({presets: ['es2015'], compact: false}));
+    task = task.pipe($.babel({ presets: ['es2015'], compact: false }));
 
     if (IS_CONCAT)
         task = task.pipe($.concat(concatName));
@@ -119,9 +136,9 @@ function inlineSource(done) {
     }
     return gulp.src(`${site.buildRoot}/**/*.html`)
         .pipe($.inlineSource({
-            rootpath:      site.buildRoot,
-            ignore:        ['svg', 'png'],
-            compress:      false,
+            rootpath: site.buildRoot,
+            ignore: ['svg', 'png'],
+            compress: false,
             swallowErrors: false
         }))
         .pipe(gulp.dest(file => {
@@ -140,7 +157,7 @@ function asset() {
 function server(done) {
     browser.init({
         server: site.buildRoot,
-        port:   site.port
+        port: site.port
     });
     done();
 }
@@ -148,8 +165,8 @@ function server(done) {
 function serverForApp(done) {
     browser.init({
         server: site.buildRoot,
-        ui:     false,
-        open:   false
+        ui: false,
+        open: false
     });
     done();
 }

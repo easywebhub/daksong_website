@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Thông báo Về việc lựa chọn tổ chức bán đấu giá tài sản",
     "description": "",
+    "date": "2018-11-29T01:04:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "Thông báo Về việc lựa chọn tổ chức bán đấu giá tài sản",

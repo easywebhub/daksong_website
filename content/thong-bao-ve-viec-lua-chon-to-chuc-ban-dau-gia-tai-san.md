@@ -16,7 +16,7 @@
     "nguoi_ky": "",
     "ngay_co_hieu_luc": "",
     "tai_lieu_dinh_kem": "/img/a dưc.PDF",
-    "banner": "",
+    "banner": "/img/IMG_9846.JPG",
     "draft": false,
     "url": "",
     "hinh_thuc_van_ban": "",

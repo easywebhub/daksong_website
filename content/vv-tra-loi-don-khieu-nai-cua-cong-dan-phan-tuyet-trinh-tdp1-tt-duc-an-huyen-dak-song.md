@@ -4,7 +4,7 @@
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
     "layout": "van-ban.html",
-    "title": "Vv trả lời đơn khiếu nại của công dân Phan Tuyết Trịnh, TDP1, tt Đức An, huyện Đắk Song",
+    "title": "Vv trả lời đơn khiếu nại của công dân Phan Tuyết Trinh, TDP1, tt Đức An, huyện Đắk Song",
     "description": "",
     "date": "2018-10-09T03:40:00.000Z",
     "so": "",

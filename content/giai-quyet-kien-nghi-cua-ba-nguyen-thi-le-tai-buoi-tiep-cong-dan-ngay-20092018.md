@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Giải quyết kiến nghị của bà Nguyễn Thị Lệ tại buổi tiếp công dân ngày 20-09-2018",
     "description": "",
+    "date": "2018-09-27T08:00:00.000Z",
     "so": "",
     "permalink": false,
     "trich_yeu": "Kết luận của đồng chí Nguyễn Ngọc Thân - Phó Chủ Tịch UBND huyện Đắk Song về việc giải quyết kiến nghị của bà Nguyễn Thị Lệ tại buổi tiếp công dân ngày 20/09/2018",
@@ -21,6 +22,7 @@
     "hinh_thuc_van_ban": "",
     "ngay_ban_hanh": "",
     "so_hieu": "136 /TB-UBND",
+    "upload-image": "",
     "__content__": ""
 }
 ---

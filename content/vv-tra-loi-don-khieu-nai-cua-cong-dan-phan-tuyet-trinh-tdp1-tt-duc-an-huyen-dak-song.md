@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Vv trả lời đơn khiếu nại của công dân Phan Tuyết Trịnh, TDP1, tt Đức An, huyện Đắk Song",
     "description": "",
-    "date": "2018-10-03T03:40:00.000Z",
+    "date": "2018-11-20T03:40:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "Vv trả lời đơn khiếu nại của công dân Phan Tuyết Trịnh, TDP1, tt Đức An, huyện Đắk Song",

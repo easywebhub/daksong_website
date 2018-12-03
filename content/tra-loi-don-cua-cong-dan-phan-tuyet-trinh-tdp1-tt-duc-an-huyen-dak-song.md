@@ -1,7 +1,7 @@
 ---json
 {
     "slug": "tra-loi-don-cua-cong-dan-phan-tuyet-trinh-tdp1-tt-duc-an-huyen-dak-song",
-    "category": "tiep-dan.ket-qua-giai-quyet-huyen",
+    "category": "tiep-dan.tiep-cong-dan-huyen",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Trả lời đơn của công dân Phan Tuyết Trinh TDP1, tt Đức An, huyện Đắk Song",

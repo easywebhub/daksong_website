@@ -28,6 +28,6 @@
 ---
 <p><img alt="" src="/img/IMG_9924.JPG" /></p>
 
-<p>V&igrave; nội dung d&agrave;i, kh&ocirc;ng thể chụp hết. Xin mời&nbsp;c&aacute;c độc giả bấm v&agrave;o file Word v&agrave; PDF ở tr&ecirc;n để theo d&otilde;i tiếp...</p>
+<p>V&igrave; nội dung d&agrave;i, kh&ocirc;ng thể chụp hết. Xin mời&nbsp;c&aacute;c độc giả bấm v&agrave;o file &quot;<span style="color:#c0392b"><em><u>Word v&agrave; PDF</u></em></span>&quot; ở tr&ecirc;n để theo d&otilde;i tiếp...</p>
 
 <p>Xin cảm ơn.</p>

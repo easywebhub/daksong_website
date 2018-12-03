@@ -1,15 +1,15 @@
 ---json
 {
-    "slug": "vv-tra-loi-don-khieu-nai-cua-cong-dan-phan-tuyet-trinh-tdp1-tt-duc-an-huyen-dak-song",
+    "slug": "tra-loi-don-cua-cong-dan-phan-tuyet-trinh-tdp1-tt-duc-an-huyen-dak-song",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
     "layout": "van-ban.html",
-    "title": "Vv trả lời đơn khiếu nại của công dân Phan Tuyết Trinh, TDP1, tt Đức An, huyện Đắk Song",
+    "title": "Trả lời đơn của công dân Phan Tuyết Trinh TDP1, tt Đức An, huyện Đắk Song",
     "description": "",
-    "date": "2018-10-09T03:40:00.000Z",
+    "date": "2018-10-03T06:18:00.000Z",
     "so": "",
     "permalink": true,
-    "trich_yeu": "Vv trả lời đơn khiếu nại của công dân Phan Tuyết Trịnh, TDP1, tt Đức An, huyện Đắk Song",
+    "trich_yeu": "",
     "co_quan_ban_hanh": "",
     "linh_vuc": "",
     "loai_van_ban": "",
@@ -35,3 +35,5 @@
 <p><img alt="" src="/img/IMG_9859.JPG" /></p>
 
 <p><img alt="" src="/img/IMG_9860.JPG" /></p>
+
+<p>&nbsp;</p>

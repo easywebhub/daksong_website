@@ -16,7 +16,7 @@
     "nguoi_ky": "",
     "ngay_co_hieu_luc": "",
     "tai_lieu_dinh_kem": "/img/New_Doc_2018-09-26_080816_20180926081122790790.pdf",
-    "banner": "/img/IMG_9928.JPG",
+    "banner": "",
     "draft": false,
     "url": "",
     "hinh_thuc_van_ban": "",

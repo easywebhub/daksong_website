@@ -1,7 +1,7 @@
 ---json
 {
     "slug": "tra-loi-don-cua-ong-dang-sy-luan-tdp2-tt-duc-an-huyen-dak-song-tinh-dak-nong",
-    "category": "tiep-dan.tcd-cap-xa&thi-tran",
+    "category": "tiep-dan.kqgq-don-thu-cap-xa-&-thi-tran",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Trả lời đơn của ông Đặng Sỹ Luận TDP2, TT Đức An, huyện Đắk Song, tỉnh Đắk Nông",

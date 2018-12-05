@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "UBND huyện vừa ban hành kế hoạch số 114, về việc cải thiện, nâng cao chỉ số cải cách hành chính năm 2018.",
     "description": "",
+    "date": "2018-10-30T02:15:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "UBND huyện vừa ban hành kế hoạch số 114, về việc cải thiện, nâng cao chỉ số cải cách hành chính năm 2018",

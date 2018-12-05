@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Một số chính sách mới nổi bật trên các lĩnh vực giáo dục, lao động, doanh nghiệp, xử phạt hành chính, có hiệu lực từ tháng 11 năm 2018",
     "description": "",
+    "date": "2018-11-12T02:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "Một số chính sách mới nổi bật trên các lĩnh vực giáo dục, lao động, doanh nghiệp, xử phạt hành chính,… có hiệu lực từ tháng 11 năm 2018. ",

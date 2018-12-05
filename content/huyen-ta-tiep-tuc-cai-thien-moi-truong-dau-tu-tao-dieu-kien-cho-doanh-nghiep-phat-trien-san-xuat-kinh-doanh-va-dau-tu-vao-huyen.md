@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Huyện Ta: Tiếp tục cải thiện môi trường đầu tư, tạo điều kiện cho doanh nghiệp phát triển sản xuất, kinh doanh và đầu tư vào huyện",
     "description": "",
+    "date": "2018-11-02T07:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "Huyện Ta: Tiếp tục cải thiện môi trường đầu tư, tạo điều kiện cho doanh nghiệp phát triển sản xuất, kinh doanh và đầu tư vào huyện",

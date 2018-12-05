@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Văn bản chỉ đạo của UBND tỉnh về triển khai công tác cải cách hành chính năm 2018",
     "description": "",
+    "date": "2018-10-22T08:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "Văn bản chỉ đạo của UBND tỉnh về triển khai công tác cải cách hành chính năm 2018. ",

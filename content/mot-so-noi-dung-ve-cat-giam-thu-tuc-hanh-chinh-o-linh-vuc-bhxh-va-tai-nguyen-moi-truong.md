@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Một số nội dung về cắt giảm thủ tục hành chính ở lĩnh vực BHXH và tài nguyên môi trường",
     "description": "",
+    "date": "2018-11-12T01:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "Một số nội dung về cắt giảm thủ tục hành chính ở lĩnh vực BHXH và tài nguyên môi trường",

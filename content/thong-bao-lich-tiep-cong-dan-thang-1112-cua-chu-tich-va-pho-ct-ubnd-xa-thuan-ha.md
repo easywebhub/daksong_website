@@ -1,7 +1,7 @@
 ---json
 {
     "slug": "thong-bao-lich-tiep-cong-dan-thang-1112-cua-chu-tich-va-pho-ct-ubnd-xa-thuan-ha",
-    "category": "tiep-dan.tcd-cap-xa&thi-tran",
+    "category": "tiep-dan.lich-tiep-cong-dan",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Thông báo Lịch tiếp công dân tháng 11,12 của Chủ tịch và Phó CT UBND xã Thuận Hà",

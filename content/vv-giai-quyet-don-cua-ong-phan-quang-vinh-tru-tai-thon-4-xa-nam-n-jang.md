@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Vv giải quyết đơn của ông Phan Quang Vinh, trú tại thôn 4 xã Nâm N'Jang",
     "description": "",
+    "date": "2018-10-11T02:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

@@ -1,0 +1,129 @@
+{
+    "_$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+        "slug": {
+            "type": "string",
+            "propertyOrder": 100,
+            "readOnly": true,
+            "options": {
+                "hidden": false
+            }
+        },
+        "layout": {
+            "type": "string",
+            "propertyOrder": 100,
+            "options": {
+                "hidden": true
+            }
+        },
+        "category": {
+            "type": "string",
+            "propertyOrder": 100,
+            "options": {
+                "hidden": false
+            }
+        },
+        "tag": {
+            "type": "array",
+            "format": "checkbox",
+            "propertyOrder": 100,
+            "uniqueItems": true,
+            "items": {
+                "type": "string",
+                "enum": []
+            }
+        },
+        "title": {
+            "type": "string",
+            "propertyOrder": 100,
+            "options": {
+                "hidden": false
+            }
+        },
+        "date": {
+            "type": "string",
+            "format": "datetime",
+            "propertyOrder": 100,
+            "options": {
+                "hidden": false
+            }
+        },
+        "co_quan_thuc_hien": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "co_so_phap_ly": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "thoi_gian_giai_quyet": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "trinh_tu_thuc_hien": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "ket_qua": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "doi_tuong_thuc_hien": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "le_phi": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "attachmments": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "tai_lieu_dinh_kem": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "yeu_cau_va_dieu_kien": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "cach_thuc_thuc_hien": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "linh_vuc": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "description": {
+            "type": "string",
+            "propertyOrder": 1000
+        },
+        "__content__": {
+            "type": "string",
+            "format": "text",
+            "propertyOrder": 100,
+            "options": {
+                "hidden": true
+            }
+        },
+        "publishDate": {
+            "type": "string",
+            "format": "datetime",
+            "propertyOrder": 100,
+            "options": {
+                "hidden": true
+            }
+        },
+        "draft": {
+            "type": "boolean",
+            "format": "checkbox",
+            "propertyOrder": 100,
+            "options": {
+                "hidden": true
+            }
+        }
+    }
+}

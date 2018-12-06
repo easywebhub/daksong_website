@@ -9,7 +9,7 @@
     "draft": false,
     "upload-image": "/img/bnh 5.png",
     "description": "",
-    "banner": "",
+    "banner": "/img/baner 2.png",
     "__content__": ""
 }
 ---

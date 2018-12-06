@@ -12,9 +12,9 @@
     "__content__": ""
 }
 ---
-<p style="text-align:justify"><em>Ng&acirc;n h&agrave;ng Sacombank (Ng&acirc;n h&agrave;ng TMCP S&agrave;i G&ograve;n Thương T&iacute;n) tham gia hệ thống b&aacute;n lẻ&nbsp; giải ng&acirc;n g&oacute;i vay t&aacute;i canh c&agrave;</em></p>
+<p><span style="font-size:14.0pt"><span style="color:red">Th&ecirc;m một địa chỉ cho n&ocirc;ng d&acirc;n lựa chọn vay vốn t&aacute;i canh c&agrave; ph&ecirc; thuộc dự &aacute;n VnSAT. </span></span></p>
 
-<p style="text-align:justify"><em>ph&ecirc; thuộc dự &aacute;n VnSAT tại tỉnh Đắk N&ocirc;ng. </em></p>
+<p style="text-align:justify"><em>Ng&acirc;n h&agrave;ng Sacombank (Ng&acirc;n h&agrave;ng TMCP S&agrave;i G&ograve;n Thương T&iacute;n) tham gia hệ thống b&aacute;n lẻ&nbsp; giải ng&acirc;n g&oacute;i vay t&aacute;i canh c&agrave; ph&ecirc; thuộc dự &aacute;n VnSAT tại tỉnh Đắk N&ocirc;ng. </em></p>
 
 <p style="text-align:justify">Ng&agrave;y 8/10/2018 Sở Giao dịch 3 &ndash; BIDV đ&atilde; c&oacute; th&ocirc;ng b&aacute;o tới Ban QLDA VnSAT 13 tỉnh, th&agrave;nh&nbsp; thực hiện dự &aacute;n về việc ng&acirc;n h&agrave;ng Sacombank ch&iacute;nh thức tham gia hệ thống b&aacute;n lẻ giải ng&acirc;n g&oacute;i vay ưu đ&atilde;i thuộc dự &aacute;n.</p>
 
@@ -24,12 +24,8 @@
 
 <p><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black"><img alt="" src="/img/bc1.png" /></span></span></span></p>
 
-<p>Số liệu giải ng&acirc;n (do Sở giao dịch 3 &ndash; BIDV cung cấp) của c&aacute;c ng&acirc;n h&agrave;ng tham gia hệ thống b&aacute;n lẻ cho vay t&aacute;i canh c&acirc;y c&agrave; ph&ecirc; tại tỉnh Đắk N&ocirc;ng.&nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>Số liệu giải ng&acirc;n (do Sở giao dịch 3 &ndash; BIDV cung cấp) của c&aacute;c ng&acirc;n h&agrave;ng tham gia hệ thống b&aacute;n lẻ cho vay t&aacute;i canh c&acirc;y c&agrave; ph&ecirc; tại tỉnh Đắk N&ocirc;ng.</p>
 
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Ho&agrave;ng Phương &ndash; VnSAT Đăk N&ocirc;ng. &nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ho&agrave;ng Phương &ndash; VnSAT Đăk N&ocirc;ng.</p>
 
-<p>http://snnptnt.daknong.gov.vn/tintuc/tonghop/Lists/Posts/Post.aspx?CategoryId=22&amp;ItemID=1029&amp;PublishedDate=2018-10-29T09:15:00Z&nbsp; &nbsp; &nbsp;</p>
-
-<p style="text-align:center">&nbsp;</p>
-
-<p style="text-align:center">&nbsp;</p>
+<p style="text-align:justify"><span style="font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">http://snnptnt.daknong.gov.vn/tintuc/tonghop/Lists/Posts/Post.aspx?CategoryId=22&amp;ItemID=1029&amp;PublishedDate=2018-10-29T09:15:00Z</span></p>

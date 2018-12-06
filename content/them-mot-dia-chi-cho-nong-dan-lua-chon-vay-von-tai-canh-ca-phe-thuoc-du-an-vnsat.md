@@ -8,7 +8,7 @@
     "draft": false,
     "upload-image": "/img/bc1.png",
     "description": "",
-    "banner": "/img/Banner02.png",
+    "banner": "",
     "__content__": ""
 }
 ---

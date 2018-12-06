@@ -6,7 +6,6 @@
     "layout": "van-ban.html",
     "title": "Quy chế Tiếp công dân tại trụ sở  UBND xã Nâm N'Jang",
     "description": "",
-    "date": "2018-11-06T07:08:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "QUY CHẾ TIẾP CÔNG DÂN TẠI TRỤ SỞ ỦY BAN NHÂN DÂN XÃ NÂM N'JANG",
@@ -22,6 +21,12 @@
     "hinh_thuc_van_ban": "",
     "ngay_ban_hanh": "27/09/2018",
     "so_hieu": "",
+    "upload-image": "/img/IMG_9969.JPG",
     "__content__": ""
 }
 ---
+<p><img alt="" src="/img/IMG_9967.JPG" /></p>
+
+<p><img alt="" src="/img/IMG_9968.JPG" /></p>
+
+<p><img alt="" src="/img/IMG_9969.JPG" /></p>

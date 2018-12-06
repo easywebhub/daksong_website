@@ -43,10 +43,10 @@
 			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">1</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:145.8pt">
-			<p><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">Agribank</span></span></span></p>
+			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">Agribank</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:163.0pt">
-			<p style="text-align:right"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">0,62</span></span></span></p>
+			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">0,62</span></span></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -54,10 +54,10 @@
 			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">2</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:145.8pt">
-			<p><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">Coopbank</span></span></span></p>
+			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">Coopbank</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:163.0pt">
-			<p style="text-align:right"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">- </span></span></span></p>
+			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">- </span></span></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -65,10 +65,10 @@
 			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">3</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:145.8pt">
-			<p><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">OCB</span></span></span></p>
+			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">OCB</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:163.0pt">
-			<p style="text-align:right"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">1,72</span></span></span></p>
+			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">1,72</span></span></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -76,10 +76,10 @@
 			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">4</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:145.8pt">
-			<p><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">VPBank</span></span></span></p>
+			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">VPBank</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:163.0pt">
-			<p style="text-align:right"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">- </span></span></span></p>
+			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">- </span></span></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -87,10 +87,10 @@
 			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">5</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:145.8pt">
-			<p><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">Techcombank</span></span></span></p>
+			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">Techcombank</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:163.0pt">
-			<p style="text-align:right"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">46,06</span></span></span></p>
+			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">46,06</span></span></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -98,10 +98,10 @@
 			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">6</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:145.8pt">
-			<p><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">ABB</span></span></span></p>
+			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">ABB</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:163.0pt">
-			<p style="text-align:right"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">- </span></span></span></p>
+			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">- </span></span></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -109,10 +109,10 @@
 			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">7</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:145.8pt">
-			<p><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">TPBank</span></span></span></p>
+			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">TPBank</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:163.0pt">
-			<p style="text-align:right"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">72,00</span></span></span></p>
+			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">72,00</span></span></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -120,10 +120,10 @@
 			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">8</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:145.8pt">
-			<p><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">LVPBank</span></span></span></p>
+			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">LVPBank</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:163.0pt">
-			<p style="text-align:right"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">28,95</span></span></span></p>
+			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">28,95</span></span></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -131,10 +131,10 @@
 			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">9</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:145.8pt">
-			<p><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">SHB</span></span></span></p>
+			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">SHB</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:163.0pt">
-			<p style="text-align:right"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">59,47</span></span></span></p>
+			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">59,47</span></span></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -142,10 +142,10 @@
 			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">10</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:145.8pt">
-			<p><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">Sacombank</span></span></span></p>
+			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">Sacombank</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:163.0pt">
-			<p style="text-align:right"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">29,99</span></span></span></p>
+			<p style="text-align:center"><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">29,99</span></span></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -153,7 +153,7 @@
 			<p style="text-align:center"><strong><u><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">TỔNG CỘNG</span></span></span></u></strong></p>
 			</td>
 			<td style="background-color:#fabf8f; width:163.0pt">
-			<p style="text-align:right"><strong><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">238,81</span></span></span></strong></p>
+			<p style="text-align:center"><strong><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">238,81</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -161,7 +161,7 @@
 			<p style="text-align:center"><strong><u><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">Tỷ lệ theo hợp phần</span></span></span></u></strong></p>
 			</td>
 			<td style="background-color:#fabf8f; width:163.0pt">
-			<p style="text-align:right"><strong><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">30,4%</span></span></span></strong></p>
+			<p style="text-align:center"><strong><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">30,4%</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -169,7 +169,7 @@
 			<p style="text-align:center"><strong><u><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">Số lượng khoản vay</span></span></span></u></strong></p>
 			</td>
 			<td style="background-color:#fabf8f; width:163.0pt">
-			<p style="text-align:right"><strong><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">551</span></span></span></strong></p>
+			<p style="text-align:center"><strong><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">551</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -177,7 +177,7 @@
 			<p style="text-align:center"><strong><u><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">Diện t&iacute;ch t&aacute;i canh (ha)</span></span></span></u></strong></p>
 			</td>
 			<td style="background-color:#fabf8f; width:163.0pt">
-			<p style="text-align:right"><strong><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">1152,84</span></span></span></strong></p>
+			<p style="text-align:center"><strong><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">1152,84</span></span></span></strong></p>
 			</td>
 		</tr>
 	</tbody>

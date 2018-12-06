@@ -23,6 +23,8 @@
 
 <p style="text-align:justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; N&ocirc;ng d&acirc;n sản xuất c&agrave; ph&ecirc; c&oacute; nhu cầu t&aacute;i canh c&agrave; ph&ecirc; trong m&ugrave;a vụ tới, cần sớm li&ecirc;n hệ với c&aacute;c ng&acirc;n h&agrave;ng tr&ecirc;n tại ph&ograve;ng giao dịch của c&aacute;c huyện, thị để được hướng dẫn thủ tục vay. Theo số liệu do Sở giao dịch 3-BIDV cung cấp, cuối qu&yacute; 3/2018 n&ocirc;ng d&acirc;n sản xuất c&agrave; ph&ecirc; thuộc v&ugrave;ng dự &aacute;n (thị x&atilde; Gia Nghĩa, huyện: Đắk Song; Đắk Mil, Đắk R&rsquo;lấp v&agrave; Đắk G&rsquo;long) đ&atilde; vay được gần 239 tỉ đồng thực hiện t&aacute;i canh <span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">1152,84</span></span></span><span style="font-size:13.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black"> hec ta c&agrave; ph&ecirc;. </span></span></span></p>
 
+<p style="text-align:justify">&nbsp;</p>
+
 <table align="left" border="1" cellspacing="0" class="Table" style="background:white; border-collapse:collapse; border:solid windowtext 1.0pt; margin-left:6.75pt; margin-right:6.75pt; width:346.8pt">
 	<tbody>
 		<tr>

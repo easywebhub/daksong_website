@@ -27,7 +27,7 @@
 
 <p>Số liệu giải ng&acirc;n (do Sở giao dịch 3 &ndash; BIDV cung cấp) của c&aacute;c ng&acirc;n h&agrave;ng tham gia hệ thống b&aacute;n lẻ cho vay t&aacute;i canh c&acirc;y c&agrave; ph&ecirc; tại tỉnh Đắk N&ocirc;ng.&nbsp;&nbsp;&nbsp; &nbsp;</p>
 
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Ho&agrave;ng Phương &ndash; VnSAT Đăk N&ocirc;ng. &nbsp; &nbsp; &nbsp;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Ho&agrave;ng Phương &ndash; VnSAT Đăk N&ocirc;ng. &nbsp; &nbsp; &nbsp;</p>
 
 <p>http://snnptnt.daknong.gov.vn/tintuc/tonghop/Lists/Posts/Post.aspx?CategoryId=22&amp;ItemID=1029&amp;PublishedDate=2018-10-29T09:15:00Z&nbsp; &nbsp; &nbsp;</p>
 

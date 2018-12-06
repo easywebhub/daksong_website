@@ -25,8 +25,3 @@
     "__content__": ""
 }
 ---
-<p><img alt="" src="/img/IMG_9967.JPG" /></p>
-
-<p><img alt="" src="/img/IMG_9968.JPG" /></p>
-
-<p><img alt="" src="/img/IMG_9969.JPG" /></p>

@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Quy chế Tiếp công dân tại trụ sở UBND xã Nâm N'Jang",
     "description": "",
-    "date": "2018-09-28T02:00:00.000Z",
+    "date": "2018-10-01T02:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

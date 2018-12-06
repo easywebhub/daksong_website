@@ -7,7 +7,7 @@
     "layout": "post.html",
     "date": "2018-12-05T06:54:00.000Z",
     "draft": false,
-    "upload-image": "",
+    "upload-image": "/img/a3.png",
     "description": "",
     "banner": "/img/abc.png",
     "__content__": ""
@@ -21,15 +21,15 @@
 
 <p style="text-align:justify"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sau một năm thực hiện, 07 m&ocirc; h&igrave;nh tr&igrave;nh diễn t&aacute;i canh c&agrave; ph&ecirc; bền vững </span><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">(tại </span><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">huyện Đăk Song, Đăk Mil, Đăk R&rsquo;lấp, thị x&atilde; Gia Nghĩa)</span> <span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">thuộc dự &aacute;n VnSAT do Trung t&acirc;m Khuyến n&ocirc;ng tỉnh trực tiếp triển khai thực hiện đều đảm bảo c&aacute;c ti&ecirc;u ch&iacute; về kỹ thuật như c&acirc;y sinh trưởng v&agrave; th&iacute;ch ứng tốt với điểu kiện kh&iacute; hậu thổ nhưỡng; C&aacute;c hộ tham gia thực hiện m&ocirc; h&igrave;nh đ&atilde; nắm bắt được quy tr&igrave;nh kỹ thuật t&aacute;i canh c&agrave; ph&ecirc; v&agrave; tiến h&agrave;nh chăm s&oacute;c m&ocirc; h&igrave;nh theo hướng dẫn của c&aacute;n bộ kỹ thuật. C&aacute;c cuộc hội thảo đầu bờ đ&atilde; được tổ chức với mong muốn chuyển giao, giới thiệu tiến bộ khoa học kỹ thuật về quy tr&igrave;nh t&aacute;i canh v&agrave; cũng l&agrave; dịp để b&agrave; con n&ocirc;ng d&acirc;n tr&ecirc;n địa b&agrave;n c&oacute; cơ hội thăm quan, chia sẻ trao đổi kinh nghiệm trong qu&aacute; tr&igrave;nh t&aacute;i canh c&agrave; ph&ecirc; g&oacute;p phần </span><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">đẩy nhanh tiến độ t&aacute;i canh </span><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">c&agrave; ph&ecirc; hiệu quả v&agrave; bền vững.</span></p>
 
-<p style="text-align:justify"><img id="Picture_x0020_5" src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image001.jpg" style="height:351pt; width:467.25pt" /></p>
+<p style="text-align:justify"><img alt="" src="/img/a1.png" /></p>
 
 <p style="text-align:justify">Trao đổi&nbsp; th&ecirc;m về nhu cầu dinh dưỡng của c&acirc;y c&agrave; ph&ecirc; với điều kiện đất c&oacute; độ PH thấp.</p>
 
-<p style="text-align:justify"><img id="Picture_x0020_1" src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image002.jpg" style="height:351pt; width:467.25pt" /></p>
+<p style="text-align:justify"><img alt="" src="/img/a2.png" /></p>
 
 <p style="text-align:justify">Theo ghi nhận, tại mỗi m&ocirc; h&igrave;nh t&aacute;i canh c&acirc;y c&agrave; ph&ecirc; &ndash; t&ugrave;y mỗi địa phương m&agrave; chủ c&aacute;c m&ocirc; h&igrave;nh đ&atilde; tiến h&agrave;nh trồng một số loại hoa m&agrave;u với phương ch&acirc;m lấy ngắn nu&ocirc;i d&agrave;i nhằm tăng nguồn thu tr&ecirc;n diện t&iacute;ch đất khi chưa c&oacute; nguồn thu về c&agrave; ph&ecirc;.</p>
 
-<p style="text-align:justify"><img id="Picture_x0020_3" src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image003.jpg" style="height:351pt; width:467.25pt" /></p>
+<p style="text-align:justify"><img alt="" src="/img/a3.png" /></p>
 
 <p style="text-align:justify">Tại hội thảo đầu bờ, Nguồn t&iacute;n dụng cho vay t&aacute;i canh thuộc dự &aacute;n được giới thiệu chi tiết đến người n&ocirc;ng d&acirc;n để họ c&oacute; thể tiếp cận v&agrave; vay để t&aacute;i canh trong thời vụ tới.</p>
 

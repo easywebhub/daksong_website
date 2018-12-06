@@ -1,7 +1,7 @@
 ---json
 {
     "slug": "them-mot-dia-chi-cho-nong-dan-lua-chon-vay-von-tai-canh-ca-phe-thuoc-du-an-vnsat-",
-    "title": "Thêm một địa chỉ cho nông dân lựa chọn vay vốn tái canh cà phê thuộc dự án VnSAT.",
+    "title": "Thêm một địa chỉ cho nông dân lựa chọn vay vốn tái canh cà phê thuộc dự án VnSAT",
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],
     "layout": "post.html",

@@ -3,9 +3,7 @@
     "slug": "huyen-dak-song-to-chuc-mit-tinh-huong-ung-thang-hanh-dong-quoc-gia-phong-chong-hivaids-nam-2018",
     "title": "Huyện Đăk Song tổ chức mít tinh hưởng ứng tháng hành động quốc gia phòng chống HIV/AIDS năm 2018",
     "category": "tin-tuc-su-kien.tin-y-te-giao-duc",
-    "tag": [
-        "tin-tuc-noi-bat"
-    ],
+    "tag": [],
     "layout": "post.html",
     "date": "2018-12-03T00:52:00.000Z",
     "draft": false,

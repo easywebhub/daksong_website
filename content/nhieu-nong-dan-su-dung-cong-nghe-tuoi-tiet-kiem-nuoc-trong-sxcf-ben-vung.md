@@ -3,9 +3,10 @@
     "slug": "nhieu-nong-dan-su-dung-cong-nghe-tuoi-tiet-kiem-nuoc-trong-sxcf-ben-vung",
     "title": "Nhiều nông dân sử dụng công nghệ tưới tiết kiệm nước trong SXCF bền vững",
     "category": "tin-tuc-su-kien.tin-kinh-te",
-    "tag": [],
+    "tag": [
+        "tin-tuc-noi-bat"
+    ],
     "layout": "post.html",
-    "date": "2018-12-06T01:42:00.000Z",
     "draft": false,
     "upload-image": "/img/bnh 5.png",
     "description": "",

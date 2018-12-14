@@ -9,7 +9,7 @@
     "date": "2018-12-05T03:07:00.000Z",
     "so": "",
     "permalink": true,
-    "trich_yeu": "",
+    "trich_yeu": "Nội dung tuyên truyền tháng 12 năm 2018",
     "co_quan_ban_hanh": "Ban Tuyên Giáo Huyện Ủy Đắk Song",
     "linh_vuc": "Tuyên truyền",
     "loai_van_ban": "",

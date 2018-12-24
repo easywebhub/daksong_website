@@ -133,7 +133,7 @@
             "pattern": "",
             "propertyOrder": 4,
             "minLength": 0,
-            "maxLength": 800,
+            "maxLength": 1200,
             "options": {
                 "hidden": false
             },

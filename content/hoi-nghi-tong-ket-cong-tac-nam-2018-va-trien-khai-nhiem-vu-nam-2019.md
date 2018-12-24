@@ -5,10 +5,9 @@
     "category": "thong-bao-giay-moi.giay-moi",
     "tag": [],
     "layout": "post.html",
-    "date": "2018-12-24T07:22:00.000Z",
     "draft": false,
     "upload-image": "/img/IMG_0057.JPG",
-    "description": "Hội nghị tổng kết công tác năm 2018 và triển khai nhiệm vụ năm 2019; giao chỉ tiêu kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách",
+    "description": "Hội nghị tổng kết công tác năm 2018 và triển khai nhiệm vụ năm 2019; giao chỉ tiêu kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2019",
     "banner": "/img/phat.jpg",
     "__content__": ""
 }

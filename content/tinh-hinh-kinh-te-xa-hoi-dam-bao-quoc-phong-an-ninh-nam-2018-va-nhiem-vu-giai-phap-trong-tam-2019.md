@@ -5,6 +5,7 @@
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
+    "date": "2018-12-24T02:43:00.000Z",
     "draft": false,
     "upload-image": "/img/7.png",
     "description": "",
@@ -25,5 +26,3 @@
 <p><img alt="" src="/img/6.png" /></p>
 
 <p><img alt="" src="/img/7.png" /></p>
-
-<p>&nbsp;</p>

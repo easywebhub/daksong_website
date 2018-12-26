@@ -7,7 +7,6 @@
         "tin-tuc-noi-bat"
     ],
     "layout": "post.html",
-    "date": "2018-12-19T07:32:00.000Z",
     "draft": false,
     "upload-image": "/img/Still1217_00003.jpg",
     "description": "Huyện Đak Song: Tổ chức Lễ ra quân trấn áp tội phạm đảm bảo an ninh chính trị, trật tự an toàn xã hội, thi đua lập thành tích kỷ niệm 15 năm thành lập tỉnh Đak Nông và bảo vệ tuyết đối an toàn Tết Nguyên Đán Kỷ hợi năm 2019.",

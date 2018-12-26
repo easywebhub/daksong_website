@@ -1,7 +1,7 @@
 ---json
 {
-    "slug": "to-chuc-le-ra-quan-tran-ap-toi-pham-dam-bao-an-ninh-chinh-tri-trat-tu-an-toan-xa-hoi-",
-    "title": "Tổ chức Lễ ra quân trấn áp tội phạm đảm bảo an ninh chính trị, trật tự an toàn xã hội.",
+    "slug": "to-chuc-le-ra-quan-tran-ap-toi-pham-dam-bao-an-ninh-chinh-tri-trat-tu-an-toan-xa-hoi",
+    "title": "Tổ chức Lễ ra quân trấn áp tội phạm đảm bảo an ninh chính trị, trật tự an toàn xã hội",
     "category": "tin-tuc-su-kien.tin-an-ninh-trat-tu",
     "tag": [
         "tin-tuc-noi-bat"

@@ -13,7 +13,7 @@
     "__content__": ""
 }
 ---
-<p style="text-align:justify"><span style="background-color:white"><span style="font-size:14.0pt"><span style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UBND huyện: Gặp mặt người ti&ecirc;u biểu, c&oacute; uy t&iacute;n trong đồng b&agrave;o d&acirc;n tộc thiểu số năm 2018.</span></span></span></p>
+<p style="text-align:justify"><span style="background-color:white"><span style="font-size:14.0pt"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp;</span></span></span></p>
 
 <p style="text-align:justify"><span style="background-color:white"><em><span style="font-size:14.0pt"><span style="color:black">S&aacute;ng ng&agrave;y 14/12/2018, UBND huyện đ&atilde; tổ chức Hội nghị gặp mặt người c&oacute; uy t&iacute;n trong đồng b&agrave;o d&acirc;n tộc thiểu số năm 2018. Đến dự c&oacute; Đồng ch&iacute; H&rsquo; Djr&acirc;n Knul &ndash; &nbsp;Ph&oacute; ban d&acirc;n tộc Tỉnh, đại diện c&aacute;c ph&ograve;ng, ban, ng&agrave;nh li&ecirc;n quan v&agrave; 26 người uy t&iacute;n trong v&ugrave;ng đồng b&agrave;o d&acirc;n tộc thiểu số. Đồng ch&iacute; Nguyễn Ngọc Th&acirc;n &ndash; Ph&oacute; chủ tịch UBND huyện chủ tr&igrave; hội nghị.</span></span></em></span></p>
 

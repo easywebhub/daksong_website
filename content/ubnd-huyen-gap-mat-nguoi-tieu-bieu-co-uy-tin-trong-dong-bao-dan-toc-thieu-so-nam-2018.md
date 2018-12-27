@@ -5,16 +5,14 @@
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],
     "layout": "post.html",
-    "date": "2018-12-26T03:00:00.000Z",
+    "date": "2018-12-26T03:38:00.000Z",
     "draft": false,
     "upload-image": "/img/5.png",
-    "description": "UBND huyện: Gặp mặt người tiêu biểu, có uy tín trong đồng bào dân tộc thiểu số năm 2018",
+    "description": "UBND huyện: Gặp mặt người tiêu biểu, có uy tín trong đồng bào dân tộc thiểu số năm 2018.",
     "banner": "/img/banner.png",
     "__content__": ""
 }
 ---
-<p style="text-align:justify"><span style="background-color:white"><span style="font-size:14.0pt"><span style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UBND huyện: Gặp mặt người ti&ecirc;u biểu, c&oacute; uy t&iacute;n trong đồng b&agrave;o d&acirc;n tộc thiểu số năm 2018.</span></span></span></p>
-
 <p style="text-align:justify"><span style="background-color:white"><em><span style="font-size:14.0pt"><span style="color:black">S&aacute;ng ng&agrave;y 14/12/2018, UBND huyện đ&atilde; tổ chức Hội nghị gặp mặt người c&oacute; uy t&iacute;n trong đồng b&agrave;o d&acirc;n tộc thiểu số năm 2018. Đến dự c&oacute; Đồng ch&iacute; H&rsquo; Djr&acirc;n Knul &ndash; &nbsp;Ph&oacute; ban d&acirc;n tộc Tỉnh, đại diện c&aacute;c ph&ograve;ng, ban, ng&agrave;nh li&ecirc;n quan v&agrave; 26 người uy t&iacute;n trong v&ugrave;ng đồng b&agrave;o d&acirc;n tộc thiểu số. Đồng ch&iacute; Nguyễn Ngọc Th&acirc;n &ndash; Ph&oacute; chủ tịch UBND huyện chủ tr&igrave; hội nghị.</span></span></em></span></p>
 
 <p style="text-align:justify"><img alt="" src="/img/1.png" /></p>
@@ -27,7 +25,7 @@
 
 <p style="text-align:center"><span style="background-color:white"><strong><span style="font-size:14.0pt"><span style="color:black">Đồng ch&iacute; Nguyễn Ngọc Th&acirc;n &ndash; Ph&oacute; chủ tịch UBND huyện ph&aacute;t biểu &yacute; kiến tại hội nghị</span></span></strong></span></p>
 
-<p style="text-align:justify"><span style="background-color:white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-size:14.0pt">Tại hội nghị, c&aacute;c đại biểu đ&atilde; nghe Ph&oacute; Chủ tịch UBND </span><span style="font-size:14.0pt">huyện Nguyễn Ngọc Th&acirc;n</span><span style="font-size:14.0pt"> b&aacute;o t&oacute;m tắt t&igrave;nh h&igrave;nh ph&aacute;t triển kinh tế-x&atilde; hội</span><span style="font-size:14.0pt">,</span><span style="font-size:14.0pt"> quốc ph&ograve;ng-an ninh tr&ecirc;n địa b&agrave;n </span><span style="font-size:14.0pt">huyện trong năm 2018; b&aacute;o c&aacute;o về</span><span style="font-size:14.0pt"> c&aacute;c chủ trương, ch&iacute;nh s&aacute;ch li&ecirc;n quan đến c&ocirc;ng t&aacute;c d&acirc;n tộc, t&ocirc;n gi&aacute;o</span> <span style="font-size:14.0pt">đang triển khai tr&ecirc;n địa b&agrave;n huyện<span style="color:black">. Trong năm 2018, huyện ta đ&atilde; triển khai x&acirc;y dụng v&agrave; b&agrave;n giao 139 căn nh&agrave; cho c&aacute;c hộ c&oacute; ho&agrave;n cảnh kh&oacute; khăn, tiến h&agrave;nh cấp 12.224 &nbsp;thẻ bhyt cho hộ ngh&egrave;o, hộ cận ngh&egrave;o v&agrave; hộ đang sinh sống tại v&ugrave;ng đặc biệt kh&oacute; khăn, đ&agrave;o tạo nghề cho 126 người, giảm ngh&egrave;o bền vững cho 2 bon đồng b&agrave;o l&agrave; bon Bu Đốp của x&atilde; Đak N&rsquo;drung v&agrave; bon Bu Păh x&atilde; Trường Xu&acirc;n, đưa 8 lao động đồng b&agrave;o d&acirc;n tộc đi xuất khẩu lao động. Qua đ&oacute; đ&atilde; gi&uacute;p c&aacute;c hộ cải thiện cuộc sống vươn l&ecirc;n tho&aacute;t ngh&egrave;o. </span></span></span></p>
+<p style="text-align:justify"><span style="background-color:white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-size:14.0pt">Tại hội nghị, c&aacute;c đại biểu đ&atilde; nghe Ph&oacute; Chủ tịch UBND </span><span style="font-size:14.0pt">huyện Nguyễn Ngọc Th&acirc;n</span><span style="font-size:14.0pt"> b&aacute;o t&oacute;m tắt t&igrave;nh h&igrave;nh ph&aacute;t triển kinh tế-x&atilde; hội</span><span style="font-size:14.0pt">,</span><span style="font-size:14.0pt"> quốc ph&ograve;ng-an ninh tr&ecirc;n địa b&agrave;n </span><span style="font-size:14.0pt">huyện trong năm 2018; b&aacute;o c&aacute;o về</span><span style="font-size:14.0pt"> c&aacute;c chủ trương, ch&iacute;nh s&aacute;ch li&ecirc;n quan đến c&ocirc;ng t&aacute;c d&acirc;n tộc, t&ocirc;n gi&aacute;o</span> <span style="font-size:14.0pt">đang triển khai tr&ecirc;n địa b&agrave;n huyện. Trong năm 2018, huyện ta đ&atilde; triển khai x&acirc;y dụng v&agrave; b&agrave;n giao 139 căn nh&agrave; cho c&aacute;c hộ c&oacute; ho&agrave;n cảnh kh&oacute; khăn, tiến h&agrave;nh cấp 12.224 &nbsp;thẻ bhyt cho hộ ngh&egrave;o, hộ cận ngh&egrave;o v&agrave; hộ đang sinh sống tại v&ugrave;ng đặc biệt kh&oacute; khăn, đ&agrave;o tạo nghề cho 126 người, giảm ngh&egrave;o bền vững cho 2 bon đồng b&agrave;o l&agrave; bon Bu Đốp của x&atilde; Đak N&rsquo;drung v&agrave; bon Bu Păh x&atilde; Trường Xu&acirc;n, đưa 8 lao<span style="color:black"> động đồng b&agrave;o d&acirc;n tộc đi xuất khẩu lao động. Qua đ&oacute; đ&atilde; gi&uacute;p c&aacute;c hộ cải thiện cuộc sống vươn l&ecirc;n tho&aacute;t ngh&egrave;o. </span></span></span></p>
 
 <p style="text-align:justify"><img alt="" src="/img/3.png" /></p>
 

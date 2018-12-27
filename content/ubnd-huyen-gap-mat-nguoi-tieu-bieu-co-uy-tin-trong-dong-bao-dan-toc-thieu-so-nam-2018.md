@@ -5,6 +5,7 @@
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],
     "layout": "post.html",
+    "date": "2018-12-26T03:00:00.000Z",
     "draft": false,
     "upload-image": "/img/5.png",
     "description": "UBND huyện: Gặp mặt người tiêu biểu, có uy tín trong đồng bào dân tộc thiểu số năm 2018",

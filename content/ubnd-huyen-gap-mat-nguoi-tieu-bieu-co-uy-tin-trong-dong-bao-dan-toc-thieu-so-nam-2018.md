@@ -8,7 +8,7 @@
     "draft": false,
     "upload-image": "/img/5.png",
     "description": "UBND huyện: Gặp mặt người tiêu biểu, có uy tín trong đồng bào dân tộc thiểu số năm 2018",
-    "banner": "",
+    "banner": "/img/banner.png",
     "__content__": ""
 }
 ---

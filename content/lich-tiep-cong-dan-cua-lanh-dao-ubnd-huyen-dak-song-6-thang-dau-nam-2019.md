@@ -5,7 +5,6 @@
     "category": "tiep-dan.lich-tiep-cong-dan",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-01-03T09:01:00.000Z",
     "draft": false,
     "upload-image": "/img/Untitled.png",
     "description": "",

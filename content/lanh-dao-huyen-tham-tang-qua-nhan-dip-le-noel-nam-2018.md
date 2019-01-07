@@ -5,16 +5,21 @@
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
+    "date": "2019-01-01T07:10:00.000Z",
     "draft": false,
     "upload-image": "/img/20181221_094245.jpg",
     "description": "",
-    "banner": "/img/20181221_08480908.jpg",
+    "banner": "",
     "__content__": ""
 }
 ---
+<p style="text-align:center"><strong><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:#333333">L&atilde;nh đạo huyện thăm, tặng qu&agrave; nh&acirc;n dịp lễ Noel năm 2018</span></span></span></strong></p>
+
+<p style="text-align:justify">&nbsp;</p>
+
 <p style="text-align:justify"><strong><em><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:#333333">Nh&acirc;n dịp Lễ Noel, s&aacute;ng ng&agrave;y 21/12, đo&agrave;n l&atilde;nh đạo huyện đ&atilde; đến thăm, tặng qu&agrave; c&aacute;c cơ sở t&ocirc;n gi&aacute;o tại c&aacute;c x&atilde; Trường Xu&acirc;n, N&acirc;m N&rsquo;jang v&agrave; x&atilde; Đăk N&rsquo;Drung. </span></span></span></em></strong></p>
 
-<p style="text-align:justify"><img alt="" src="/img/20181221_084809.jpg" /></p>
+<p style="text-align:justify"><strong><em><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:#333333"><img alt="" src="/img/20181221_084809.jpg" /></span></span></span></em></strong></p>
 
 <p style="text-align:justify"><strong><em><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:#333333">Đồng ch&iacute; Nguyễn Hữu Kh&aacute;nh &ndash; Ph&oacute; B&iacute; thư, Chủ tịch HĐND huyện l&agrave;m trưởng đo&agrave;n.</span></span></span></em></strong></p>
 
@@ -22,8 +27,12 @@
 
 <p style="text-align:justify"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:#333333"><img alt="" src="/img/20181221_092003.jpg" /></span></span></span></p>
 
-<p style="text-align:justify"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:#333333"><img alt="" src="/img/20181221_094245.jpg" /></span></span></span></p>
+<p style="text-align:justify"><img alt="" src="/img/20181221_094245.jpg" /></p>
 
 <p style="text-align:justify"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:#333333">C&aacute;c chức sắc t&ocirc;n gi&aacute;o đ&atilde; b&agrave;y tỏ sự vui mừng, phấn khởi v&agrave; gửi lời cảm ơn trước sự quan t&acirc;m của l&atilde;nh đạo c&aacute;c cấp đối với đồng b&agrave;o c&oacute; đạo, đồng thời nhấn mạnh sẽ tiếp tục tuy&ecirc;n truyền b&agrave; con gi&aacute;o d&acirc;n ph&aacute;t huy hơn nữa tinh thần đo&agrave;n kết d&acirc;n tộc, sống ph&uacute;c &acirc;m trong l&ograve;ng d&acirc;n tộc v&agrave; lu&ocirc;n tương trợ, gi&uacute;p đỡ lẫn nhau trong cuộc sống, c&ugrave;ng Đảng bộ, ch&iacute;nh quyền v&agrave; nh&acirc;n d&acirc;n huyện Đăk Song x&acirc;y dựng qu&ecirc; hương ng&agrave;y c&agrave;ng gi&agrave;u đẹp./.</span></span></span></p>
 
 <p style="text-align:right"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:#333333">Kim Ng&acirc;n</span></span></span></p>
+
+<p style="text-align:right"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:#333333">Đ&agrave;i Đăk Song</span></span></span></p>
+
+<p style="text-align:justify">&nbsp;</p>

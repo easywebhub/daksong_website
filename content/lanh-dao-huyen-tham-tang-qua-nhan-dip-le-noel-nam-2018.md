@@ -9,7 +9,7 @@
     "draft": false,
     "upload-image": "/img/20181221_094245.jpg",
     "description": "",
-    "banner": "",
+    "banner": "/img/20181221_084809789.jpg",
     "__content__": ""
 }
 ---

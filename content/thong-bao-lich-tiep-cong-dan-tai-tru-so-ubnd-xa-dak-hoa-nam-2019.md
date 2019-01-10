@@ -16,7 +16,7 @@
     "nguoi_ky": "",
     "ngay_co_hieu_luc": "",
     "tai_lieu_dinh_kem": "/img/TB_tiep_cong_dan_xa dak hoa.pdf",
-    "banner": "",
+    "banner": "/img/images.jpg",
     "draft": false,
     "url": "",
     "hinh_thuc_van_ban": "",

@@ -5,12 +5,14 @@
     "category": "tiep-dan.lich-tiep-cong-dan",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-01-03T07:17:00.000Z",
+    "date": "2019-01-04T07:17:00.000Z",
     "draft": false,
-    "upload-image": "/img/Untitled.png",
+    "upload-image": "/img/ds 2.png",
     "description": "",
     "banner": "/img/banner.jpg",
     "__content__": ""
 }
 ---
-<p><img alt="" src="/img/Untitled.png" /></p>
+<p><img alt="" src="/img/ds 1.png" /></p>
+
+<p><img alt="" src="/img/ds 2.png" /></p>

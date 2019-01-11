@@ -28,3 +28,7 @@
 <p><img alt="" src="/img/Nq 1.png" /></p>
 
 <p><img alt="" src="/img/Nq 2.png" /></p>
+
+<p>...(c&ograve;n tiếp)</p>
+
+<p>Mời c&aacute;c bạn b&acirc;m v&agrave;o file <span style="color:#c0392b"><em><u>&quot;PDF&amp;WORD&quot;</u></em></span> để theo d&otilde;i tiếp, xin cảm ơn!</p>

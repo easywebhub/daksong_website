@@ -30,4 +30,8 @@
 
 <p><img alt="" src="/img/CK 2.png" /></p>
 
-<p><img alt="" src="/img/CK 3.png" /></p>
+<p><img alt="" src="/img/CK 3.png" />&nbsp;</p>
+
+<p>...(c&ograve;n tiếp)</p>
+
+<p>Mời c&aacute;c bạn bấm v&agrave;o file <u><em>&quot;<span style="color:#c0392b">PDF &amp; WORD&quot;</span></em></u><span style="color:#7f8c8d"> </span><span style="color:#000000">ở tr&ecirc;n c&ugrave;ng, xin cảm ơn</span></p>

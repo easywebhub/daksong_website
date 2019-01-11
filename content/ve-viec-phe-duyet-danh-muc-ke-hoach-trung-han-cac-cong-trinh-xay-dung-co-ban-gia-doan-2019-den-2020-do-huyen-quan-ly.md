@@ -16,7 +16,7 @@
     "nguoi_ky": "",
     "ngay_co_hieu_luc": "",
     "tai_lieu_dinh_kem": "/img/28-NQ-HDND_20190104025930945940.PDF",
-    "banner": "",
+    "banner": "/img/NQ pd 01 - Copy.png",
     "draft": false,
     "url": "",
     "hinh_thuc_van_ban": "",

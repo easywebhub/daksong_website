@@ -1,7 +1,7 @@
 ---json
 {
     "slug": "thuc-hien-thong-tu-cua-bo-cong-thuong-va-tang-cuong-cong-tac-bao-dam-an-toan-thuc-pham-truoc-trong-va-sau-tet-nguyen-dan-ky-hoi-nam-2019",
-    "category": "tin-tuc-su-kien.tin-y-te-giao-duc",
+    "category": "thong-tin-chi-dao.chuyen-muc-cchc",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Thực hiện Thông tư của Bộ Công Thương và tăng cường công tác bảo đảm an toàn thực phẩm trước, trong và sau Tết Nguyên đán Kỷ Hợi năm 2019",

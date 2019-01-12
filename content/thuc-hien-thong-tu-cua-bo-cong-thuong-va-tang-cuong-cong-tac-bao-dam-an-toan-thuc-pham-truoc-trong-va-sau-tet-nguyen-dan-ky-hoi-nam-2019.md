@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Thực hiện Thông tư của Bộ Công Thương và tăng cường công tác bảo đảm an toàn thực phẩm trước, trong và sau Tết Nguyên đán Kỷ Hợi năm 2019",
     "description": "V/v hướng dẫn thực hiện Thông tư số 43/2018/TT-BCT ngày 15/11/2018 của Bộ Công Thương và tăng cường công tác bảo đảm an toàn thực phẩm trước, trong và sau Tết Nguyên đán Kỷ Hợi năm 2019.",
+    "date": "2019-01-01T05:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

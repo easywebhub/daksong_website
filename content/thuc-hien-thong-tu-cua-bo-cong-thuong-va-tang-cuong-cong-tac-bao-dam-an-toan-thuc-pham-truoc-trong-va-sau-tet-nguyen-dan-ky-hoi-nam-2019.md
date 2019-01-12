@@ -1,12 +1,11 @@
 ---json
 {
     "slug": "thuc-hien-thong-tu-cua-bo-cong-thuong-va-tang-cuong-cong-tac-bao-dam-an-toan-thuc-pham-truoc-trong-va-sau-tet-nguyen-dan-ky-hoi-nam-2019",
-    "category": "thong-tin-chi-dao.chuyen-muc-cchc",
+    "category": "tin-tuc-su-kien.tin-y-te-giao-duc",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Thực hiện Thông tư của Bộ Công Thương và tăng cường công tác bảo đảm an toàn thực phẩm trước, trong và sau Tết Nguyên đán Kỷ Hợi năm 2019",
     "description": "V/v hướng dẫn thực hiện Thông tư số 43/2018/TT-BCT ngày 15/11/2018 của Bộ Công Thương và tăng cường công tác bảo đảm an toàn thực phẩm trước, trong và sau Tết Nguyên đán Kỷ Hợi năm 2019.",
-    "date": "2019-01-01T03:04:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

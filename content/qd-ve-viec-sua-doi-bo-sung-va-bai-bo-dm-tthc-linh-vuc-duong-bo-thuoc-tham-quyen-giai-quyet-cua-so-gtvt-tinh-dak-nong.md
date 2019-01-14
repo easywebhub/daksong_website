@@ -16,7 +16,7 @@
     "nguoi_ky": "",
     "ngay_co_hieu_luc": "",
     "tai_lieu_dinh_kem": "/img/qd_1674_1signed_20181023104810117110_000.00.00.H16.pdf",
-    "banner": "",
+    "banner": "/img/1 - Copy.png",
     "draft": false,
     "url": "",
     "hinh_thuc_van_ban": "",

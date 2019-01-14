@@ -30,4 +30,10 @@
 
 <p><img alt="" src="/img/c2.png" /></p>
 
+<p>&hellip;(c&ograve;n tiếp)</p>
+
+<p>V&igrave; nội dung d&agrave;i, mời&nbsp;c&aacute;c bạn bấm v&agrave;o file&nbsp;<span style="color:#c0392b"><em><u><strong>PDF &amp; WORD</strong></u></em></span>&nbsp;ở tr&ecirc;n&nbsp;để theo d&otilde;i tiếp.</p>
+
+<p>Xin cảm ơn!</p>
+
 <p>&nbsp;</p>

@@ -5,7 +5,7 @@
     "tag": [],
     "layout": "van-ban.html",
     "title": "QĐ công bố DM TTHC mới ban hành/ sửa đổi, bổ sung/bãi bỏ lĩnh vực vốn hỗ trợ phát triển chính thức(ODA) vốn vay hỗ trợ ưu đãi",
-    "description": "",
+    "description": "QUYẾT ĐỊNH Về việc công bố danh mục thủ tục hành chính mới ban hành/sửa đổi,  bổ sung/bãi bỏ lĩnh vực vốn hỗ trợ phát triển chính thức (ODA),  vốn vay ưu đãi của các nhà tài trợ nước ngoài thuộc thẩm quyền  giải quyết của Sở Kế hoạch và Đầu tư tỉnh Đắk Nông",
     "date": "2019-01-14T02:55:00.000Z",
     "so": "",
     "permalink": true,

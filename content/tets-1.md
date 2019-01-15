@@ -7,7 +7,7 @@
         "tin-tuc-khong-noi-bat"
     ],
     "layout": "post.html",
-    "date": "2019-01-14T09:15:00.000Z",
+    "date": "2019-01-15T09:15:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "",

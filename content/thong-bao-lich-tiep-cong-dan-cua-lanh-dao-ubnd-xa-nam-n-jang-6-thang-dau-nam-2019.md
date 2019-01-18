@@ -5,6 +5,7 @@
     "category": "tiep-dan.lich-tiep-cong-dan",
     "tag": [],
     "layout": "post.html",
+    "date": "2019-01-18T00:50:00.000Z",
     "draft": false,
     "upload-image": "/img/L04.png",
     "description": "",
@@ -19,5 +20,3 @@
 <p><img alt="" src="/img/L03.png" /></p>
 
 <p><img alt="" src="/img/L04.png" /></p>
-
-<p>&nbsp;</p>

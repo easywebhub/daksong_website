@@ -5,6 +5,7 @@
     "category": "tiep-dan.lich-tiep-cong-dan",
     "tag": [],
     "layout": "post.html",
+    "date": "2019-01-11T02:39:00.000Z",
     "draft": false,
     "upload-image": "/img/hy02.png",
     "description": "Thông báo lịch TCD của Thường trực Huyện ủy và Hội đồng nhân dân huyện Đắk Song 6 tháng đầu năm 2019.",

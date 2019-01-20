@@ -7,7 +7,7 @@
     "layout": "post.html",
     "draft": false,
     "upload-image": "/img/hy02.png",
-    "description": "",
+    "description": "Thông báo lịch TCD của Thường trực Huyện ủy và Hội đồng nhân dân huyện Đắk Song 6 tháng đầu năm 2019.",
     "banner": "/img/banerhy.png",
     "__content__": ""
 }

@@ -3,7 +3,9 @@
     "slug": "test123",
     "title": "test123",
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
-    "tag": [],
+    "tag": [
+        "tin-tuc-noi-bat"
+    ],
     "layout": "post.html",
     "date": "2019-01-20T08:35:00.000Z",
     "draft": false,

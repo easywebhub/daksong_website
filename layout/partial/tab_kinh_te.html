@@ -17,7 +17,7 @@
                 <div class="news-tab">
                     {{#each (first (lookup (lookupCategory ../AllCategory this.collections_name) 'files') 6)}}
                     {{#if @first}}
-                    <div class="news-tab-thumb-item-0">
+                    <div class="news-tab-thumb-item-0"> 
                         <div class="news-tab-thumb-item-left-0">
                             <a href="{{slug}}" class="news-tab-img-link-0">
                                 <img alt="" src="./{{this.banner}}" class="news-tab-img-0"></a>
@@ -25,10 +25,15 @@
                         <div class="news-tab-thumb-item-right-0">
                             <div class="news-tab-thumb-item-title-0">
                                 <a href="{{slug}}" class="news-tab-title-link-0">
+<<<<<<< HEAD
                                     {{this.title}}({{moment this.date "YYYY-MM-D"}}) </a>
+=======
+                                    {{this.title}}({{moment this.date "YYYY-MM-D"}})</a>
+                                    
+>>>>>>> 1ae7669d6dcd54121faac7fdc70cce4c4fc61609
                             </div>
                             <div class="news-tab-thumb-item-content-0">
-                                {{this.description}}
+                                {{this.description}} 
                             </div>
                         </div>
                     </div>

@@ -34,6 +34,15 @@ module.exports = function (Handlebars) {
         return url.replace('index.html', '');
     });
 
+    Handlebars.registerHelper('ifIn', function(elem, list, options) {
+        console.log('list, ele',list, elem);
+        console.log('list.indexOf(elem)', list.indexOf(elem));
+        if(list.indexOf(elem) > -1) {
+          return options.fn(this);
+        }
+        return options.inverse(this);
+      });
+
     Handlebars.registerHelper('formatDate', function (context, options) {
         var format = options.hash.format || "YYYY-MM-DD";
 

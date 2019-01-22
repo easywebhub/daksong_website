@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "lanh-dao-huyen-tham-tang-qua-nhan-dip-le-noel-nam-2018",
+            "title": "Lãnh đạo huyện thăm, tặng quà nhân dịp lễ Noel năm 2018",
+            "description": "",
+            "banner": "img/20181221_084809789.jpg"
+        },
+        {
             "slug": "dak-nong-mua-bo-chin-nam-2018",
             "title": "Đăk Nông Mùa bơ chín năm 2018",
             "description": "Đăk Nông Mùa bơ chín năm 2018",

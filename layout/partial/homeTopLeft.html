@@ -317,16 +317,14 @@
 																			<td>
 																				<div id="divNew1" class="union_image_thumb">
 																					<ul>
-																						{{#each (first AllCategory.files 100)}}
-																						{{#ifIn "tin-tuc-noi-bat" ../tag}}
+																						{{#each (first AllCategory.files 6)}}
 																						<li class="firstflag active">
 																							<a href="./{{slug}}" class="hiddenThumbnail"><img src="{{banner}}" alt=""></a>
 																							<div class="Union_block">
-																								<h2><a href="./{{slug}}">{{title}}<br></a></h2>
+																								<h2><a href="./{{slug}}">{{title}} || tag {{tag}}<br></a></h2>
 																								<p class="hot-content1" style="display:none;">{{description}} </p>
 																							</div>
 																						</li>
-																						{{/ifIn}}
 																						{{/each}}
 																						
 																						

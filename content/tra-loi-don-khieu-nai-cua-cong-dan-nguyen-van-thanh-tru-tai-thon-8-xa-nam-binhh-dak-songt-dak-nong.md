@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Trả lời đơn khiếu nại của công dân Nguyễn Văn Thành trú tại thôn 8, xã Nam Bình,h Đắk Song,t Đắk Nông",
     "description": "",
+    "date": "2019-01-10T03:55:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

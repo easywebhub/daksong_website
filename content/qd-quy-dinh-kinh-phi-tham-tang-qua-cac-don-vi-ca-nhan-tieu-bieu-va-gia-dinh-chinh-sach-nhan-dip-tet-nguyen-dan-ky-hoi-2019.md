@@ -8,7 +8,7 @@
     "date": "2019-01-18T07:33:00.000Z",
     "draft": false,
     "upload-image": "/img/08.png",
-    "description": "",
+    "description": "Quyết định về việc quy định kinh phí thăm, tặng quà các đơn vị, cá nhân tiêu biểu và gia đình chính sách nhân dịp Tết Nguyên đán Kỷ hợi 2019",
     "banner": "",
     "__content__": ""
 }

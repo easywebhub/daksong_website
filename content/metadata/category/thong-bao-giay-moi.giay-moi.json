@@ -1,7 +1,9 @@
 {
     "sortBy": "date",
     "reverse": true,
-    "metadata": {"title":"Giấy mời"},
+    "metadata": {
+        "title": "Giấy mời - Chương trình họp"
+    },
     "displayName": "Giấy mời",
     "perPage": 10,
     "noPageOne": true,

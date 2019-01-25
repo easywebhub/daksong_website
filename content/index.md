@@ -93,10 +93,10 @@
             "banner": "img/20181221_084809789.jpg"
         },
         {
-            "slug": "huyen-dak-song-to-chuc-le-ra-quan-tran-ap-toi-pham-dam-bao-an-ninh-chinh-tri-trat-tu-an-toan-xa-hoi",
-            "title": "Huyện Đak Song Tổ chức Lễ ra quân trấn áp tội phạm đảm bảo an ninh chính trị, trật tự an toàn xã hội",
-            "description": "Huyện Đak Song: Tổ chức Lễ ra quân trấn áp tội phạm đảm bảo an ninh chính trị, trật tự an toàn xã hội, thi đua lập thành tích kỷ niệm 15 năm thành lập tỉnh Đak Nông và bảo vệ tuyết đối an toàn Tết Nguyên Đán Kỷ hợi năm 2019.",
-            "banner": "img/Still12171.jpg"
+            "slug": "truong-mam-non-hoa-ban-–-xa-thuan-ha-don-nhan-bang-dat-chuan-quoc-gia-muc-do-i",
+            "title": "Trường Mầm non Hoa Ban – Xã Thuận Hà đón nhận bằng đạt chuẩn quốc gia mức độ I",
+            "description": "Trường Mầm non Hoa Ban – Xã Thuận Hà đón nhận bằng đạt chuẩn quốc gia mức độ I",
+            "banner": "img/banneMN01.png"
         },
         {
             "slug": "ky-niem-17-nam-thanh-lap-huyen",

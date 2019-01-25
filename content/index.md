@@ -75,10 +75,10 @@
     },
     "tinTucNoiBat": [
         {
-            "slug": "doan-cuu-chien-binh-trung-doan-271-tham-lai-chien-truong-xua-tai-huyen-dak-song",
-            "title": "Đoàn cựu chiến binh trung đoàn 271 thăm lại chiến trường xưa tại huyện Đăk Song",
-            "description": "Đoàn cựu chiến binh trung đoàn 271 thăm lại\nchiến trường xưa tại huyện Đăk Song\n",
-            "banner": "img/20181216_082054.jpg"
+            "slug": "doan-cong-tac-trung-uong-do-ba-hoang-thi-hanh-thu-truong-pho-chu-nhiem-ubdt-lam-truong-doan-tham-tang-qua-tet-tai-huyen-dak-song",
+            "title": "Đoàn công tác Trung ương do bà Hoàng Thị Hạnh thứ trưởng – Phó chủ nhiệm UBDT làm trưởng đoàn thăm tặng quà tết tại huyện Đắk Song",
+            "description": "Đoàn công tác Trung ương do bà Hoàng Thị Hạnh thứ trưởng – Phó chủ nhiệm UBDT làm trưởng đoàn thăm tặng quà tết tại huyện Đắk Song",
+            "banner": "img/banner01.png"
         },
         {
             "slug": "khao-sat-thuc-dia-trong-thu-nghiem-cay-sam-ngoc-linh-tai-khu-bao-ton-thien-nhien-nam-nung",

@@ -81,10 +81,10 @@
             "banner": "img/banner01.png"
         },
         {
-            "slug": "khao-sat-thuc-dia-trong-thu-nghiem-cay-sam-ngoc-linh-tai-khu-bao-ton-thien-nhien-nam-nung",
-            "title": "Khảo sát thực địa trồng thử nghiệm cây sâm Ngọc Linh tại Khu bảo tồn thiên nhiên Nâm Nung",
-            "description": "",
-            "banner": "img/banerd.png"
+            "slug": "cong-an-huyen-dak-song-tong-ket-cong-tac-nam-2018-va-trien-khai-nhiem-vu-nam-2019",
+            "title": "Công an huyện Đắk Song tổng kết công tác năm 2018 và triển khai nhiệm vụ năm 2019",
+            "description": "Công an huyện Đắk Song tổng kết công tác năm 2018 và triển khai nhiệm vụ năm 2019\n",
+            "banner": "img/banner00123.png"
         },
         {
             "slug": "lanh-dao-huyen-tham-tang-qua-nhan-dip-le-noel-nam-2018",

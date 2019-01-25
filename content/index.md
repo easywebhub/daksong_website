@@ -99,10 +99,10 @@
             "banner": "img/banneMN01.png"
         },
         {
-            "slug": "ky-niem-17-nam-thanh-lap-huyen",
-            "title": "Kỷ niệm 17 năm thành lập huyện",
-            "description": "Hội thao chào mừng 17 năm ngày thành lập huyện Đăk Song",
-            "banner": "img/TYUT0453.JPG"
+            "slug": "tong-ket-cong-tac-doan-va-phong-trao-thanh-thieu-nien-nam-2018",
+            "title": "Tổng kết công tác Đoàn và phong trào Thanh Thiếu niên năm 2018",
+            "description": "Tổng kết công tác Đoàn và phong trào Thanh Thiếu niên năm 2018",
+            "banner": "img/Bannertk01.png"
         }
     ],
     "tag": [],

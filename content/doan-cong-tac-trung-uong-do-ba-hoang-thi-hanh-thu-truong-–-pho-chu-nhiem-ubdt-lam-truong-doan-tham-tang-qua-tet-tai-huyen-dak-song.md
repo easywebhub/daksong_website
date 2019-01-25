@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "doan-cong-tac-trung-uong-do-ba-hoang-thi-hanh-thu-truong-–-pho-chu-nhiem-ubdt-lam-truong-doan-tham-tang-qua-tet-tai-huyen-dak-song",
+    "slug": "doan-cong-tac-trung-uong-do-ba-hoang-thi-hanh-thu-truong-pho-chu-nhiem-ubdt-lam-truong-doan-tham-tang-qua-tet-tai-huyen-dak-song",
     "title": "Đoàn công tác Trung ương do bà Hoàng Thị Hạnh thứ trưởng – Phó chủ nhiệm UBDT làm trưởng đoàn thăm tặng quà tết tại huyện Đắk Song",
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],

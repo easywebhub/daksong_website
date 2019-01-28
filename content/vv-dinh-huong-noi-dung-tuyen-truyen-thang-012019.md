@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "V/v định hướng nội dung tuyên truyền tháng 01/2019",
     "description": "",
+    "date": "2019-01-08T03:36:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "V/v định hướng nội dung tuyên truyền tháng 01/2019",

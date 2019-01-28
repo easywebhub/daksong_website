@@ -10,7 +10,7 @@
     "so": "",
     "permalink": true,
     "trich_yeu": "V/v định hướng nội dung tuyên truyền tháng 01/2019",
-    "co_quan_ban_hanh": "HUYEJN ỦY ĐẮK SONG BAN TUYÊN GIÁO",
+    "co_quan_ban_hanh": "HUYỆN ỦY ĐẮK SONG BAN TUYÊN GIÁO",
     "linh_vuc": "Tuyên truyền",
     "loai_van_ban": "",
     "nguoi_ky": "",
@@ -21,7 +21,7 @@
     "url": "",
     "hinh_thuc_van_ban": "Công văn",
     "ngay_ban_hanh": "07-01-2019",
-    "so_hieu": "336-CV/BTGHU",
+    "so_hieu": "Số 336-CV/BTGHU",
     "upload-image": "",
     "__content__": ""
 }

@@ -9,7 +9,7 @@
     "date": "2018-12-27T05:00:00.000Z",
     "so": "",
     "permalink": true,
-    "trich_yeu": "",
+    "trich_yeu": "V/v gửi đề cương tuyên truyền kỷ niệm 40 năm Ngày chiến thắng chiến tranh bảo vệ biên giới Tây Nam Tổ quốc",
     "co_quan_ban_hanh": "HUYỆN ỦY ĐẮK SONG BAN TUYÊN GIÁO",
     "linh_vuc": "Tuyên truyền",
     "loai_van_ban": "",

@@ -11,7 +11,7 @@
     "permalink": true,
     "trich_yeu": "",
     "co_quan_ban_hanh": "HUYỆN ỦY ĐẮK SONG BAN TUYÊN GIÁO",
-    "linh_vuc": "",
+    "linh_vuc": "Văn hóa Xã hội",
     "loai_van_ban": "",
     "nguoi_ky": "",
     "ngay_co_hieu_luc": "",

@@ -9,7 +9,7 @@
     "draft": false,
     "upload-image": "/img/dakmol03.png",
     "description": "",
-    "banner": "",
+    "banner": "/img/dakmol02 - Copy.png",
     "__content__": ""
 }
 ---

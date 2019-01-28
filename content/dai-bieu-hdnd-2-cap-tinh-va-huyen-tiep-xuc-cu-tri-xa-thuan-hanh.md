@@ -33,7 +33,7 @@
 
 <p style="margin-left:0in; margin-right:0in; text-align:justify"><img alt="" src="/img/txct 03.png" /></p>
 
-<p style="margin-left:0in; margin-right:0in"><strong><span style="font-size:14.0pt">Cử tri Vũ Thanh T&ugrave;ng &ndash; Th&ocirc;n Thuận H&ograve;a &yacute; kiến về một số c&ocirc;ng tr&igrave;nh giao th&ocirc;ng mới đưa v&agrave;o sử dụng đ&atilde; hỏng v&agrave; việc cấp b&igrave;a đỏ con chậm</span></strong></p>
+<p style="margin-left:0in; margin-right:0in"><strong><span style="font-size:14.0pt">Cử tri Vũ Thanh T&ugrave;ng &ndash; Th&ocirc;n Thuận H&ograve;a &yacute; kiến về một số c&ocirc;ng tr&igrave;nh giao th&ocirc;ng mới đưa v&agrave;o sử dụng đ&atilde; hỏng v&agrave; việc cấp b&igrave;a đỏ c&ograve;n chậm</span></strong></p>
 
 <p style="margin-left:0in; margin-right:0in; text-align:center"><img alt="" src="/img/txct 04.png" /></p>
 

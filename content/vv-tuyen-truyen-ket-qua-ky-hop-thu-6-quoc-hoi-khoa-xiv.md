@@ -19,7 +19,7 @@
     "draft": false,
     "url": "",
     "hinh_thuc_van_ban": "CÔNG VĂN",
-    "ngay_ban_hanh": "",
+    "ngay_ban_hanh": "18-12-2018",
     "so_hieu": "Số 334-CV/BTGHU",
     "upload-image": "/img/0301.png",
     "__content__": ""

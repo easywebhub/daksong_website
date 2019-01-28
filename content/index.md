@@ -87,10 +87,10 @@
             "banner": "img/banner00123.png"
         },
         {
-            "slug": "lanh-dao-huyen-tham-tang-qua-nhan-dip-le-noel-nam-2018",
-            "title": "Lãnh đạo huyện thăm, tặng quà nhân dịp lễ Noel năm 2018",
+            "slug": "tang-tren-270-suat-qua-cho-cac-ho-ngheo-xa-dak-mol",
+            "title": "Tặng trên 270 suất quả cho các hộ nghèo xã Đak Mol",
             "description": "",
-            "banner": "img/20181221_084809789.jpg"
+            "banner": "img/dakmol02 - Copy.png"
         },
         {
             "slug": "truong-mam-non-hoa-ban-–-xa-thuan-ha-don-nhan-bang-dat-chuan-quoc-gia-muc-do-i",

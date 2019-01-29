@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-01-17T02:36:00.000Z",
+    "date": "2019-01-17T02:41:00.000Z",
     "draft": false,
     "upload-image": "/img/00105.png",
     "description": "Ban đại diện Hội đồng quản trị Ngân hàng chính sách xã hội huyện tổ chức sơ kết hoạt động năm 2018",
@@ -21,7 +21,7 @@
 
 <p style="text-align:center"><span style="background-color:white"><strong><span style="font-size:14.0pt"><span style="color:black">ng&acirc;n h&agrave;ng CSXH huyện đọc b&aacute;o c&aacute;o tại hội nghị.</span></span></strong></span></p>
 
-<p style="margin-left:0in; margin-right:0in; text-align:justify"><span style="background-color:white"><span style="font-size:14.0pt"><span style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Trong năm 2018, tổng doanh số cho vay của Ph&ograve;ng Giao dịch NHCSXH huyện đạt 115,551 tỷ đồng, với 200 tổ tiết kiệm vay vốn &nbsp;v&agrave; 4085 kh&aacute;ch h&agrave;ng vay vốn, trong đ&oacute; doanh số cho vay hộ mới tho&aacute;t ngh&egrave;o l&agrave; tr&ecirc;n 14,5 tỷ đồng, hộ cận ngh&egrave;o l&agrave; tr&ecirc;n 6,7 tỷ đồng, cho vay hộ v&ugrave;ng kh&oacute; khăn l&agrave; hơn 8,2 tỷ đồng. Tổng dư nợ cho vay ủy th&aacute;c th&ocirc;ng qua 4 tổ chức hội đo&agrave;n thể gồm : Hội N&ocirc;ng d&acirc;n, Hội Phụ nữ, Hội Cựu chiến binh, Đo&agrave;n thanh ni&ecirc;n l&agrave; 347,774 tỷ đồng với với 9.097 hộ vay chiếm 99,9% tổng dư nợ to&agrave;n huyện, tăng 43 triệu đồng so với năm 2017. C&ocirc;ng t&aacute;c huy động tiết kiệm cũng đ&atilde; được triển khai với tổng số vốn huy động đạt 10,7 tỷ đồng, trong đ&oacute; huy động tiết kiệm tại trụ sở NHCSXH đạt 9,4 tỷ đồng, huy động tiết kiệm tại điểm giao dịch x&atilde; đạt 650 triệu đồng 91% kế hoach tỉnh giao. C&ocirc;ng t&aacute;c kiểm tra c&aacute;c tổ vay vốn v&agrave; quản l&yacute; nguồn vốn được tiến h&agrave;nh thường xuy&ecirc;n v&agrave; li&ecirc;n tục đảm bảo&nbsp;nguồn vốn vay được ph&aacute;t huy hiệu quả. </span></span></span></p>
+<p style="margin-left:0in; margin-right:0in; text-align:justify"><span style="background-color:white"><span style="font-size:14.0pt"><span style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Trong năm 2018, tổng doanh số cho vay của Ph&ograve;ng Giao dịch NHCSXH huyện đạt 115,551 tỷ đồng, với 200 tổ tiết kiệm vay vốn &nbsp;v&agrave; 4085 kh&aacute;ch h&agrave;ng vay vốn, trong đ&oacute; doanh số cho vay hộ mới tho&aacute;t ngh&egrave;o l&agrave; tr&ecirc;n 14,5 tỷ đồng, hộ cận ngh&egrave;o l&agrave; tr&ecirc;n 6,7 tỷ đồng, cho vay hộ v&ugrave;ng kh&oacute; khăn l&agrave; hơn 8,2 tỷ đồng. Tổng dư nợ cho vay ủy th&aacute;c th&ocirc;ng qua 4 tổ chức hội đo&agrave;n thể gồm : Hội N&ocirc;ng d&acirc;n, Hội Phụ nữ, Hội Cựu chiến binh, Đo&agrave;n thanh ni&ecirc;n l&agrave; 347,774 tỷ đồng với với 9.097 hộ vay chiếm 99,9% tổng dư nợ to&agrave;n huyện, tăng 43 triệu đồng so với năm 2017. C&ocirc;ng t&aacute;c huy động tiết kiệm cũng đ&atilde; được triển khai với tổng số vốn huy động đạt 10,7 tỷ đồng, trong đ&oacute; huy động tiết kiệm tại trụ sở NHCSXH đạt 9,4 tỷ đồng, huy động tiết kiệm tại điểm giao dịch x&atilde; đạt 650 triệu đồng 91% kế hoạch tỉnh giao. C&ocirc;ng t&aacute;c kiểm tra c&aacute;c tổ vay vốn v&agrave; quản l&yacute; nguồn vốn được tiến h&agrave;nh thường xuy&ecirc;n v&agrave; li&ecirc;n tục đảm bảo&nbsp;nguồn vốn vay được ph&aacute;t huy hiệu quả. </span></span></span></p>
 
 <p style="margin-left:0in; margin-right:0in; text-align:justify"><img alt="" src="/img/00102.png" /></p>
 

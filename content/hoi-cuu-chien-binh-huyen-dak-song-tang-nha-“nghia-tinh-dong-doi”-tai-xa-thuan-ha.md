@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-01-17T02:06:00.000Z",
+    "date": "2019-01-17T02:07:00.000Z",
     "draft": false,
     "upload-image": "/img/ccb02.png",
     "description": "Hội Cựu chiến binh huyện Đắk Song tặng nhà “Nghĩa tình đồng đội” tại xã Thuận Hà.",
@@ -13,7 +13,7 @@
     "__content__": ""
 }
 ---
-<p style="text-align:justify"><span style="background-color:white"><span style="font-size:14.0pt"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ng&agrave;y 16-1-2019, Hội Cựu chi&ecirc;́n binh huyện, đ&atilde; tổ chức lễ trao tặng nh&agrave; nghĩa t&igrave;nh đồng đội, cho gia đ&igrave;nh cựu chiến binh L&ecirc; Văn Tuyến, th&ocirc;n 6, x&atilde; Thuận h&agrave;. Đại diện Đảng ủy, Ch&iacute;nh quyền, Đo&agrave;n thể X&atilde;, c&ugrave;ng b&agrave; con nh&acirc;n d&acirc;n trong th&ocirc;n đ&atilde; tham dự buổi lễ. </span></span></span></p>
+<p style="text-align:justify"><span style="background-color:white"><span style="font-size:14.0pt"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Ng&agrave;y 16-1-2019, Hội Cựu chi&ecirc;́n binh huyện, đ&atilde; tổ chức lễ trao tặng nh&agrave; nghĩa t&igrave;nh đồng đội, cho gia đ&igrave;nh cựu chiến binh L&ecirc; Văn Tuyến, th&ocirc;n 6, x&atilde; Thuận h&agrave;. Đại diện Đảng ủy, Ch&iacute;nh quyền, Đo&agrave;n thể X&atilde;, c&ugrave;ng b&agrave; con nh&acirc;n d&acirc;n trong th&ocirc;n đ&atilde; tham dự buổi lễ. </span></span></span></p>
 
 <p style="text-align:justify"><img alt="" src="/img/ccb01.png" /></p>
 

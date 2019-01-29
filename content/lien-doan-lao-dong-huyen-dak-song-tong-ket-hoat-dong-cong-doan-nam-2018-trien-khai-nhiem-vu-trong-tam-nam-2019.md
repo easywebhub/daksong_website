@@ -5,9 +5,9 @@
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-01-17T06:57:00.000Z",
+    "date": "2019-01-17T07:00:00.000Z",
     "draft": false,
-    "upload-image": "/img/IMG-4384.JPG",
+    "upload-image": "/img/IMG-4392.JPG",
     "description": "",
     "banner": "/img/IMG-4384 - Copy.JPG",
     "__content__": ""
@@ -31,7 +31,7 @@
 
 <h1 style="text-align:justify"><span style="background-color:white"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">Ph&aacute;t biểu tại Hội nghị, Đ/c Đo&agrave;n Văn Sự - Ph&oacute; B&iacute; Thư Huyện ủy đ&atilde; &nbsp;ghi nhận những kết quả m&agrave; LĐLĐ huyện Đak Song đ&atilde; đạt được trong thời gian qua v&agrave; đề nghị thời gian tới LĐLĐ huyện cần tiếp tục ph&aacute;t huy hơn nữa c&ocirc;ng t&aacute;c chăm lo đời sống, bảo vệ quyền lợi ch&iacute;nh đ&aacute;ng cho CNVCLĐ; thực hiện c&oacute; hiệu quả Chỉ thị 05 của Bộ Ch&iacute;nh trị về</span></span></span> <span style="font-size:14.0pt"><span style="color:black">&ldquo;Đẩy mạnh học tập v&agrave; l&agrave;m theo tư tưởng, đạo đức, phong c&aacute;ch Hồ Ch&iacute; Minh&rdquo; v&agrave; kịp thời nắm bắt t&acirc;m tư t&igrave;nh cảm của c&ocirc;ng đo&agrave;n vi&ecirc;n m&igrave;nh&hellip;</span></span></span></h1>
 
-<p><img alt="" src="/img/IMG-4384.JPG" /></p>
+<p><img alt="" src="/img/IMG-4392.JPG" /></p>
 
 <p style="text-align:justify"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">&nbsp;Cũng tại hội nghị, LĐLĐ huyện tặng&nbsp; giấy khen cho 18 tập thể v&agrave; 37 c&aacute; nh&acirc;n đ&atilde; c&oacute; th&agrave;nh t&iacute;ch xuất sắc trong phong tr&agrave;o CNVCLĐ v&agrave; hoạt động c&ocirc;ng đo&agrave;n năm 2018.</span></span></span></p>
 

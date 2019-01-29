@@ -9,7 +9,7 @@
     "draft": false,
     "upload-image": "/img/ccb02.png",
     "description": "Hội Cựu chiến binh huyện Đắk Song tặng nhà “Nghĩa tình đồng đội” tại xã Thuận Hà.",
-    "banner": "",
+    "banner": "/img/ccb02 - Copy.png",
     "__content__": ""
 }
 ---

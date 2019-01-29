@@ -5,11 +5,11 @@
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-01-17T02:35:00.000Z",
+    "date": "2019-01-17T02:36:00.000Z",
     "draft": false,
     "upload-image": "/img/00105.png",
     "description": "Ban đại diện Hội đồng quản trị Ngân hàng chính sách xã hội huyện tổ chức sơ kết hoạt động năm 2018",
-    "banner": "",
+    "banner": "/img/00105 - Copy.png",
     "__content__": ""
 }
 ---

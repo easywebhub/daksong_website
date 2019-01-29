@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-01-17T01:41:00.000Z",
+    "date": "2019-01-17T01:51:00.000Z",
     "draft": false,
     "upload-image": "/img/ccb02.png",
     "description": "Hội Cựu chiến binh huyện Đắk Song tặng nhà “Nghĩa tình đồng đội” tại xã Thuận Hà.",

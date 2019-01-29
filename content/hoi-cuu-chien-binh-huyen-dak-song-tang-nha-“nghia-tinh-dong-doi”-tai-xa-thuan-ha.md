@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "hoi-cuu-chien-binh-huyen-dak-song-tang-nha-“nghia-tinh-dong-doi”-tai-xa-thuan-ha",
+    "slug": "hoi-cuu-chien-binh-huyen-dak-song-tang-nha-nghia-tinh-dong-doi-tai-xa-thuan-ha",
     "title": "Hội Cựu chiến binh huyện Đắk Song tặng nhà “Nghĩa tình đồng đội” tại xã Thuận Hà",
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],

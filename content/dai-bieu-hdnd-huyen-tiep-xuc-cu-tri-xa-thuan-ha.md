@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-02-19T01:16:00.000Z",
+    "date": "2019-01-21T02:16:00.000Z",
     "draft": false,
     "upload-image": "/img/0x4.png",
     "description": "",

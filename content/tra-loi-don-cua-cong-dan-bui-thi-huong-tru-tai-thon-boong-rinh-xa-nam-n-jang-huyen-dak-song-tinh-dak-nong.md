@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Trả lời đơn của công dân Bùi Thị Hương, trú tại thôn Boong Rinh, xã Nâm N'Jang, huyện Đắk Song, tỉnh Đắk Nông",
     "description": "",
-    "date": "2019-01-21T07:02:00.000Z",
+    "date": "2019-01-21T07:07:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

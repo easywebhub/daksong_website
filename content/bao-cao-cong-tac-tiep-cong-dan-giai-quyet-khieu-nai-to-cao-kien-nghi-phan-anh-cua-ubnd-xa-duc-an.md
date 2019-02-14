@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Báo cáo công tác tiếp công dân giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh của UBND xã Đức An",
     "description": "",
+    "date": "2019-01-14T01:56:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

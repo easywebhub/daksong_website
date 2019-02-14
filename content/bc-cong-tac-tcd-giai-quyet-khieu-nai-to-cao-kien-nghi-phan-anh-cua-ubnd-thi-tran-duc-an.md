@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Bc công tác TCD giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh của UBND thi trấn Đức An",
     "description": "",
-    "date": "2019-02-13T07:49:00.000Z",
+    "date": "2019-02-14T01:39:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

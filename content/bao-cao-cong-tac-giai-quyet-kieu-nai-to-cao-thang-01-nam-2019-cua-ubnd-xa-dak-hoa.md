@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Báo cáo Công tác giải quyết kiếu nại, tố cáo tháng 01 năm 2019 của UBND xã Đắk Hòa",
     "description": "",
-    "date": "2019-01-15T01:35:00.000Z",
+    "date": "2018-12-14T01:35:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

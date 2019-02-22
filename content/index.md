@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "dak-song-tung-bung-ngay-hoi-giao-nhan-quan-nam-2019",
+            "title": "Đak Song tưng bừng ngày hội giao nhận quân năm 2019",
+            "description": "",
+            "banner": "/img/XUan thanh tang qua - Copy.JPG"
+        },
+        {
             "slug": "doan-cong-tac-trung-uong-do-ba-hoang-thi-hanh-thu-truong-pho-chu-nhiem-ubdt-lam-truong-doan-tham-tang-qua-tet-tai-huyen-dak-song",
             "title": "Đoàn công tác Trung ương do bà Hoàng Thị Hạnh thứ trưởng – Phó chủ nhiệm UBDT làm trưởng đoàn thăm tặng quà tết tại huyện Đắk Song",
             "description": "Đoàn công tác Trung ương do bà Hoàng Thị Hạnh thứ trưởng – Phó chủ nhiệm UBDT làm trưởng đoàn thăm tặng quà tết tại huyện Đắk Song",
@@ -97,12 +103,6 @@
             "title": "Trường Mầm non Hoa Ban – Xã Thuận Hà đón nhận bằng đạt chuẩn quốc gia mức độ I",
             "description": "Trường Mầm non Hoa Ban – Xã Thuận Hà đón nhận bằng đạt chuẩn quốc gia mức độ I",
             "banner": "img/banneMN01.png"
-        },
-        {
-            "slug": "tong-ket-cong-tac-doan-va-phong-trao-thanh-thieu-nien-nam-2018",
-            "title": "Tổng kết công tác Đoàn và phong trào Thanh Thiếu niên năm 2018",
-            "description": "Tổng kết công tác Đoàn và phong trào Thanh Thiếu niên năm 2018",
-            "banner": "img/Bannertk01.png"
         }
     ],
     "tag": [],

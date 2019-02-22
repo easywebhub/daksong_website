@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "gia-ho-tieu-giam-manh---nong-dan-huyen-dak-song-gap-nhieu-kho-khan",
+    "slug": "gia-ho-tieu-giam-manh-nong-dan-huyen-dak-song-gap-nhieu-kho-khan",
     "title": "GIÁ HỒ TIÊU GIẢM MẠNH -  NÔNG DÂN HUYỆN ĐĂK SONG GẶP NHIỀU KHÓ KHĂN",
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],

@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "nam-2018-ba-con-nhan-dan-xa-thuan-ha-dong-gop-tren-360-trieu-dong-de-xay-dung-nong-thon-moi-",
+    "slug": "nam-2018-ba-con-nhan-dan-xa-thuan-ha-dong-gop-tren-360-trieu-dong-de-xay-dung-nong-thon-moi",
     "title": "NĂM 2018 BÀ CON  NHÂN DÂN XÃ THUẬN HÀ ĐÓNG GÓP TRÊN 360 TRIỆU ĐỒNG ĐỂ XÂY DỰNG NÔNG THÔN MỚI.",
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],

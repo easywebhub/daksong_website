@@ -5,6 +5,7 @@
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],
     "layout": "post.html",
+    "date": "2019-02-27T02:12:00.000Z",
     "draft": false,
     "upload-image": "/img/HO TIEU 3.png",
     "description": "",

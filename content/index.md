@@ -75,22 +75,22 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "san-xuat-ho-tieu-huu-co-bat-dau-cho-trai-ngot",
+            "title": "Sản xuất hồ tiêu hữu cơ bắt đầu cho trái ngọt",
+            "description": "",
+            "banner": "img/HO TIEU 2 - Copy.png"
+        },
+        {
             "slug": "dak-song-tung-bung-ngay-hoi-giao-nhan-quan-nam-2019",
             "title": "Đak Song tưng bừng ngày hội giao nhận quân năm 2019",
             "description": "",
-            "banner": "/img/XUan thanh tang qua - Copy.JPG"
+            "banner": "img/XUan thanh tang qua - Copy.JPG"
         },
         {
             "slug": "doan-cong-tac-trung-uong-do-ba-hoang-thi-hanh-thu-truong-pho-chu-nhiem-ubdt-lam-truong-doan-tham-tang-qua-tet-tai-huyen-dak-song",
             "title": "Đoàn công tác Trung ương do bà Hoàng Thị Hạnh thứ trưởng – Phó chủ nhiệm UBDT làm trưởng đoàn thăm tặng quà tết tại huyện Đắk Song",
             "description": "Đoàn công tác Trung ương do bà Hoàng Thị Hạnh thứ trưởng – Phó chủ nhiệm UBDT làm trưởng đoàn thăm tặng quà tết tại huyện Đắk Song",
             "banner": "img/banner01.png"
-        },
-        {
-            "slug": "cong-an-huyen-dak-song-tong-ket-cong-tac-nam-2018-va-trien-khai-nhiem-vu-nam-2019",
-            "title": "Công an huyện Đắk Song tổng kết công tác năm 2018 và triển khai nhiệm vụ năm 2019",
-            "description": "Công an huyện Đắk Song tổng kết công tác năm 2018 và triển khai nhiệm vụ năm 2019\n",
-            "banner": "img/banner00123.png"
         },
         {
             "slug": "tang-tren-270-suat-qua-cho-cac-ho-ngheo-xa-dak-mol",

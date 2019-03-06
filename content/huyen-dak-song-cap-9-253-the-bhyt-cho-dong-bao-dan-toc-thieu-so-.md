@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "huyen-dak-song-cap-9-253-the-bhyt-cho-dong-bao-dan-toc-thieu-so-",
+    "slug": "huyen-dak-song-cap-9-253-the-bhyt-cho-dong-bao-dan-toc-thieu-so",
     "title": "Huyện Đắk Song : Cấp 9.253 thẻ BHYT cho đồng bào dân tộc thiểu số.",
     "category": "tin-tuc-su-kien.tin-y-te-giao-duc",
     "tag": [],

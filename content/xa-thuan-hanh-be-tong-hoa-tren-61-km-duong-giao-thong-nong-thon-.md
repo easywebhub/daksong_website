@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "xa-thuan-hanh-be-tong-hoa-tren-61-km-duong-giao-thong-nong-thon-",
+    "slug": "xa-thuan-hanh-be-tong-hoa-tren-61-km-duong-giao-thong-nong-thon",
     "title": "Xã Thuận Hạnh : Bê tông hóa trên 61 km đường giao thông nông thôn.",
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],

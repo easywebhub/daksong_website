@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "le-ra-quan-huan-luyen-nam-2019",
+            "title": "Lễ ra quân huấn luyện năm 2019.",
+            "description": "",
+            "banner": "img/ctt 002 - Copy.png"
+        },
+        {
             "slug": "san-xuat-ho-tieu-huu-co-bat-dau-cho-trai-ngot",
             "title": "Sản xuất hồ tiêu hữu cơ bắt đầu cho trái ngọt",
             "description": "",
@@ -97,12 +103,6 @@
             "title": "Tặng trên 270 suất quả cho các hộ nghèo xã Đak Mol",
             "description": "",
             "banner": "img/dakmol02 - Copy.png"
-        },
-        {
-            "slug": "truong-mam-non-hoa-ban-–-xa-thuan-ha-don-nhan-bang-dat-chuan-quoc-gia-muc-do-i",
-            "title": "Trường Mầm non Hoa Ban – Xã Thuận Hà đón nhận bằng đạt chuẩn quốc gia mức độ I",
-            "description": "Trường Mầm non Hoa Ban – Xã Thuận Hà đón nhận bằng đạt chuẩn quốc gia mức độ I",
-            "banner": "img/banneMN01.png"
         }
     ],
     "tag": [],

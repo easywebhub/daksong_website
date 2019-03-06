@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-03-04T00:40:00.000Z",
+    "date": "2019-03-04T00:46:00.000Z",
     "draft": false,
     "upload-image": "/img/52807415_2312663385680662_6800577678056357888_n (1).jpg",
     "description": "",
@@ -23,4 +23,4 @@
 
 <h1 style="margin-left:0in; margin-right:-26.95pt; text-align:justify"><span style="background-color:white"><span style="font-size:14.0pt"><span style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lớp bồi dưỡng nhằm n&acirc;ng cao tr&igrave;nh độ chuy&ecirc;n m&ocirc;n nghiệp vụ cho đội ngũ c&aacute;n bộ Hội người cao tuổi ở cơ sở, từ đ&oacute; gi&uacute;p họ </span></span>&nbsp;<span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">thực hiện c&oacute; hiệu quả trong việc quan t&acirc;m, chăm s&oacute;c tốt hơn cho người cao tuổi tại địa b&agrave;n huyện , g&oacute;p phần gi&uacute;p người cao tuổi sống vui,&nbsp; sống khỏe, sống c&oacute; &iacute;ch cho x&atilde; hội.</span></span></span></span></h1>
 
-<h1 style="margin-left:0in; margin-right:-26.95pt; text-align:justify"><span style="background-color:white"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; L&ecirc; Xu&acirc;n.</span></span></span></span></h1>
+<h1 style="margin-left:0in; margin-right:-26.95pt; text-align:justify"><span style="background-color:white"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; L&ecirc; Xu&acirc;n.</span></span></span></span></h1>

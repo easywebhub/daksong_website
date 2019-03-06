@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "toa-dam-ky-niem-64-nam-ngay-thay-thuoc-viet-nam-27021955-27022019-",
+    "slug": "toa-dam-ky-niem-64-nam-ngay-thay-thuoc-viet-nam-27021955-27022019",
     "title": "TỌA ĐÀM KỶ NIỆM 64 NĂM NGÀY THẦY THUỐC VIỆT NAM (27/02/1955-27/02/2019).",
     "category": "tin-tuc-su-kien.tin-y-te-giao-duc",
     "tag": [],

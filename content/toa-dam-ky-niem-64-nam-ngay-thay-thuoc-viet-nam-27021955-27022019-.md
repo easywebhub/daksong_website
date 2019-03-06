@@ -5,7 +5,6 @@
     "category": "tin-tuc-su-kien.tin-y-te-giao-duc",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-03-04T02:39:00.000Z",
     "draft": false,
     "upload-image": "/img/04001.png",
     "description": "",
@@ -13,11 +12,7 @@
     "__content__": ""
 }
 ---
-<p style="text-align:justify"><strong><em><span style="font-size:14.0pt"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Ng&agrave;y 27-2, UBND huyện đ&atilde; tổ chức tọa đ&agrave;m kỷ niệm 64 năm Ng&agrave;y Thầy thuốc Việt Nam (27/2/1955-27/2/2019)</span></span></em></strong><em><span style="font-size:14.0pt"><span style="color:black">. Đến dự c&oacute; đồng ch&iacute; Nguyễn Hữu kh&aacute;nh Ph&oacute; B&iacute; thư huyện ủy;</span></span></em></p>
-
-<p style="text-align:center"><em><span style="font-size:14.0pt"><span style="color:black"><img alt="" src="/img/04001.png" />&nbsp;</span></span></em></p>
-
-<p style="text-align:center"><em><span style="font-size:14.0pt"><span style="color:black">Đồng ch&iacute; Ph&oacute; Chủ tịch UBND huyện- Nguyễn Ngọc Th&acirc;n.</span></span></em></p>
+<p style="text-align:justify"><strong><em><span style="font-size:14.0pt"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Ng&agrave;y 27-2, UBND huyện đ&atilde; tổ chức tọa đ&agrave;m kỷ niệm 64 năm Ng&agrave;y Thầy thuốc Việt Nam (27/2/1955-27/2/2019)</span></span></em></strong><em><span style="font-size:14.0pt"><span style="color:black">. Đến dự c&oacute; đồng ch&iacute; Nguyễn Hữu kh&aacute;nh Ph&oacute; B&iacute; thư huyện ủy;</span></span></em><em><span style="font-size:14.0pt"><span style="color:black">Đồng ch&iacute; Ph&oacute; Chủ tịch UBND huyện- Nguyễn Ngọc Th&acirc;n.</span></span></em></p>
 
 <p style="text-align:justify"><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </em></p>
 

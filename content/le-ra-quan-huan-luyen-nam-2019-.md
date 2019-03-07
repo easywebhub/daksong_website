@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-03-05T08:06:00.000Z",
+    "date": "2019-03-05T08:09:00.000Z",
     "draft": false,
     "upload-image": "/img/ctt 003.png",
     "description": "",
@@ -13,7 +13,7 @@
     "__content__": ""
 }
 ---
-<p style="margin-right:-.5in; text-align:justify">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong style="color:black; font-size:14pt">Lễ ra qu&acirc;n huấn luyện năm 2019 .</strong></p>
+<p style="margin-right:-.5in; text-align:justify">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong style="color:black; font-size:14pt">Lễ ra qu&acirc;n huấn luyện năm 2019.</strong></p>
 
 <p style="margin-right:-.9pt; text-align:justify"><em><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; S&aacute;ng 1/3, tại Đại đội bộ binh 6, &nbsp;Ban chỉ huy Qu&acirc;n sự huyện Đăk Song đ&atilde; &nbsp;tổ chức lễ ra qu&acirc;n huấn luyện năm 2019.&nbsp; </span></span></span></em></p>
 

@@ -1,3 +1,10 @@
+<style>
+	.style-ul li{
+		list-style: disc;
+	    margin-left: 15px;
+    	line-height: 20px;
+	}
+</style>
 <div class="hRight">
 
 	<menu class="ms-SrvMenuUI">
@@ -104,14 +111,35 @@
 										<div xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">
 
 											<div id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_Chinh" class="ndiv">
-												{{#each danh_sach_banner.banner_goc_phai_trang_chu}}
+												{{#each (first danh_sach_banner.banner_goc_phai_trang_chu 4)}}
 												<div class="div-image">
 													<div class="allowMenu">
 														<a href="{{this.duong_dan}}" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="{{this.hinh_anh}}"></a>
 													</div>
 												</div>
 												{{/each}}
-												
+
+												<ul class="style-ul">
+													<li ><a href="/tiep-cong-dan-&-xu-ly-don-thu/">UBND huyện Đắk Song</a></li>
+													<li><a href="/tiep-cong-dan-&-xu-ly-don-thu/">UBND thị trấn Đức An</a></li>
+													<li><a href="/tiep-cong-dan-&-xu-ly-don-thu/">UBND xã Nâm N'Jang</a></li>
+													<li><a href="/tiep-cong-dan-&-xu-ly-don-thu/">UBND xã Thuận Hà</a></li>
+													<li><a href="/tiep-cong-dan-&-xu-ly-don-thu/">UBND xã Thuận Hạnh</a></li>
+													<li><a href="/tiep-cong-dan-&-xu-ly-don-thu/">UBND xã Trường Xuân</a></li>
+													<li><a href="/tiep-cong-dan-&-xu-ly-don-thu/">UBND xã Đắk Hoà</a></li>
+													<li><a href="/tiep-cong-dan-&-xu-ly-don-thu/">UBND xã Đắk Môl</a></li>
+													<li><a href="/tiep-cong-dan-&-xu-ly-don-thu/">UBND xã Đắk N’Drung</a></li>
+													<li><a href="/tiep-cong-dan-&-xu-ly-don-thu/">UBND xã Nam Bình</a></li>
+												</ul>
+
+												{{#each (last danh_sach_banner.banner_goc_phai_trang_chu 6)}}
+												<div class="div-image">
+													<div class="allowMenu">
+														<a href="{{this.duong_dan}}" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="{{this.hinh_anh}}"></a>
+													</div>
+												</div>
+												{{/each}}
+
 											<div id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_openPopup">
 												<span style="DISPLAY: none">
 			<menu id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_MnPopupLinkLienKet">

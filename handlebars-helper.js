@@ -85,6 +85,7 @@ module.exports = function (Handlebars) {
         //console.log('obj =====================',obj);
         return buildList(obj.data, true);
     });
+	
     Handlebars.registerHelper('lookupCategory', function(obj, childPath) {
         var chunks = childPath.split('.');
         var count = 0;

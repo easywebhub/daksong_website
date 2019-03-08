@@ -74,8 +74,8 @@ function metalsmith(done) {
                 ms.use(plugin(options));
                 ms.use(changed({
                     forcePattern: [
-                        // '**/index.md',
-                        // 'index.html'
+                         '**/index.md',
+                         'index.html'
                     ]
                 }))
                 break;

@@ -1,0 +1,11 @@
+{
+    "sortBy": "date",
+    "reverse": true,
+    "metadata": {"title":"Kết luận TCD | UBND xã Đắk Môl"},
+    "displayName": "Kết luận TCD | UBND xã Đắk Môl",
+    "perPage": 10,
+    "noPageOne": true,
+    "layout": "public.category.html",
+    "first": ":categoryPath/index.html",
+    "path": ":categoryPath/page/:num/index.html"
+}

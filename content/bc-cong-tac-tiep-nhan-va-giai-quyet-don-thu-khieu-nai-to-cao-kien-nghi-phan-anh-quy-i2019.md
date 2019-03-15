@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "BC công tác tiếp nhận và giải quyết đơn thư, khiếu nại, tố cáo, kiến nghị, phản ánh quý I/2019",
     "description": "",
-    "date": "2019-03-15T01:03:00.000Z",
+    "date": "2019-03-14T07:03:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

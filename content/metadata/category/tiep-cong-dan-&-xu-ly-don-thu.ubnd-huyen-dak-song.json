@@ -1,0 +1,11 @@
+{
+    "sortBy": "date",
+    "reverse": true,
+    "metadata": {"title":"UBND huyện Đắk Song"},
+    "displayName": "UBND huyện Đắk Song",
+    "perPage": 10,
+    "noPageOne": true,
+    "layout": "public-for-tiep-cd-va-xu-ly-dt-for-huyen.category.html",
+    "first": ":categoryPath/index.html",
+    "path": ":categoryPath/page/:num/index.html"
+}

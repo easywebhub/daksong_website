@@ -1,0 +1,11 @@
+{
+    "sortBy": "date",
+    "reverse": true,
+	"metadata": {"title":"Quy định chung về tcd và giải quyết đơn thư | UBND thị trấn Đức An"},
+    "displayName": "Quy định chung về tcd và giải quyết đơn thư | UBND thị trấn Đức An",
+    "perPage": 10,
+    "noPageOne": true,
+    "layout": "public.category.html",
+    "first": ":categoryPath/index.html",
+    "path": ":categoryPath/page/:num/index.html"
+}

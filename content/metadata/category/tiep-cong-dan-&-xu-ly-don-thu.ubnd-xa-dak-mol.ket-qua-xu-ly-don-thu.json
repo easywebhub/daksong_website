@@ -1,0 +1,11 @@
+{
+    "sortBy": "date",
+    "reverse": true,
+    "metadata": {"title":"Kết quả xử lý đơn thư | UBND xã Đắk Môl"},
+    "displayName": "Kết quả xử lý đơn thư | UBND xã Đắk Môl",
+    "perPage": 10,
+    "noPageOne": true,
+    "layout": "public.category.html",
+    "first": ":categoryPath/index.html",
+    "path": ":categoryPath/page/:num/index.html"
+}

@@ -29,3 +29,7 @@
 <p><img alt="" src="/img/DH0001.png" /></p>
 
 <p><img alt="" src="/img/DH0002.png" /></p>
+
+<p>&hellip;(c&ograve;n tiếp)</p>
+
+<p>Mời c&aacute;c bạn&nbsp;bấm v&agrave;o file&nbsp;<u><em>&#39;&#39;PDF &amp; WORD&quot;</em></u>&nbsp;ở tr&ecirc;n để theo d&otilde;i tiếp.</p>

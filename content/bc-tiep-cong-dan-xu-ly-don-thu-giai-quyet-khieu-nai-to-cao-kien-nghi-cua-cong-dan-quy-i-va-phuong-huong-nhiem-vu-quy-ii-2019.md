@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "BC Tiếp công dân, xử lý đơn thư, giải quyết khiếu nại, tố cáo, kiến nghị của công dân quý I và phương hướng nhiệm vụ quý II 2019",
     "description": "",
-    "date": "2019-03-15T01:28:00.000Z",
+    "date": "2019-03-13T20:28:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

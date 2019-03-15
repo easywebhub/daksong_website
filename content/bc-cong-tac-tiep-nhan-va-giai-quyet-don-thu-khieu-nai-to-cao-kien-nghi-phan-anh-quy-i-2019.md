@@ -1,12 +1,12 @@
 ---json
 {
-    "slug": "bc-cong-tac-tiep-nhan-va-giai-quyet-don-thu-khieu-nai-to-cao-kien-nghi-phan-anh-quy-i2019",
-    "category": "tiep-dan.tiep-cong-dan-va-xu-ly-don-thu-cap-xa",
+    "slug": "bc-cong-tac-tiep-nhan-va-giai-quyet-don-thu-khieu-nai-to-cao-kien-nghi-phan-anh-quy-i-2019",
+    "category": "tiep-dan.kqgq-don-thu-cap-xa-&-thi-tran",
     "tag": [],
-    "layout": "404.html",
-    "title": "BC công tác tiếp nhận và giải quyết đơn thư, khiếu nại, tố cáo, kiến nghị, phản ánh quý I/2019",
+    "layout": "van-ban.html",
+    "title": "BC Công tác tiếp nhận và giải quyết đơn thư, khiếu nại, tố cáo kiến nghị, phản ánh quý I 2019",
     "description": "",
-    "date": "2019-03-14T07:03:00.000Z",
+    "date": "2019-03-14T09:21:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

@@ -3,7 +3,7 @@
     "slug": "bc-cong-tac-tcd-tiep-nhan-xu-ly-don-thu-giai-quyet-khieu-nai-to-cao-kien-nghi-cua-cd-quy-i-va-phuong-huong-nhiem-vu-quy-ii-2019",
     "category": "tiep-dan.tiep-cong-dan-va-xu-ly-don-thu-cap-xa",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Bc Công tác tiếp công dân, tiếp nhận xử lý đơn thư; giải quyết khiếu nại, tố cáo kiến nghị của công dân quý I và phương hướng nhiệm vụ quý II 2019  ",
     "description": "",
     "date": "2019-03-15T00:59:00.000Z",

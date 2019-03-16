@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "bc-cong-tac-tiep-cong-dan-va-xu-ly-don-thu-giai-quyet-khieu-nai-to-cao-kien-nghi-cua-cong-dan-quy-i-va-phuong-huong-nhiem-vu-quy-ii-nam-2019",
+    "slug": "bc-cong-tac-tcd-va-xldt-gqkn-to-cao-kien-nghi-cua-cong-dan-quy-i-va-phuong-huong-nhiem-vu-quy-ii-nam-2019",
     "title": "Bc Công tác tiếp công dân và xử lý đơn thư, giải quyết khiếu nại, tố cáo, kiến nghị của công dân quý I và phương hướng nhiệm vụ quý II năm 2019",
     "category": "tiep-dan.tiep-cong-dan-va-xu-ly-don-thu-cap-xa",
     "tag": [],

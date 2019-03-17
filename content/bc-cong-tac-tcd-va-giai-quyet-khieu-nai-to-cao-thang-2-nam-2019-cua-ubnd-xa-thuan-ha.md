@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Bc Công tác TCD và giải quyết khiếu nại, tố cáo tháng 2 năm 2019 của UBND xã Thuận Hà",
     "description": "",
-    "date": "2019-02-15T08:00:00.000Z",
+    "date": "2019-02-15T08:01:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

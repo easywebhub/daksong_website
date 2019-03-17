@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Bc Công tác TCD và giải quyết khiếu nại, tố cáo quý I năm 2019 của UBND xã Thuận Hạnh",
     "description": "",
-    "date": "2019-03-12T11:34:00.000Z",
+    "date": "2019-03-12T11:36:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

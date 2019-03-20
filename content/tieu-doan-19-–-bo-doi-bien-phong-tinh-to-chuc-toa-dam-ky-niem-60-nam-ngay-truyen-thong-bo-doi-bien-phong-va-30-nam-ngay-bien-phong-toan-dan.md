@@ -5,9 +5,9 @@
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-03-18T10:00:00.000Z",
+    "date": "2019-03-18T10:05:00.000Z",
     "draft": false,
-    "upload-image": "/img/BD01.png",
+    "upload-image": "/img/BD02.png",
     "description": "",
     "banner": "/img/BD02 - Copy.png",
     "__content__": ""
@@ -27,7 +27,7 @@
 
 <p style="margin-left:0in; margin-right:0in; text-align:justify"><span style="background-color:#fcfcfc"><span style="font-size:14.0pt"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ph&aacute;t biểu tại buổi gặp mặt, đồng ch&iacute; Nguyễn Hữu Kh&aacute;nh &ndash; Ph&oacute; b&iacute; thư huyện ủy, chủ tịch HĐND huyện ghi nhận, biểu dương những th&agrave;nh t&iacute;ch m&agrave; c&aacute;n bộ chiến sỹ tiểu đo&agrave;n 19 đạt được, đồng ch&iacute; cũng mong muốn mỗi c&aacute;n bộ chiến sỹ cần khắc s&acirc;u v&agrave; tự h&agrave;o về truyền thống của lực lượng n&oacute;i chung v&agrave; truyền thống của bộ đội bi&ecirc;n ph&ograve;ng tỉnh n&oacute;i ri&ecirc;ng, lu&ocirc;n n&ecirc;u cao tr&aacute;ch nhiệm v&agrave; ho&agrave;n th&agrave;nh tốt nhiệm vụ được giao.</span></span></span></p>
 
-<p style="margin-left:0in; margin-right:0in; text-align:justify"><span style="background-color:#fcfcfc"><span style="font-size:14.0pt"><span style="color:black"><img src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image004.jpg" style="height:449px; width:600px" /></span></span></span></p>
+<p style="margin-left:0in; margin-right:0in; text-align:justify"><img alt="" src="/img/BD02.png" /></p>
 
 <p style="text-align:justify"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cũng nh&acirc;n dịp n&agrave;y, Bộ tư lệnh Bộ đội Bi&ecirc;n ph&ograve;ng tặng kỷ niệm chương đ&atilde; c&oacute; th&agrave;nh t&iacute;ch xuất sắc &ldquo;v&igrave; chủ quyền an ninh bi&ecirc;n giới&rdquo; cho 4 đồng ch&iacute;.</span></span></span></p>
 

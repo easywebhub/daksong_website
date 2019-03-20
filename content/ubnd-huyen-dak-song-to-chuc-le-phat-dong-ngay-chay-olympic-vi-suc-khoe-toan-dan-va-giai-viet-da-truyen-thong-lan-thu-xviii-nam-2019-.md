@@ -7,7 +7,7 @@
     "layout": "post.html",
     "draft": false,
     "upload-image": "/img/Ht003.png",
-    "description": "",
+    "description": "UBND huyện Đăk Song tổ chức lễ phát động ngày chạy Olympic vì sức khỏe toàn dân và giải việt dã truyền thống lần thứ XVIII năm 2019.",
     "banner": "/img/Ht 002 - Copy.png",
     "__content__": ""
 }

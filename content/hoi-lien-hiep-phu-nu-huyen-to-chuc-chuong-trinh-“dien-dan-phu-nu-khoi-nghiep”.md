@@ -5,10 +5,10 @@
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-03-15T08:10:00.000Z",
+    "date": "2019-03-15T08:12:00.000Z",
     "draft": false,
     "upload-image": "/img/PN kn02.png",
-    "description": "/img/PN kn02.png",
+    "description": "",
     "banner": "",
     "__content__": ""
 }

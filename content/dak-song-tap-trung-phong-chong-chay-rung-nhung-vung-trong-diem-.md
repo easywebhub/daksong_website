@@ -5,11 +5,11 @@
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-03-18T09:44:00.000Z",
+    "date": "2019-03-18T09:46:00.000Z",
     "draft": false,
     "upload-image": "/img/rung01.png",
     "description": "",
-    "banner": "",
+    "banner": "/img/rung01 - Copy.png",
     "__content__": ""
 }
 ---

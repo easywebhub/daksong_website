@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "ban-chi-dao-van-dong-hien-mau-tinh-nguyen-hop-trien-khai-ke-hoach-tuyen-truyen-van-dong-hien-mau-tinh-nguyen-va-to-chuc-tiep-nhan-mau-nam-2019",
+    "slug": "hop-trien-khai-ke-hoach-tuyen-truyen-van-dong-hien-mau-tinh-nguyen-va-to-chuc-tiep-nhan-mau-nam-2019",
     "title": "Ban Chỉ đạo Vận động hiến máu tình nguyện  họp triển khai  kế hoạch tuyên truyền vận động hiến máu tình nguyện và tổ chức tiếp nhận  máu năm 2019",
     "category": "tin-tuc-su-kien.tin-y-te-giao-duc",
     "tag": [],

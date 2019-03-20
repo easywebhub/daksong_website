@@ -5,7 +5,6 @@
     "category": "thong-tin-chi-dao.chuyen-muc-cchc",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-03-08T03:19:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "",

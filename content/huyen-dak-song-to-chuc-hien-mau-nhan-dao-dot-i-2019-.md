@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "huyen-dak-song-to-chuc-hien-mau-nhan-dao-dot-i-2019-",
+    "slug": "huyen-dak-song-to-chuc-hien-mau-nhan-dao-dot-i-2019",
     "title": "Huyện Đak Song: Tổ chức hiến máu nhân đạo đợt I-2019.",
     "category": "tin-tuc-su-kien.tin-y-te-giao-duc",
     "tag": [],

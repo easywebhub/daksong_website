@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "nam-2019-huyen-dak-song-phan-dau-ty-le-tham-gia-bao-hiem-y-te-dat-84%",
+    "slug": "nam-2019-huyen-dak-song-phan-dau-ty-le-tham-gia-bao-hiem-y-te-dat-84",
     "title": "Năm 2019 huyện Đak Song phấn đấu tỷ lệ tham gia bảo hiểm y tế đạt 84%.",
     "category": "tin-tuc-su-kien.tin-y-te-giao-duc",
     "tag": [],

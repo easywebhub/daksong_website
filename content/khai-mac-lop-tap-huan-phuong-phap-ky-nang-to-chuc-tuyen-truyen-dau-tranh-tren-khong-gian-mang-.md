@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "khai-mac-lop-tap-huan-phuong-phap-ky-nang-to-chuc-tuyen-truyen-dau-tranh-tren-khong-gian-mang-",
+    "slug": "khai-mac-lop-tap-huan-phuong-phap-ky-nang-to-chuc-tuyen-truyen-dau-tranh-tren-khong-gian-mang",
     "title": "KHAI MẠC LỚP TẬP HUẤN PHƯƠNG PHÁP, KỸ NĂNG,  TỔ CHỨC  TUYÊN TRUYỀN ĐẤU TRANH TRÊN KHÔNG GIAN MẠNG.",
     "category": "tin-tuc-su-kien.tin-an-ninh-trat-tu",
     "tag": [],

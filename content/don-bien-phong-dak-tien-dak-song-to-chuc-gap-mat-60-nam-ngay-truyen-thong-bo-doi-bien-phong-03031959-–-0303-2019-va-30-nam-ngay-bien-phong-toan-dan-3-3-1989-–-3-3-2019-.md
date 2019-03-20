@@ -5,10 +5,10 @@
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-03-08T02:06:00.000Z",
+    "date": "2019-03-08T02:09:00.000Z",
     "draft": false,
     "upload-image": "/img/BĐ 03.png",
-    "description": "",
+    "description": "Đồn Biên phòng Đăk Tiên, Đăk Song tổ chức gặp mặt  60 năm Ngày truyền thống Bộ đội Biên phòng, (03/03/1959 – 03/03/ 2019) và 30 năm Ngày Biên phòng toàn dân (3/3/1989 – 3/3/2019).",
     "banner": "/img/BĐ 02 - Copy.png",
     "__content__": ""
 }

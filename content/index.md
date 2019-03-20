@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "don-bien-phong-dak-tien-dak-song-to-chuc-gap-mat-60-nam-ngay-truyen-thong-bo-doi-bien-phong-03031959-0303-2019-va-30-nam-ngay-bien-phong-toan-dan-3-3-1989-3-3-2019",
+            "title": "Đồn Biên phòng Đăk Tiên, Đăk Song tổ chức gặp mặt  60 năm Ngày truyền thống Bộ đội Biên phòng, (03/03/1959 – 03/03/ 2019) và 30 năm Ngày Biên phòng toàn dân (3-3-1989 – 3-3-2019).",
+            "description": "Đồn Biên phòng Đăk Tiên, Đăk Song tổ chức gặp mặt  60 năm Ngày truyền thống Bộ đội Biên phòng, (03/03/1959 – 03/03/ 2019) và 30 năm Ngày Biên phòng toàn dân (3/3/1989 – 3/3/2019).",
+            "banner": "img/BĐ 02 - Copy.png"
+        },
+        {
             "slug": "le-ra-quan-huan-luyen-nam-2019",
             "title": "Lễ ra quân huấn luyện năm 2019.",
             "description": "",
@@ -97,12 +103,6 @@
             "title": "Đoàn công tác Trung ương do bà Hoàng Thị Hạnh thứ trưởng – Phó chủ nhiệm UBDT làm trưởng đoàn thăm tặng quà tết tại huyện Đắk Song",
             "description": "Đoàn công tác Trung ương do bà Hoàng Thị Hạnh thứ trưởng – Phó chủ nhiệm UBDT làm trưởng đoàn thăm tặng quà tết tại huyện Đắk Song",
             "banner": "img/banner01.png"
-        },
-        {
-            "slug": "tang-tren-270-suat-qua-cho-cac-ho-ngheo-xa-dak-mol",
-            "title": "Tặng trên 270 suất quả cho các hộ nghèo xã Đak Mol",
-            "description": "",
-            "banner": "img/dakmol02 - Copy.png"
         }
     ],
     "tag": [],

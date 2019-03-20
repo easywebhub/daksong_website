@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "doan-cong-tac-ban-thuong-vu-tinh-uy-lam-viec-voi-ban-thuong-vu-huyen-uy-dak-song-",
+    "slug": "doan-cong-tac-ban-thuong-vu-tinh-uy-lam-viec-voi-ban-thuong-vu-huyen-uy-dak-song",
     "title": "Đoàn công tác Ban Thường vụ tỉnh ủy làm việc với Ban Thường vụ huyện ủy Đak Song.",
     "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
     "tag": [],

@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "hoi-lien-hiep-phu-nu-huyen-to-chuc-chuong-trinh-“dien-dan-phu-nu-khoi-nghiep”",
+    "slug": "hoi-lien-hiep-phu-nu-huyen-to-chuc-chuong-trinh-dien-dan-phu-nu-khoi-nghiep",
     "title": "Hội Liên Hiệp Phụ Nữ huyện tổ chức chương trình “Diễn đàn phụ nữ khởi nghiệp”",
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],

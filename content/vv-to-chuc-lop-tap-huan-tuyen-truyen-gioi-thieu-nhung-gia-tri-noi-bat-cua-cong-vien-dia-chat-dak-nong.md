@@ -6,7 +6,6 @@
     "layout": "van-ban.html",
     "title": "V/v tổ chức lớp tập huấn tuyên truyền, giới thiệu những giá trị nổi bật của Công viên địa chất Đắk Nông",
     "description": "",
-    "date": "2019-03-22T03:09:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

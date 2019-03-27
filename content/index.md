@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "tong-dieu-tra-dan-so-va-nha-o-thoi-diem-0-gio-ngay-0142019",
+            "title": "Tổng điều tra dân số và nhà ở thời điểm 0 giờ ngày 01/4/2019",
+            "description": "",
+            "banner": "img/01x03 - Copy.png"
+        },
+        {
             "slug":"ubnd-huyen-dak-song-to-chuc-le-phat-dong-ngay-chay-olympic-vi-suc-khoe-toan-dan-va-giai-viet-da-truyen-thong-lan-thu-xviii-nam-2019",
             "title": "UBND huyện Đăk Song tổ chức lễ phát động ngày chạy Olympic vì sức khỏe toàn dân và giải việt dã truyền thống lần thứ XVIII năm 2019.",
             "description": "UBND huyện Đăk Song tổ chức lễ phát động ngày chạy Olympic vì sức khỏe toàn dân và giải việt dã truyền thống lần thứ XVIII năm 2019.",
@@ -97,12 +103,6 @@
             "title": "Sản xuất hồ tiêu hữu cơ bắt đầu cho trái ngọt",
             "description": "",
             "banner": "img/HO TIEU 2 - Copy.png"
-        },
-        {
-            "slug": "dak-song-tung-bung-ngay-hoi-giao-nhan-quan-nam-2019",
-            "title": "Đak Song tưng bừng ngày hội giao nhận quân năm 2019",
-            "description": "",
-            "banner": "img/XUan thanh tang qua - Copy.JPG"
         }
     ],
     "tag": [],

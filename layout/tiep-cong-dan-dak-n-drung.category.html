@@ -28,200 +28,52 @@
 <div>
     <h3 class="style-h3">{{metadata.title}}</h3>
     <ul class="style-ul">
-      <li>
-        <a href="/{{pagination.categoryPath}}/quy-dinh-ve-tcd-va-giai-quyet-don-thu/">QUY ĐỊNH VỀ TCD VÀ GIẢI QUYẾT ĐƠN THƯ</a>
-      </li>
-      <li>
-          <a href="/{{pagination.categoryPath}}/lich-tiep-cong-dan/">LỊCH TIẾP CÔNG DÂN</a>
-      </li>
-      <li>
-          <a href="/{{pagination.categoryPath}}/tinh-hinh-tcd-va-giai-quyet-don-thu/">TÌNH HÌNH TCD VÀ GIẢI QUYẾT ĐƠN THƯ</a>
-      </li>
-      <li>
-          <a href="/{{pagination.categoryPath}}/ket-luan-tcd/">KẾT LUẬN TCD</a>
-      </li>
-      <li>
-          <a href="/{{pagination.categoryPath}}/ket-qua-xu-ly-don-thu/">KẾT QUẢ XỬ LÝ ĐƠN THƯ</a>
-      </li>
-    </ul>
+        <li>
+          <a href="/{{pagination.categoryPath}}/quy-dinh-ve-tcd-va-giai-quyet-don-thu/">QUY ĐỊNH VỀ TCD VÀ GIẢI QUYẾT ĐƠN THƯ</a>
+          <ul>
+              {{#each ( first (lookup ( lookupCategory AllCategory 'tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-dak-n-drung.quy-dinh-ve-tcd-va-giai-quyet-don-thu') 'files') 5)}}
+              <li>{{title}}</li>
+              {{/each}}
+          </ul>
+        </li>
+        <li>
+            <a href="/{{pagination.categoryPath}}/lich-tiep-cong-dan/">LỊCH TIẾP CÔNG DÂN</a>
+            <ul>
+                {{#each ( first (lookup ( lookupCategory AllCategory 'tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-dak-n-drung.lich-tiep-cong-dan') 'files') 5)}}
+                <li>{{title}}</li>
+                {{/each}}
+            </ul>
+        </li>
+        <li>
+            <a href="/{{pagination.categoryPath}}/tinh-hinh-tcd-va-giai-quyet-don-thu/">TÌNH HÌNH TCD VÀ GIẢI QUYẾT ĐƠN THƯ</a>
+            <ul>
+                {{#each ( first (lookup ( lookupCategory AllCategory 'tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-dak-n-drung.tinh-hinh-tcd-va-giai-quyet-don-thu') 'files') 5)}}
+                <li>{{title}}</li>
+                {{/each}}
+            </ul>
+        </li>
+        <li>
+            <a href="/{{pagination.categoryPath}}/ket-luan-tcd/">KẾT LUẬN TCD</a>
+            <ul>
+                {{#each ( first (lookup ( lookupCategory AllCategory 'tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-dak-n-drung.ket-luan-tcd') 'files') 5)}}
+                <li>{{title}}</li>
+                {{/each}}
+            </ul>
+        </li>
+        <li>
+            <a href="/{{pagination.categoryPath}}/ket-qua-xu-ly-don-thu/">KẾT QUẢ XỬ LÝ ĐƠN THƯ</a>
+            <ul>
+                {{#each ( first (lookup ( lookupCategory AllCategory 'tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-dak-n-drung.ket-qua-xu-ly-don-thu') 'files') 5)}}
+                <li>{{title}}</li>
+                {{/each}}
+            </ul>
+        </li>
+      </ul>
   </div>
 <!-- END: Danh mục -->
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td id="MSOZoneCell_WebPartWPQ10" valign="top" class="s4-wpcell-plain">
-      <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tr>
-          <td valign="top">
-            <div WebPartID="a0d9251c-9e88-4cf4-8d75-b78c8f1dde00" HasPers="false" id="WebPartWPQ10" width="100%" class="ms-WPBody noindex"
-              allowDelete="false" style="">
-              <div id="ctl00_m_g_a0d9251c_9e88_4cf4_8d75_b78c8f1dde00">
-                <LINK rel="stylesheet" type="text/css" href="/_layouts/LacVietBio/css/news_css.css" xmlns:rs="urn:schemas-microsoft-com:rowset"
-                  xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts" />
-                <DIV class="container_top_mid2" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema"
-                  xmlns:cs="urn:my-scripts">
-                  <TABLE border="0" cellSpacing="0" cellPadding="0" width="100%">
-                    <TBODY>
-                      <TR class="ms-news-header">
-                        <TD style="CURSOR: hand" class="FolderTitle" vAlign="top">
-
-
-                          Danh sách bài viết
-                        </TD>
-                        <TD style="TEXT-ALIGN: right; FONT-WEIGHT: normal" class="Time" vAlign="top" align="right">{{moment
-                          date lang="vi" format="DD/MM/YYYY"}}</TD>
-                      </TR>
-                    </TBODY>
-                  </TABLE>
-                </DIV>
-
-
-                <script>
-                  function linkFacebook(title) {
-                    window.open('http://www.facebook.com/sharer/sharer.php?u=' + document.URL + '&t=' + title);
-                  }
-
-                  function linkTwitter(title) {
-                    window.open('http://twitter.com/home?status=' + title + ' - ' + document.URL);
-                  }
-
-                  function linkDelicious(title) {
-                    window.open('http://del.icio.us/post?url=' + document.URL + '&title= + title');
-                  }
-                </script>
-                <DIV class="css_linkstoweb">
-                  <div id="id_link_delicious" class="css_link_delicious" onclick="linkDelicious('“Vùng đất chết’’ hồi sinh');">&nbsp;</div>
-                  <div id="id_link_twitter" class="css_link_twitter" onclick="linkTwitter('“Vùng đất chết’’ hồi sinh');">&nbsp;</div>
-                  <div id="id_link_facebook" class="css_link_facebook" onclick="linkFacebook('“Vùng đất chết’’ hồi sinh');">&nbsp;</div>
-                  <DIV id="sendEmail" class="css_sendEmail">&nbsp;</DIV>
-                </DIV>
-              </DIV>
-
-            </div>
-            </div>
-          </td>
-        </tr>
-      </table>
-      <div class="ms-PartSpacingVertical"></div>
-    </td>
-  </tr>
-  <tr>
-    <td id="MSOZoneCell_WebPartWPQ11" valign="top" class="s4-wpcell-plain">
-      <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tr>
-          <td valign="top">
-            <div WebPartID="0a77e6a6-680a-4eb5-a384-96ba554a7657" HasPers="false" id="WebPartWPQ11" width="100%" class="ms-WPBody noindex"
-              allowDelete="false" style="">
-              <div id="ctl00_m_g_0a77e6a6_680a_4eb5_a384_96ba554a7657">
-
-              </div>
-            </div>
-          </td>
-        </tr>
-      </table>
-      <div class="ms-PartSpacingVertical"></div>
-    </td>
-  </tr>
-  <tr>
-    <td id="MSOZoneCell_WebPartWPQ12" valign="top" class="s4-wpcell-plain">
-      <table id="tableforprint" border="0" cellspacing="0" cellpadding="0" width="100%">
-        <tr>
-          <td valign="top">
-            <div WebPartID="8df91751-13bb-4d87-adcf-493d9b19d2cc" HasPers="false" id="WebPartWPQ12" width="100%" class="ms-WPBody noindex"
-              allowDelete="false" style="">
-              <div id="ctl00_m_g_8df91751_13bb_4d87_adcf_493d9b19d2cc">
-                <DIV id="part2" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts">
-                  <TABLE border="0" cellspacing="0" cellpadding="0" width="100%" xmlns:rs="urn:schemas-microsoft-com:rowset"
-                    xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts">
-                    <TBODY>
-
-                      {{#each (first pagination.files 5) }}
-                      <tr>
-                        <td class="TitleFront"><a href="{{slug}}">{{title}}<span class="ShowDate">
-                              ({{moment date lang="vi" format="DD/MM/YYYY"}})
-                            </span></a></td>
-                      </tr>
-                      <tr>
-                        <td style="PADDING-BOTTOM: 10px" class="tinHT">
-                          <table border="0" cellspacing="0" cellpadding="0" align="left">
-                            <tbody>
-                              <tr>
-                                <td><a href="{{slug}}"><img style="BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"
-                                      class="img-slidemenu" alt="" src="{{banner}}" width="130" height="100"></a></td>
-                              </tr>
-                            </tbody>
-                          </table>
-                          <div style="TEXT-ALIGN: justify" class="ContentText">{{description}}<br></div>
-                        </td>
-                      </tr>
-
-                      {{/each}}
-
-                      <TR>
-                        <TD class="Other" width="100%">
-                          <UL />
-                        </TD>
-                      </TR>
-                    </TBODY>
-                  </TABLE>
-                  <div class="pagination-container">
-
-
-                  </div>
-                  <TABLE class="tbtinkhac" border="0" cellSpacing="0" cellPadding="0" width="100%">
-                    <TBODY>
-                      <TR>
-                        <TD class="OtherTitle">
-                          <P class="OtherTitle">TIN ĐÃ ĐƯA</P>
-                        </TD>
-                      </TR>
-                    </TBODY>
-                  </TABLE>
-                  <TABLE border="0" cellSpacing="0" cellPadding="0" width="100%">
-                    <TBODY>
-                      <TR>
-                        <TD class="Other" width="100%">
-                          <UL>
-                            {{#each pagination.files }}
-                            <li><a href="./{{slug}}"> {{title}}</a>
-                              <SPAN class="ShowDate">({{moment date lang="vi" format="DD/MM/YYYY"}})</SPAN>
-                            </li>
-                            {{/each}}
-
-                          </UL>
-                        </TD>
-                      </TR>
-                    </TBODY>
-                  </TABLE>
-                  <hr>
-                  <ul class="pagination">
-
-                    <li>
-                      {{#if pagination}}
-                      <nav class="pagination">
-                        {{#if pagination.previous}}
-                        <a href="/{{removeIndex pagination.previous.path}}" class="btn"> Trước |</a>
-                        {{/if}}
-                        {{#if pagination.next}}
-                        <a href="/{{removeIndex pagination.next.path}}" class="btn"> | Sau</a>
-                        {{/if}}
-                      </nav>
-                      {{/if}}
-
-                    </li>
-                  </ul>
-
-                  <DIV class="css_Xemtiep"><a href="/TinTuc/tintuc/Lists/Posts/AllPosts.aspx?CategoryId=16&amp;PublishedDate=2015-08-25T13:35:00Z"><IMG
-                        alt="Xem tiếp" src="/_layouts/LacVietBio/eofficeimg/news/xemtiep.gif" /></a></DIV>
-                </DIV>
-              </div>
-            </div>
-          </td>
-        </tr>
-      </table>
-      <div class="ms-PartSpacingVertical"></div>
-    </td>
-  </tr>
+ 
   <tr>
     <td id="MSOZoneCell_WebPartWPQ13" valign="top" class="s4-wpcell-plain">
       <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">

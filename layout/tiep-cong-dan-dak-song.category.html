@@ -32,7 +32,9 @@
         <a href="/{{pagination.categoryPath}}/quy-dinh-chung-ve-tcd-va-giai-quyet-don-thu/">QUY ĐỊNH CHUNG VỀ TCD VÀ GIẢI QUYẾT ĐƠN THƯ</a>
         <ul>
             {{#each ( first (lookup ( lookupCategory AllCategory 'tiep-cong-dan-&-xu-ly-don-thu.ubnd-huyen-dak-song.quy-dinh-chung-ve-tcd-va-giai-quyet-don-thu') 'files') 5)}}
-            <li>{{title}}</li>
+            <li><a href="{{slug}}"> {{title}}</a>
+          <span class="ShowDate">({{moment date lang="vi" format="DD MM YYYY"}})</span>
+        </li>
             {{/each}}
         </ul>
       </li>
@@ -40,7 +42,9 @@
           <a href="/{{pagination.categoryPath}}/lich-tiep-cong-dan/">LỊCH TIẾP CÔNG DÂN</a>
           <ul>
               {{#each ( first (lookup ( lookupCategory AllCategory 'tiep-cong-dan-&-xu-ly-don-thu.ubnd-huyen-dak-song.lich-tiep-cong-dan') 'files') 5)}}
-              <li>{{title}}</li>
+              <li><a href="{{slug}}"> {{title}}</a>
+          <span class="ShowDate">({{moment date lang="vi" format="DD MM YYYY"}})</span>
+        </li>
               {{/each}}
           </ul>
       </li> 
@@ -48,7 +52,9 @@
           <a href="/{{pagination.categoryPath}}/tinh-hinh-tcd-va-giai-quyet-don-thu/">TÌNH HÌNH TCD VÀ GIẢI QUYẾT ĐƠN THƯ</a>
           <ul>
               {{#each ( first (lookup ( lookupCategory AllCategory 'tiep-cong-dan-&-xu-ly-don-thu.ubnd-huyen-dak-song.tinh-hinh-tcd-va-giai-quyet-don-thu') 'files') 5)}}
-              <li>{{title}}</li>
+              <li><a href="{{slug}}"> {{title}}</a>
+          <span class="ShowDate">({{moment date lang="vi" format="DD MM YYYY"}})</span>
+        </li>
               {{/each}}
           </ul>
       </li>
@@ -56,7 +62,9 @@
           <a href="/{{pagination.categoryPath}}/ket-luan-tcd/">KẾT LUẬN TCD</a>
           <ul>
               {{#each ( first (lookup ( lookupCategory AllCategory 'tiep-cong-dan-&-xu-ly-don-thu.ubnd-huyen-dak-song.ket-luan-tcd') 'files') 5)}}
-              <li>{{title}}</li>
+              <li><a href="{{slug}}"> {{title}}</a>
+          <span class="ShowDate">({{moment date lang="vi" format="DD MM YYYY"}})</span>
+        </li>
               {{/each}}
           </ul>
       </li>
@@ -64,7 +72,9 @@
           <a href="/{{pagination.categoryPath}}/ket-qua-xu-ly-don-thu/">KẾT QUẢ XỬ LÝ ĐƠN THƯ</a>
           <ul>
               {{#each ( first (lookup ( lookupCategory AllCategory 'tiep-cong-dan-&-xu-ly-don-thu.ubnd-huyen-dak-song.ket-qua-xu-ly-don-thu') 'files') 5)}}
-              <li>{{title}}</li>
+              <li><a href="{{slug}}"> {{title}}</a>
+          <span class="ShowDate">({{moment date lang="vi" format="DD MM YYYY"}})</span>
+        </li>
               {{/each}}
           </ul>
       </li>

@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Thông báo V/v xét thăng hạng chức danh nghề nghiệp đối với giáo viên các trường công lập thuộc UBND huyện năm 2019",
     "description": "",
-    "date": "2019-04-01T01:25:00.000Z",
+    "date": "2019-04-01T01:26:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

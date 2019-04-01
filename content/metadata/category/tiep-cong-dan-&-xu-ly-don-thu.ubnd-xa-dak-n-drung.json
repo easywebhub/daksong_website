@@ -1,11 +1,13 @@
 {
     "sortBy": "date",
     "reverse": true,
-    "metadata": {"title":"UBND xã Đắk N’Drung"},
+    "metadata": {
+        "title": "UBND xã Đắk N’Drung"
+    },
     "displayName": "UBND xã Đắk N’Drung",
     "perPage": 10,
     "noPageOne": true,
-    "layout": "public-for-tiep-cd-va-xu-ly-dt.category.html",
+    "layout": "tiep-cong-dan-dak-n-drung.category.html",
     "first": ":categoryPath/index.html",
     "path": ":categoryPath/page/:num/index.html"
 }

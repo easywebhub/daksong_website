@@ -6,11 +6,10 @@
     "layout": "van-ban.html",
     "title": "Kế hoạch xét thăng hạng chức danh nghề nghiệp đối với giáo viên các trường  mầm non, tiểu học, THCS công lập thuộc UBND huyện năm 2019",
     "description": "",
-    "date": "2019-04-01T01:55:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",
-    "co_quan_ban_hanh": "",
+    "co_quan_ban_hanh": "UBND huyện Đắk Song",
     "linh_vuc": "",
     "loai_van_ban": "",
     "nguoi_ky": "",
@@ -21,7 +20,7 @@
     "url": "",
     "hinh_thuc_van_ban": "",
     "ngay_ban_hanh": "",
-    "so_hieu": "",
+    "so_hieu": "Số 77/KH-UBND",
     "upload-image": "/img/77 003.png",
     "__content__": ""
 }

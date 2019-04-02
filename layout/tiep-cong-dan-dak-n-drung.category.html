@@ -15,38 +15,14 @@
     font-family: Arial;
     margin: 0px;
   }
-  .style-ul{
-    padding: 15px 0px 15px 20px;
-  }
-  .style-ul li{
-    padding: 5px 0px;
-    list-style: disc;
-    margin-left: 15px;
-  }
-  .style-ul li{
-    padding: 5px 0px;
-    list-style:disc;
-    margin-left: 15px;
-    padding-left: 10px !important;
-   
-  }
-  .style-ul li ul {
-   
-    list-style:none !important;
-    
-  }
-  .style-ul li ul li{
-   
-    list-style:none !important;
-    background: url(../../../imgSonganh/dotG.png) no-repeat 0px 12px;
-  }
+
 
 </style>
 <div>
     <h3 class="style-h3">{{metadata.title}}</h3>
     <ul class="style-ul">
         <li>
-          <a href="/{{pagination.categoryPath}}/quy-dinh-ve-tcd-va-giai-quyet-don-thu/">QUY ĐỊNH VỀ TCD VÀ GIẢI QUYẾT ĐƠN THƯ</a>
+          <a href="/{{pagination.categoryPath}}/quy-dinh-ve-tcd-va-giai-quyet-don-thu/"> QUY ĐỊNH VỀ TCD VÀ GIẢI QUYẾT ĐƠN THƯ</a>
           <ul>
               {{#each ( first (lookup ( lookupCategory AllCategory 'tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-dak-n-drung.quy-dinh-ve-tcd-va-giai-quyet-don-thu') 'files') 5)}}
               <li><a href="{{slug}}"> {{title}}</a>

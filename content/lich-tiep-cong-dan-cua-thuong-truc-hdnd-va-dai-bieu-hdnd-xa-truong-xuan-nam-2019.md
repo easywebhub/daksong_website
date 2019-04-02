@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Lịch tiếp công dân của Thường trực  HĐND và đại biểu HĐND xã Trường Xuân năm 2019",
     "description": "",
-    "date": "2019-04-01T02:46:00.000Z",
+    "date": "2019-04-01T03:10:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

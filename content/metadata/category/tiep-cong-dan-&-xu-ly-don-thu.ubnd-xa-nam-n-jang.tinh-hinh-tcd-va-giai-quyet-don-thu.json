@@ -1,8 +1,10 @@
 {
     "sortBy": "date",
     "reverse": true,
-	"metadata": {"title":"Quy định chung về tcd và giải quyết đơn thư | UBND xã Nâm N'Jang"},
-    "displayName": "Quy định chung về tcd và giải quyết đơn thư | UBND xã Nâm N'Jang",
+    "metadata": {
+        "title": "Tình hình TCD và giải quyết đơn thư | UBND xã Nâm N'Jang"
+    },
+    "displayName": "Tình hình TCD và giải quyết đơn thư | UBND xã Nâm N'Jang",
     "perPage": 10,
     "noPageOne": true,
     "layout": "public.category.html",

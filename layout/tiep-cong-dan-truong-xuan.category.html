@@ -1,0 +1,208 @@
+{{#extend "tin-tuc"}}
+{{#content "main-body"}}
+<!-- Sử dụng cho xã, thị trấn -->
+
+<!-- Danh mục -->
+<style>
+  .style-h3{
+    background: #006797;
+    min-height: 30px;
+    line-height: 30px;
+    padding-left: 10px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-family: Arial;
+    margin: 0px;
+  }
+  .style-ul{
+    padding: 15px 0px 15px 20px;
+  }
+  .style-ul li{
+    padding: 5px 0px;
+    list-style: disc;
+    margin-left: 15px;
+  }
+
+</style>
+<div>
+    <h3 class="style-h3">{{metadata.title}}</h3>
+    <ul class="style-ul">
+        <li>
+          <a href="/{{pagination.categoryPath}}/quy-dinh-ve-tcd-va-giai-quyet-don-thu/">QUY ĐỊNH VỀ TCD VÀ GIẢI QUYẾT ĐƠN THƯ</a>
+          <ul>
+              {{#each ( first (lookup ( lookupCategory AllCategory 'tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-truong-xuan.quy-dinh-ve-tcd-va-giai-quyet-don-thu') 'files') 5)}}
+              <li><a href="{{slug}}"> {{title}}</a>
+          <span class="ShowDate">({{moment date lang="vi" format="DD MM YYYY"}})</span>
+        </li>
+              {{/each}}
+          </ul>
+        </li>
+        <li>
+            <a href="/{{pagination.categoryPath}}/lich-tiep-cong-dan/">LỊCH TIẾP CÔNG DÂN</a>
+            <ul>
+                {{#each ( first (lookup ( lookupCategory AllCategory 'tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-truong-xuan.lich-tiep-cong-dan') 'files') 5)}}
+                <li><a href="{{slug}}"> {{title}}</a>
+          <span class="ShowDate">({{moment date lang="vi" format="DD MM YYYY"}})</span>
+        </li>
+                {{/each}}
+            </ul>
+        </li>
+        <li>
+            <a href="/{{pagination.categoryPath}}/tinh-hinh-tcd-va-giai-quyet-don-thu/">TÌNH HÌNH TCD VÀ GIẢI QUYẾT ĐƠN THƯ</a>
+            <ul>
+                {{#each ( first (lookup ( lookupCategory AllCategory 'tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-truong-xuan.tinh-hinh-tcd-va-giai-quyet-don-thu') 'files') 5)}}
+                <li><a href="{{slug}}"> {{title}}</a>
+          <span class="ShowDate">({{moment date lang="vi" format="DD MM YYYY"}})</span>
+        </li>
+                {{/each}}
+            </ul>
+        </li>
+        <li>
+            <a href="/{{pagination.categoryPath}}/ket-luan-tcd/">KẾT LUẬN TCD</a>
+            <ul>
+                {{#each ( first (lookup ( lookupCategory AllCategory 'tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-truong-xuan.ket-luan-tcd') 'files') 5)}}
+                <li><a href="{{slug}}"> {{title}}</a>
+          <span class="ShowDate">({{moment date lang="vi" format="DD MM YYYY"}})</span>
+        </li>
+                {{/each}}
+            </ul>
+        </li>
+        <li>
+            <a href="/{{pagination.categoryPath}}/ket-qua-xu-ly-don-thu/">KẾT QUẢ XỬ LÝ ĐƠN THƯ</a>
+            <ul>
+                {{#each ( first (lookup ( lookupCategory AllCategory 'tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-truong-xuan.ket-qua-xu-ly-don-thu') 'files') 5)}}
+                <li><a href="{{slug}}"> {{title}}</a>
+          <span class="ShowDate">({{moment date lang="vi" format="DD MM YYYY"}})</span>
+        </li>
+                {{/each}}
+            </ul>
+        </li>
+      </ul>
+  </div>
+<!-- END: Danh mục -->
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  
+  <tr>
+    <td id="MSOZoneCell_WebPartWPQ13" valign="top" class="s4-wpcell-plain">
+      <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+          <td valign="top">
+            <div WebPartID="35ca937d-f24c-4b50-aec9-3ea1f56ddcae" HasPers="false" id="WebPartWPQ13" width="100%" class="ms-WPBody noindex"
+              allowDelete="false" style="">
+              <div id="ctl00_m_g_35ca937d_f24c_4b50_aec9_3ea1f56ddcae">
+
+
+                <script type="text/javascript">
+                  function get_ElementById(id) {
+                    var tmp;
+                    // detect browser
+                    NS4 = (document.layers) ? 1 : 0;
+                    IE4 = (document.all) ? 1 : 0;
+                    // W3C stands for the W3C standard, implemented in Mozilla (and Netscape 6) and IE5
+                    W3C = (document.getElementById) ? 1 : 0;
+                    if (W3C) {
+                      tmp = document.getElementById(id);
+                    } else if (NS4) {
+                      tmp = document.layers[id];
+                    } else { // IE4
+                      tmp = document.all[id];
+                    }
+                    return tmp;
+                  }
+
+                  function setposimg(id) {
+                    tb = get_ElementById(id);
+                    var scrOfX = 0,
+                      scrOfY = 0;
+                    if (typeof (window.pageYOffset) == 'number') {
+                      //Netscape compliant
+                      scrOfY = window.pageYOffset;
+                      scrOfX = window.pageXOffset;
+                    } else if (document.body && (document.body.scrollLeft || document.body.scrollTop)) {
+                      //DOM compliant
+                      scrOfY = document.body.scrollTop;
+                      scrOfX = document.body.scrollLeft;
+                    } else if (document.documentElement && (document.documentElement.scrollLeft || document.documentElement
+                        .scrollTop)) {
+                      //IE6 standards compliant mode
+                      scrOfY = document.documentElement.scrollTop;
+                      scrOfX = document.documentElement.scrollLeft;
+                    }
+                    x = (window.Event) ? this.pageX : event.clientX + scrOfX;
+                    y = (window.Event) ? this.pageY : event.clientY + scrOfY;
+                    tb.style.left = x;
+                    tb.style.top = y;
+                  }
+
+                  function popupactiveLink(right, newsid, menuid, img) {
+                    if (right == 'true') {
+                      setposimg(img);
+                      MMU_Open(byid(menuid), MMU_GetMenuFromClientId(img), event, false, null, 0);
+                    }
+                  }
+                </script>
+                <div id="ctl00_m_g_35ca937d_f24c_4b50_aec9_3ea1f56ddcae_ctl00_mainPanel">
+                  <div>
+                    <link href="/SiteAssets/css/redmond/jquery-ui-1.8.16.custom.css" rel="stylesheet" type="text/css" />
+                    <script src="/SiteAssets/js/jquery-1.4.4.min.js" type="text/javascript"></script>
+                    <script src="/SiteAssets/js/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script>
+                    <script src="/SiteAssets/js/jquery.ui.datepicker-vi.js" type="text/javascript"></script>
+                    <script language="javascript">
+                      //Hệ thống (không được sửa đổi)
+                      function getQueryStringName(name) {
+                        var m_Value = '';
+                        var url = document.URL
+                        //get the parameters
+                        url.match(/\?(.+)$/);
+                        var params = RegExp.$1;
+                        // split up the query string and store in an
+                        // associative array
+                        var params = params.split("&");
+                        var queryStringList = {};
+                        for (var i = 0; i < params.length; i++) {
+                          var tmp = params[i].split("=");
+                          queryStringList[tmp[0]] = unescape(tmp[1]);
+                        }
+                        //check querystring
+                        for (var queryString in queryStringList) {
+                          if (queryString == name) {
+                            m_Value = queryStringList[queryString];
+                            break;
+                          }
+                        }
+                        return m_Value;
+                      }
+
+                      function xemTheoNgay() {
+                        var m_DateText = document.getElementById('datepicker2').value;
+                        if (m_DateText != '') {
+                          window.location = 'AllPosts.aspx?CategoryId=' + getQueryStringName('CategoryId', document.URL) +
+                            '&PublishedDate=' + document.getElementById('datepicker2').value;
+                        }
+                      }
+                      var j = jQuery.noConflict();
+                      j(function () {
+                        // Datepicker
+                        j("#datepicker").datepicker({
+                          showOn: "button",
+                          buttonImage: "/_layouts/images/calendar.gif",
+                          buttonImageOnly: true,
+                          showOtherMonths: true,
+                          selectOtherMonths: true,
+                          showButtonPanel: true,
+                          dateFormat: 'dd/mm/yy',
+                          showAnim: 'slide',
+                          maxDate: new Date(),
+                          altField: "#datepicker2",
+                          altFormat: "yy-mm-ddT00:00:00Z"
+                        });
+                      });
+                    </script>
+                    ​
+                  </div>
+                </div>
+
+                {{/content}}
+                {{/extend}}

@@ -1,11 +1,13 @@
 {
     "sortBy": "date",
     "reverse": true,
-    "metadata": {"title":"UBND thị trấn Đức An"},
+    "metadata": {
+        "title": "UBND thị trấn Đức An"
+    },
     "displayName": "UBND thị trấn Đức An",
     "perPage": 10,
     "noPageOne": true,
-    "layout": "public-for-tiep-cd-va-xu-ly-dt.category.html",
+    "layout": "tiep-cong-dan-duc-an.category.html",
     "first": ":categoryPath/index.html",
     "path": ":categoryPath/page/:num/index.html"
 }

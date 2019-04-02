@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Tài liệu họp Hội nghị giao ban Quý I năm 2019",
     "description": "",
-    "date": "2019-04-01T09:12:00.000Z",
+    "date": "2019-04-01T09:02:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",
@@ -32,4 +32,4 @@
 
 <p>&hellip;(c&ograve;n tiếp)</p>
 
-<p>Mời Qu&yacute; vị&nbsp;bấm v&agrave;o file&nbsp;<u><em>&#39;&#39;<span style="color:#c0392b">PDF &amp; WORD</span>&quot;</em></u>&nbsp;ở tr&ecirc;n, để theo đầy đủ&nbsp;nội dung.</p>
+<p>Mời Qu&yacute; vị&nbsp;bấm v&agrave;o file&nbsp;<u><em>&#39;&#39;<span style="color:#c0392b">PDF &amp; WORD</span>&quot;</em></u>&nbsp;ở tr&ecirc;n, để theo d&otilde;i&nbsp;đầy đủ&nbsp;nội dung.</p>

@@ -1,8 +1,10 @@
 {
     "sortBy": "date",
     "reverse": true,
-	"metadata": {"title":"Quy định chung về tcd và giải quyết đơn thư | UBND xã Đắk N’Drung"},
-    "displayName": "Quy định chung về tcd và giải quyết đơn thư | UBND xã Đắk N’Drung",
+    "metadata": {
+        "title": "Tình hình TCD và giải quyết đơn thư | UBND xã Đắk N’Drung"
+    },
+    "displayName": "Tình hình TCD và giải quyết đơn thư | UBND xã Đắk N’Drung",
     "perPage": 10,
     "noPageOne": true,
     "layout": "public.category.html",

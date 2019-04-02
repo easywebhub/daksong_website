@@ -1,0 +1,33 @@
+---json
+{
+    "slug": "bc-cong-tac-giai-quyet-khieu-nai-to-cao-thang-02-nam-2019-cua-ubnd-xa-dak-hoa",
+    "category": "tiep-dan.kqgq-don-thu-cap-xa-&-thi-tran",
+    "tag": [],
+    "layout": "van-ban.html",
+    "title": "Bc công tác giải quyết khiếu nại, tố cáo tháng 02 năm 2019 của UBND xã Đắk Hòa",
+    "description": "",
+    "date": "2019-02-14T01:01:00.000Z",
+    "so": "",
+    "permalink": true,
+    "trich_yeu": "",
+    "co_quan_ban_hanh": "",
+    "linh_vuc": "",
+    "loai_van_ban": "",
+    "nguoi_ky": "",
+    "ngay_co_hieu_luc": "",
+    "tai_lieu_dinh_kem": "/img/THÁNG 2 - ĐẮK HÒA.pdf",
+    "banner": "",
+    "draft": false,
+    "url": "",
+    "hinh_thuc_van_ban": "",
+    "ngay_ban_hanh": "",
+    "so_hieu": "",
+    "upload-image": "/img/dh 001.png",
+    "__content__": ""
+}
+---
+<p><img alt="" src="/img/dh 001.png" /></p>
+
+<p>&hellip;(c&ograve;n tiếp)</p>
+
+<p>Mời c&aacute;c bạn&nbsp;bấm v&agrave;o file&nbsp;<u><em>&#39;&#39;PDF &amp; WORD&quot;</em></u>&nbsp;ở tr&ecirc;n để theo d&otilde;i tiếp.</p>

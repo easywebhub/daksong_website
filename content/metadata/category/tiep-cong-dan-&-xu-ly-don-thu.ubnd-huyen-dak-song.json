@@ -1,0 +1,13 @@
+{
+    "sortBy": "date",
+    "reverse": true,
+    "metadata": {
+        "title": "UBND huyện Đắk Song"
+    },
+    "displayName": "UBND huyện Đắk Song",
+    "perPage": 10,
+    "noPageOne": true,
+    "layout": "tiep-cong-dan-dak-song.category.html",
+    "first": ":categoryPath/index.html",
+    "path": ":categoryPath/page/:num/index.html"
+}

@@ -1,0 +1,34 @@
+{
+    "_$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+        "sortBy": {
+            "type": "string"
+        },
+        "reverse": {
+            "type": "boolean"
+        },
+        "metadata": {
+            "type": "object",
+            "properties": {}
+        },
+        "displayName": {
+            "type": "string"
+        },
+        "perPage": {
+            "type": "integer"
+        },
+        "noPageOne": {
+            "type": "boolean"
+        },
+        "layout": {
+            "type": "string"
+        },
+        "first": {
+            "type": "string"
+        },
+        "path": {
+            "type": "string"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "sortBy": "date",
+    "reverse": true,
+    "metadata": {
+        "title": "UBND thị trấn Đức An"
+    },
+    "displayName": "UBND thị trấn Đức An",
+    "perPage": 10,
+    "noPageOne": true,
+    "layout": "tiep-cong-dan-duc-an.category.html",
+    "first": ":categoryPath/index.html",
+    "path": ":categoryPath/page/:num/index.html"
+}

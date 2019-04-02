@@ -1,0 +1,13 @@
+{
+    "sortBy": "date",
+    "reverse": true,
+    "metadata": {
+        "title": "UBND xã Nâm N'Jang"
+    },
+    "displayName": "UBND xã Nâm N'Jang",
+    "perPage": 10,
+    "noPageOne": true,
+    "layout": "tiep-cong-dan-nam-n-jang.category.html",
+    "first": ":categoryPath/index.html",
+    "path": ":categoryPath/page/:num/index.html"
+}

@@ -1,0 +1,13 @@
+{
+    "sortBy": "date",
+    "reverse": true,
+    "metadata": {
+        "title": "UBND xã Thuận Hạnh"
+    },
+    "displayName": "UBND xã Thuận Hạnh",
+    "perPage": 10,
+    "noPageOne": true,
+    "layout": "tiep-cong-dan-thuan-hanh.category.html",
+    "first": ":categoryPath/index.html",
+    "path": ":categoryPath/page/:num/index.html"
+}

@@ -75,46 +75,34 @@
     },
     "tinTucNoiBat": [
         {
-            "slug": "dak-nong-mua-bo-chin-nam-2018",
-            "title": "Đăk Nông Mùa bơ chín năm 2018",
-            "description": "Đăk Nông Mùa bơ chín năm 2018",
-            "banner": "img/dak nong mua bo chin.jpg"
+            "slug": "tong-dieu-tra-dan-so-va-nha-o-thoi-diem-0-gio-ngay-0142019",
+            "title": "Tổng điều tra dân số và nhà ở thời điểm 0 giờ ngày 01/4/2019",
+            "description": "",
+            "banner": "img/01x03 - Copy.png"
         },
         {
-            "slug": "ky-niem-17-nam-thanh-lap-huyen",
-            "title": "Kỷ niệm 17 năm thành lập huyện",
-            "description": "Hội thao chào mừng 17 năm ngày thành lập huyện Đăk Song",
-            "banner": "img/TYUT0453.JPG"
+            "slug":"ubnd-huyen-dak-song-to-chuc-le-phat-dong-ngay-chay-olympic-vi-suc-khoe-toan-dan-va-giai-viet-da-truyen-thong-lan-thu-xviii-nam-2019",
+            "title": "UBND huyện Đăk Song tổ chức lễ phát động ngày chạy Olympic vì sức khỏe toàn dân và giải việt dã truyền thống lần thứ XVIII năm 2019.",
+            "description": "UBND huyện Đăk Song tổ chức lễ phát động ngày chạy Olympic vì sức khỏe toàn dân và giải việt dã truyền thống lần thứ XVIII năm 2019.",
+            "banner": "img/Ht 002 - Copy.png"
         },
         {
-            "slug": "chuong-trinh-kham-benh-nhan-dao-cap-thuoc-mien-phi",
-            "title": "Chương trình khám bệnh nhân đạo, cấp thuốc miễn phí",
-            "description": "Đoàn tình nguyện  Thiện Nguyện Sài Gòn  Lan Tỏa yêu thương đến khám chữa bệnh nhân đạo, cấp thuốc miễn phí và tặng quà cho 500 bà con nghèo tại xã Thuận Hà, huyện Đăk Song, tỉnh Đăk Nông vào ngày 21/04/2018",
-            "banner": "img/Capture 01.JPG"
+            "slug": "don-bien-phong-dak-tien-dak-song-to-chuc-gap-mat-60-nam-ngay-truyen-thong-bo-doi-bien-phong-03031959-0303-2019-va-30-nam-ngay-bien-phong-toan-dan-3-3-1989-3-3-2019",
+            "title": "Đồn Biên phòng Đăk Tiên, Đăk Song tổ chức gặp mặt  60 năm Ngày truyền thống Bộ đội Biên phòng, (03/03/1959 – 03/03/ 2019) và 30 năm Ngày Biên phòng toàn dân (3-3-1989 – 3-3-2019).",
+            "description": "Đồn Biên phòng Đăk Tiên, Đăk Song tổ chức gặp mặt  60 năm Ngày truyền thống Bộ đội Biên phòng, (03/03/1959 – 03/03/ 2019) và 30 năm Ngày Biên phòng toàn dân (3/3/1989 – 3/3/2019).",
+            "banner": "img/BĐ 02 - Copy.png"
         },
         {
-            "slug": "nhiet-liet-chao-mung-ngay-giai-phong-mien-nam-304-va-ngay-quoc-te-lao-dong-15",
-            "title": "Nhiệt liệt chào mừng ngày giải phóng miền nam 30/4 và ngày Quốc tế lao động 1/5",
-            "description": "Huyện Đăk Song, tỉnh Đăk Nông nêu cao khẩu hiệu: Nhiệt liệt chào mừng 43 năm ngày giải phóng miền nam thống nhất đất nước (30/4/1975 - 30/4/2018) và ngày Quốc tế lao động 1/5.",
-            "banner": "img/chao mung 30.4.JPG"
+            "slug": "le-ra-quan-huan-luyen-nam-2019",
+            "title": "Lễ ra quân huấn luyện năm 2019.",
+            "description": "",
+            "banner": "img/ctt 002 - Copy.png"
         },
         {
-            "slug": "to-chuc-hoi-nghi-so-ket-02-nam-thuc-hien-chi-thi-05cttw-ngay-1552016-cua-bo-chinh-tri",
-            "title": "Tổ chức hội nghị Sơ kết 02 năm thực hiện  Chỉ thị 05-CT/TW, ngày 15/5/2016 của Bộ Chính trị",
-            "description": "Tổ chức hội nghị Sơ kết 02 năm thực hiện Chỉ thị 05-CT/TW, ngày 15/5/2016 của Bộ Chính trị",
-            "banner": "img/DSC_1123.JPG"
-        },
-        {
-            "slug": "ngay-1952018-ubnd-huyen-dak-song-to-chuc-phat-dong-“tet-trong-cay-doi-doi-nho-on-bac-ho”",
-            "title": "Ngày 19/5/2018 UBND huyện Đăk Song tổ chức phát động “Tết trồng cầy đời đời nhớ ơn Bác Hồ”",
-            "description": "Ngày 19/5/2018 UBND huyện Đăk Song tổ chức phát động “Tết trồng cầy đời đời nhớ ơn Bác Hồ”",
-            "banner": "img/tet trong cay 1.PNG"
-        },
-        {
-            "slug": "tin-dong-bao-m-nong-o-dak-n-drung-no-luc-vuon-len-lam-giau",
-            "title": "Đồng bào M’nông ở Đắk N'Drung nỗ lực vươn lên làm giàu",
-            "description": "Xã Ðắk N’Drung (Ðắk Song) có 20 thôn, bon, 2.856 hộ với khoảng 12.000 nhân khẩu; trong đó đồng bào dân tộc M’nông chiếm hơn 30%. Trước đây, do tập quán canh tác còn lạc hậu, trình độ dân trí thấp nên cuộc sống của người dân nơi đây gặp không ít khó khăn, thiếu thốn. Số hộ nghèo là đồng bào dân tộc M'nông chiếm hơn 40%.",
-            "banner": "img/Mnong171.jpg"
+            "slug": "san-xuat-ho-tieu-huu-co-bat-dau-cho-trai-ngot",
+            "title": "Sản xuất hồ tiêu hữu cơ bắt đầu cho trái ngọt",
+            "description": "",
+            "banner": "img/HO TIEU 2 - Copy.png"
         }
     ],
     "tag": [],

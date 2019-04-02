@@ -1,3 +1,10 @@
+<style>
+	.style-ul li{
+		list-style: disc;
+	    margin-left: 15px;
+    	line-height: 20px;
+	}
+</style>
 <div class="hRight">
 
 	<menu class="ms-SrvMenuUI">
@@ -104,14 +111,35 @@
 										<div xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">
 
 											<div id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_Chinh" class="ndiv">
-												{{#each danh_sach_banner.banner_goc_phai_trang_chu}}
+												{{#each (first danh_sach_banner.banner_goc_phai_trang_chu 4)}}
 												<div class="div-image">
 													<div class="allowMenu">
 														<a href="{{this.duong_dan}}" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="{{this.hinh_anh}}"></a>
 													</div>
 												</div>
 												{{/each}}
-												
+
+												<!-- <ul class="style-ul">
+													<li ><a href="/tiep-cong-dan-&-xu-ly-don-thu/ubnd-huyen-dak-song/">UBND huyện Đắk Song</a></li>
+													<li><a href="/tiep-cong-dan-&-xu-ly-don-thu/ubnd-thi-tran-duc-an/">UBND thị trấn Đức An</a></li>
+													<li><a href="/tiep-cong-dan-&-xu-ly-don-thu/ubnd-xa-nam-n-jang/">UBND xã Nâm N'Jang</a></li>
+													<li><a href="/tiep-cong-dan-&-xu-ly-don-thu/ubnd-xa-thuan-ha/">UBND xã Thuận Hà</a></li>
+													<li><a href="/tiep-cong-dan-&-xu-ly-don-thu/ubnd-xa-thuan-hanh/">UBND xã Thuận Hạnh</a></li>
+													<li><a href="/tiep-cong-dan-&-xu-ly-don-thu/ubnd-xa-truong-xuan/">UBND xã Trường Xuân</a></li>
+													<li><a href="/tiep-cong-dan-&-xu-ly-don-thu/ubnd-xa-dak-hoa/">UBND xã Đắk Hoà</a></li>
+													<li><a href="/tiep-cong-dan-&-xu-ly-don-thu/ubnd-xa-dak-mol/">UBND xã Đắk Môl</a></li>
+													<li><a href="/tiep-cong-dan-&-xu-ly-don-thu/ubnd-xa-dak-n-drung/">UBND xã Đắk N’Drung</a></li>
+													<li><a href="/tiep-cong-dan-&-xu-ly-don-thu/ubnd-xa-nam-binh/">UBND xã Nam Bình</a></li>
+												</ul> -->
+
+												{{#each (last danh_sach_banner.banner_goc_phai_trang_chu 6)}}
+												<div class="div-image">
+													<div class="allowMenu">
+														<a href="{{this.duong_dan}}" target="_blank" alt=""><img style="BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" src="{{this.hinh_anh}}"></a>
+													</div>
+												</div>
+												{{/each}}
+
 											<div id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_Panel_openPopup">
 												<span style="DISPLAY: none">
 			<menu id="ctl00_m_g_4128a2cb_499e_4725_b026_5d66c7c2bd1f_ctl00_MnPopupLinkLienKet">
@@ -279,7 +307,7 @@
 																									<tr>
 																										<td align="center" valign="top" class="background-img">
 																											<div class="font-number">
-																												2</div>
+																												3</div>
 																										</td>
 																									</tr>
 																								</tbody>
@@ -303,30 +331,6 @@
 																									<tr>
 																										<td align="center" valign="top" class="background-img">
 																											<div class="font-number">
-																												1</div>
-																										</td>
-																									</tr>
-																								</tbody>
-																							</table>
-																						</td>
-																						<td align="center" height="10">
-																							<table cellpadding="0" cellspacing="0" class="tb-HitCount">
-																								<tbody>
-																									<tr>
-																										<td align="center" valign="top" class="background-img">
-																											<div class="font-number">
-																												0</div>
-																										</td>
-																									</tr>
-																								</tbody>
-																							</table>
-																						</td>
-																						<td align="center" height="10">
-																							<table cellpadding="0" cellspacing="0" class="tb-HitCount">
-																								<tbody>
-																									<tr>
-																										<td align="center" valign="top" class="background-img">
-																											<div class="font-number">
 																												2</div>
 																										</td>
 																									</tr>
@@ -339,7 +343,7 @@
 																									<tr>
 																										<td align="center" valign="top" class="background-img">
 																											<div class="font-number">
-																												8</div>
+																												1</div>
 																										</td>
 																									</tr>
 																								</tbody>
@@ -351,7 +355,31 @@
 																									<tr>
 																										<td align="center" valign="top" class="background-img">
 																											<div class="font-number">
-																												3</div>
+																												6</div>
+																										</td>
+																									</tr>
+																								</tbody>
+																							</table>
+																						</td>
+																						<td align="center" height="10">
+																							<table cellpadding="0" cellspacing="0" class="tb-HitCount">
+																								<tbody>
+																									<tr>
+																										<td align="center" valign="top" class="background-img">
+																											<div class="font-number">
+																												9</div>
+																										</td>
+																									</tr>
+																								</tbody>
+																							</table>
+																						</td>
+																						<td align="center" height="10">
+																							<table cellpadding="0" cellspacing="0" class="tb-HitCount">
+																								<tbody>
+																									<tr>
+																										<td align="center" valign="top" class="background-img">
+																											<div class="font-number">
+																												7</div>
 																										</td>
 																									</tr>
 																								</tbody>
@@ -462,7 +490,7 @@
 																									<tr>
 																										<td align="center" valign="top" class="background-img">
 																											<div class="font-number">
-																												2</div>
+																												7</div>
 																										</td>
 																									</tr>
 																								</tbody>

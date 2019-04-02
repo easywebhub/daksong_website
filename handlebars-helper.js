@@ -34,6 +34,15 @@ module.exports = function (Handlebars) {
         return url.replace('index.html', '');
     });
 
+    Handlebars.registerHelper('ifIn', function(elem, list, options) {
+        console.log('list, ele',list, elem);
+        console.log('list.indexOf(elem)', list.indexOf(elem));
+        if(list.indexOf(elem) > -1) {
+          return options.fn(this);
+        }
+        return options.inverse(this);
+      });
+
     Handlebars.registerHelper('formatDate', function (context, options) {
         var format = options.hash.format || "YYYY-MM-DD";
 
@@ -76,6 +85,7 @@ module.exports = function (Handlebars) {
         //console.log('obj =====================',obj);
         return buildList(obj.data, true);
     });
+	
     Handlebars.registerHelper('lookupCategory', function(obj, childPath) {
         var chunks = childPath.split('.');
         var count = 0;

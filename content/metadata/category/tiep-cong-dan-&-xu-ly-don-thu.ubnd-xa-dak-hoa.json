@@ -1,0 +1,13 @@
+{
+    "sortBy": "date",
+    "reverse": true,
+    "metadata": {
+        "title": "UBND xã Đắk Hoà"
+    },
+    "displayName": "UBND xã Đắk Hoà",
+    "perPage": 10,
+    "noPageOne": true,
+    "layout": "tiep-cong-dan-dak-hoa.category.html",
+    "first": ":categoryPath/index.html",
+    "path": ":categoryPath/page/:num/index.html"
+}

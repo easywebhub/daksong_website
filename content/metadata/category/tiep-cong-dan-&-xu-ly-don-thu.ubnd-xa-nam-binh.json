@@ -1,0 +1,13 @@
+{
+    "sortBy": "date",
+    "reverse": true,
+    "metadata": {
+        "title": "UBND xã Nam Bình"
+    },
+    "displayName": "UBND xã Nam Bình",
+    "perPage": 10,
+    "noPageOne": true,
+    "layout": "tiep-cong-dan-nam-binh.category.html",
+    "first": ":categoryPath/index.html",
+    "path": ":categoryPath/page/:num/index.html"
+}

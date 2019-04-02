@@ -1,0 +1,13 @@
+{
+    "sortBy": "date",
+    "reverse": true,
+    "metadata": {
+        "title": "Tiếp Công Dân & Xử lý đơn thư"
+    },
+    "displayName": "Tiếp Công Dân & Xử lý đơn thư",
+    "perPage": 10,
+    "noPageOne": true,
+    "layout": "public-for-tiep-cd-va-xu-ly-dt-for-huyen.category.html",
+    "first": ":categoryPath/index.html",
+    "path": ":categoryPath/page/:num/index.html"
+}

@@ -1,0 +1,13 @@
+{
+    "sortBy": "date",
+    "reverse": true,
+    "metadata": {
+        "title": "UBND xã Đắk Môl"
+    },
+    "displayName": "UBND xã Đắk Môl",
+    "perPage": 10,
+    "noPageOne": true,
+    "layout": "tiep-cong-dan-dak-mol.category.html",
+    "first": ":categoryPath/index.html",
+    "path": ":categoryPath/page/:num/index.html"
+}

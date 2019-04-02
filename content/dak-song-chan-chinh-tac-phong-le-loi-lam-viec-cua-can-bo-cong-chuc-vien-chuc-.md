@@ -1,0 +1,22 @@
+---json
+{
+    "slug": "dak-song-chan-chinh-tac-phong-le-loi-lam-viec-cua-can-bo-cong-chuc-vien-chuc",
+    "title": "Đak Song: Chấn chỉnh tác phong, lề lối làm việc của cán bộ, công chức, viên chức.",
+    "category": "thong-tin-chi-dao.chuyen-muc-cchc",
+    "tag": [],
+    "layout": "post.html",
+    "date": "2019-03-19T09:19:00.000Z",
+    "draft": false,
+    "upload-image": "",
+    "description": "",
+    "banner": "",
+    "__content__": ""
+}
+---
+<p style="text-align:justify"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">&nbsp; &nbsp; &nbsp; Nhằm n&acirc;ng cao tr&aacute;ch nhiệm trong thực thi nhiệm vụ của c&aacute;n bộ, c&ocirc;ng chức, vi&ecirc;n chức, ngay từ những ng&agrave;y đầu năm mới, Tổ kiểm tra c&ocirc;ng vụ huyện đ&atilde; kiểm tra đột xuất việc thực hiện Chỉ thị số 17</span></span></span><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">-CT/UBND Ng&agrave;y 07 th&aacute;ng 8 năm 2013 của Chủ tịch UBND tỉnh tại một số cơ quan, đơn vị, địa phương tr&ecirc;n địa b&agrave;n huyện.</span></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp;Theo đ&oacute;, sau những ng&agrave;y nghỉ tết nguy&ecirc;n đ&aacute;n, Tổ kiểm tra c&ocirc;ng vụ huyện đ&atilde; thực hiện kiểm tra tại trụ sở l&agrave;m việc của c&aacute;c x&atilde;, thị trấn, c&aacute;c cơ quan đơn vị, trường học tr&ecirc;n địa b&agrave;n huyện. Nội dung kiểm tra tập trung việc thực hiện của c&aacute;n bộ c&ocirc;ng chức ở bộ phận tiếp nhận v&agrave; trả kết quả giải quyết thủ tục h&agrave;nh ch&iacute;nh; quy tắc ứng xử của c&aacute;n bộ, c&ocirc;ng chức, vi&ecirc;n chức; quy chế văn h&oacute;a c&ocirc;ng sở&hellip; Tại c&aacute;c nơi kiểm tra, th&agrave;nh vi&ecirc;n tổ c&ocirc;ng t&aacute;c đ&atilde; chỉ r&otilde; c&aacute;c vi phạm của c&aacute;n bộ, c&ocirc;ng chức, đề nghị người đứng đầu cơ quan, đơn vị, địa phương nghi&ecirc;m t&uacute;c chấn chỉnh t&aacute;c phong, lề lối l&agrave;m việc. Nhắc nhở c&aacute;n bộ, c&ocirc;ng chức thực hiện nghi&ecirc;m kỷ luật, kỷ cương h&agrave;nh ch&iacute;nh v&agrave; văn h&oacute;a c&ocirc;ng sở. &ldquo; việc kiểm tra c&ocirc;ng vụ, gi&uacute;p mỗi c&aacute;n bộ Đảng vi&ecirc;n &yacute; thức được tr&aacute;ch nhiệm trong c&ocirc;ng việc, cũng như th&aacute;i độ giao tiếp khi tiếp x&uacute;c v&agrave; l&agrave;m việc với nh&acirc;n d&acirc;n, từ đ&oacute; mỗi mỗi người tự n&acirc;ng cao tr&igrave;nh độ chuy&ecirc;n m&ocirc;n của m&igrave;nh, đ&aacute;p ứng tốt cho y&ecirc;u cầu của c&ocirc;ng việc&rdquo; &Ocirc;ng Chu Văn Bắc &ndash; Chủ tịch hội Cựu chiến binh x&atilde; Nam B&igrave;nh cho biết.</span></span></span></p>
+
+<p style="text-align:justify"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">&nbsp; &nbsp; &nbsp; Qua kiểm tra cho thấy, một số đơn vị chấp h&agrave;nh nghi&ecirc;m về giờ l&agrave;m việc; c&aacute;n bộ, c&ocirc;ng chức, vi&ecirc;n chức tại c&aacute;c ph&ograve;ng chuy&ecirc;n m&ocirc;n c&oacute; mặt tương đối đầy đủ; trang phục gọn g&agrave;ng, lịch sự; qu&aacute; tr&igrave;nh thực thi c&ocirc;ng vụ nghi&ecirc;m t&uacute;c, tr&aacute;ch nhiệm, th&aacute;i độ đ&uacute;ng mực với nh&acirc;n d&acirc;n. Tuy nhi&ecirc;n, tại thời điểm kiểm tra, việc thực hiện kỷ luật, kỷ cương h&agrave;nh ch&iacute;nh v&agrave; văn h&oacute;a c&ocirc;ng sở ở kh&ocirc;ng &iacute;t cơ quan, đơn vị, địa phương chưa được thực hiện nghi&ecirc;m t&uacute;c; c&ograve;n biểu hiện c&aacute;n bộ, c&ocirc;ng chức đi muộn, về sớm&hellip; &Ocirc;ng Nguyễn Hữu Phương &ndash; Ph&oacute; ph&ograve;ng nội vụ - Tổ trưởng tổ kiểm tra c&ocirc;ng vụ Huyện cho biết :&ldquo;Để n&acirc;ng cao tr&aacute;ch nhiệm của c&aacute;n bộ, c&ocirc;ng chức, vi&ecirc;n chức trong thực thi nhiệm vụ, c&ocirc;ng vụ, người đứng đầu cơ quan, đơn vị, địa phương n&ecirc;u gương, n&acirc;ng cao vai tr&ograve; quản l&yacute;; thường xuy&ecirc;n gi&aacute;m s&aacute;t, ph&aacute;t hiện v&agrave; xử l&yacute; nghi&ecirc;m c&aacute;c trường hợp vi phạm. Mỗi c&aacute;n bộ c&ocirc;ng chức, vi&ecirc;n chức tự gi&aacute;c chấp h&agrave;nh quy định. Thời gian tới, huyện tiếp tục kiểm tra đột xuất v&agrave; xử l&yacute; vi phạm lĩnh vực n&agrave;y&rdquo;.</span></span></span></p>
+
+<p style="text-align:right"><strong><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">Tr&iacute; Song Đ&agrave;i TT huyện</span></span></span></strong></p>

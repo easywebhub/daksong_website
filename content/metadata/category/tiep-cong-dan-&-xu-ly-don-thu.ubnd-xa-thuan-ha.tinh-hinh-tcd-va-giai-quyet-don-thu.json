@@ -1,8 +1,10 @@
 {
     "sortBy": "date",
     "reverse": true,
-	"metadata": {"title":"Quy định chung về tcd và giải quyết đơn thư | UBND xã Thuận Hà"},
-    "displayName": "Quy định chung về tcd và giải quyết đơn thư | UBND xã Thuận Hà",
+    "metadata": {
+        "title": "Tình hình TCD và giải quyết đơn thư | UBND xã Thuận Hà"
+    },
+    "displayName": "Tình hình TCD và giải quyết đơn thư | UBND xã Thuận Hà",
     "perPage": 10,
     "noPageOne": true,
     "layout": "public.category.html",

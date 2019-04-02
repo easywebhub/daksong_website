@@ -1,12 +1,12 @@
 ---json
 {
     "slug": "qd-ban-hanh-quy-che-to-chuc-va-hoat-dong-cua-bo-phan-mot-cua-xa-dak-n-drung",
-    "category": "tiep-dan.quy-che-tiep-dan",
+    "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-dak-n-drung.quy-dinh-ve-tcd-va-giai-quyet-don-thu",
     "tag": [],
     "layout": "van-ban.html",
     "title": "QĐ Ban hành Quy chế tổ chức và hoạt động của Bộ phận Một cửa xã Đắk N'Drung",
     "description": "",
-    "date": "2019-02-20T04:05:00.000Z",
+    "date": "2019-02-20T04:06:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

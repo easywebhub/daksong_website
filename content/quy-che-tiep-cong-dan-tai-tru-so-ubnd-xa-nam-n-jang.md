@@ -1,12 +1,12 @@
 ---json
 {
     "slug": "quy-che-tiep-cong-dan-tai-tru-so-ubnd-xa-nam-n-jang",
-    "category": "tiep-dan.quy-che-tiep-dan",
+    "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-nam-n-jang.quy-dinh-ve-tcd-va-giai-quyet-don-thu",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Quy chế Tiếp công dân tại trụ sở UBND xã Nâm N'Jang",
     "description": "",
-    "date": "2018-10-01T02:00:00.000Z",
+    "date": "2018-10-01T02:02:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

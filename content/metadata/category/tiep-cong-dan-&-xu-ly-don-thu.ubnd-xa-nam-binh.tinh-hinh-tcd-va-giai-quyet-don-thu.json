@@ -1,8 +1,10 @@
 {
     "sortBy": "date",
     "reverse": true,
-	"metadata": {"title":"Quy định chung về tcd và giải quyết đơn thư | UBND xã Nam Bình"},
-    "displayName": "Quy định chung về tcd và giải quyết đơn thư | UBND xã Nam Bình",
+    "metadata": {
+        "title": "Tình hình TCD và giải quyết đơn thư | UBND xã Nam Bình"
+    },
+    "displayName": "Tình hình TCD và giải quyết đơn thư | UBND xã Nam Bình",
     "perPage": 10,
     "noPageOne": true,
     "layout": "public.category.html",

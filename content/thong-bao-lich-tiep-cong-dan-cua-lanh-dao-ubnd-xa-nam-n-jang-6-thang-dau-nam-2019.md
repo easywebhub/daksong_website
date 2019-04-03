@@ -5,7 +5,7 @@
     "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-nam-n-jang.lich-tiep-cong-dan",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-01-07T00:55:00.000Z",
+    "date": "2019-01-07T01:00:00.000Z",
     "draft": false,
     "upload-image": "/img/L04.png",
     "description": "",

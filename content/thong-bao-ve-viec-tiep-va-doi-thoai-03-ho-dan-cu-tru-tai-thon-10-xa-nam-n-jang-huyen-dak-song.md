@@ -1,12 +1,12 @@
 ---json
 {
     "slug": "thong-bao-ve-viec-tiep-va-doi-thoai-03-ho-dan-cu-tru-tai-thon-10-xa-nam-n-jang-huyen-dak-song",
-    "category": "tiep-dan.lich-tiep-cong-dan",
+    "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-huyen-dak-song.lich-tiep-cong-dan",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Thông báo về việc tiếp và đối thoại 03 hộ dân cư trú tại thôn 10, xã Nâm N'Jang, huyện Đắk Song",
     "description": "",
-    "date": "2019-02-25T02:46:00.000Z",
+    "date": "2019-02-25T02:41:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

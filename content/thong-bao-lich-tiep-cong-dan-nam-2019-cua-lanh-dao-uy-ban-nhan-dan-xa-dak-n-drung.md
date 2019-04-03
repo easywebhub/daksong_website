@@ -1,12 +1,12 @@
 ---json
 {
     "slug": "thong-bao-lich-tiep-cong-dan-nam-2019-cua-lanh-dao-uy-ban-nhan-dan-xa-dak-n-drung",
-    "category": "tiep-dan.lich-tiep-cong-dan",
+    "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-dak-n-drung.lich-tiep-cong-dan",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Thông báo lịch tiếp công dân năm 2019 của  Lãnh đạo Ủy ban nhân dân xâ Đắk N'Drung",
     "description": "",
-    "date": "2019-01-10T08:50:00.000Z",
+    "date": "2019-01-10T08:55:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

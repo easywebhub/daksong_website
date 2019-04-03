@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "V/v đối thoại với nhân dân theo Điều 125 của Luật tổ chức chính quyền địa phương",
     "description": "",
-    "date": "2019-01-31T08:56:00.000Z",
+    "date": "2019-01-31T09:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

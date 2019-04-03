@@ -5,7 +5,6 @@
     "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-thuan-hanh.quy-dinh-ve-tcd-va-giai-quyet-don-thu",
     "tag": [],
     "layout": "post.html",
-    "date": "2016-08-04T00:05:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "",

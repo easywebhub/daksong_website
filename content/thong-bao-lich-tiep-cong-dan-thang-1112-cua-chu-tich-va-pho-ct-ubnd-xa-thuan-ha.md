@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Thông báo Lịch tiếp công dân tháng 11,12 của Chủ tịch và Phó CT UBND xã Thuận Hà",
     "description": "",
-    "date": "2018-11-04T02:28:00.000Z",
+    "date": "2018-11-04T02:33:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

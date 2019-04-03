@@ -1,12 +1,12 @@
 ---json
 {
     "slug": "thong-bao-lich-tiep-cong-dan-tai-tru-so-ubnd-xa-dak-hoa-nam-2019",
-    "category": "tiep-dan.lich-tiep-cong-dan",
+    "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-dak-hoa.lich-tiep-cong-dan",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Thông báo Lịch tiếp công dân tại trụ sở UBND xã Đắk Hòa năm 2019",
     "description": "",
-    "date": "2019-01-08T07:00:00.000Z",
+    "date": "2019-01-08T07:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

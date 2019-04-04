@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Vv trả lời đơn kiến nghị của ông Bùi Công Đức thường trú Thuận Tiến, Thuận Hạnh, Đắk Song, Đắk Nông",
     "description": "",
+    "date": "2019-04-01T00:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

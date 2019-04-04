@@ -5,11 +5,11 @@
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-04-04T00:01:00.000Z",
+    "date": "2019-04-04T00:00:00.000Z",
     "draft": false,
     "upload-image": "/img/bchqs02.png",
     "description": "",
-    "banner": "",
+    "banner": "/img/bchqs01 - Copy.png",
     "__content__": ""
 }
 ---

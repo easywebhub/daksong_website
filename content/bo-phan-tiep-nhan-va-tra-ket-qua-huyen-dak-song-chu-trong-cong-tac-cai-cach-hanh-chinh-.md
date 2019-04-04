@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "bo-phan-tiep-nhan-va-tra-ket-qua-huyen-dak-song-chu-trong-cong-tac-cai-cach-hanh-chinh-",
+    "slug": "bo-phan-tiep-nhan-va-tra-ket-qua-huyen-dak-song-chu-trong-cong-tac-cai-cach-hanh-chinh",
     "title": "Bộ phận Tiếp nhận và Trả kết quả huyện Đắk Song chú trọng công tác cải cách hành chính.",
     "category": "thong-tin-chi-dao.chuyen-muc-cchc",
     "tag": [],

@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "dak-song-khai-giang-lop-boi-duong-doi-tuong-ket-nap-dang-dot-i-nam-2019-",
+    "slug": "dak-song-khai-giang-lop-boi-duong-doi-tuong-ket-nap-dang-dot-i-nam-2019",
     "title": "Đak Song khai giảng lớp bồi dưỡng đối tượng kết nạp Đảng đợt I, năm 2019.",
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],

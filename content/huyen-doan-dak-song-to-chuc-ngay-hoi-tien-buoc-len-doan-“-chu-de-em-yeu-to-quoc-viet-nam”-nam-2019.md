@@ -5,11 +5,10 @@
     "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-04-04T00:29:00.000Z",
     "draft": false,
     "upload-image": "/img/hdds03.PNG",
     "description": "Ngày 22/3, tại Trường THCS Nguyễn Văn Trỗi, xã Nâm N’jang, Tỉnh đoàn phối hợp với huyện Đoàn Đăk Song tổ chức Ngày hội Tiến bước lên Đoàn “ chủ đề Em yêu Tổ quốc Việt Nam” năm 2019 Nhằm tuyên truyền, giáo dục cho thiếu nhi, đội viên truyền thống 88 năm xây dựng và phát triển của Đoàn TNCS Hồ Chí Minh...",
-    "banner": "",
+    "banner": "/img/Hdds01 - Copy.PNG",
     "__content__": ""
 }
 ---

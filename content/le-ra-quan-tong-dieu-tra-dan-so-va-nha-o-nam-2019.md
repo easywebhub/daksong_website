@@ -5,6 +5,7 @@
     "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
     "tag": [],
     "layout": "post.html",
+    "date": "2019-04-04T00:05:00.000Z",
     "draft": false,
     "upload-image": "/img/dtds02.png",
     "description": "",

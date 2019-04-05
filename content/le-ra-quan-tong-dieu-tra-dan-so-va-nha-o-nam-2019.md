@@ -5,10 +5,9 @@
     "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-04-04T00:05:00.000Z",
     "draft": false,
     "upload-image": "/img/dtds02.png",
-    "description": "",
+    "description": "Cùng với các địa phương khác trong cả nước, ngày 1/4, huyện Đăk Song đã  tổ chức lễ ra quân Tổng điều tra dân số và nhà ở năm 2019 tại địa bàn xã Nam Bình.",
     "banner": "/img/dtds01 - Copy.png",
     "__content__": ""
 }

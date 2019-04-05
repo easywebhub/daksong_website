@@ -5,10 +5,9 @@
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-04-04T00:00:00.000Z",
     "draft": false,
     "upload-image": "/img/bchqs02.png",
-    "description": "",
+    "description": "Sáng 29-3, Ban chỉ huy quân sự huyện Đak Song tổ chức Lễ phát động đợt thi đua cao điểm chào mừng kỷ niệm 65 năm Chiến thắng lịch sử Điện Biên Phủ (7/5/1954-7/5/2019), hướng tới kỷ niệm 50 năm thực hiện Di chúc của Chủ tịch Hồ Chí Minh (2/9/1969-2/9/2019) với chủ đề: “Luyện quân - Lập công - Quyết thắng”.về dự có đ/c Phan Văn Hợp,Tỉnh ủy viên, Bí thư huyện ủy; đ/c Nguyễn Xuân Thanh, chủ tịch UBND huyện, cùng bí thư Đảng ủy của 08 xã, thị trấn.",
     "banner": "/img/bchqs01 - Copy.png",
     "__content__": ""
 }

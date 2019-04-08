@@ -1,12 +1,12 @@
 ---json
 {
     "slug": "ke-hoach-xet-thang-hang-chuc-danh-nghe-nghiep-doi-voi-giao-vien-cac-truong-mam-non-tieu-hoc-thcs-cong-lap-thuoc-ubnd-huyen-nam-2019",
-    "category": "van-ban-phap-luat.van-ban-cua-huyen",
+    "category": "thong-bao-giay-moi.thong-bao",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Kế hoạch xét thăng hạng chức danh nghề nghiệp đối với giáo viên các trường  mầm non, tiểu học, THCS công lập thuộc UBND huyện năm 2019",
     "description": "",
-    "date": "2019-04-01T02:06:00.000Z",
+    "date": "2019-04-01T00:06:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "Kế hoạch xét thăng hạng chức danh nghề nghiệp đối với giáo viên các trường  mầm non, tiểu học, THCS công lập thuộc UBND huyện năm 2019.",

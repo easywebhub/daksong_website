@@ -75,34 +75,34 @@
     },
     "tinTucNoiBat": [
         {
-            "slug": "tong-dieu-tra-dan-so-va-nha-o-thoi-diem-0-gio-ngay-0142019",
-            "title": "Tổng điều tra dân số và nhà ở thời điểm 0 giờ ngày 01/4/2019",
+            "slug": "le-ra-quan-tong-dieu-tra-dan-so-va-nha-o-nam-2019",
+            "title": "Lễ ra quân tổng điều tra dân số và nhà ở năm 2019",
+            "description": "Cùng với các địa phương khác trong cả nước, ngày 1/4, huyện Đăk Song đã  tổ chức lễ ra quân Tổng điều tra dân số và nhà ở năm 2019 tại địa bàn xã Nam Bình.",
+            "banner": "img/dtds01 - Copy.png"
+        },
+        {
+            "slug":"ban-chi-huy-quan-su-huyen-dak-song-to-chuc-le-phat-dong-thi-dua-luyen-quan-lap-cong-quyet-thang-chao-mung-ky-niem-65-nam",
+            "title": "Ban chỉ huy quân sự huyện Đắk Song tổ chức lễ phát động thi đua “luyện quân, lập công , quyết thắng” chào mừng kỷ niệm 65 năm ngày chiến thắng lịch sử Điện Biên Phủ  (07/05/1954 – 07/5/2019)",
+            "description": "Sáng 29-3, Ban chỉ huy quân sự huyện Đak Song tổ chức Lễ phát động đợt thi đua cao điểm chào mừng kỷ niệm 65 năm Chiến thắng lịch sử Điện Biên Phủ (7/5/1954-7/5/2019), hướng tới kỷ niệm 50 năm thực hiện Di chúc của Chủ tịch Hồ Chí Minh (2/9/1969-2/9/2019) với chủ đề: “Luyện quân - Lập công - Quyết thắng”.về dự có đ/c Phan Văn Hợp,Tỉnh ủy viên, Bí thư huyện ủy; đ/c Nguyễn Xuân Thanh, chủ tịch UBND huyện, cùng bí thư Đảng ủy của 08 xã, thị trấn.",
+            "banner": "img/bchqs01 - Copy.png"
+        },
+        {
+            "slug": "huyen-doan-dak-song-to-chuc-ngay-hoi-tien-buoc-len-doan-chu-de-em-yeu-to-quoc-viet-nam-nam-2019",
+            "title": "Huyện Đoàn Đăk Song tổ chức Ngày hội Tiến bước lên Đoàn “ chủ đề Em yêu Tổ quốc Việt Nam” năm 2019",
+            "description": "Ngày 22/3, tại Trường THCS Nguyễn Văn Trỗi, xã Nâm N’jang, Tỉnh đoàn phối hợp với huyện Đoàn Đăk Song tổ chức Ngày hội Tiến bước lên Đoàn “ chủ đề Em yêu Tổ quốc Việt Nam” năm 2019 Nhằm tuyên truyền, giáo dục cho thiếu nhi, đội viên truyền thống 88 năm xây dựng và phát triển của Đoàn TNCS Hồ Chí Minh...",
+            "banner": "img/Hdds01 - Copy.PNG"
+        },
+        {
+            "slug": "bo-phan-tiep-nhan-va-tra-ket-qua-huyen-dak-song-chu-trong-cong-tac-cai-cach-hanh-chinh",
+            "title": "Bộ phận Tiếp nhận và Trả kết quả huyện Đắk Song chú trọng công tác cải cách hành chính.",
             "description": "",
-            "banner": "img/01x03 - Copy.png"
+            "banner": "img/cchc01 - Copy.PNG"
         },
         {
             "slug":"ubnd-huyen-dak-song-to-chuc-le-phat-dong-ngay-chay-olympic-vi-suc-khoe-toan-dan-va-giai-viet-da-truyen-thong-lan-thu-xviii-nam-2019",
             "title": "UBND huyện Đăk Song tổ chức lễ phát động ngày chạy Olympic vì sức khỏe toàn dân và giải việt dã truyền thống lần thứ XVIII năm 2019.",
             "description": "UBND huyện Đăk Song tổ chức lễ phát động ngày chạy Olympic vì sức khỏe toàn dân và giải việt dã truyền thống lần thứ XVIII năm 2019.",
             "banner": "img/Ht 002 - Copy.png"
-        },
-        {
-            "slug": "don-bien-phong-dak-tien-dak-song-to-chuc-gap-mat-60-nam-ngay-truyen-thong-bo-doi-bien-phong-03031959-0303-2019-va-30-nam-ngay-bien-phong-toan-dan-3-3-1989-3-3-2019",
-            "title": "Đồn Biên phòng Đăk Tiên, Đăk Song tổ chức gặp mặt  60 năm Ngày truyền thống Bộ đội Biên phòng, (03/03/1959 – 03/03/ 2019) và 30 năm Ngày Biên phòng toàn dân (3-3-1989 – 3-3-2019).",
-            "description": "Đồn Biên phòng Đăk Tiên, Đăk Song tổ chức gặp mặt  60 năm Ngày truyền thống Bộ đội Biên phòng, (03/03/1959 – 03/03/ 2019) và 30 năm Ngày Biên phòng toàn dân (3/3/1989 – 3/3/2019).",
-            "banner": "img/BĐ 02 - Copy.png"
-        },
-        {
-            "slug": "le-ra-quan-huan-luyen-nam-2019",
-            "title": "Lễ ra quân huấn luyện năm 2019.",
-            "description": "",
-            "banner": "img/ctt 002 - Copy.png"
-        },
-        {
-            "slug": "san-xuat-ho-tieu-huu-co-bat-dau-cho-trai-ngot",
-            "title": "Sản xuất hồ tiêu hữu cơ bắt đầu cho trái ngọt",
-            "description": "",
-            "banner": "img/HO TIEU 2 - Copy.png"
         }
     ],
     "tag": [],

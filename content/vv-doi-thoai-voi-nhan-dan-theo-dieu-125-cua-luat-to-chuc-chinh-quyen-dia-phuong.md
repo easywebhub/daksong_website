@@ -1,12 +1,12 @@
 ---json
 {
     "slug": "vv-doi-thoai-voi-nhan-dan-theo-dieu-125-cua-luat-to-chuc-chinh-quyen-dia-phuong",
-    "category": "tiep-dan.lich-tiep-cong-dan",
+    "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-huyen-dak-song.lich-tiep-cong-dan",
     "tag": [],
     "layout": "van-ban.html",
     "title": "V/v đối thoại với nhân dân theo Điều 125 của Luật tổ chức chính quyền địa phương",
     "description": "",
-    "date": "2019-01-31T09:01:00.000Z",
+    "date": "2019-01-31T09:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

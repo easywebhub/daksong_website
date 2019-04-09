@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug":"thong-bao-ve-viec-thay-doi-ten-mien-trang-dich-vu-cong-truc-tuyen-tinh-dak-nong",
+            "title": "Thông báo về việc thay đổi tên miền trang dịch vụ công trực tuyến tỉnh Đắk Nông.",
+            "description": "Thông báo về việc thay đổi tên miền trang dịch vụ công trực tuyến tỉnh Đắk Nông",
+            "banner": "img/TB-DVHCC - Copy.PNG"
+        },
+        {
             "slug": "le-ra-quan-tong-dieu-tra-dan-so-va-nha-o-nam-2019",
             "title": "Lễ ra quân tổng điều tra dân số và nhà ở năm 2019",
             "description": "Cùng với các địa phương khác trong cả nước, ngày 1/4, huyện Đăk Song đã  tổ chức lễ ra quân Tổng điều tra dân số và nhà ở năm 2019 tại địa bàn xã Nam Bình.",
@@ -97,12 +103,6 @@
             "title": "Bộ phận Tiếp nhận và Trả kết quả huyện Đắk Song chú trọng công tác cải cách hành chính.",
             "description": "",
             "banner": "img/cchc01 - Copy.PNG"
-        },
-        {
-            "slug":"ubnd-huyen-dak-song-to-chuc-le-phat-dong-ngay-chay-olympic-vi-suc-khoe-toan-dan-va-giai-viet-da-truyen-thong-lan-thu-xviii-nam-2019",
-            "title": "UBND huyện Đăk Song tổ chức lễ phát động ngày chạy Olympic vì sức khỏe toàn dân và giải việt dã truyền thống lần thứ XVIII năm 2019.",
-            "description": "UBND huyện Đăk Song tổ chức lễ phát động ngày chạy Olympic vì sức khỏe toàn dân và giải việt dã truyền thống lần thứ XVIII năm 2019.",
-            "banner": "img/Ht 002 - Copy.png"
         }
     ],
     "tag": [],

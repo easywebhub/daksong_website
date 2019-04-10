@@ -5,6 +5,7 @@
     "category": "thong-bao-giay-moi.thong-bao",
     "tag": [],
     "layout": "post.html",
+    "date": "2019-04-10T01:00:00.000Z",
     "draft": false,
     "upload-image": "/img/TB48_1.PNG",
     "description": "",

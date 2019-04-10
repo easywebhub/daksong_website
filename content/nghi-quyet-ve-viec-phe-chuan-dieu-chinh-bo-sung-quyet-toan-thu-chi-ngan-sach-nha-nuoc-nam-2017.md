@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Nghị quyết về việc phê chuẩn điều chỉnh, bổ sung quyết toán thu, chi ngân sách nhà nước năm 2017",
     "description": "",
+    "date": "2019-01-08T05:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

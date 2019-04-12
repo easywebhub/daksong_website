@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "cong-tac-tcd-xu-ly-don-thu-phan-anh-kien-nghi-phong-chong-tham-nhung-tu-ngay-0703-den-ngay-08042019-phuong-huong-nhiem-vu-thang-5-2019",
+    "slug": "cong-tac-tcd-xu-ly-don-thu-tu-ngay-0703-den-ngay-08042019-phuong-huong-nhiem-vu-thang-5-2019",
     "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-dak-n-drung.tinh-hinh-tcd-va-giai-quyet-don-thu",
     "tag": [],
     "layout": "van-ban.html",

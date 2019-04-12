@@ -22,10 +22,12 @@
     "hinh_thuc_van_ban": "",
     "ngay_ban_hanh": "",
     "so_hieu": "",
-    "upload-image": "/img/dakmol02.PNG",
+    "upload-image": "/img/dakmol03.PNG",
     "__content__": ""
 }
 ---
 <p><img alt="" src="/img/dakmol01.PNG" /></p>
 
-<p>&nbsp;</p>
+<p><img alt="" src="/img/dakmol02.PNG" /></p>
+
+<p><img alt="" src="/img/dakmol03.PNG" /></p>

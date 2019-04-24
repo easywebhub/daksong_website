@@ -1,11 +1,12 @@
 ---json
 {
-    "slug": "dm-tthc-sua-doi-bo-sung-linh-vuc-y-te-tham-quyen-cua-so-y-te-va-tthc-moi-ban-hanh-dan-so-cua-ubnd-cap-xa",
+    "slug": "tthc-sua-doi-bo-sung-linh-vuc-y-te-du-phong-thuoc-tham-quyen-so-y-te-va-tthc-moi-ban-hanh-linh-vuc-dan-so-thuoc-tham-quyen-ubnd-cap-xa",
     "category": "cong-khai.cong-khai-thu-tuc-hanh-chinh",
     "tag": [],
     "layout": "van-ban.html",
-    "title": "QUYẾT ĐỊNH Công bố Danh mục thủ tục hành chính sửa đổi, bổ sung lĩnh vực Y tế Dự phòng thuộc thẩm quyền giải quyết của Sở Y tế và thủ tục hành chính mới ban hành lĩnh vực Dân số thuộc thẩm quyền giải quyết của UBND cấp xã",
+    "title": "TTHC sửa đổi, bổ sung lĩnh vực Y tế Dự phòng thuộc thẩm quyền Sở Y tế và tthc mới ban hành lĩnh vực Dân số thuộc thẩm quyền  UBND cấp xã",
     "description": "",
+    "date": "2019-04-22T09:57:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

@@ -1,12 +1,12 @@
 ---json
 {
-    "slug": "quy-trinh-noi-bo-thu-tuc-hanh-chinh-thuoc-tham-quyen-quyet-dinh-cua-ubnd-tinh-so-ke-hoach-va-dau-tu-thuc-hien-tai-mot-cua-dien-tu",
+    "slug": "quy-trinh-noi-bo-tthc-thuoc-tham-quyen-quyet-dinh-cua-ubnd-tinh-so-ke-hoach-va-dau-tu",
     "category": "cong-khai.cong-khai-thu-tuc-hanh-chinh",
     "tag": [],
     "layout": "van-ban.html",
-    "title": "Quy trình nội bộ thủ tục hành chính thuộc thẩm quyền  quyết định của UBND tỉnh, Sở Kế hoạch và Đầu tư  thực hiện tại Một cửa điện tử",
+    "title": "QUYẾT ĐỊNH Về việc phê duyệt Quy trình nội bộ thủ tục hành chính thuộc thẩm quyền  quyết định của UBND tỉnh, Sở Kế hoạch và Đầu tư  thực hiện tại Một cửa điện tử",
     "description": "",
-    "date": "2019-04-22T01:00:00.000Z",
+    "date": "2019-04-22T00:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

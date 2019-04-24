@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "danh-muc-tthc-sua-doi-bo-sung-bai-bo-dua-ra-khoi-quyet-dinh-cong-bo-linh-vuc-giao-duc-nghe-nghiep-phong-chong-te-nan-xh-thuoc-tham-quyen-cua-so-lao-dong-thuong-binh-va-xa-hoi",
+    "slug": "danh-muc-tthc-sua-doi-bo-sung-bai-bo-dua-ra-khoi-quyet-dinh-cong-bo-linh-vuc-giao-duc-nghe-nghiep",
     "category": "cong-khai.cong-khai-thu-tuc-hanh-chinh",
     "tag": [],
     "layout": "van-ban.html",

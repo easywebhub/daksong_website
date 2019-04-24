@@ -4,7 +4,7 @@
     "category": "cong-khai.cong-khai-thu-tuc-hanh-chinh",
     "tag": [],
     "layout": "van-ban.html",
-    "title": "TTHC sửa đổi, bổ sung lĩnh vực Y tế Dự phòng thuộc thẩm quyền Sở Y tế và tthc mới ban hành lĩnh vực Dân số thuộc thẩm quyền  UBND cấp xã",
+    "title": "QUYẾT ĐỊNH Công bố Danh mục thủ tục hành chính sửa đổi, bổ sung lĩnh vực Y tế Dự phòng thuộc thẩm quyền giải quyết của Sở Y tế và thủ tục hành chính mới ban hành lĩnh vực Dân số thuộc thẩm quyền giải quyết của UBND cấp xã",
     "description": "",
     "date": "2019-04-22T09:57:00.000Z",
     "so": "",

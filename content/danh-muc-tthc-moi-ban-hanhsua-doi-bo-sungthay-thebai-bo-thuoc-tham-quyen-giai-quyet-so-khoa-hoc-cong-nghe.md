@@ -1,11 +1,12 @@
 ---json
 {
-    "slug": "danh-muc-tthc-moi-ban-hanhsua-doi-bo-sung-thay-the-bai-bo-thuoc-tham-quyen-giai-quyet-cua-so-khcn",
+    "slug": "danh-muc-tthc-moi-ban-hanhsua-doi-bo-sungthay-thebai-bo-thuoc-tham-quyen-giai-quyet-so-khoa-hoc-cong-nghe",
     "category": "cong-khai.cong-khai-thu-tuc-hanh-chinh",
     "tag": [],
     "layout": "van-ban.html",
-    "title": "QUYẾT ĐỊNH Về việc công bố Danh mục thủ tục hành chính mới ban hành/sửa đổi,  bổ sung/thay thế/bãi bỏ thuộc thẩm quyền giải quyết  của Sở Khoa học và Công nghệ",
+    "title": "Công bố Danh mục thủ tục hành chính mới ban hành/sửa đổi,  bổ sung/thay thế/bãi bỏ thuộc thẩm quyền giải quyết  của Sở Khoa học và Công nghệ",
     "description": "",
+    "date": "2019-04-23T00:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

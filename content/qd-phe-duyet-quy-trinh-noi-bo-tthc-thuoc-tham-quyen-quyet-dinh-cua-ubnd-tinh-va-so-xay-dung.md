@@ -4,7 +4,7 @@
     "category": "cong-khai.cong-khai-thu-tuc-hanh-chinh",
     "tag": [],
     "layout": "van-ban.html",
-    "title": "QĐ phê duyệt Quy trình nội bộ TTHC thuộc thẩm quyền quyết định của UBND tỉnh và Sở Xây dựng",
+    "title": "QUYẾT ĐỊNH Về việc công bố Danh mục thủ tục hành chính bị bãi bỏ lĩnh vực  Quy hoạch – Kiến trúc thuộc thẩm quyền giải quyết  của Sở Xây dựng và UBND cấp huyện",
     "description": "",
     "date": "2019-04-25T07:00:00.000Z",
     "so": "",

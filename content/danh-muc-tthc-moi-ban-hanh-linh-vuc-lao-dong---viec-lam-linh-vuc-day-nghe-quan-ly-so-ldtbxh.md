@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "danh-muc-tthc-moi-ban-hanh-linh-vuc-lao-dong---viec-lam-linh-vuc-day-nghe-quan-ly-so-ldtbxh",
+    "slug": "danh-muc-tthc-moi-ban-hanh-linh-vuc-lao-dong-viec-lam-linh-vuc-day-nghe-quan-ly-so-ldtbxh",
     "category": "cong-khai.cong-khai-thu-tuc-hanh-chinh",
     "tag": [],
     "layout": "van-ban.html",

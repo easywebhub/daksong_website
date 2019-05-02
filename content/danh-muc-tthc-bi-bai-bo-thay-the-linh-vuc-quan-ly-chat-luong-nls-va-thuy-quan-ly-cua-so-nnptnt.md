@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "QUYẾT ĐỊNH Về việc công bố Danh mục thủ tục hành chính sửa đổi, bổ sung;  thủ tục hành chính bị bãi bỏ; thủ tục hành chính thay thế lĩnh vực Quản  lý chất lượng Nông lâm sản và Thủy sản thuộc thẩm quyền quản lý của  Sở Nông nghiệp và Phát triển nông thôn",
     "description": "",
-    "date": "2019-05-01T00:00:00.000Z",
+    "date": "2019-05-02T00:30:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

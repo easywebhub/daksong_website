@@ -4,7 +4,7 @@
     "category": "cong-khai.cong-khai-thu-tuc-hanh-chinh",
     "tag": [],
     "layout": "van-ban.html",
-    "title": "Quyết định Về việc công bố Danh mục thủ tục hành chính mới ban hành/bị bãi bỏ lĩnh vực an toàn thực phẩm và dinh dưỡng thuộc thẩm quyền giải quyết Sở Y tế",
+    "title": "Quyết định công bố Danh mục thủ tục hành chính mới ban hành/bị bãi bỏ lĩnh vực An toàn thực phẩm và dinh dưỡng thuộc thẩm quyền Sở Y tế",
     "description": "",
     "date": "2019-05-03T00:00:00.000Z",
     "so": "",

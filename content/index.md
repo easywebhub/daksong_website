@@ -75,10 +75,10 @@
     },
     "tinTucNoiBat": [
         {
-            "slug":"thong-bao-ve-viec-thay-doi-ten-mien-trang-dich-vu-cong-truc-tuyen-tinh-dak-nong",
-            "title": "Thông báo về việc thay đổi tên miền trang dịch vụ công trực tuyến tỉnh Đắk Nông.",
-            "description": "Thông báo về việc thay đổi tên miền trang dịch vụ công trực tuyến tỉnh Đắk Nông",
-            "banner": "img/TB-DVHCC - Copy.PNG"
+            "slug":"thong-bao-the-le-giai-bua-liem-vang-lan-thu-iv-nam-2019",
+            "title": "Thông báo thể lệ Giải Bứa liềm vàng lần thứ IV - năm 2019",
+            "description": "",
+            "banner": "img/1843_01 - Copy.PNG"
         },
         {
             "slug": "le-ra-quan-tong-dieu-tra-dan-so-va-nha-o-nam-2019",

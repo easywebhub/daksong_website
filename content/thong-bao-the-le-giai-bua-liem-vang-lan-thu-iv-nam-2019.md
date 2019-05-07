@@ -16,13 +16,28 @@
     "nguoi_ky": "",
     "ngay_co_hieu_luc": "",
     "tai_lieu_dinh_kem": "",
-    "banner": "",
+    "banner": "/img/1843_01 - Copy.PNG",
     "draft": false,
     "url": "",
     "hinh_thuc_van_ban": "",
     "ngay_ban_hanh": "",
     "so_hieu": "",
-    "upload-image": "",
+    "upload-image": "/img/1843_09.PNG",
     "__content__": ""
 }
 ---
+<p><img alt="" src="/img/1843_01.PNG" /></p>
+
+<p><img alt="" src="/img/1843_02.PNG" /></p>
+
+<p><img alt="" src="/img/1843_03.PNG" /></p>
+
+<p><img alt="" src="/img/1843_04.PNG" /></p>
+
+<p><img alt="" src="/img/1843_05.PNG" /></p>
+
+<p><img alt="" src="/img/1843_06.PNG" /></p>
+
+<p><img alt="" src="/img/1843_07.PNG" /></p>
+
+<p><img alt="" src="/img/1843_09.PNG" /></p>

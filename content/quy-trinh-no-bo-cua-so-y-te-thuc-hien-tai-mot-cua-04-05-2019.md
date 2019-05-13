@@ -4,7 +4,7 @@
     "category": "cong-khai.cong-khai-thu-tuc-hanh-chinh",
     "tag": [],
     "layout": "van-ban.html",
-    "title": "Quy trình nộ bộ của Sở Y tế thực hiện tai Một cửa 04, 05, 2019",
+    "title": "Quyết định về việc phê duyệt Quy trình nội bộ thủ tục hành chính thuộc thẩm quyền quyết định Sở Y tế thực hiện tại một cửa điện tử",
     "description": "",
     "date": "2019-05-10T09:30:00.000Z",
     "so": "",

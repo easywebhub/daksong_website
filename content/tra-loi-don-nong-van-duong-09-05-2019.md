@@ -4,7 +4,7 @@
     "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-huyen-dak-song.ket-qua-xu-ly-don-thu",
     "tag": [],
     "layout": "van-ban.html",
-    "title": "Trả lời đơn Nông Văn Đường 09 05 2019",
+    "title": "Trả lời đơn của công dân Nông Văn Đường thôn 11, xã Nậm N'jang, huyện Đắk Song, tỉnh Đắk Nông",
     "description": "",
     "so": "",
     "permalink": true,

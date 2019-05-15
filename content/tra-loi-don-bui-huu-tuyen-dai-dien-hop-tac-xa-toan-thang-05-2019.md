@@ -1,7 +1,7 @@
 ---json
 {
     "slug": "tra-loi-don-bui-huu-tuyen-dai-dien-hop-tac-xa-toan-thang-05-2019",
-    "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-huyen-dak-song.ket-qua-xu-ly-don-thu",
+    "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-dak-n-drung.ket-qua-xu-ly-don-thu",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Trả lời nội dung đơn của công dân Bùi Hữu Tuyên (đại diện hợp tác xã Toàn Thắng) thôn 07, xã Đắk N'Drung, huyện Đắk Song",

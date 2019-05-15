@@ -4,7 +4,7 @@
     "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-huyen-dak-song.ket-qua-xu-ly-don-thu",
     "tag": [],
     "layout": "van-ban.html",
-    "title": "Giải quyết đơn của ông Y Phăn, bon Blan, Đắk Mol, Đắk Song, Đắk Nông",
+    "title": "Báo cáo về việc giải quyết đơn của ông Y Phăn, trú tại bon Blânn, xã Đắk Môl, huyện Đắk Song, tỉnh Đắk Nông",
     "description": "",
     "date": "2019-05-14T00:00:00.000Z",
     "so": "",

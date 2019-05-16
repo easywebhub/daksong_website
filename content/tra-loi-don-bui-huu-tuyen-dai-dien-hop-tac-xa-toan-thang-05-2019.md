@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Trả lời nội dung đơn của công dân Bùi Hữu Tuyên (đại diện hợp tác xã Toàn Thắng) thôn 07, xã Đắk N'Drung, huyện Đắk Song",
     "description": "",
+    "date": "2019-05-13T12:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-05-20T00:33:00.000Z",
+    "date": "2019-04-22T00:33:00.000Z",
     "draft": false,
     "upload-image": "/img/Snn02.PNG",
     "description": "",

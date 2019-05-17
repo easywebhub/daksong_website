@@ -27,10 +27,10 @@
 
 <p style="margin-right:2.45pt; text-align:justify"><img alt="" src="/img/Snn02.PNG" /></p>
 
-<p style="margin-right:2.45pt; text-align:justify"><em><span style="background-color:white"><span style="color:black">Đo&agrave;n &nbsp; </span></span><strong><span style="color:black">c&ocirc;ng t&aacute;c của Sở N&ocirc;ng nghiệp v&agrave; PTNT tỉnh </span></strong><span style="background-color:white"><span style="color:black">Tham quan m&ocirc; h&igrave;nh c&agrave; chua tại x&atilde; Thuận H&agrave;</span></span></em></p>
+<p style="margin-right:2.45pt; text-align:justify"><span style="color:#999999"><em><span style="background-color:white">Đo&agrave;n&nbsp;</span>c&ocirc;ng t&aacute;c của Sở N&ocirc;ng nghiệp v&agrave; PTNT tỉnh <span style="background-color:white">Tham quan m&ocirc; h&igrave;nh c&agrave; chua tại x&atilde; Thuận H&agrave;</span></em></span></p>
 
-<p style="margin-right:2.45pt; text-align:justify"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">Nh&acirc;n dịp n&agrave;y<em>, </em></span></span></span><strong><span style="font-size:14.0pt"><span style="color:black">đo&agrave;n c&ocirc;ng t&aacute;c của Sở N&ocirc;ng nghiệp v&agrave; PTNT tỉnh đ&atilde; tham quan m&ocirc; h&igrave;nh sản xuất c&agrave; chua v&agrave; bắp s&uacute; tại x&atilde; Thuận H&agrave;.</span></span></strong></p>
+<p style="margin-right:2.45pt; text-align:justify"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">Nh&acirc;n dịp n&agrave;y<em>, </em></span></span><span style="color:black">đo&agrave;n c&ocirc;ng t&aacute;c của Sở N&ocirc;ng nghiệp v&agrave; PTNT tỉnh đ&atilde; tham quan m&ocirc; h&igrave;nh sản xuất c&agrave; chua v&agrave; bắp s&uacute; tại x&atilde; Thuận H&agrave;.</span></span></p>
 
-<p style="margin-left:324.0pt; margin-right:2.45pt; text-align:justify"><strong><span style="font-size:14.0pt"><span style="color:black">L&ecirc; Xu&acirc;n.</span></span></strong></p>
+<p style="margin-right:2.45pt; text-align:right"><strong><span style="font-size:14.0pt"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; L&ecirc; Xu&acirc;n.</span></span></strong></p>
 
 <p style="margin-right:2.45pt; text-align:justify">&nbsp;</p>

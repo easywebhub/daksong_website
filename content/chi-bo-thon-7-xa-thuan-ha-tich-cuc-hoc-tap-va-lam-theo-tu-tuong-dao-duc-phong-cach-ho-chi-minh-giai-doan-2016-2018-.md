@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "chi-bo-thon-7-xa-thuan-ha-tich-cuc-hoc-tap-va-lam-theo-tu-tuong-dao-duc-phong-cach-ho-chi-minh-giai-doan-2016-2018-",
+    "slug": "chi-bo-thon-7-xa-thuan-ha-tich-cuc-hoc-tap-va-lam-theo-tu-tuong-dao-duc-phong-cach-ho-chi-minh-giai-doan-2016-2018",
     "title": "Chi bộ thôn 7 xã Thuận Hà tích cực học tập và làm theo tư tưởng, đạo đức , phong cách Hồ Chí Minh giai đoạn 2016 2018.",
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],

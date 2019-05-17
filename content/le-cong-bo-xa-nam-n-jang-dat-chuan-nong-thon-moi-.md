@@ -6,9 +6,9 @@
     "tag": [],
     "layout": "post.html",
     "draft": false,
-    "upload-image": "",
+    "upload-image": "/img/namnjang03.PNG",
     "description": "",
-    "banner": "",
+    "banner": "/img/namnjang01 - Copy.PNG",
     "__content__": ""
 }
 ---
@@ -18,13 +18,13 @@
 
 <p style="text-align:justify">&nbsp;</p>
 
-<p style="text-align:justify"><img alt="Description: C:\Documents and Settings\HuyBao-PC\Local Settings\Temporary Internet Files\Content.Word\20190425_081956.jpg" src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image002.jpg" style="height:303px; width:624px" /></p>
+<p style="text-align:justify"><img alt="" src="/img/namnjang01.PNG" /></p>
 
 <p style="text-align:center"><strong><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">X&atilde; N&acirc;m N&rsquo;jang đ&oacute;n nhận đạt chuẩn n&ocirc;ng th&ocirc;n mới.</span></span></strong></p>
 
 <p style="text-align:justify"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Qua gần 08 năm triển khai x&acirc;y dựng n&ocirc;ng th&ocirc;n mới , đến nay x&atilde; N&acirc;m N&rsquo;jang đ&atilde; đạt 19/19 ti&ecirc;u ch&iacute; về x&acirc;y dựng n&ocirc;ng th&ocirc;n mới. Bộ mặt n&ocirc;ng th&ocirc;n ng&agrave;y c&agrave;ng khang trang, kết cấu hạ tầng thiết yếu về giao th&ocirc;ng , thủy lợi , văn h&oacute;a , y tế , gi&aacute;o dục được quan t&acirc;m, đầu tư n&acirc;ng cấp x&acirc;y dựng mới. Sản xuất n&ocirc;ng nghiệp tiếp tục ph&aacute;t triển, nhiều m&ocirc; h&igrave;nh sản xuất, li&ecirc;n kiết được th&agrave;nh lập từng bước đi v&agrave;o hoạt động hiệu quả. Việc ứng dụng tiến bộ khoa học kỹ thuật trong sản xuất n&ocirc;ng nghiệp đ&atilde; mang lại hiệu quả kinh tế v&agrave; thu nhập cao cho nh&acirc;n d&acirc;n. Số hộ ngh&egrave;o giảm nhanh, đời sống tinh thần của người d&acirc;n từng bước được cải thiện. </span></span></p>
 
-<p style="text-align:justify"><img alt="Description: C:\Documents and Settings\HuyBao-PC\Local Settings\Temporary Internet Files\Content.Word\20190425_084628.jpg" src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image004.jpg" style="height:303px; width:624px" /></p>
+<p style="text-align:justify"><img alt="" src="/img/namnjang02.PNG" /></p>
 
 <p style="text-align:center"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Lễ c&ocirc;ng bố x&atilde; N&acirc;m N&rsquo;jang đạt chuẩn n&ocirc;ng th&ocirc;n mới năm 2019.</span></span></p>
 
@@ -36,7 +36,7 @@
 
 <p style="text-align:justify">&nbsp;</p>
 
-<p style="text-align:justify"><img alt="Description: C:\Documents and Settings\HuyBao-PC\Local Settings\Temporary Internet Files\Content.Word\20190425_094314.jpg" src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image006.jpg" style="height:303px; width:624px" /></p>
+<p style="text-align:justify"><img alt="" src="/img/namnjang03.PNG" /></p>
 
 <p style="text-align:center"><strong><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">L&atilde;nh&nbsp; đạo UBND tỉnh trao bằng c&ocirc;ng&nbsp; nhận x&atilde; N&acirc;m N&rsquo;jang đạt chuẩn n&ocirc;ng th&ocirc;n mới .</span></span></strong></p>
 

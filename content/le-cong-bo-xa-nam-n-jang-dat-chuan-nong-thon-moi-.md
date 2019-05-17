@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "le-cong-bo-xa-nam-n-jang-dat-chuan-nong-thon-moi-",
+    "slug": "le-cong-bo-xa-nam-n-jang-dat-chuan-nong-thon-moi",
     "title": "Lễ công bố xã Nâm N’ jang đạt chuẩn nông thôn mới.",
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],

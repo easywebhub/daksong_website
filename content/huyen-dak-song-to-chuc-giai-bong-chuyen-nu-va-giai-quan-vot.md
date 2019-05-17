@@ -9,7 +9,7 @@
     "draft": false,
     "upload-image": "/img/304_03.PNG",
     "description": "",
-    "banner": "",
+    "banner": "/img/304_03 - Copy.PNG",
     "__content__": ""
 }
 ---

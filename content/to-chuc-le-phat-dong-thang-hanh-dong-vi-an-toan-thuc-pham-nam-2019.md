@@ -5,6 +5,7 @@
     "category": "tin-tuc-su-kien.tin-y-te-giao-duc",
     "tag": [],
     "layout": "post.html",
+    "date": "2019-04-24T07:51:00.000Z",
     "draft": false,
     "upload-image": "/img/attp201901.PNG",
     "description": "",

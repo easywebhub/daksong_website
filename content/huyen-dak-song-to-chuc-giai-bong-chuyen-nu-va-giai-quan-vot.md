@@ -1,14 +1,14 @@
 ---json
 {
     "slug": "huyen-dak-song-to-chuc-giai-bong-chuyen-nu-va-giai-quan-vot",
-    "title": "Huyện Đak Song tổ chức giải bóng chuyền nữ và giải quần vợt  chào mừng Kỷ niệm 44 năm Ngày giải phóng Miền Nam, thống nhất đất nước (30/4/19",
+    "title": "Chào mừng Kỷ niệm Ngày giải phóng Miền Nam, thống nhất đất nước (30/4/1975 – 30/4/2019) và Ngày Quốc tế lao động (1/5/1886 – 1/5/2019)",
     "category": "tin-tuc-su-kien.tin-van-hoa",
     "tag": [],
     "layout": "post.html",
     "date": "2019-05-02T00:00:00.000Z",
     "draft": false,
     "upload-image": "/img/304_03.PNG",
-    "description": "",
+    "description": "Huyện Đak Song tổ chức giải bóng chuyền nữ và giải quần vợt  chào mừng Kỷ niệm 44 năm Ngày giải phóng Miền Nam, thống nhất đất nước (30/4/1975 – 30/4/2019) và 133 năm Ngày Quốc tế lao động (1/5/1886 – 1/5/2019)",
     "banner": "/img/304_03 - Copy.PNG",
     "__content__": ""
 }

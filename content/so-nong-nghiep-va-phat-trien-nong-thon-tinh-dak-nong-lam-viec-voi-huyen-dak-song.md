@@ -13,7 +13,7 @@
     "__content__": ""
 }
 ---
-<h1 style="margin-right:2.45pt; text-align:justify"><span style="background-color:white"><span style="font-size:14.0pt"><span style="color:black">Sở N&ocirc;ng nghiệp v&agrave; ph&aacute;t triển n&ocirc;ng th&ocirc;n tỉnh Đăk N&ocirc;ng&nbsp; l&agrave;m việc với huyện Đắk Song.</span></span></span></h1>
+<h1 style="margin-right:2.45pt; text-align:justify">&nbsp;</h1>
 
 <p style="margin-left:0cm; margin-right:2.45pt; text-align:justify"><span style="background-color:white"><span style="font-size:14.0pt">Vừa qua, đo&agrave;n c&ocirc;ng t&aacute;c của Sở N&ocirc;ng nghiệp v&agrave; PTNT tỉnh Đăk N&ocirc;ng do Đ/c Ho&agrave;ng Trung Thơ &ndash; Ph&oacute; gi&aacute;m đốc Sở NN&amp;PTNT đ&atilde; c&oacute; buổi l&agrave;m việc với huyện Đắk Song&nbsp; để kiểm tra c&ocirc;ng t&aacute;c t&aacute;i cơ cấu n&ocirc;ng nghiệp, ph&aacute;t triển v&ugrave;ng n&ocirc;ng nghiệp c&ocirc;ng nghệ cao v&agrave; định hướng ph&aacute;t triển trong thời gian tới. Dự buổi l&agrave;m việc c&oacute; Đ/c L&ecirc; Viết Sinh &ndash; Ph&oacute; chủ tịch UBND huyện, l&atilde;nh đạo c&aacute;c cơ quan chuy&ecirc;n m&ocirc;n thuộc UBND huyện c&ugrave;ng c&aacute;c đồng ch&iacute; chủ tịch UBND c&aacute;c x&atilde;, thị trấn.</span></span></p>
 

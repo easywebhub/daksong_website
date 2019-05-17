@@ -9,7 +9,7 @@
     "draft": false,
     "upload-image": "/img/PTNN02.PNG",
     "description": "",
-    "banner": "",
+    "banner": "/img/PTNN01 - Copy.PNG",
     "__content__": ""
 }
 ---

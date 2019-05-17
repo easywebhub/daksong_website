@@ -13,13 +13,13 @@
     "__content__": ""
 }
 ---
-<h1 style="text-align:justify"><span style="font-size:14.0pt">&nbsp; &nbsp; &nbsp; Huyện Đak Song tổ chức giải b&oacute;ng chuyền nữ v&agrave; giải quần vợt&nbsp; </span><span style="font-size:14.0pt"><span style="color:#111111">ch&agrave;o mừng Kỷ niệm 44 năm Ng&agrave;y giải ph&oacute;ng Miền Nam, thống nhất đất nước (30/4/1975 &ndash; 30/4/2019) v&agrave; 133 năm Ng&agrave;y Quốc tế lao động (1/5/1886 &ndash; 1/5/2019)</span></span></h1>
+<h1 style="text-align:justify"><span style="font-size:14.0pt">&nbsp; &nbsp; &nbsp;<span style="color:#000000"> Huyện Đak Song tổ chức giải b&oacute;ng chuyền nữ v&agrave; giải quần vợt&nbsp; </span></span><span style="color:#000000"><span style="font-size:14.0pt">ch&agrave;o mừng Kỷ niệm 44 năm Ng&agrave;y giải ph&oacute;ng Miền Nam, thống nhất đất nước (30/4/1975 &ndash; 30/4/2019) v&agrave; 133 năm Ng&agrave;y Quốc tế lao động (1/5/1886 &ndash; 1/5/2019)</span></span></h1>
 
 <p style="text-align:center">&nbsp;</p>
 
 <p style="text-align:center">&nbsp;</p>
 
-<h1 style="text-align:justify">&nbsp; <span style="font-size:14.0pt">Nằm trong chuổi c&aacute;c hoạt động </span><span style="font-size:14.0pt"><span style="color:#111111">Ch&agrave;o mừng Kỷ niệm 44 năm Ng&agrave;y giải ph&oacute;ng Miền Nam, thống nhất đất nước (30/4/1975 &ndash; 30/4/2019) v&agrave; 133 năm Ng&agrave;y Quốc tế lao động (1/5/1886 &ndash; 1/5/2019)</span></span><span style="font-size:14.0pt">. S&aacute;ng ng&agrave;y 23/4/2019 huyện Đak Song tổ chức giải b&oacute;ng chuyền nữ v&agrave; giải quần vợt ch&agrave;o mừng.</span></h1>
+<h1 style="text-align:justify">&nbsp; <span style="font-size:14.0pt">Nằm trong chuổi c&aacute;c hoạt động </span><span style="font-size:14.0pt">Ch&agrave;o mừng Kỷ niệm 44 năm Ng&agrave;y giải ph&oacute;ng Miền Nam, thống nhất đất nước (30/4/1975 &ndash; 30/4/2019) v&agrave; 133 năm Ng&agrave;y Quốc tế lao động (1/5/1886 &ndash; 1/5/2019)</span><span style="font-size:14.0pt">. S&aacute;ng ng&agrave;y 23/4/2019 huyện Đak Song tổ chức giải b&oacute;ng chuyền nữ v&agrave; giải quần vợt ch&agrave;o mừng.</span></h1>
 
 <p>&nbsp;</p>
 

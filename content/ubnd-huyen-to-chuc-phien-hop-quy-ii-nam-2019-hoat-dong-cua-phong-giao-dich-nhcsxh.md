@@ -7,7 +7,7 @@
     "layout": "post.html",
     "date": "2019-04-19T00:00:00.000Z",
     "draft": false,
-    "upload-image": "",
+    "upload-image": "/img/pgd02.PNG",
     "description": "",
     "banner": "",
     "__content__": ""
@@ -17,13 +17,13 @@
 
 <p style="text-align:justify"><span style="font-size:14.0pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chiều 18/4/2019, UBND huyện đ&atilde; tổ chức phi&ecirc;n họp đ&aacute;nh gi&aacute; c&ocirc;ng t&aacute;c hoạt động của Ph&ograve;ng giao dịch NHCSXH qu&yacute; I , triển khai nhiệm vụ qu&yacute; II năm 2019. </span></p>
 
-<p style="text-align:justify"><span style="font-size:14.0pt"><img src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image002.jpg" style="height:374px; width:667px" /></span></p>
+<p style="text-align:justify"><img alt="" src="/img/pgd01.PNG" /></p>
 
 <p style="text-align:justify"><strong><em><span style="font-size:14.0pt">Đồng ch&iacute; Nguyễn Ngọc Th&acirc;n&ndash;&nbsp; Ph&oacute; Chủ tịch UBND Huyện chủ tr&igrave; phi&ecirc;n họp</span></em></strong></p>
 
 <p style="text-align:justify"><span style="font-size:14.0pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Theo b&aacute;o c&aacute;o, Trong qu&yacute; I/ 2019, tổng nguồn vốn t&iacute;n dụng Ph&ograve;ng giao dịch NHCSXH đạt 63 tỷ 454 triệu đồng với 1.876 lượt kh&aacute;ch h&agrave;ng vay vốn; Doanh số thu nợ đạt 47 tỷ 823 triệu đồng; Tổng vốn huy động tiết kiệm đạt 11 tỷ 775 triệu đồng tăng 995 triệu đồng so với năm 2018. Chất lượng hoạt động của Hội, đo&agrave;n thể nhận ủy th&aacute;c, tổ tiết kiệm v&agrave; vay vốn được n&acirc;ng cao, g&oacute;p phần đẩy nhanh tiến độ giải ng&acirc;n, gi&uacute;p cho hộ ngh&egrave;o v&agrave; đối tượng ch&iacute;nh s&aacute;ch n&acirc;ng cao thu nhập đảm bảo an sinh x&atilde; hội. B&ecirc;n cạnh đ&oacute; C&aacute;c đại biểu đ&atilde; tiến h&agrave;nh thảo luận về một số vấn đề c&ograve;n tồn tại như: tổng nợ xấu, nợ qu&aacute; hạn c&ograve;n cao, qu&aacute; tr&igrave;nh giải ng&acirc;n vốn về x&acirc;y dựng nh&agrave; c&ograve;n chậm.</span></p>
 
-<p style="text-align:justify"><span style="font-size:14.0pt"><img src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image004.jpg" style="height:482px; width:671px" /></span></p>
+<p style="text-align:justify"><img alt="" src="/img/pgd02.PNG" /></p>
 
 <p style="text-align:justify"><span style="font-size:14.0pt">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong><em>Quang cảnh phi&ecirc;n họp</em></strong></span></p>
 

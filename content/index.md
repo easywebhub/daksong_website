@@ -75,34 +75,34 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "trong-cay-nho-on-bac-ho-nam-2019",
+            "title": "UBND HUYỆN ĐAK SONG TỔ CHỨC LỄ PHÁT ĐỘNG TẾT TRỒNG CÂY ĐỜI ĐỜI NHỚ ƠN BÁC HỒ ",
+            "description": "",
+            "banner": "/img/trongcay2019_02 - Copy.PNG"
+        },
+        {
+            "slug": "huyen-dak-song-to-chuc-giai-bong-chuyen-nu-va-giai-quan-vot",
+            "title": "Chào mừng Kỷ niệm Ngày giải phóng Miền Nam, thống nhất đất nước (30/4/1975 – 30/4/2019) và Ngày Quốc tế lao động (1/5/1886 – 1/5/2019)",
+            "description": "Huyện Đak Song tổ chức giải bóng chuyền nữ và giải quần vợt  chào mừng Kỷ niệm 44 năm Ngày giải phóng Miền Nam, thống nhất đất nước (30/4/1975 – 30/4/2019) và 133 năm Ngày Quốc tế lao động (1/5/1886 – 1/5/2019)",
+            "banner": "/img/304_03 - Copy.PNG"
+        },
+        {
+            "slug": "le-cong-bo-xa-nam-n-jang-dat-chuan-nong-thon-moi",
+            "title": "Lễ công bố xã Nâm N’ jang đạt chuẩn nông thôn mới.",
+            "description": "",
+            "banner": "/img/namnjang01 - Copy.PNG"
+        },
+        {
+            "slug": "so-nong-nghiep-va-phat-trien-nong-thon-tinh-dak-nong-lam-viec-voi-huyen-dak-song",
+            "title": "Sở Nông nghiệp và phát triển nông thôn tỉnh Đăk Nông  làm việc với huyện Đắk Song",
+            "description": "",
+            "banner": "/img/Snn02 - Copy.PNG"
+        },
+        {
             "slug":"thong-bao-the-le-giai-bua-liem-vang-lan-thu-iv-nam-2019",
             "title": "Thông báo thể lệ Giải Bứa liềm vàng lần thứ IV - năm 2019",
             "description": "",
             "banner": "img/1843_01 - Copy.PNG"
-        },
-        {
-            "slug": "le-ra-quan-tong-dieu-tra-dan-so-va-nha-o-nam-2019",
-            "title": "Lễ ra quân tổng điều tra dân số và nhà ở năm 2019",
-            "description": "Cùng với các địa phương khác trong cả nước, ngày 1/4, huyện Đăk Song đã  tổ chức lễ ra quân Tổng điều tra dân số và nhà ở năm 2019 tại địa bàn xã Nam Bình.",
-            "banner": "img/dtds01 - Copy.png"
-        },
-        {
-            "slug":"ban-chi-huy-quan-su-huyen-dak-song-to-chuc-le-phat-dong-thi-dua-luyen-quan-lap-cong-quyet-thang-chao-mung-ky-niem-65-nam",
-            "title": "Ban chỉ huy quân sự huyện Đắk Song tổ chức lễ phát động thi đua “luyện quân, lập công , quyết thắng” chào mừng kỷ niệm 65 năm ngày chiến thắng lịch sử Điện Biên Phủ  (07/05/1954 – 07/5/2019)",
-            "description": "Sáng 29-3, Ban chỉ huy quân sự huyện Đak Song tổ chức Lễ phát động đợt thi đua cao điểm chào mừng kỷ niệm 65 năm Chiến thắng lịch sử Điện Biên Phủ (7/5/1954-7/5/2019), hướng tới kỷ niệm 50 năm thực hiện Di chúc của Chủ tịch Hồ Chí Minh (2/9/1969-2/9/2019) với chủ đề: “Luyện quân - Lập công - Quyết thắng”.về dự có đ/c Phan Văn Hợp,Tỉnh ủy viên, Bí thư huyện ủy; đ/c Nguyễn Xuân Thanh, chủ tịch UBND huyện, cùng bí thư Đảng ủy của 08 xã, thị trấn.",
-            "banner": "img/bchqs01 - Copy.png"
-        },
-        {
-            "slug": "huyen-doan-dak-song-to-chuc-ngay-hoi-tien-buoc-len-doan-chu-de-em-yeu-to-quoc-viet-nam-nam-2019",
-            "title": "Huyện Đoàn Đăk Song tổ chức Ngày hội Tiến bước lên Đoàn “ chủ đề Em yêu Tổ quốc Việt Nam” năm 2019",
-            "description": "Ngày 22/3, tại Trường THCS Nguyễn Văn Trỗi, xã Nâm N’jang, Tỉnh đoàn phối hợp với huyện Đoàn Đăk Song tổ chức Ngày hội Tiến bước lên Đoàn “ chủ đề Em yêu Tổ quốc Việt Nam” năm 2019 Nhằm tuyên truyền, giáo dục cho thiếu nhi, đội viên truyền thống 88 năm xây dựng và phát triển của Đoàn TNCS Hồ Chí Minh...",
-            "banner": "img/Hdds01 - Copy.PNG"
-        },
-        {
-            "slug": "bo-phan-tiep-nhan-va-tra-ket-qua-huyen-dak-song-chu-trong-cong-tac-cai-cach-hanh-chinh",
-            "title": "Bộ phận Tiếp nhận và Trả kết quả huyện Đắk Song chú trọng công tác cải cách hành chính.",
-            "description": "",
-            "banner": "img/cchc01 - Copy.PNG"
         }
     ],
     "tag": [],

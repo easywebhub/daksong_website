@@ -128,10 +128,6 @@ module.exports = function (Handlebars) {
         return current;
     });
 
-    // Hiển thị bài viết nổi bật
-	Handlebars.registerHelper('findBaiNoiBat', function(allCategory, number) {
-		return allCategory.filter(val => val.tag.includes("tin-tuc-noi-bat")).splice(number);
-    });
     /**
      * take item number of array
      */

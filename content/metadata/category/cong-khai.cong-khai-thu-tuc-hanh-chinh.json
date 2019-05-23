@@ -5,7 +5,7 @@
     "displayName": "Công khai thủ tục hành chính",
     "perPage": 10,
     "noPageOne": true,
-    "layout": "default.category.html",
+    "layout": "public.category.html",
     "first": ":categoryPath/index.html",
     "path": ":categoryPath/page/:num/index.html"
 }

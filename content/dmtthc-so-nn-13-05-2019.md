@@ -5,7 +5,7 @@
     "tag": [],
     "layout": "van-ban.html",
     "title": "QUYẾT ĐỊNH Về việc công bố Danh mục thủ tục hành chính mới ban hành; thủ tục hành chính sửa đổi, bổ sung; thủ tục hành chính bị bãi bỏ, thay thế lĩnh vực Lâm nghiệp thuộc thẩm quyền quản lý của Sở Nông nghiệp và Phát triển nông thôn",
-    "description": "QUYẾT ĐỊNH Về việc công bố Danh mục thủ tục hành chính mới ban hành; thủ tục hành chính sửa đổi, bổ sung; thủ tục hành chính bị bãi bỏ, thay thế lĩnh vực Lâm nghiệp thuộc thẩm quyền quản lý của Sở Nông nghiệp và Phát triển nông thôn",
+    "description": "",
     "date": "2019-05-17T05:00:00.000Z",
     "so": "",
     "permalink": true,

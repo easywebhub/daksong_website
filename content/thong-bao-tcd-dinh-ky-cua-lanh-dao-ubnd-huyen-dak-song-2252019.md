@@ -4,7 +4,7 @@
     "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-huyen-dak-song.lich-tiep-cong-dan",
     "tag": [],
     "layout": "van-ban.html",
-    "title": "Thông báo về việc tiếp công dân định kỳ của Lãnh đạo UBND huyện Đắk Song",
+    "title": "Thông báo về việc tiếp công dân Phạm Văn Ngọ của Lãnh đạo UBND huyện Đắk Song",
     "description": "",
     "date": "2019-05-23T06:00:00.000Z",
     "so": "",

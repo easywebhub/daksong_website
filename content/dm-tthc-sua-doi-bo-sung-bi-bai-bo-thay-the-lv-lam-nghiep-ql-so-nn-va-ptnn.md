@@ -14,14 +14,19 @@
     "loai_van_ban": "",
     "nguoi_ky": "",
     "ngay_co_hieu_luc": "",
-    "tai_lieu_dinh_kem": "",
+    "tai_lieu_dinh_kem": "/img/QD_674_1signed_20190513090003903900_000.00.00.H16.pdf",
     "banner": "",
     "draft": false,
     "url": "",
     "hinh_thuc_van_ban": "",
     "ngay_ban_hanh": "",
     "so_hieu": "",
-    "upload-image": "",
+    "upload-image": "/img/674nn003.PNG",
     "__content__": ""
 }
 ---
+<p><img alt="" src="/img/674nn001.PNG" /></p>
+
+<p><img alt="" src="/img/674nn002.PNG" /></p>
+
+<p><img alt="" src="/img/674nn003.PNG" /></p>

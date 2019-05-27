@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "QUYẾT ĐỊNH Phê duyệt Quy trình nội bộ thủ tục hành chính lĩnh vực Lâm nghiệp  thuộc thẩm quyền quản lý của Sở Nông nghiệp và Phát triển nông thôn thực hiện tại Một cửa điện tử",
     "description": "",
-    "date": "2019-05-17T00:00:00.000Z",
+    "date": "2019-05-17T09:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

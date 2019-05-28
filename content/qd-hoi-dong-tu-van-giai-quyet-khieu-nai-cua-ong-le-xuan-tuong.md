@@ -1,7 +1,7 @@
 ---json
 {
     "slug": "qd-hoi-dong-tu-van-giai-quyet-khieu-nai-cua-ong-le-xuan-tuong",
-    "title": "QĐ Hội đồng tư vấn giải quyết khiếu nại của ông Le Xuan Tuong",
+    "title": "Quyết định về việc thành lập hội đồng tư vấn giải quyết khiếu nại của ông Lê Xuân Tương",
     "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-huyen-dak-song.ket-qua-xu-ly-don-thu",
     "tag": [],
     "layout": "post.html",

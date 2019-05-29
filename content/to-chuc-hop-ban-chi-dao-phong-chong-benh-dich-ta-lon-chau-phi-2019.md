@@ -1,11 +1,11 @@
 ---json
 {
     "slug": "to-chuc-hop-ban-chi-dao-phong-chong-benh-dich-ta-lon-chau-phi-2019",
-    "title": "Tổ chức họp Ban Chỉ đạo phòng, chống bệnh Dịch tả lợn Châu Phi 2019",
+    "title": "UBND huyện Đắk Song Tổ chức họp Ban Chỉ đạo phòng, chống bệnh Dịch tả lợn Châu Phi",
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-05-22T06:30:00.000Z",
+    "date": "2019-05-23T06:35:00.000Z",
     "draft": false,
     "upload-image": "/img/TLCP0032015.PNG",
     "description": "",
@@ -37,8 +37,8 @@
 
 <p style="text-align:justify"><span style="background-color:white"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ph&aacute;t biểu kết luận tại cuộc họp Đồng ch&iacute; Nguyễn Văn Ph&ograve; - Ph&oacute; Chủ tịch UBND huyện, Ph&oacute; Trưởng Ban Chỉ đạo ph&ograve;ng</span></span></span><span style="font-size:14.0pt"><span style="color:black">, chống bệnh Dịch tả lợn Ch&acirc;u Phi huyện đề nghị c&aacute;c th&agrave;nh vi&ecirc;n Ban Chỉ đạo, c&aacute;c x&atilde; thị trấn tuy&ecirc;n truyền bệnh <span style="background-color:white">Dịch tả lợn ch&acirc;u Phi kh&ocirc;ng c&oacute; khả năng l&acirc;y sang người n&ecirc;n người ti&ecirc;u d&ugrave;ng kh&ocirc;ng n&ecirc;n lo sợ, quay lưng với sản phẩm thịt lợn; đẩy mạnh c&ocirc;ng t&aacute;c tuy&ecirc;n truyền về bệnh Dịch tả lợn Ch&acirc;u Phi v&agrave; c&aacute;c biện ph&aacute;p ph&ograve;ng chống; chuẩn bị tốt vật tư, trang thiết bị, phương tiện cho c&ocirc;ng t&aacute;c ph&ograve;ng, chống dịch bệnh; tăng cường c&ocirc;ng t&aacute;c kiểm dịch động vật v&agrave; sản phẩm động vật ra v&agrave;o địa b&agrave;n huyện; ki&ecirc;n quyết xử l&yacute; nghi&ecirc;m c&aacute;c trường hợp vi phạm theo quy định của ph&aacute;p luật; c&aacute;c x&atilde;, thị trấn x&acirc;y dựng 1 điểm để ti&ecirc;u hủy heo tập trung đề ph&ograve;ng khi dịch xảy ra ./.</span></span></span></span></p>
 
-<p><span style="background-color:white"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kim Ng&acirc;n</span></span></span></span></p>
+<p style="text-align:right"><span style="background-color:white"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">Kim Ng&acirc;n</span></span></span></span></p>
 
-<p><span style="background-color:white"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">Đ&agrave;i Truyền thanh Đăk Song</span></span></span></span></p>
+<p style="text-align:right"><span style="background-color:white"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">Đ&agrave;i Truyền thanh Đăk Song</span></span></span></span></p>
 
-<p>&nbsp;</p>
+<p style="text-align:right">&nbsp;</p>

@@ -9,7 +9,7 @@
     "draft": false,
     "upload-image": "/img/TLCP0032015.PNG",
     "description": "",
-    "banner": "",
+    "banner": "/img/TLCP0022015 - Copy.PNG",
     "__content__": ""
 }
 ---

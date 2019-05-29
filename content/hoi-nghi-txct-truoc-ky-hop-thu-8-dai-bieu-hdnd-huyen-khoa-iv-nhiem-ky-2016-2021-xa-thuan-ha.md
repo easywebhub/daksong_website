@@ -1,7 +1,7 @@
 ---json
 {
     "slug": "hoi-nghi-txct-truoc-ky-hop-thu-8-dai-bieu-hdnd-huyen-khoa-iv-nhiem-ky-2016-2021-xa-thuan-ha",
-    "title": "Hội nghị TXCT trước kỳ họp thứ 8 đại biểu HĐND huyện khóa IV, nhiệm kỳ 2016  2021 xã Thuận Hà",
+    "title": "Hội nghị TXCT trước kỳ họp thứ 8 đại biểu HĐND huyện khóa IV, nhiệm kỳ 2016 - 2021 tại xã Thuận Hà",
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",

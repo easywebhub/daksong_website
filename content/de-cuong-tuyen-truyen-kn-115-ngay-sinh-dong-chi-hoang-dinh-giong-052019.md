@@ -8,7 +8,7 @@
     "date": "2019-05-30T00:00:00.000Z",
     "draft": false,
     "upload-image": "/img/TT009.PNG",
-    "description": "",
+    "description": "Đề Cương Tuyên Truyền Kỉ niệm 115 năm Ngày sinh đồng chí Hoàng Đình Giong, lãnh đạo  tiền bối tiêu biểu của Đảng và cách mạng Việt Nam (01/6/1904 - 04/62019) ",
     "banner": "",
     "__content__": ""
 }

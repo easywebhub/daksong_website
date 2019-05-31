@@ -20,7 +20,7 @@
             "pattern": "",
             "propertyOrder": 3,
             "minLength": 0,
-            "maxLength": 140,
+            "maxLength": 250,
             "options": {
                 "hidden": false
             },

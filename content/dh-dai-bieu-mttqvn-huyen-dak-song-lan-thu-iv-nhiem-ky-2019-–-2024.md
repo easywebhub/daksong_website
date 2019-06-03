@@ -32,7 +32,7 @@
 
 <p style="text-align:justify"><span style="font-size:14.0pt">Đại hội đ&atilde; hiệp thương cử UB MTTQVN huyện Đăk Song&nbsp; lần thứ IV, nhiệm &nbsp;kỳ 2019 &ndash; 2024 gồm 43 đồng ch&iacute;. Đồng ch&iacute; Nguyễn Ngọc Sơn t&aacute;i &nbsp;cử&nbsp; chức &nbsp;Chủ tịch Ủy Ban MTTQ VN huyện kh&oacute;a IV. Đại hội cũng đ&atilde; hiệp thương cử 14 đại biểu tham dự Đại hội Đại biểu MTTQ VN tỉnh&nbsp; Đăk N&ocirc;ng nhiệm kỳ 2019 &ndash; 2024. </span></p>
 
-<p style="text-align:right"><span style="font-size:14.0pt">Quốc Nh&acirc;n&nbsp; - Đ&agrave;i Truyền thanh Đăk Song</span></p>
+<p style="text-align:right"><span style="font-size:14.0pt">Quốc Nh&agrave;n&nbsp; - Đ&agrave;i Truyền thanh Đăk Song</span></p>
 
 <p style="text-align:right">&nbsp;</p>
 

@@ -5,7 +5,6 @@
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-06-03T00:10:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "",
@@ -29,4 +28,4 @@
 
 <p style="text-align:justify"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Để c&ocirc;ng t&aacute;c ph&ograve;ng chống bệnh dịch tả lợn Ch&acirc;u Phi tr&ecirc;n địa b&agrave;n huyện Đăk Song đạt hiệu quả &nbsp;cao nhất th&igrave; người d&acirc;n phải chấp h&agrave;nh tốt c&aacute;c quy định trong ph&ograve;ng chống dịch, c&aacute;c ng&agrave;nh chức năng&nbsp; thực hiện nghi&ecirc;m c&aacute;c quy tr&igrave;nh kiểm tra, gi&aacute;m s&aacute;t, ngăn ngừa, thực hiện c&oacute; hiệu quả c&aacute;c chốt kiểm dịch, đội phản ứng nhanh, đội ti&ecirc;u độc khử tr&ugrave;ng&hellip; qua đ&oacute; ngăn chặn&nbsp; kh&ocirc;ng để bệnh Bệnh dịch tả lợn Ch&acirc;u Phi l&acirc;y lan tr&ecirc;n địa b&agrave;n huyện g&acirc;y thiệt hại kinh tế cho người d&acirc;n ./.</span></span></p>
 
-<p style="text-align:right"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Quốc Nh&agrave;n&nbsp;</span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Đ&agrave;i Truyền thanh Đăk Song</span></span></p>
+<p style="text-align:right"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Quốc Nh&acirc;n&nbsp;</span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Đ&agrave;i Truyền thanh Đăk Song</span></span></p>

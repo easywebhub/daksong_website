@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Tài liệu họp Hội nghị giao ban tháng 05 năm 2019",
     "description": "",
+    "date": "2019-06-04T08:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

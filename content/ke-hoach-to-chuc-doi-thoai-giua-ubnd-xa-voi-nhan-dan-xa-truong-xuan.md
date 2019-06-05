@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Kế hoạch tổ chức đối thoại giữa UBND xã với nhân dân xã Trường Xuân",
     "description": "Kế hoạch tổ chức đối thoại giữa UBND xã với nhân dân xã Trường Xuân",
+    "date": "2018-08-28T00:05:00.000Z",
     "so": "",
     "permalink": false,
     "trich_yeu": "Kế hoạch tổ chức đối thoại giữa UBND xã với nhân dân xã Trường Xuân",
@@ -21,6 +22,7 @@
     "hinh_thuc_van_ban": "",
     "ngay_ban_hanh": "",
     "so_hieu": "",
+    "upload-image": "",
     "__content__": ""
 }
 ---

@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Kế hoạch TCD và giải quyết khiếu nại, tố cáo trước, trong và sau dịp tết Nguyên đán Kỷ Hợi năm 2019",
     "description": "",
-    "date": "2019-01-31T08:54:00.000Z",
+    "date": "2019-01-31T08:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Kế hoạch gặp gỡ, giải quyết khiếu kiện đối với hộ bà Trần Thị Bình",
     "description": "",
-    "date": "2019-01-05T09:49:00.000Z",
+    "date": "2019-01-05T09:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

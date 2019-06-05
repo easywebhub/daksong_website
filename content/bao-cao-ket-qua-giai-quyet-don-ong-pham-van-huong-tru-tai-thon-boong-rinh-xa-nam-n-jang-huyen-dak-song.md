@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Báo cáo kết quả giải quyết đơn ông Phạm văn Hương, trú tại thôn Boong Rinh, xã Nâm N'Jang, huyện Đắk Song",
     "description": "",
-    "date": "2018-11-26T01:20:00.000Z",
+    "date": "2018-11-26T01:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

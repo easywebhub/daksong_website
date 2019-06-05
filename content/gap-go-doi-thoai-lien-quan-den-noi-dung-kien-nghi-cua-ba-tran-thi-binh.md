@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Gặp gỡ, đối thoại liên quan đến nội dung kiến nghị của bà Trần Thị Bình",
     "description": "",
-    "date": "2019-01-08T03:11:00.000Z",
+    "date": "2019-01-08T03:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

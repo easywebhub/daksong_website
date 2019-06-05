@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Báo cáo v/v khiếu kiện của các hộ dân liên quan đến đất quy hoạch khu dân cư tại tổ 6, tt Đức An, huyện Đắk Song",
     "description": "",
-    "date": "2018-11-27T03:15:00.000Z",
+    "date": "2018-11-27T03:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

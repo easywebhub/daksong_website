@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Báo cáo công tác tiếp công dân, tiếp nhận và xử lý đơn thư, giải quyết khiếu nại 9 tháng đầu năm",
     "description": "",
-    "date": "2018-09-19T08:05:00.000Z",
+    "date": "2018-09-19T07:00:00.000Z",
     "so": "",
     "permalink": false,
     "trich_yeu": "Báo cáo công tác tiếp công dân, tiếp nhận và xử lý đơn thư, giải quyết khiếu nại 9 tháng đầu năm và phương hướng nhiệm vụ 3 tháng cuối năm 2018",

@@ -1,7 +1,7 @@
 ---json
 {
     "slug": "ke-hoach-to-chuc-doi-thoai-giua-ubnd-xa-voi-nhan-dan-xa-truong-xuan",
-    "category": "tiep-dan.lich-tiep-cong-dan",
+    "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-truong-xuan.lich-tiep-cong-dan",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Kế hoạch tổ chức đối thoại giữa UBND xã với nhân dân xã Trường Xuân",

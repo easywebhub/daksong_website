@@ -2,10 +2,12 @@
 {
     "slug": "lich-tiep-cong-dan-cua-ubnd-xa-thuan-ha",
     "title": "Lịch tiếp công dân của UBND xã Thuận Hà",
-    "category": "tiep-dan.lich-tiep-cong-dan",
+    "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-thuan-ha.lich-tiep-cong-dan",
     "tag": [],
     "layout": "post.html",
+    "date": "2016-09-06T00:05:00.000Z",
     "draft": false,
+    "upload-image": "",
     "description": "Ngày 05/09/2016 UBND xã Thuận Hà, huyện Đăk Song ra thông báo số 31/TB-UBND về việc tiếp công dân tại UBND xã Thuận Hà",
     "banner": "img/phat.jpg",
     "permalink": "true",

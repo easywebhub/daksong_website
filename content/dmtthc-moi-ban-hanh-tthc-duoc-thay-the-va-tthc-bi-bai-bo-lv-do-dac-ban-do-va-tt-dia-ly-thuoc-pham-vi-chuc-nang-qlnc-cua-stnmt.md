@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "QUYẾT ĐỊNH Về việc công bố Danh mục thủ tục hành chính mới ban hành; thủ tục  hành chính được thay thế và thủ tục hành chính bị bãi bỏ lĩnh vực  Đo đạc, bản đồ và thông tin địa lý thuộc phạm vi chức năng  quản lý nhà nước của Sở Tài nguyên và Môi trường",
     "description": "",
-    "date": "2019-06-06T12:00:00.000Z",
+    "date": "2019-06-06T00:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

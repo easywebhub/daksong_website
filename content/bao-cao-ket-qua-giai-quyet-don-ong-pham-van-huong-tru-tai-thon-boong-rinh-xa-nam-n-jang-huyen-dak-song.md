@@ -1,12 +1,12 @@
 ---json
 {
     "slug": "bao-cao-ket-qua-giai-quyet-don-ong-pham-van-huong-tru-tai-thon-boong-rinh-xa-nam-n-jang-huyen-dak-song",
-    "category": "tiep-dan.tiep-cong-dan-huyen",
+    "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-huyen-dak-song.ket-qua-xu-ly-don-thu",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Báo cáo kết quả giải quyết đơn ông Phạm văn Hương, trú tại thôn Boong Rinh, xã Nâm N'Jang, huyện Đắk Song",
     "description": "",
-    "date": "2018-11-26T01:16:00.000Z",
+    "date": "2018-11-26T01:20:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

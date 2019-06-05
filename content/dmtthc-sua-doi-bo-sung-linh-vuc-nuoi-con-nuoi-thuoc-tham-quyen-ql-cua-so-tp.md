@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "QUYẾT ĐỊNH Về việc công bố Danh mục thủ tục hành chính sửa đổi, bổ sung lĩnh vực Nuôi con nuôi thuộc thẩm quyền quản lý của Sở Tư pháp",
     "description": "",
-    "date": "2019-06-06T00:10:00.000Z",
+    "date": "2019-06-06T07:10:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Công tác tiếp công dân năm 2018 xã Thuận Hà",
     "description": "Công tác tiếp công dân năm 2018 xã Thuận Hà",
+    "date": "2018-06-11T00:05:00.000Z",
     "so": "",
     "permalink": false,
     "trich_yeu": "Thực hiện công tác tiếp công dân, giải quyết khiếu nại tố cáo năm 2018",

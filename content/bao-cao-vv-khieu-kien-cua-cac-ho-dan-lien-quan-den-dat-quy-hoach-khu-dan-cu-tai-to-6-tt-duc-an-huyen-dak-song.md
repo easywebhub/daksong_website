@@ -1,12 +1,12 @@
 ---json
 {
     "slug": "bao-cao-vv-khieu-kien-cua-cac-ho-dan-lien-quan-den-dat-quy-hoach-khu-dan-cu-tai-to-6-tt-duc-an-huyen-dak-song",
-    "category": "tiep-dan.tiep-cong-dan-huyen",
+    "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-huyen-dak-song.tinh-hinh-tcd-va-giai-quyet-don-thu",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Báo cáo v/v khiếu kiện của các hộ dân liên quan đến đất quy hoạch khu dân cư tại tổ 6, tt Đức An, huyện Đắk Song",
     "description": "",
-    "date": "2018-11-27T03:11:00.000Z",
+    "date": "2018-11-27T03:15:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

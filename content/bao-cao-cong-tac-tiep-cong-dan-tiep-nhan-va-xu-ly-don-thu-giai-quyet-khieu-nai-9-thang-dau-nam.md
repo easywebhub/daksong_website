@@ -1,12 +1,12 @@
 ---json
 {
     "slug": "bao-cao-cong-tac-tiep-cong-dan-tiep-nhan-va-xu-ly-don-thu-giai-quyet-khieu-nai-9-thang-dau-nam",
-    "category": "tiep-dan.tiep-cong-dan-huyen",
+    "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-dak-hoa.tinh-hinh-tcd-va-giai-quyet-don-thu",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Báo cáo công tác tiếp công dân, tiếp nhận và xử lý đơn thư, giải quyết khiếu nại 9 tháng đầu năm",
     "description": "",
-    "date": "2018-09-19T08:00:00.000Z",
+    "date": "2018-09-19T08:05:00.000Z",
     "so": "",
     "permalink": false,
     "trich_yeu": "Báo cáo công tác tiếp công dân, tiếp nhận và xử lý đơn thư, giải quyết khiếu nại 9 tháng đầu năm và phương hướng nhiệm vụ 3 tháng cuối năm 2018",

@@ -1,12 +1,12 @@
 ---json
 {
     "slug": "gap-go-doi-thoai-lien-quan-den-noi-dung-kien-nghi-cua-ba-tran-thi-binh",
-    "category": "tiep-dan.tiep-cong-dan-huyen",
+    "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-huyen-dak-song.lich-tiep-cong-dan",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Gặp gỡ, đối thoại liên quan đến nội dung kiến nghị của bà Trần Thị Bình",
     "description": "",
-    "date": "2019-01-08T03:06:00.000Z",
+    "date": "2019-01-08T03:11:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

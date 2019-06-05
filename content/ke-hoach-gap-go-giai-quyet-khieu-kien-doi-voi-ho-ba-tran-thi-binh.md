@@ -1,12 +1,12 @@
 ---json
 {
     "slug": "ke-hoach-gap-go-giai-quyet-khieu-kien-doi-voi-ho-ba-tran-thi-binh",
-    "category": "tiep-dan.tiep-cong-dan-huyen",
+    "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-huyen-dak-song.lich-tiep-cong-dan",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Kế hoạch gặp gỡ, giải quyết khiếu kiện đối với hộ bà Trần Thị Bình",
     "description": "",
-    "date": "2019-01-05T09:44:00.000Z",
+    "date": "2019-01-05T09:49:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

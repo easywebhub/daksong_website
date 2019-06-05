@@ -1,12 +1,12 @@
 ---json
 {
     "slug": "lich-tiep-cong-dan-dinh-ky-nam-2018-cua-ubnd-xa-dak-n-drung",
-    "category": "tiep-dan.lich-tiep-cong-dan",
+    "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-dak-n-drung.lich-tiep-cong-dan",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Lịch tiếp công dân định kỳ năm 2018 của UBND xã Đắk N'Drung",
     "description": "",
-    "date": "2018-09-13T08:29:00.000Z",
+    "date": "2018-09-13T08:34:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "Lịch tiếp công dân định kỳ năm 2018 của UBND xã Đắk N'Drung",

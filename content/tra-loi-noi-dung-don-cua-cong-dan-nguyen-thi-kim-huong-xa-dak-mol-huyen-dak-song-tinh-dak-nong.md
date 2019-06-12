@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Trả lời nội dung đơn của công dân (Nguyễn Thị Kim Hương) xã Đắk Mol, huyện Đắk Song, tỉnh Đắk Nông",
     "description": "",
-    "date": "2019-06-04T01:06:00.000Z",
+    "date": "2019-06-04T01:11:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",
@@ -15,7 +15,7 @@
     "loai_van_ban": "",
     "nguoi_ky": "",
     "ngay_co_hieu_luc": "",
-    "tai_lieu_dinh_kem": "/img/67-UBND-TTRsigned_20190604030128609600.pdf",
+    "tai_lieu_dinh_kem": "",
     "banner": "",
     "draft": false,
     "url": "",
@@ -28,6 +28,4 @@
 ---
 <p><img alt="" src="/img/67NTBhang01.PNG" /></p>
 
-<p><img alt="" src="/img/67NTBhang02.PNG" /></p>
-
-<p><img alt="" src="/img/67NTBhang03.PNG" /></p>
+<p>&nbsp;</p>

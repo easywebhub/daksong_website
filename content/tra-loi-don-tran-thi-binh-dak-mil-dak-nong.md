@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Trả lời đơn của bà Trần Thị Bình, số nhà 90, đường Lê Duẩn, tt Đắk Mil, huyện Đắk Mil, tỉnh Đắk Nông",
     "description": "",
-    "date": "2019-05-13T00:00:00.000Z",
+    "date": "2019-05-13T00:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",
@@ -15,7 +15,7 @@
     "loai_van_ban": "",
     "nguoi_ky": "",
     "ngay_co_hieu_luc": "",
-    "tai_lieu_dinh_kem": "/img/50-UBND-TTr(CD)signed_20190509100356980980.pdf",
+    "tai_lieu_dinh_kem": "",
     "banner": "",
     "draft": false,
     "url": "",
@@ -28,4 +28,4 @@
 ---
 <p><img alt="" src="/img/ds50_001.PNG" /></p>
 
-<p><img alt="" src="/img/ds50_002.PNG" /></p>
+<p>&nbsp;</p>

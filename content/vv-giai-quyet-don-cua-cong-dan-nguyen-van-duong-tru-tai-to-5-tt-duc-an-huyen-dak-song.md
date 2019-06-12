@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Vv giải quyết đơn của công dân Nguyễn Văn Dương, trú tại tố 5, tt Đức An, huyện Đắk Song",
     "description": "",
+    "date": "2019-04-03T00:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

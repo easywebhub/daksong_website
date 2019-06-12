@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Trả lời đơn của công dân Phan Tuyết Trinh TDP1, tt Đức An, huyện Đắk Song",
     "description": "",
-    "date": "2018-10-03T06:30:00.000Z",
+    "date": "2018-10-03T06:40:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",
@@ -15,8 +15,8 @@
     "loai_van_ban": "",
     "nguoi_ky": "",
     "ngay_co_hieu_luc": "",
-    "tai_lieu_dinh_kem": "/img/145-UBND-TTr(CD)signed_20181002024624463460.pdf",
-    "banner": "/img/IMG_9856.JPG",
+    "tai_lieu_dinh_kem": "",
+    "banner": "",
     "draft": false,
     "url": "",
     "hinh_thuc_van_ban": "",
@@ -29,11 +29,5 @@
 <p><img alt="" src="/img/IMG_9856.JPG" /></p>
 
 <p><img alt="" src="/img/IMG_9857.JPG" /></p>
-
-<p><img alt="" src="/img/IMG_9858.JPG" /></p>
-
-<p><img alt="" src="/img/IMG_9859.JPG" /></p>
-
-<p><img alt="" src="/img/IMG_9860.JPG" /></p>
 
 <p>&nbsp;</p>

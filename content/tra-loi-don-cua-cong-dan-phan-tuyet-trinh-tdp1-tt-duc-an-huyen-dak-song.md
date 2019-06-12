@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Trả lời đơn của công dân Phan Tuyết Trinh TDP1, tt Đức An, huyện Đắk Song",
     "description": "",
-    "date": "2018-10-03T06:40:00.000Z",
+    "date": "2018-10-03T06:45:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

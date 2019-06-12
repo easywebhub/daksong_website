@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Trả lời đơn của công dân Nông Văn Đường thôn 11, xã Nậm N'jang, huyện Đắk Song, tỉnh Đắk Nông",
     "description": "",
-    "date": "2019-05-13T00:00:00.000Z",
+    "date": "2019-05-13T00:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",
@@ -15,7 +15,7 @@
     "loai_van_ban": "",
     "nguoi_ky": "",
     "ngay_co_hieu_luc": "",
-    "tai_lieu_dinh_kem": "/img/49-UBND-TTr(CD)signed_20190509100111363360.pdf",
+    "tai_lieu_dinh_kem": "",
     "banner": "",
     "draft": false,
     "url": "",
@@ -27,5 +27,3 @@
 }
 ---
 <p><img alt="" src="/img/ds49_001.PNG" /></p>
-
-<p><img alt="" src="/img/ds49_002.PNG" /></p>

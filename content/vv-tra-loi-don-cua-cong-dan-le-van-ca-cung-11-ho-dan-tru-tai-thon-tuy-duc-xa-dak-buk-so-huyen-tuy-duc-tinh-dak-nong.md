@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Vv trả lời đơn của công dân Lê Văn Ca cùng 11 hộ dân trú tại thôn Tuy Đức, xã Đắk Buk So, huyện Tuy Đức, tỉnh Đắk Nông",
     "description": "",
-    "date": "2019-04-03T12:00:00.000Z",
+    "date": "2019-04-03T00:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",
@@ -27,7 +27,3 @@
 }
 ---
 <p><img alt="" src="/img/38ds001.png" /></p>
-
-<p><img alt="" src="/img/38ds002.png" /></p>
-
-<p><img alt="" src="/img/38ds003.png" /></p>

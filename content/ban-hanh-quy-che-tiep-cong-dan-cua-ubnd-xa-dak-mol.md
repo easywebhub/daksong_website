@@ -5,7 +5,7 @@
     "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-dak-mol.quy-dinh-ve-tcd-va-giai-quyet-don-thu",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-05-20T00:00:00.000Z",
+    "date": "2019-05-22T00:00:00.000Z",
     "draft": false,
     "upload-image": "/img/0409010506.PNG",
     "description": "",

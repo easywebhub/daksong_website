@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug":"thong-bao-ds-giao-vien-du-dieu-kien-du-xet-thang-hang-cdnn-nam-2019",
+            "title": "Thông báo Danh sách giáo viên đủ điều kiện dự xét thăng hạng Chức danh nghề nghiệp (CDNN) huyện Đắk Song năm 2019",
+            "description": "",
+            "banner": "/img/tb1313165498498.jpg"
+        },
+        {
             "slug": "trong-cay-nho-on-bac-ho-nam-2019",
             "title": "UBND HUYỆN ĐAK SONG TỔ CHỨC LỄ PHÁT ĐỘNG TẾT TRỒNG CÂY ĐỜI ĐỜI NHỚ ƠN BÁC HỒ ",
             "description": "",
@@ -97,12 +103,6 @@
             "title": "Sở Nông nghiệp và phát triển nông thôn tỉnh Đăk Nông  làm việc với huyện Đắk Song",
             "description": "",
             "banner": "/img/Snn02 - Copy.PNG"
-        },
-        {
-            "slug":"thong-bao-the-le-giai-bua-liem-vang-lan-thu-iv-nam-2019",
-            "title": "Thông báo thể lệ Giải Bứa liềm vàng lần thứ IV - năm 2019",
-            "description": "",
-            "banner": "img/1843_01 - Copy.PNG"
         }
     ],
     "tag": [],

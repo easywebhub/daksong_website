@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Thông báo V/v thay đổi thời gian tổ chức Hội nghị đánh giá tình hình thực hiện nhiệm vụ phát triển kinh tế - xã hội, đảm bảo quốc phòng - an ninh 06 tháng đầu năm và triển khai nhiệm vụ  trọng tâm  06 tháng cuối năm 2019",
     "description": "",
-    "date": "2019-06-25T01:00:00.000Z",
+    "date": "2019-06-25T01:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

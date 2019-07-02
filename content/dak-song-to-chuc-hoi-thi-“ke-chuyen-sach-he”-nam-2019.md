@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "dak-song-to-chuc-hoi-thi-“ke-chuyen-sach-he”-nam-2019",
+    "slug": "dak-song-to-chuc-hoi-thi-ke-chuyen-sach-he-nam-2019",
     "title": "Đăk Song tổ chức  hội thi “Kể chuyện sách hè” năm 2019",
     "category": "tin-tuc-su-kien.tin-y-te-giao-duc",
     "tag": [],

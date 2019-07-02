@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-van-hoa",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-06-25T12:00:00.000Z",
+    "date": "2019-06-25T00:00:00.000Z",
     "draft": false,
     "upload-image": "/img/DTTS00104.PNG",
     "description": "",

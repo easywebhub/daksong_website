@@ -1,11 +1,11 @@
 ---json
 {
     "slug": "ky-thi-tot-nghiep-thpt-quoc-gia-nam-2019",
-    "title": "Kỳ thi tốt nghiệp THPT Quốc gia năm 2019",
+    "title": "Kỳ thi tốt nghiệp THPT Quốc gia năm 2019 diễn ra an toàn.",
     "category": "tin-tuc-su-kien.tin-y-te-giao-duc",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-07-02T07:00:00.000Z",
+    "date": "2019-07-02T07:05:00.000Z",
     "draft": false,
     "upload-image": "/img/Kythi03071903.PNG",
     "description": "",

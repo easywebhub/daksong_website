@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "ĐỀ CƯƠNG THÔNG TIN CUỘC THI KHỞI NGHIỆP TỈNH ĐẮK NÔNG LẦN THỨ I NĂM 2019",
     "description": "",
-    "date": "2019-07-11T19:30:00.000Z",
+    "date": "2019-07-11T19:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",
@@ -423,6 +423,6 @@
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <strong>ĐẠI DIỆN ĐỀ &Aacute;N</strong></p>
 
-<p style="margin-left:216.0pt; margin-right:0cm"><em>(K&yacute; v&agrave; ghi r&otilde; họ t&ecirc;n, đ&oacute;ng dấu nếu c&oacute;)</em></p>
+<p><em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(K&yacute; v&agrave; ghi r&otilde; họ t&ecirc;n, đ&oacute;ng dấu nếu c&oacute;)</em></p>
 
 <p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>

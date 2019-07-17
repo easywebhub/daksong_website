@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "ĐỀ CƯƠNG THÔNG TIN CUỘC THI KHỞI NGHIỆP TỈNH ĐẮK NÔNG LẦN THỨ I NĂM 2019",
     "description": "",
-    "date": "2019-07-11T19:05:00.000Z",
+    "date": "2019-07-11T19:09:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",
@@ -15,14 +15,14 @@
     "loai_van_ban": "",
     "nguoi_ky": "",
     "ngay_co_hieu_luc": "",
-    "tai_lieu_dinh_kem": "",
+    "tai_lieu_dinh_kem": "/img/7thong_tin_cuoc_thi_khoi_nghiep_dang_tren_web_20190709023044743740_000.01.05.H16.docx",
     "banner": "/img/banner_khoi_nghiep_2_20190709022951144140_000.01.05.H16.png",
     "draft": false,
     "url": "",
     "hinh_thuc_van_ban": "",
     "ngay_ban_hanh": "",
     "so_hieu": "",
-    "upload-image": "/img/to_roi_khoi_nghiep_daknong_2019_Print_(1)_20190709023059933930_000.01.05.H16.pdf",
+    "upload-image": "",
     "__content__": ""
 }
 ---

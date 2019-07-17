@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "ĐỀ CƯƠNG THÔNG TIN CUỘC THI KHỞI NGHIỆP TỈNH ĐẮK NÔNG LẦN THỨ I NĂM 2019",
     "description": "",
-    "date": "2019-07-11T19:09:00.000Z",
+    "date": "2019-07-12T00:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",
@@ -22,12 +22,14 @@
     "hinh_thuc_van_ban": "",
     "ngay_ban_hanh": "",
     "so_hieu": "",
-    "upload-image": "",
+    "upload-image": "/img/anhtoroi17071.PNG",
     "__content__": ""
 }
 ---
 <div>
-<p>&nbsp;</p>
+<p><img alt="" src="/img/anhtoroi17072.PNG" /></p>
+
+<p><img alt="" src="/img/anhtoroi17071.PNG" /></p>
 
 <p><span style="background-color:white"><strong><span style="font-size:18.0pt"><span style="color:black">ĐỀ CƯƠNG</span></span></strong></span></p>
 

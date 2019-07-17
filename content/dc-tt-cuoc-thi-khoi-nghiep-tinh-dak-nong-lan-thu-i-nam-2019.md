@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "ĐỀ CƯƠNG THÔNG TIN CUỘC THI KHỞI NGHIỆP TỈNH ĐẮK NÔNG LẦN THỨ I NĂM 2019",
     "description": "",
-    "date": "2019-07-12T00:30:00.000Z",
+    "date": "2019-07-11T18:30:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",
@@ -26,11 +26,9 @@
     "__content__": ""
 }
 ---
+<p><span style="background-color:white"><strong><span style="font-size:18.0pt"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ĐỀ CƯƠNG</span></span></strong></span></p>
+
 <div>
-<p>&nbsp;</p>
-
-<p><span style="background-color:white"><strong><span style="font-size:18.0pt"><span style="color:black">ĐỀ CƯƠNG</span></span></strong></span></p>
-
 <p><span style="background-color:white"><strong><span style="font-size:18.0pt"><span style="color:black">TH&Ocirc;NG TIN CUỘC THI KHỞI NGHIỆP TỈNH ĐẮK N&Ocirc;NG LẦN THỨ I NĂM 2019</span></span></strong></span></p>
 
 <p>&nbsp;</p>
@@ -110,11 +108,11 @@
 	<li><span style="background-color:white">Trung t&acirc;m X&uacute;c tiến Đầu tư, Sở Kế hoạch v&agrave; Đầu tư tỉnh Đắk N&ocirc;ng</span></li>
 </ol>
 
-<p style="margin-left:36pt; margin-right:0cm"><span style="background-color:white"><em>- Địa chỉ: Đường 23/3, Phường Nghĩa Đức, thị x&atilde; Gia Nghĩa, tỉnh Đắk N&ocirc;ng. </em></span></p>
+<p style="margin-left:0cm; margin-right:0cm"><span style="background-color:white"><em>- Địa chỉ: Đường 23/3, Phường Nghĩa Đức, thị x&atilde; Gia Nghĩa, tỉnh Đắk N&ocirc;ng. </em></span></p>
 
-<p style="margin-left:36pt; margin-right:0cm"><span style="background-color:white"><em>- Điện thoại: 02613 503 696 - 0945747775 (Mr. Văn)</em></span></p>
+<p style="margin-left:0cm; margin-right:0cm"><span style="background-color:white"><em>- Điện thoại: 02613 503 696 - 0945747775 (Mr. Văn)</em></span></p>
 
-<p style="margin-left:36pt; margin-right:0cm"><span style="background-color:white"><em>- Email: khoinghiepdaknong@gmail.com</em></span></p>
+<p style="margin-left:0cm; margin-right:0cm"><span style="background-color:white"><em>- Email: khoinghiepdaknong@gmail.com</em></span></p>
 
 <ol start="2">
 	<li><span style="background-color:white">Đo&agrave;n Thanh ni&ecirc;n Cộng sản Hồ Ch&iacute; Minh tỉnh Đắk N&ocirc;ng</span></li>
@@ -235,9 +233,9 @@
 
 <p><span style="background-color:white"><strong>----------------------------</strong></span></p>
 
-<p style="margin-left:233.95pt; margin-right:0cm">&nbsp;</p>
+<p>&nbsp;</p>
 
-<p style="margin-left:233.95pt; margin-right:0cm">&nbsp;</p>
+<p>&nbsp;</p>
 
 <p><span style="background-color:white"><strong>BẢN ĐĂNG K&Yacute;</strong></span></p>
 
@@ -419,10 +417,10 @@
 
 <p>&nbsp;</p>
 
-<p style="margin-left:180pt; margin-right:0cm"><em>Đắk N&ocirc;ng, ng&agrave;y&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;th&aacute;ng&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; năm 2019</em></p>
+<p><em>Đắk N&ocirc;ng, ng&agrave;y&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;th&aacute;ng&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; năm 2019</em></p>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <strong>ĐẠI DIỆN ĐỀ &Aacute;N</strong></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>ĐẠI DIỆN ĐỀ &Aacute;N</strong></p>
 
-<p style="margin-left:216.0pt; margin-right:0cm"><em>(K&yacute; v&agrave; ghi r&otilde; họ t&ecirc;n, đ&oacute;ng dấu nếu c&oacute;)</em></p>
+<p><em>(K&yacute; v&agrave; ghi r&otilde; họ t&ecirc;n, đ&oacute;ng dấu nếu c&oacute;)</em></p>
 
 <p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>

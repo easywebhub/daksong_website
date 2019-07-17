@@ -1100,12 +1100,12 @@
         .replace(/&#39;/g, "'")
         .replace(/&lt;/g, '<')
         .replace(/&gt;/g, '>')
-        .replace(/&amp;/g, '&');;
+        .replace(/&amp;/g, '&')
       my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
       my_window.document.write('<html><head><title>Print Me</title></head>');
       my_window.document.write('<body onafterprint="self.close()">');
-       my_window.document.write('<h1>Phê duyệt Chương trình phát triển nguồn nhân lực công nghệ thông tin tỉnh đến năm 2020 và tầm nhìn đến năm 2025</h1>');
-        my_window.document.write('<h3>Phê duyệt Chương trình phát triển nguồn nhân lực công nghệ thông tin tỉnh đến năm 2020 và tầm nhìn đến năm 2025</h3>');
+      my_window.document.write('<h1>Phê duyệt Chương trình phát triển nguồn nhân lực công nghệ thông tin tỉnh đến năm 2020 và tầm nhìn đến năm 2025</h1>');
+      my_window.document.write('<h3>Phê duyệt Chương trình phát triển nguồn nhân lực công nghệ thông tin tỉnh đến năm 2020 và tầm nhìn đến năm 2025</h3>');
       my_window.document.write(` <p> ${content}</p> `);
       my_window.document.write('</body> </html>');
       my_window.print();

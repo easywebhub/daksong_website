@@ -1092,12 +1092,12 @@
         .replace(/&#39;/g, "'")
         .replace(/&lt;/g, '<')
         .replace(/&gt;/g, '>')
-        .replace(/&amp;/g, '&');;
+        .replace(/&amp;/g, '&')
       my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
       my_window.document.write('<html><head><title>Print Me</title></head>');
       my_window.document.write('<body onafterprint="self.close()">');
-       my_window.document.write('<h1>Tra cứu Thủ tục Hành chính trong lĩnh vực: Quản lý nhà nước về hội; Quản lý nhà nước về quỹ xã hội, quỹ từ thiện; Tổ chức hành chính đơn vị sự nghiệp công lập; Thi đua, khen thưởng; Tôn giáo. </h1>');
-        my_window.document.write('<h3>Ngày 29/04/2016, UBND tỉnh ban hành QĐ số 682/QĐ-UBND về việc công bố thủ tục hành chính trong lĩnh vực: Quản lý nhà nước về hội; Quản lý nhà nước về quỹ xã hội, quỹ từ thiện; Tổ chức hành chính đơn vị sự nghiệp công lập; Thi đua, khen thưởng; Tôn giáo thuộc thẩm quyền giải quyết của UBND cấp huyện.</h3>');
+      my_window.document.write('<h1>Tra cứu Thủ tục Hành chính trong lĩnh vực: Quản lý nhà nước về hội; Quản lý nhà nước về quỹ xã hội, quỹ từ thiện; Tổ chức hành chính đơn vị sự nghiệp công lập; Thi đua, khen thưởng; Tôn giáo. </h1>');
+      my_window.document.write('<h3>Ngày 29/04/2016, UBND tỉnh ban hành QĐ số 682/QĐ-UBND về việc công bố thủ tục hành chính trong lĩnh vực: Quản lý nhà nước về hội; Quản lý nhà nước về quỹ xã hội, quỹ từ thiện; Tổ chức hành chính đơn vị sự nghiệp công lập; Thi đua, khen thưởng; Tôn giáo thuộc thẩm quyền giải quyết của UBND cấp huyện.</h3>');
       my_window.document.write(` <p> ${content}</p> `);
       my_window.document.write('</body> </html>');
       my_window.print();

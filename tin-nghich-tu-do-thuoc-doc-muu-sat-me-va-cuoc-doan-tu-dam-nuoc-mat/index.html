@@ -1098,12 +1098,12 @@
         .replace(/&#39;/g, "'")
         .replace(/&lt;/g, '<')
         .replace(/&gt;/g, '>')
-        .replace(/&amp;/g, '&');;
+        .replace(/&amp;/g, '&')
       my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
       my_window.document.write('<html><head><title>Print Me</title></head>');
       my_window.document.write('<body onafterprint="self.close()">');
-       my_window.document.write('<h1>Nghịch tử đổ thuốc độc mưu sát mẹ và cuộc đoàn tụ đẫm nước mắt</h1>');
-        my_window.document.write('<h3>Trong giây phút gặp lại mẹ đẻ, người may mắn “thoát chết” vì không ăn nồi cháo bị Huấn bỏ thuốc chuột, Huấn và mẹ ôm nhau khóc nức nở. Quãng thời gian hiếm hoi được gần gũi con, người mẹ nghèo luôn nhắc đến việc tha thứ lỗi lầm và động viên con cải tạo tốt.</h3>');
+      my_window.document.write('<h1>Nghịch tử đổ thuốc độc mưu sát mẹ và cuộc đoàn tụ đẫm nước mắt</h1>');
+      my_window.document.write('<h3>Trong giây phút gặp lại mẹ đẻ, người may mắn “thoát chết” vì không ăn nồi cháo bị Huấn bỏ thuốc chuột, Huấn và mẹ ôm nhau khóc nức nở. Quãng thời gian hiếm hoi được gần gũi con, người mẹ nghèo luôn nhắc đến việc tha thứ lỗi lầm và động viên con cải tạo tốt.</h3>');
       my_window.document.write(` <p> ${content}</p> `);
       my_window.document.write('</body> </html>');
       my_window.print();

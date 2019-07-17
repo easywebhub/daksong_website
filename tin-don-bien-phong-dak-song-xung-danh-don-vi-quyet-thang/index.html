@@ -1098,12 +1098,12 @@
         .replace(/&#39;/g, "'")
         .replace(/&lt;/g, '<')
         .replace(/&gt;/g, '>')
-        .replace(/&amp;/g, '&');;
+        .replace(/&amp;/g, '&')
       my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
       my_window.document.write('<html><head><title>Print Me</title></head>');
       my_window.document.write('<body onafterprint="self.close()">');
-       my_window.document.write('<h1>Đồn Biên phòng Đắk Song xứng danh đơn vị quyết thắng</h1>');
-        my_window.document.write('<h3>Với tinh thần đoàn kết thống nhất, nỗ lực vượt qua khó khăn, Đồn Biên phòng Đắk Song luôn hoàn thành tốt nhiệm vụ được giao. Đơn vị là một trong những điểm sáng về thực hiện phong trào Thi đua quyết thắng năm 2016 của lực lượng Bộ đội biên phòng tỉnh.</h3>');
+      my_window.document.write('<h1>Đồn Biên phòng Đắk Song xứng danh đơn vị quyết thắng</h1>');
+      my_window.document.write('<h3>Với tinh thần đoàn kết thống nhất, nỗ lực vượt qua khó khăn, Đồn Biên phòng Đắk Song luôn hoàn thành tốt nhiệm vụ được giao. Đơn vị là một trong những điểm sáng về thực hiện phong trào Thi đua quyết thắng năm 2016 của lực lượng Bộ đội biên phòng tỉnh.</h3>');
       my_window.document.write(` <p> ${content}</p> `);
       my_window.document.write('</body> </html>');
       my_window.print();

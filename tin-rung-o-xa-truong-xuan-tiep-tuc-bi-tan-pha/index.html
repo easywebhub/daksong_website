@@ -1108,12 +1108,12 @@ major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin&quo
         .replace(/&#39;/g, "'")
         .replace(/&lt;/g, '<')
         .replace(/&gt;/g, '>')
-        .replace(/&amp;/g, '&');;
+        .replace(/&amp;/g, '&')
       my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
       my_window.document.write('<html><head><title>Print Me</title></head>');
       my_window.document.write('<body onafterprint="self.close()">');
-       my_window.document.write('<h1>Rừng ở xã Trường Xuân tiếp tục bị tàn phá</h1>');
-        my_window.document.write('<h3>Trong thời gian gần đây, nhiều diện tích rừng ở tiểu khu 1676, thôn 9, xã Trường Xuân (Đắk Song) đã bị cưa hạ, tàn phá nghiêm trọng.</h3>');
+      my_window.document.write('<h1>Rừng ở xã Trường Xuân tiếp tục bị tàn phá</h1>');
+      my_window.document.write('<h3>Trong thời gian gần đây, nhiều diện tích rừng ở tiểu khu 1676, thôn 9, xã Trường Xuân (Đắk Song) đã bị cưa hạ, tàn phá nghiêm trọng.</h3>');
       my_window.document.write(` <p> ${content}</p> `);
       my_window.document.write('</body> </html>');
       my_window.print();

@@ -1098,12 +1098,12 @@
         .replace(/&#39;/g, "'")
         .replace(/&lt;/g, '<')
         .replace(/&gt;/g, '>')
-        .replace(/&amp;/g, '&');;
+        .replace(/&amp;/g, '&')
       my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
       my_window.document.write('<html><head><title>Print Me</title></head>');
       my_window.document.write('<body onafterprint="self.close()">');
-       my_window.document.write('<h1>Hội thảo lấy ý kiến đối với 2 đề án: Quy hoạch vùng nông nghiệp ứng dụng công nghệ cao và tái cơ cấu ngành nông nghiệp tỉnh Đắk Nông</h1>');
-        my_window.document.write('<h3>Ngày 9/11, UBND tỉnh tổ chức Hội thảo lấy ý kiến đối với 2 đề án Tái cơ cấu Ngành Nông nghiệp tỉnh Đắk Nông theo hướng nâng cao giá trị gia tăng và phát triển bền vững đến năm 2020, định hướng đến năm 2030 và Quy hoạch vùng nông nghiệp ứng dụng công nghệ cao trên địa bàn tỉnh Đắk Nông đến năm 2030, định hướng đến 2035.</h3>');
+      my_window.document.write('<h1>Hội thảo lấy ý kiến đối với 2 đề án: Quy hoạch vùng nông nghiệp ứng dụng công nghệ cao và tái cơ cấu ngành nông nghiệp tỉnh Đắk Nông</h1>');
+      my_window.document.write('<h3>Ngày 9/11, UBND tỉnh tổ chức Hội thảo lấy ý kiến đối với 2 đề án Tái cơ cấu Ngành Nông nghiệp tỉnh Đắk Nông theo hướng nâng cao giá trị gia tăng và phát triển bền vững đến năm 2020, định hướng đến năm 2030 và Quy hoạch vùng nông nghiệp ứng dụng công nghệ cao trên địa bàn tỉnh Đắk Nông đến năm 2030, định hướng đến 2035.</h3>');
       my_window.document.write(` <p> ${content}</p> `);
       my_window.document.write('</body> </html>');
       my_window.print();

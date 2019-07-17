@@ -1098,12 +1098,12 @@
         .replace(/&#39;/g, "'")
         .replace(/&lt;/g, '<')
         .replace(/&gt;/g, '>')
-        .replace(/&amp;/g, '&');;
+        .replace(/&amp;/g, '&')
       my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
       my_window.document.write('<html><head><title>Print Me</title></head>');
       my_window.document.write('<body onafterprint="self.close()">');
-       my_window.document.write('<h1>Kế hoạch phát động thi đua đẩy mạnh cải cách thủ tục hành chính huyện Đăk Song giai đoạn 2017-2020</h1>');
-        my_window.document.write('<h3>Ngày 13/04/2017, UBND huyện quyết định thông qua Kế hoạch phát động thi đua đẩy mạnh cải cách thủ tục hành chính huyện Đăk Song giai đoạn 2017-2020</h3>');
+      my_window.document.write('<h1>Kế hoạch phát động thi đua đẩy mạnh cải cách thủ tục hành chính huyện Đăk Song giai đoạn 2017-2020</h1>');
+      my_window.document.write('<h3>Ngày 13/04/2017, UBND huyện quyết định thông qua Kế hoạch phát động thi đua đẩy mạnh cải cách thủ tục hành chính huyện Đăk Song giai đoạn 2017-2020</h3>');
       my_window.document.write(` <p> ${content}</p> `);
       my_window.document.write('</body> </html>');
       my_window.print();

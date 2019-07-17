@@ -1098,12 +1098,12 @@
         .replace(/&#39;/g, "'")
         .replace(/&lt;/g, '<')
         .replace(/&gt;/g, '>')
-        .replace(/&amp;/g, '&');;
+        .replace(/&amp;/g, '&')
       my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
       my_window.document.write('<html><head><title>Print Me</title></head>');
       my_window.document.write('<body onafterprint="self.close()">');
-       my_window.document.write('<h1>Tiếp tục thực hiện có hiệu quả công tác tiếp dân và giải quyết khiếu nại, tố cáo</h1>');
-        my_window.document.write('<h3>Sau khi Ban Thường vụ Tỉnh ủy ban hành Chỉ thị 21, ngày 5/1/2015 về đẩy mạnh công tác tiếp dân và giải quyết khiếu nại, tố cáo, tinh thần, trách nhiệm của các cơ quan Đảng, chính quyền về giải quyết khiếu nại, tố cáo có chuyển biến rõ nét; các vụ việc khiếu nại, tố cáo được lãnh đạo, chỉ đạo các cơ quan chức năng kịp thời tham mưu giải quyết, cơ bản bảo đảm về trình tự, thủ tục theo quy định của pháp luật.</h3>');
+      my_window.document.write('<h1>Tiếp tục thực hiện có hiệu quả công tác tiếp dân và giải quyết khiếu nại, tố cáo</h1>');
+      my_window.document.write('<h3>Sau khi Ban Thường vụ Tỉnh ủy ban hành Chỉ thị 21, ngày 5/1/2015 về đẩy mạnh công tác tiếp dân và giải quyết khiếu nại, tố cáo, tinh thần, trách nhiệm của các cơ quan Đảng, chính quyền về giải quyết khiếu nại, tố cáo có chuyển biến rõ nét; các vụ việc khiếu nại, tố cáo được lãnh đạo, chỉ đạo các cơ quan chức năng kịp thời tham mưu giải quyết, cơ bản bảo đảm về trình tự, thủ tục theo quy định của pháp luật.</h3>');
       my_window.document.write(` <p> ${content}</p> `);
       my_window.document.write('</body> </html>');
       my_window.print();

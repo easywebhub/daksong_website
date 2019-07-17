@@ -1100,12 +1100,12 @@
         .replace(/&#39;/g, "'")
         .replace(/&lt;/g, '<')
         .replace(/&gt;/g, '>')
-        .replace(/&amp;/g, '&');;
+        .replace(/&amp;/g, '&')
       my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
       my_window.document.write('<html><head><title>Print Me</title></head>');
       my_window.document.write('<body onafterprint="self.close()">');
-       my_window.document.write('<h1>Thông báo Lịch tiếp công dân tại trụ sở UBND xã Thuận Hà năm 2016</h1>');
-        my_window.document.write('<h3>Thông báo Lịch tiếp công dân tại trụ sở UBND xã Thuận Hà</h3>');
+      my_window.document.write('<h1>Thông báo Lịch tiếp công dân tại trụ sở UBND xã Thuận Hà năm 2016</h1>');
+      my_window.document.write('<h3>Thông báo Lịch tiếp công dân tại trụ sở UBND xã Thuận Hà</h3>');
       my_window.document.write(` <p> ${content}</p> `);
       my_window.document.write('</body> </html>');
       my_window.print();

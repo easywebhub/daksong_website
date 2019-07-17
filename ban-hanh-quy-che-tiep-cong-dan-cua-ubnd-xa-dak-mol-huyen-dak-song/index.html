@@ -1000,6 +1000,9 @@
         <DIV id="part2" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts"><TABLE border="0" cellSpacing="0" cellPadding="0" width="100%"><TBODY><TR><TD class="Other" width="100%"><UL /></TD></TR></TBODY></TABLE><TABLE class="tbtinkhac" border="0" cellSpacing="0" cellPadding="0" width="100%">
 					<TBODY><TR><TD class="OtherTitle"><P class="OtherTitle">TIN ĐÃ ĐƯA  </P></TD></TR></TBODY></TABLE><TABLE border="0" cellSpacing="0" cellPadding="0" width="100%">
 				<TBODY><TR><TD class="Other" width="100%"><UL>
+						 <li><a href="./ban-hanh-quy-che-tiep-cong-dan-cua-ubnd-xa-dak-mol">Quyết định về việc Ban hành Quy chế tiếp công dân, tiếp nhận, xử lý đơn thư, khiếu nại, tố cáo của UBND xã Đắk Môl</a>
+							 <SPAN class="ShowDate">(22/05/2019)</SPAN>
+						 </li>
 						 <li><a href="./ban-hanh-quy-che-tiep-cong-dan-cua-ubnd-xa-dak-mol-huyen-dak-song">Ban hành quy chế tiếp công dân của UBND xã Đăk Môl, huyện Đăk Song</a>
 							 <SPAN class="ShowDate">(11/01/2017)</SPAN>
 						 </li>
@@ -1095,12 +1098,12 @@
         .replace(/&#39;/g, "'")
         .replace(/&lt;/g, '<')
         .replace(/&gt;/g, '>')
-        .replace(/&amp;/g, '&');;
+        .replace(/&amp;/g, '&')
       my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
       my_window.document.write('<html><head><title>Print Me</title></head>');
       my_window.document.write('<body onafterprint="self.close()">');
-       my_window.document.write('<h1>Ban hành quy chế tiếp công dân của UBND xã Đăk Môl, huyện Đăk Song</h1>');
-        my_window.document.write('<h3></h3>');
+      my_window.document.write('<h1>Ban hành quy chế tiếp công dân của UBND xã Đăk Môl, huyện Đăk Song</h1>');
+      my_window.document.write('<h3></h3>');
       my_window.document.write(` <p> ${content}</p> `);
       my_window.document.write('</body> </html>');
       my_window.print();

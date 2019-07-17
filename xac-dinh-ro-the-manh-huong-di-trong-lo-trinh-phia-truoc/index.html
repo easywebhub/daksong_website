@@ -1098,12 +1098,12 @@
         .replace(/&#39;/g, "'")
         .replace(/&lt;/g, '<')
         .replace(/&gt;/g, '>')
-        .replace(/&amp;/g, '&');;
+        .replace(/&amp;/g, '&')
       my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
       my_window.document.write('<html><head><title>Print Me</title></head>');
       my_window.document.write('<body onafterprint="self.close()">');
-       my_window.document.write('<h1>Xác định rõ thế mạnh, hướng đi trong lộ trình phía trước</h1>');
-        my_window.document.write('<h3>Trong những ngày đầu thành lập, Đắk Song là một huyện nghèo, hạ tầng cơ sở còn yếu, đời sống nhân dân gặp rất nhiều khó khăn. Sau 15 năm (2001-2016), tuy chặng đường chưa đủ dài để huyện phát huy hết những tiềm năng, thế mạnh, song những kết quả đạt được đã ghi nhận một bước tiến dài trên lộ trình phát triển.</h3>');
+      my_window.document.write('<h1>Xác định rõ thế mạnh, hướng đi trong lộ trình phía trước</h1>');
+      my_window.document.write('<h3>Trong những ngày đầu thành lập, Đắk Song là một huyện nghèo, hạ tầng cơ sở còn yếu, đời sống nhân dân gặp rất nhiều khó khăn. Sau 15 năm (2001-2016), tuy chặng đường chưa đủ dài để huyện phát huy hết những tiềm năng, thế mạnh, song những kết quả đạt được đã ghi nhận một bước tiến dài trên lộ trình phát triển.</h3>');
       my_window.document.write(` <p> ${content}</p> `);
       my_window.document.write('</body> </html>');
       my_window.print();

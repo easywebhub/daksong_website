@@ -1095,12 +1095,12 @@
         .replace(/&#39;/g, "'")
         .replace(/&lt;/g, '<')
         .replace(/&gt;/g, '>')
-        .replace(/&amp;/g, '&');;
+        .replace(/&amp;/g, '&')
       my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
       my_window.document.write('<html><head><title>Print Me</title></head>');
       my_window.document.write('<body onafterprint="self.close()">');
-       my_window.document.write('<h1>Xây dựng vườn rau theo tiêu chuẩn Viet Gap</h1>');
-        my_window.document.write('<h3>Ngày 24/02/2016, UBND quyết định phê duyệt hồ sơ mời thầu gói thầu tư vấn xây dựng vườn rau theo tiêu chuẩn Viet Gap</h3>');
+      my_window.document.write('<h1>Xây dựng vườn rau theo tiêu chuẩn Viet Gap</h1>');
+      my_window.document.write('<h3>Ngày 24/02/2016, UBND quyết định phê duyệt hồ sơ mời thầu gói thầu tư vấn xây dựng vườn rau theo tiêu chuẩn Viet Gap</h3>');
       my_window.document.write(` <p> ${content}</p> `);
       my_window.document.write('</body> </html>');
       my_window.print();

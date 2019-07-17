@@ -1108,12 +1108,12 @@ major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin&quo
         .replace(/&#39;/g, "'")
         .replace(/&lt;/g, '<')
         .replace(/&gt;/g, '>')
-        .replace(/&amp;/g, '&');;
+        .replace(/&amp;/g, '&')
       my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
       my_window.document.write('<html><head><title>Print Me</title></head>');
       my_window.document.write('<body onafterprint="self.close()">');
-       my_window.document.write('<h1>Đẩy mạnh tuyên truyền pháp luật giao thông để kiềm chế tai nạn</h1>');
-        my_window.document.write('<h3>Trong 9 tháng đầu năm 2017, Phòng Cảnh sát giao thông, Công an tỉnh phối hợp với công an 8 huyện, thị xã cùng các ban, ngành, đoàn thể tổ chức 165 đợt tuyên truyền, tập huấn; chiếu 150 lượt phim, phát 33.000 tờ rơi về pháp luật giao thông cho gần 49.000 lượt học sinh, người dân và cán bộ, công nhân viên chức trên địa bàn tỉnh.</h3>');
+      my_window.document.write('<h1>Đẩy mạnh tuyên truyền pháp luật giao thông để kiềm chế tai nạn</h1>');
+      my_window.document.write('<h3>Trong 9 tháng đầu năm 2017, Phòng Cảnh sát giao thông, Công an tỉnh phối hợp với công an 8 huyện, thị xã cùng các ban, ngành, đoàn thể tổ chức 165 đợt tuyên truyền, tập huấn; chiếu 150 lượt phim, phát 33.000 tờ rơi về pháp luật giao thông cho gần 49.000 lượt học sinh, người dân và cán bộ, công nhân viên chức trên địa bàn tỉnh.</h3>');
       my_window.document.write(` <p> ${content}</p> `);
       my_window.document.write('</body> </html>');
       my_window.print();

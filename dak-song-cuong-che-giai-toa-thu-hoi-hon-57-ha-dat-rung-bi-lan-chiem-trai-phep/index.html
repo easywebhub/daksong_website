@@ -1098,12 +1098,12 @@
         .replace(/&#39;/g, "'")
         .replace(/&lt;/g, '<')
         .replace(/&gt;/g, '>')
-        .replace(/&amp;/g, '&');;
+        .replace(/&amp;/g, '&')
       my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
       my_window.document.write('<html><head><title>Print Me</title></head>');
       my_window.document.write('<body onafterprint="self.close()">');
-       my_window.document.write('<h1>Đắk Song: Cưỡng chế, giải tỏa thu hồi hơn 57 ha đất rừng bị lấn chiếm trái phép</h1>');
-        my_window.document.write('<h3>Trong khoảng 1 tháng (từ cuối tháng 5 đến cuối tháng 6/2017), Đoàn thực hiện Chỉ thị 12 (Đoàn 12) của UBND huyện Đắk Song (Đắk Nông) đã tiến hành cưỡng chế, phá bỏ cây trồng trên đất phá rừng, lấn chiếm đất rừng trái pháp luật tại lâm phận Công ty TNHH MTV Đắk N’Tao và Công ty TNHH MTV Thuận Tân (đã giải thể), thuộc địa giới hành chính xã Nâm N’Jang, huyện Đắk Song để thu hồi diện tích đất rừng và trồng lại rừng trên diện tích đất bị lấn chiếm.</h3>');
+      my_window.document.write('<h1>Đắk Song: Cưỡng chế, giải tỏa thu hồi hơn 57 ha đất rừng bị lấn chiếm trái phép</h1>');
+      my_window.document.write('<h3>Trong khoảng 1 tháng (từ cuối tháng 5 đến cuối tháng 6/2017), Đoàn thực hiện Chỉ thị 12 (Đoàn 12) của UBND huyện Đắk Song (Đắk Nông) đã tiến hành cưỡng chế, phá bỏ cây trồng trên đất phá rừng, lấn chiếm đất rừng trái pháp luật tại lâm phận Công ty TNHH MTV Đắk N’Tao và Công ty TNHH MTV Thuận Tân (đã giải thể), thuộc địa giới hành chính xã Nâm N’Jang, huyện Đắk Song để thu hồi diện tích đất rừng và trồng lại rừng trên diện tích đất bị lấn chiếm.</h3>');
       my_window.document.write(` <p> ${content}</p> `);
       my_window.document.write('</body> </html>');
       my_window.print();

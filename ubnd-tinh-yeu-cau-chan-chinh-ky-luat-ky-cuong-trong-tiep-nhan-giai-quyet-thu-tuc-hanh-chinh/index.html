@@ -1098,12 +1098,12 @@
         .replace(/&#39;/g, "'")
         .replace(/&lt;/g, '<')
         .replace(/&gt;/g, '>')
-        .replace(/&amp;/g, '&');;
+        .replace(/&amp;/g, '&')
       my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
       my_window.document.write('<html><head><title>Print Me</title></head>');
       my_window.document.write('<body onafterprint="self.close()">');
-       my_window.document.write('<h1>UBND tỉnh yêu cầu chấn chỉnh kỷ luật, kỷ cương trong tiếp nhận, giải quyết thủ tục hành chính</h1>');
-        my_window.document.write('<h3>Ngày 5/1, UBND tỉnh Đắk Nông ban hành Chỉ thị số 01/CT-UBND về việc chấn chỉnh kỷ luật, kỷ cương trong tiếp nhận, giải quyết thủ tục hành chính trên địa bàn tỉnh Đắk Nông.</h3>');
+      my_window.document.write('<h1>UBND tỉnh yêu cầu chấn chỉnh kỷ luật, kỷ cương trong tiếp nhận, giải quyết thủ tục hành chính</h1>');
+      my_window.document.write('<h3>Ngày 5/1, UBND tỉnh Đắk Nông ban hành Chỉ thị số 01/CT-UBND về việc chấn chỉnh kỷ luật, kỷ cương trong tiếp nhận, giải quyết thủ tục hành chính trên địa bàn tỉnh Đắk Nông.</h3>');
       my_window.document.write(` <p> ${content}</p> `);
       my_window.document.write('</body> </html>');
       my_window.print();

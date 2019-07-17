@@ -1098,12 +1098,12 @@
         .replace(/&#39;/g, "'")
         .replace(/&lt;/g, '<')
         .replace(/&gt;/g, '>')
-        .replace(/&amp;/g, '&');;
+        .replace(/&amp;/g, '&')
       my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
       my_window.document.write('<html><head><title>Print Me</title></head>');
       my_window.document.write('<body onafterprint="self.close()">');
-       my_window.document.write('<h1>Kiên quyết xử lý, thu hồi hơn 29ha đất thuộc Rừng phòng hộ cảnh quan Quốc lộ 14 bị xâm chiếm</h1>');
-        my_window.document.write('<h3>Ngày 20/3/2017, Văn phòng UBND tỉnh Đắk Nông ban hành văn bản thông báo ý kiến chỉ đạo của Phó Chủ tịch UBND tỉnh Trương Thanh Tùng về việc xử lý, thu hồi 29,1ha đất bị xâm chiếm thuộc Rừng phòng hộ cảnh quan Quốc lộ 14 đoạn qua huyện Đắk Song (Thông báo số 33/TB-UBND).</h3>');
+      my_window.document.write('<h1>Kiên quyết xử lý, thu hồi hơn 29ha đất thuộc Rừng phòng hộ cảnh quan Quốc lộ 14 bị xâm chiếm</h1>');
+      my_window.document.write('<h3>Ngày 20/3/2017, Văn phòng UBND tỉnh Đắk Nông ban hành văn bản thông báo ý kiến chỉ đạo của Phó Chủ tịch UBND tỉnh Trương Thanh Tùng về việc xử lý, thu hồi 29,1ha đất bị xâm chiếm thuộc Rừng phòng hộ cảnh quan Quốc lộ 14 đoạn qua huyện Đắk Song (Thông báo số 33/TB-UBND).</h3>');
       my_window.document.write(` <p> ${content}</p> `);
       my_window.document.write('</body> </html>');
       my_window.print();

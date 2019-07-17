@@ -998,6 +998,9 @@
         <DIV id="part2" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts"><TABLE border="0" cellSpacing="0" cellPadding="0" width="100%"><TBODY><TR><TD class="Other" width="100%"><UL /></TD></TR></TBODY></TABLE><TABLE class="tbtinkhac" border="0" cellSpacing="0" cellPadding="0" width="100%">
 					<TBODY><TR><TD class="OtherTitle"><P class="OtherTitle">TIN ĐÃ ĐƯA  </P></TD></TR></TBODY></TABLE><TABLE border="0" cellSpacing="0" cellPadding="0" width="100%">
 				<TBODY><TR><TD class="Other" width="100%"><UL>
+						 <li><a href="./tb-lich-tiep-cong-dan-tai-tru-so-ubnd-xa-thuan-ha">Thông báo Lịch tiếp công dân tại trụ sở UBND xã Thuận Hà năm 2016</a>
+							 <SPAN class="ShowDate">(04/01/2019)</SPAN>
+						 </li>
 						 <li><a href="./thong-bao-lich-tiep-cong-dan-thang-1112-cua-chu-tich-va-pho-ct-ubnd-xa-thuan-ha">Thông báo Lịch tiếp công dân tháng 11,12 của Chủ tịch và Phó CT UBND xã Thuận Hà</a>
 							 <SPAN class="ShowDate">(04/11/2018)</SPAN>
 						 </li>
@@ -1006,9 +1009,6 @@
 						 </li>
 						 <li><a href="./lich-tiep-cong-dan-cua-ubnd-xa-thuan-ha-quy-12018">Lịch tiếp công dân của UBND xã Thuận Hà quý 1/2018</a>
 							 <SPAN class="ShowDate">(05/01/2018)</SPAN>
-						 </li>
-						 <li><a href="./thong-bao-lich-tiep-cong-dan-tai-tru-so-ubnd-xa-thuan-ha">Thông báo Lịch tiếp công dân tại trụ sở UBND xã Thuận Hà</a>
-							 <SPAN class="ShowDate">(05/08/2017)</SPAN>
 						 </li>
 
           </UL></TD></TR></TBODY></TABLE>
@@ -1100,12 +1100,12 @@
         .replace(/&#39;/g, "'")
         .replace(/&lt;/g, '<')
         .replace(/&gt;/g, '>')
-        .replace(/&amp;/g, '&');;
+        .replace(/&amp;/g, '&')
       my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
       my_window.document.write('<html><head><title>Print Me</title></head>');
       my_window.document.write('<body onafterprint="self.close()">');
-       my_window.document.write('<h1>Lịch tiếp công dân của UBND xã Thuận Hà</h1>');
-        my_window.document.write('<h3>Ngày 05/09/2016 UBND xã Thuận Hà, huyện Đăk Song ra thông báo số 31/TB-UBND về việc tiếp công dân tại UBND xã Thuận Hà</h3>');
+      my_window.document.write('<h1>Lịch tiếp công dân của UBND xã Thuận Hà</h1>');
+      my_window.document.write('<h3>Ngày 05/09/2016 UBND xã Thuận Hà, huyện Đăk Song ra thông báo số 31/TB-UBND về việc tiếp công dân tại UBND xã Thuận Hà</h3>');
       my_window.document.write(` <p> ${content}</p> `);
       my_window.document.write('</body> </html>');
       my_window.print();

@@ -4,9 +4,9 @@
     "category": "thong-bao-giay-moi.thong-bao",
     "tag": [],
     "layout": "van-ban.html",
-    "title": "ĐC TT CUỘC THI KHỞI NGHIỆP TỈNH ĐẮK NÔNG LẦN THỨ I NĂM 2019",
+    "title": "ĐỀ CƯƠNG THÔNG TIN CUỘC THI KHỞI NGHIỆP TỈNH ĐẮK NÔNG LẦN THỨ I NĂM 2019",
     "description": "",
-    "date": "2019-07-12T01:00:00.000Z",
+    "date": "2019-07-12T01:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",
@@ -27,13 +27,13 @@
 }
 ---
 <div>
-<p style="text-align:center">&nbsp;</p>
+<p style="text-align:justify">&nbsp;</p>
 
-<p style="text-align:center"><span style="background-color:white"><strong><span style="font-size:18.0pt"><span style="color:black">ĐỀ CƯƠNG</span></span></strong></span></p>
+<p style="text-align:justify"><span style="background-color:white"><strong><span style="font-size:18.0pt"><span style="color:black">ĐỀ CƯƠNG</span></span></strong></span></p>
 
-<p style="text-align:center"><span style="background-color:white"><strong><span style="font-size:18.0pt"><span style="color:black">TH&Ocirc;NG TIN CUỘC THI KHỞI NGHIỆP TỈNH ĐẮK N&Ocirc;NG LẦN THỨ I NĂM 2019</span></span></strong></span></p>
+<p style="text-align:justify"><span style="background-color:white"><strong><span style="font-size:18.0pt"><span style="color:black">TH&Ocirc;NG TIN CUỘC THI KHỞI NGHIỆP TỈNH ĐẮK N&Ocirc;NG LẦN THỨ I NĂM 2019</span></span></strong></span></p>
 
-<p style="text-align:center">&nbsp;</p>
+<p style="text-align:justify">&nbsp;</p>
 
 <p style="margin-left:0cm; margin-right:0cm; text-align:justify"><strong>1. Mục đ&iacute;ch</strong></p>
 
@@ -47,7 +47,7 @@
 
 <p style="margin-left:0cm; margin-right:0cm; text-align:justify">- C&aacute;c &yacute; tưởng, đề &aacute;n khởi nghiệp dự thi phải viết th&agrave;nh Đề &aacute;n theo mẫu. <span style="color:black">(tải mẫu tại </span><a href="http://www.daknongdpi.gov.vn">website: daknong.gov.vn hoặc daknongdpi.gov.vn</a> hoặc ipcdaknong.com.vn)</p>
 
-<p><span style="background-color:white">- Lĩnh vực dự thi: <span style="color:black">Du lịch v&agrave; dịch vụ; N&ocirc;ng nghiệp; C&ocirc;ng nghệ th&ocirc;ng tin - truyền th&ocirc;ng; C&ocirc;ng nghiệp phụ trợ - cơ kh&iacute; v&agrave; tự động h&oacute;a; ng&agrave;nh kh&aacute;c,...</span> </span></p>
+<p style="text-align:justify"><span style="background-color:white">- Lĩnh vực dự thi: <span style="color:black">Du lịch v&agrave; dịch vụ; N&ocirc;ng nghiệp; C&ocirc;ng nghệ th&ocirc;ng tin - truyền th&ocirc;ng; C&ocirc;ng nghiệp phụ trợ - cơ kh&iacute; v&agrave; tự động h&oacute;a; ng&agrave;nh kh&aacute;c,...</span> </span></p>
 
 <p style="margin-left:0cm; margin-right:0cm; text-align:justify"><strong>3. Lịch tr&igrave;nh tổ chức</strong></p>
 
@@ -98,8 +98,8 @@
 <p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><strong>C&aacute;c dự &aacute;n khởi nghiệp đạt giải sẽ được Ban tổ chức xem x&eacute;t:</strong></span></p>
 
 <ul>
-	<li style="text-align:justify"><span style="background-color:white">Kết nối với c&aacute;c nh&agrave; t&agrave;i trợ; nh&agrave; đầu tư; c&aacute;c quỹ t&iacute;n dụng v&agrave; ng&acirc;n h&agrave;ng thương mại để triển khai dự &aacute;n.</span></li>
-	<li style="text-align:justify"><span style="background-color:white">Được x&eacute;t duyệt v&agrave; đề cử tham dự cuộc thi Khởi nghiệp Quốc gia</span></li>
+	<li style="text-align: justify;"><span style="background-color:white">Kết nối với c&aacute;c nh&agrave; t&agrave;i trợ; nh&agrave; đầu tư; c&aacute;c quỹ t&iacute;n dụng v&agrave; ng&acirc;n h&agrave;ng thương mại để triển khai dự &aacute;n.</span></li>
+	<li style="text-align: justify;"><span style="background-color:white">Được x&eacute;t duyệt v&agrave; đề cử tham dự cuộc thi Khởi nghiệp Quốc gia</span></li>
 </ul>
 
 <p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;</p>
@@ -107,63 +107,63 @@
 <p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><strong>Th&ocirc;ng tin chi tiết li&ecirc;n hệ Ban tổ chức để được tư vấn, hướng dẫn:</strong></span></p>
 
 <ol>
-	<li style="text-align:justify"><span style="background-color:white">Trung t&acirc;m X&uacute;c tiến Đầu tư, Sở Kế hoạch v&agrave; Đầu tư tỉnh Đắk N&ocirc;ng</span></li>
+	<li style="text-align: justify;"><span style="background-color:white">Trung t&acirc;m X&uacute;c tiến Đầu tư, Sở Kế hoạch v&agrave; Đầu tư tỉnh Đắk N&ocirc;ng</span></li>
 </ol>
 
-<p style="margin-left:36.0pt; margin-right:0cm; text-align:justify"><span style="background-color:white"><em>- Địa chỉ: Đường 23/3, Phường Nghĩa Đức, thị x&atilde; Gia Nghĩa, tỉnh Đắk N&ocirc;ng. </em></span></p>
+<p style="margin-left:36pt; margin-right:0cm; text-align:justify"><span style="background-color:white"><em>- Địa chỉ: Đường 23/3, Phường Nghĩa Đức, thị x&atilde; Gia Nghĩa, tỉnh Đắk N&ocirc;ng. </em></span></p>
 
-<p style="margin-left:36.0pt; margin-right:0cm; text-align:justify"><span style="background-color:white"><em>- Điện thoại: 02613 503 696 - 0945747775 (Mr. Văn)</em></span></p>
+<p style="margin-left:36pt; margin-right:0cm; text-align:justify"><span style="background-color:white"><em>- Điện thoại: 02613 503 696 - 0945747775 (Mr. Văn)</em></span></p>
 
-<p style="margin-left:36.0pt; margin-right:0cm; text-align:justify"><span style="background-color:white"><em>- Email: khoinghiepdaknong@gmail.com</em></span></p>
+<p style="margin-left:36pt; margin-right:0cm; text-align:justify"><span style="background-color:white"><em>- Email: khoinghiepdaknong@gmail.com</em></span></p>
 
 <ol start="2">
-	<li style="text-align:justify"><span style="background-color:white">Đo&agrave;n Thanh ni&ecirc;n Cộng sản Hồ Ch&iacute; Minh tỉnh Đắk N&ocirc;ng</span></li>
+	<li style="text-align: justify;"><span style="background-color:white">Đo&agrave;n Thanh ni&ecirc;n Cộng sản Hồ Ch&iacute; Minh tỉnh Đắk N&ocirc;ng</span></li>
 </ol>
 
 <ul>
-	<li style="text-align:justify"><span style="background-color:white"><em>Địa chỉ: Đường Quang Trung, Phường Nghĩa T&acirc;n, thị x&atilde; Gia Nghĩa, tỉnh Đắk N&ocirc;ng. </em></span></li>
-	<li style="text-align:justify"><span style="background-color:white"><em>Điện thoại: 02613 544 410 0941421212 (Mr. Đ&ocirc;ng)</em></span></li>
+	<li style="text-align: justify;"><span style="background-color:white"><em>Địa chỉ: Đường Quang Trung, Phường Nghĩa T&acirc;n, thị x&atilde; Gia Nghĩa, tỉnh Đắk N&ocirc;ng. </em></span></li>
+	<li style="text-align: justify;"><span style="background-color:white"><em>Điện thoại: 02613 544 410 0941421212 (Mr. Đ&ocirc;ng)</em></span></li>
 </ul>
 </div>
 
-<p>&nbsp;</p>
+<p style="text-align:justify">&nbsp;</p>
 
 <div>
-<p style="margin-left:0cm; margin-right:0cm; text-align:center"><span style="background-color:white"><strong><span style="font-size:16.0pt"><span style="color:black">DỰ &Aacute;N</span></span></strong></span></p>
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><strong><span style="font-size:16.0pt"><span style="color:black">DỰ &Aacute;N</span></span></strong></span></p>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="background-color:white"><strong><span style="font-size:16.0pt"><span style="color:black">Tham gia Cuộc thi khởi nghiệp tỉnh Đắk N&ocirc;ng năm 2019</span></span></strong></span></p>
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><strong><span style="font-size:16.0pt"><span style="color:black">Tham gia Cuộc thi khởi nghiệp tỉnh Đắk N&ocirc;ng năm 2019</span></span></strong></span></p>
 
-<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;</p>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="background-color:white"><strong><span style="color:black">I. GIỚI THIỆU CHUNG:</span></strong></span></p>
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><strong><span style="color:black">I. GIỚI THIỆU CHUNG:</span></strong></span></p>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="background-color:white"><span style="color:black">T&ecirc;n Đề &aacute;n: &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.</span></span></p>
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><span style="color:black">T&ecirc;n Đề &aacute;n: &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;.</span></span></p>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="background-color:white"><span style="color:black">Họ v&agrave; t&ecirc;n người đại diện: &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;..</span></span></p>
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><span style="color:black">Họ v&agrave; t&ecirc;n người đại diện: &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;..</span></span></p>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="background-color:white"><span style="color:black">Họ v&agrave; t&ecirc;n th&agrave;nh vi&ecirc;n tham gia thực hiện đề &aacute;n:</span></span></p>
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><span style="color:black">Họ v&agrave; t&ecirc;n th&agrave;nh vi&ecirc;n tham gia thực hiện đề &aacute;n:</span></span></p>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="background-color:white"><span style="color:black">1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;..</span></span></p>
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><span style="color:black">1. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;..</span></span></p>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="background-color:white"><span style="color:black">2. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;..</span></span></p>
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><span style="color:black">2. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;..</span></span></p>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="background-color:white"><span style="color:black">3. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;..</span></span></p>
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><span style="color:black">3. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;..</span></span></p>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="background-color:white"><span style="color:black">4. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;..</span></span></p>
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><span style="color:black">4. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;..</span></span></p>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="background-color:white"><span style="color:black">5. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;..</span></span></p>
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><span style="color:black">5. &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;..</span></span></p>
 
-<p style="margin-left:0cm; margin-right:0cm"><span style="background-color:white"><strong><span style="color:black">II. NỘI DUNG &Yacute; TƯỞNG </span></strong></span></p>
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><strong><span style="color:black">II. NỘI DUNG &Yacute; TƯỞNG </span></strong></span></p>
 
-<p style="margin-left:0cm; margin-right:0cm; text-align:center"><span style="background-color:white"><strong><span style="color:black">PHẦN 1</span></strong></span></p>
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><strong><span style="color:black">PHẦN 1</span></strong></span></p>
 
-<p style="margin-left:0cm; margin-right:0cm; text-align:center"><span style="background-color:white"><strong><span style="color:black">PHẦN MỞ ĐẦU</span></strong></span></p>
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><strong><span style="color:black">PHẦN MỞ ĐẦU</span></strong></span></p>
 
 <p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><span style="color:black">Kh&aacute;i qu&aacute;t l&yacute; do h&igrave;nh th&agrave;nh &yacute; tưởng, cung cấp một số th&ocirc;ng tin cơ bản về dự &aacute;n, dung lượng tr&igrave;nh b&agrave;y kh&ocirc;ng qu&aacute; 1 trang giấy khổ A4.</span></span></p>
 
-<p style="margin-left:0cm; margin-right:0cm; text-align:center"><span style="background-color:white"><strong><span style="color:black">PHẦN 2</span></strong></span></p>
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><strong><span style="color:black">PHẦN 2</span></strong></span></p>
 
-<p style="margin-left:0cm; margin-right:0cm; text-align:center"><span style="background-color:white"><strong><span style="color:black">NỘI DUNG DỰ &Aacute;N</span></strong></span></p>
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><strong><span style="color:black">NỘI DUNG DỰ &Aacute;N</span></strong></span></p>
 
 <p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><span style="color:black">1. M&ocirc; h&igrave;nh của dự &aacute;n <em>(m&ocirc; h&igrave;nh doanh nghiệp, m&ocirc; h&igrave;nh hoạt động)</em>.</span></span></p>
 
@@ -197,9 +197,9 @@
 
 <p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><span style="color:black">đ) C&aacute;c &yacute; nghĩa kh&aacute;c.</span></span></p>
 
-<p style="margin-left:0cm; margin-right:0cm; text-align:center"><span style="background-color:white"><strong><span style="color:black">PHẦN 3</span></strong></span></p>
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><strong><span style="color:black">PHẦN 3</span></strong></span></p>
 
-<p style="margin-left:0cm; margin-right:0cm; text-align:center"><span style="background-color:white"><strong><span style="color:black">TỔ CHỨC THỰC HIỆN</span></strong></span></p>
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><strong><span style="color:black">TỔ CHỨC THỰC HIỆN</span></strong></span></p>
 
 <p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><span style="color:black">1. Chiến lược chung.</span></span></p>
 
@@ -211,9 +211,9 @@
 
 <p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><span style="color:black">5. Phụ lục <em>(nếu c&oacute;)</em>.</span></span></p>
 
-<p style="margin-left:0cm; margin-right:0cm; text-align:center"><span style="background-color:white"><strong><span style="color:black">PHẦN 4</span></strong></span></p>
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><strong><span style="color:black">PHẦN 4</span></strong></span></p>
 
-<p style="margin-left:0cm; margin-right:0cm; text-align:center"><span style="background-color:white"><strong><span style="color:black">KẾT LUẬN V&Agrave; ĐỀ XUẤT HỖ TRỢ</span></strong></span></p>
+<p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><strong><span style="color:black">KẾT LUẬN V&Agrave; ĐỀ XUẤT HỖ TRỢ</span></strong></span></p>
 
 <p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><span style="color:black">1. N&ecirc;u kh&aacute;i qu&aacute;t để khẳng định lại việc đề xuất &yacute; tưởng khởi nghiệp s&aacute;ng tạo, n&ecirc;u bật t&iacute;nh mới v&agrave; khả thi, tạo ra sản phẩm mới (doanh nghiệp, sản phẩm mới, m&ocirc; h&igrave;nh quản l&yacute; mới...) v&agrave; c&aacute;c hiệu quả khi &aacute;p dụng.</span></span></p>
 
@@ -225,44 +225,44 @@
 
 <p style="margin-left:0cm; margin-right:0cm; text-align:justify"><span style="background-color:white"><strong><em><u><span style="color:black">Ghi ch&uacute;</span></u></em></strong><u><span style="color:black">:</span></u><em> </em><span style="color:black">Dự &aacute;n được tr&igrave;nh b&agrave;y kh&ocirc;ng qu&aacute; 15 trang giấy khổ A4 (Font: Times New Roman, cỡ chữ 14, đ&oacute;ng cuốn, số lượng 12 bản).</span></span></p>
 
-<p>&nbsp;</p>
+<p style="text-align:justify">&nbsp;</p>
 </div>
 
-<p>&nbsp;</p>
+<p style="text-align:justify">&nbsp;</p>
 
-<p style="text-align:center"><span style="background-color:white"><strong><span style="font-size:13.0pt">CỘNG H&Ograve;A X&Atilde; HỘI CHỦ NGHĨA VIỆT NAM</span></strong><br />
+<p style="text-align:justify"><span style="background-color:white"><strong><span style="font-size:13.0pt">CỘNG H&Ograve;A X&Atilde; HỘI CHỦ NGHĨA VIỆT NAM</span></strong><br />
 <strong>Độc lập - Tự do - Hạnh ph&uacute;c </strong></span></p>
 
-<p style="text-align:center"><span style="background-color:white"><strong>----------------------------</strong></span></p>
+<p style="text-align:justify"><span style="background-color:white"><strong>----------------------------</strong></span></p>
 
-<p style="margin-left:233.95pt; margin-right:0cm; text-align:center">&nbsp;</p>
+<p style="margin-left:233.95pt; margin-right:0cm; text-align:justify">&nbsp;</p>
 
-<p style="margin-left:233.95pt; margin-right:0cm; text-align:center">&nbsp;</p>
+<p style="margin-left:233.95pt; margin-right:0cm; text-align:justify">&nbsp;</p>
 
-<p style="text-align:center"><span style="background-color:white"><strong>BẢN ĐĂNG K&Yacute;</strong></span></p>
+<p style="text-align:justify"><span style="background-color:white"><strong>BẢN ĐĂNG K&Yacute;</strong></span></p>
 
-<p style="text-align:center"><span style="background-color:white"><strong>Tham dự Cuộc thi khởi nghiệp tỉnh Đắk N&ocirc;ng năm 2019</strong></span></p>
+<p style="text-align:justify"><span style="background-color:white"><strong>Tham dự Cuộc thi khởi nghiệp tỉnh Đắk N&ocirc;ng năm 2019</strong></span></p>
 
-<p style="text-align:center">&nbsp;</p>
+<p style="text-align:justify">&nbsp;</p>
 
 <table align="left" style="border:undefined">
 	<tbody>
 		<tr>
-			<td>&nbsp;</td>
+			<td style="text-align:justify">&nbsp;</td>
 		</tr>
 		<tr>
-			<td>&nbsp;</td>
-			<td><img src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image001.png" style="height:2px; width:237px" /></td>
+			<td style="text-align:justify">&nbsp;</td>
+			<td style="text-align:justify"><img src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image001.png" style="height:2px; width:237px" /></td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
+<p style="text-align:justify">&nbsp;</p>
 
 <p style="text-align:justify"><strong>I&nbsp; TH&Ocirc;NG TIN CHI TIẾT</strong></p>
 
 <ol start="5" style="list-style-type:lower-roman">
-	<li style="text-align:justify"><strong>Trường hợp l&agrave; c&aacute; nh&acirc;n:</strong></li>
+	<li style="text-align: justify;"><strong>Trường hợp l&agrave; c&aacute; nh&acirc;n:</strong></li>
 </ol>
 
 <p style="text-align:justify">1. Họ v&agrave; t&ecirc;n (người đại diện đề &aacute;n): ......................................................................</p>
@@ -286,51 +286,51 @@
 		<tr>
 			<td>
 			<div>
-			<p>&nbsp;</p>
+			<p style="text-align:justify">&nbsp;</p>
 			</div>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p><img src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image002.png" style="height:30px; width:28px" />&nbsp;Học sinh &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="text-align:justify"><img src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image002.png" style="height:30px; width:28px" />&nbsp;Học sinh &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 <table style="border:undefined; width:100%">
 	<tbody>
 		<tr>
 			<td>
 			<div>
-			<p>&nbsp;</p>
+			<p style="text-align:justify">&nbsp;</p>
 			</div>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p><img src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image002.png" style="height:30px; width:28px" />&nbsp;&nbsp;Sinh Vi&ecirc;n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="text-align:justify"><img src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image002.png" style="height:30px; width:28px" />&nbsp;&nbsp;Sinh Vi&ecirc;n &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 <table style="border:undefined; width:100%">
 	<tbody>
 		<tr>
 			<td>
 			<div>
-			<p>&nbsp;</p>
+			<p style="text-align:justify">&nbsp;</p>
 			</div>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p><img src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image002.png" style="height:30px; width:28px" />&nbsp;&nbsp;Người đi l&agrave;m</p>
+<p style="text-align:justify"><img src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image002.png" style="height:30px; width:28px" />&nbsp;&nbsp;Người đi l&agrave;m</p>
 
-<p>&nbsp;</p>
+<p style="text-align:justify">&nbsp;</p>
 
 <p style="text-align:justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 <p style="text-align:justify">9. Nơi c&ocirc;ng t&aacute;c: ....................................................................................................</p>
 
 <ol start="5" style="list-style-type:lower-roman">
-	<li style="text-align:justify"><strong>Trường hợp l&agrave; tổ chức:</strong></li>
+	<li style="text-align: justify;"><strong>Trường hợp l&agrave; tổ chức:</strong></li>
 </ol>
 
 <p style="text-align:justify">1. T&ecirc;n tổ chức: .................................................................................................</p>
@@ -341,9 +341,9 @@
 
 <p style="text-align:justify">4. Email: .................................................................................................................</p>
 
-<p>5. Họ v&agrave; t&ecirc;n người đại diện ph&aacute;p luật:....................................................................</p>
+<p style="text-align:justify">5. Họ v&agrave; t&ecirc;n người đại diện ph&aacute;p luật:....................................................................</p>
 
-<p><strong>II&nbsp; TH&Ocirc;NG TIN DỰ &Aacute;N ĐĂNG K&Yacute; DỰ THI</strong></p>
+<p style="text-align:justify"><strong>II&nbsp; TH&Ocirc;NG TIN DỰ &Aacute;N ĐĂNG K&Yacute; DỰ THI</strong></p>
 
 <p style="text-align:justify">1. T&ecirc;n đề &aacute;n: ..........................................................................................................</p>
 
@@ -366,16 +366,16 @@
 		<tr>
 			<td>
 			<div>
-			<p>&nbsp;</p>
+			<p style="text-align:justify">&nbsp;</p>
 			</div>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p><img src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image002.png" style="height:30px; width:28px" />&nbsp;Đ&atilde; ho&agrave;n chỉnh (đ&atilde; c&oacute; sản phẩm, c&oacute; thể thương mại ho&aacute;).</p>
+<p style="text-align:justify"><img src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image002.png" style="height:30px; width:28px" />&nbsp;Đ&atilde; ho&agrave;n chỉnh (đ&atilde; c&oacute; sản phẩm, c&oacute; thể thương mại ho&aacute;).</p>
 
-<p>&nbsp;</p>
+<p style="text-align:justify">&nbsp;</p>
 
 <p style="text-align:justify">&nbsp;</p>
 
@@ -384,16 +384,16 @@
 		<tr>
 			<td>
 			<div>
-			<p>&nbsp;</p>
+			<p style="text-align:justify">&nbsp;</p>
 			</div>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p><img src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image002.png" style="height:30px; width:28px" />&nbsp;Đang thực hiện, chưa ho&agrave;n chỉnh.</p>
+<p style="text-align:justify"><img src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image002.png" style="height:30px; width:28px" />&nbsp;Đang thực hiện, chưa ho&agrave;n chỉnh.</p>
 
-<p>&nbsp;</p>
+<p style="text-align:justify">&nbsp;</p>
 
 <p style="text-align:justify">&nbsp;</p>
 
@@ -402,16 +402,16 @@
 		<tr>
 			<td>
 			<div>
-			<p>&nbsp;</p>
+			<p style="text-align:justify">&nbsp;</p>
 			</div>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p><img src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image002.png" style="height:30px; width:28px" />&nbsp;Chỉ mới l&agrave; &yacute; tưởng, chưa l&agrave;m.</p>
+<p style="text-align:justify"><img src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image002.png" style="height:30px; width:28px" />&nbsp;Chỉ mới l&agrave; &yacute; tưởng, chưa l&agrave;m.</p>
 
-<p>&nbsp;</p>
+<p style="text-align:justify">&nbsp;</p>
 
 <p style="text-align:justify"><strong>III&nbsp; CAM KẾT:</strong></p>
 
@@ -419,10 +419,10 @@
 
 <p style="text-align:justify">&nbsp;</p>
 
-<p style="margin-left:180.0pt; margin-right:0cm; text-align:justify"><em>Đắk N&ocirc;ng, ng&agrave;y&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;th&aacute;ng&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; năm 2019</em></p>
+<p style="margin-left:180pt; margin-right:0cm; text-align:justify"><em>Đắk N&ocirc;ng, ng&agrave;y&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;th&aacute;ng&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; năm 2019</em></p>
 
 <p style="text-align:justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <strong>ĐẠI DIỆN ĐỀ &Aacute;N</strong></p>
 
-<p style="margin-left:216.0pt; margin-right:0cm"><em>(K&yacute; v&agrave; ghi r&otilde; họ t&ecirc;n, đ&oacute;ng dấu nếu c&oacute;)</em></p>
+<p style="margin-left:216pt; margin-right:0cm; text-align:justify"><em>(K&yacute; v&agrave; ghi r&otilde; họ t&ecirc;n, đ&oacute;ng dấu nếu c&oacute;)</em></p>
 
 <p style="margin-left:0cm; margin-right:0cm; text-align:justify">&nbsp;</p>

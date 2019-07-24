@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Thông báo Về danh mục tài liệu ôn tập sát hạch kỳ xét thăng hạng chức danh nghề nghiệp đối với giáo viên mầm non từ hạng III lên hạng II",
     "description": "",
-    "date": "2019-07-16T12:00:00.000Z",
+    "date": "2019-07-16T00:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

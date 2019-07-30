@@ -1,11 +1,11 @@
 ---json
 {
     "slug": "the-le-cuoc-thi-khoi-nghiep-tinh-dak-nong-lan-i-2019",
-    "title": "Thể lệ cuộc thi khởi nghiệp tỉnh đắk nông lần I 2019",
+    "title": "Thể lệ Cuộc thi Khởi nghiệp tỉnh Đắk Nông lần I năm 2019",
     "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-07-23T14:32:00.000Z",
+    "date": "2019-07-23T14:47:00.000Z",
     "draft": false,
     "upload-image": "/img/TLCTKN07.PNG",
     "description": "",

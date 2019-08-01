@@ -77,7 +77,7 @@
         {
             "slug":"quan-dan-huyen-dak-song-chung-suc-bao-ve-moi-truong",
             "title": "Quân dân huyện Đăk Song chung sức bảo vệ môi trường",
-            "description": "Người M’Nông ở Bon Bu Prâng xã Đăk N’Drung (Đăk Song, Đăk Nông) thường bảo nhau:...",
+            "description": "Người M’Nông ở Bon Bu Prâng, xã Đăk N’Drung (Đăk Song, Đăk Nông) thường bảo nhau:...",
             "banner": "/img/BCHQSDK01Copy.PNG"
         },
         {

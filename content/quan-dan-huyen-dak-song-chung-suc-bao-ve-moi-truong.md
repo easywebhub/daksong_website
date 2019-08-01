@@ -5,10 +5,10 @@
     "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-08-01T13:00:00.000Z",
+    "date": "2019-08-01T13:15:00.000Z",
     "draft": false,
     "upload-image": "/img/BCHQSDK03.PNG",
-    "description": "",
+    "description": "Người M’Nông ở Bon Bu Prâng xã Đăk N’Drung (Đăk Song, Đăk Nông) thường bảo nhau:...",
     "banner": "/img/BCHQSDK01Copy.PNG",
     "__content__": ""
 }

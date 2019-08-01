@@ -9,7 +9,7 @@
     "draft": false,
     "upload-image": "/img/BCHQSDK03.PNG",
     "description": "",
-    "banner": "",
+    "banner": "/img/BCHQSDK01Copy.PNG",
     "__content__": ""
 }
 ---

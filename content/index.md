@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug":"quan-dan-huyen-dak-song-chung-suc-bao-ve-moi-truong",
+            "title": "Quân dân huyện Đăk Song chung sức bảo vệ môi trường",
+            "description": "",
+            "banner": "/img/BCHQSDK01Copy.PNG"
+        },
+        {
             "slug":"thong-bao-ds-giao-vien-du-dieu-kien-du-xet-thang-hang-cdnn-nam-2019",
             "title": "Thông báo Danh sách giáo viên đủ điều kiện dự xét thăng hạng Chức danh nghề nghiệp (CDNN) huyện Đắk Song năm 2019",
             "description": "",
@@ -97,12 +103,6 @@
             "title": "Lễ công bố xã Nâm N’ jang đạt chuẩn nông thôn mới.",
             "description": "",
             "banner": "/img/namnjang01 - Copy.PNG"
-        },
-        {
-            "slug": "so-nong-nghiep-va-phat-trien-nong-thon-tinh-dak-nong-lam-viec-voi-huyen-dak-song",
-            "title": "Sở Nông nghiệp và phát triển nông thôn tỉnh Đăk Nông  làm việc với huyện Đắk Song",
-            "description": "",
-            "banner": "/img/Snn02 - Copy.PNG"
         }
     ],
     "tag": [],

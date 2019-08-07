@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "thong-bao-moi-thau-ban-chuyen-doi-cho-huyen",
+            "title": "Thông báo Mời thầu Đầu tư xây dựng, quản lý, kinh doanh, khai thác chợ trung tâm huyện Đắk Song",
+            "description": "",
+            "banner": "/img/loa.jpg"
+        },
+        {
             "slug":"quan-dan-huyen-dak-song-chung-suc-bao-ve-moi-truong",
             "title": "Quân dân huyện Đăk Song chung sức bảo vệ môi trường",
             "description": "Người M’Nông ở Bon Bu Prâng, xã Đăk N’Drung (Đăk Song, Đăk Nông) thường bảo nhau:...",
@@ -97,12 +103,6 @@
             "title": "Chào mừng Kỷ niệm Ngày giải phóng Miền Nam, thống nhất đất nước (30/4/1975 – 30/4/2019) và Ngày Quốc tế lao động (1/5/1886 – 1/5/2019)",
             "description": "Huyện Đak Song tổ chức giải bóng chuyền nữ và giải quần vợt  chào mừng Kỷ niệm 44 năm Ngày giải phóng Miền Nam, thống nhất đất nước (30/4/1975 – 30/4/2019) và 133 năm Ngày Quốc tế lao động (1/5/1886 – 1/5/2019)",
             "banner": "/img/304_03 - Copy.PNG"
-        },
-        {
-            "slug": "le-cong-bo-xa-nam-n-jang-dat-chuan-nong-thon-moi",
-            "title": "Lễ công bố xã Nâm N’ jang đạt chuẩn nông thôn mới.",
-            "description": "",
-            "banner": "/img/namnjang01 - Copy.PNG"
         }
     ],
     "tag": [],

@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": " Báo cáo Công tác tiếp công dân, giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh tháng 08 năm 2019 của UBND thị trấn Đức An",
     "description": "",
-    "date": "2019-08-12T12:00:00.000Z",
+    "date": "2019-08-12T12:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

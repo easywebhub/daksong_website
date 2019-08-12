@@ -1,12 +1,12 @@
 ---json
 {
     "slug": "215-bc-ubnd-thuan-ha-12-08-2019",
-    "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-thuan-ha.quy-dinh-ve-tcd-va-giai-quyet-don-thu",
+    "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-thuan-ha.tinh-hinh-tcd-va-giai-quyet-don-thu",
     "tag": [],
     "layout": "van-ban.html",
     "title": " Báo cáo Công tác tiếp công dân và giải quyết khiếu nại, tố cáo tháng 08 năm 2019 của UBND xã Thuận Hà",
     "description": "",
-    "date": "2019-08-12T12:05:00.000Z",
+    "date": "2019-08-12T12:10:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

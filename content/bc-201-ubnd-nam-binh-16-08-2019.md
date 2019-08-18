@@ -4,7 +4,7 @@
     "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-nam-binh.tinh-hinh-tcd-va-giai-quyet-don-thu",
     "tag": [],
     "layout": "van-ban.html",
-    "title": " Báo cáo Công tác tiếp công dân và giải quyết đơn thư, khiếu naị, tố cáo tháng 07/ 2019 ",
+    "title": " Báo cáo Công tác tiếp công dân và giải quyết đơn thư, khiếu naị, tố cáo tháng 08/ 2019 ",
     "description": "",
     "date": "2019-08-15T20:20:00.000Z",
     "so": "",
@@ -15,14 +15,17 @@
     "loai_van_ban": "",
     "nguoi_ky": "",
     "ngay_co_hieu_luc": "",
-    "tai_lieu_dinh_kem": "",
+    "tai_lieu_dinh_kem": "/img/bao cao cong tac tiep dan thang 8 xa nam binh.pdf",
     "banner": "",
     "draft": false,
     "url": "",
     "hinh_thuc_van_ban": "",
     "ngay_ban_hanh": "",
     "so_hieu": "",
-    "upload-image": "",
+    "upload-image": "/img/26BCUBNDNAMBINH082019.PNG",
     "__content__": ""
 }
 ---
+<p><img alt="" src="/img/26BCUBNDNAMBINH082019.PNG" /></p>
+
+<p>&nbsp;</p>

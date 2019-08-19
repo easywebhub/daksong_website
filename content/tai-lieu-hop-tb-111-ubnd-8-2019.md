@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Tài liệu họp Hội nghị sơ kết đánh giá công tác lãnh đạo, chỉ đạo xây dựng nền quốc phòng toàn dân 10 năm (2009-2019)",
     "description": "",
-    "date": "2019-08-19T03:30:00.000Z",
+    "date": "2019-08-19T03:35:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",
@@ -22,7 +22,8 @@
     "hinh_thuc_van_ban": "",
     "ngay_ban_hanh": "",
     "so_hieu": "",
-    "upload-image": "",
+    "upload-image": "/img/Ct 111 Tb08219.PNG",
     "__content__": ""
 }
 ---
+<p><img alt="" src="/img/Ct 111 Tb08219.PNG" /></p>

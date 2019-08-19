@@ -1,11 +1,11 @@
 ---json
 {
     "slug": "dbqs-huyen-to-chuc-hoi-nghi-ra-nghi-quyet-nv-6-2019",
-    "title": "ĐBQS huyện tổ chức  hội nghị ra nghị quyết  nv 6 2019",
+    "title": "Đảng bộ quân sự huyện tổ chức  hội nghị ra nghị quyết lãnh đạo nhiệm vụ 6 tháng cuối năm 2019",
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-08-15T06:00:00.000Z",
+    "date": "2019-08-15T06:05:00.000Z",
     "draft": false,
     "upload-image": "/img/682019anh02.PNG",
     "description": "",

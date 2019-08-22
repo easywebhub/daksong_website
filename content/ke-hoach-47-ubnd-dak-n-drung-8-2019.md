@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Kế hoạch Tổ chức đối thoại trực tiếp với Nhân dân giữa UBND xã với Nhân dân trên địa bàn xã Đắk N'Drung năm 2019",
     "description": "",
-    "date": "2019-08-16T01:00:00.000Z",
+    "date": "2019-08-16T01:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

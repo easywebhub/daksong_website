@@ -954,7 +954,7 @@
            <TR><TD style="TEXT-ALIGN: justify">
              <div class="ExternalClassD44D9F9779FB424380767EC8F35A4E72">
                 <p style="text-align:justify"><span style="font-size:14px"><br /></span></p>
-<div>
+<div id="content-print">
 <p><img alt="" src="/img/IMG_0056.JPG" /></p>
 
 <p><img alt="" src="/img/IMG_0057.JPG" /></p>
@@ -1097,25 +1097,25 @@
 
 <script type="text/javascript">
     function popuponclick() {
-        var content ='&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/img/IMG_0056.JPG&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/img/IMG_0057.JPG&quot; /&gt;&lt;/p&gt;
-'.replace(/&quot;/g, '"')
-        .replace(/&#39;/g, "'")
-        .replace(/&lt;/g, '<')
-        .replace(/&gt;/g, '>')
-        .replace(/&amp;/g, '&')
+      // console.log('popuponclick()');
+      let getbyid = document.getElementById('content-print');
+      // console.log('getbyid', getbyid);
+      let getbyidhtml = document.getElementById('content-print').innerHTML.replace(/&quot;/g, '"')
+      .replace(/&#39;/g, "'")
+      .replace(/&lt;/g, '<')
+      .replace(/&gt;/g, '>')
+      .replace(/&amp;/g, '&');
+      // console.log('getbyidhtml', getbyidhtml);
+     
       my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
       my_window.document.write('<html><head><title>Print Me</title></head>');
       my_window.document.write('<body onafterprint="self.close()">');
       my_window.document.write('<h1>Giấy mời  Hội nghị tổng kết công tác năm 2018 và triển khai nhiệm vụ năm 2019</h1>');
       my_window.document.write('<h3>Hội nghị tổng kết công tác năm 2018 và triển khai nhiệm vụ năm 2019; giao chỉ tiêu phát triển kế hoạch kinh tế - xã hội và dự toán ngân sách nhà nước năm 2019</h3>');
-      my_window.document.write(` <p> ${content}</p> `);
+      my_window.document.write(` <p> ${getbyidhtml}</p> `);
       my_window.document.write('</body> </html>');
       my_window.print();
   }
-  </script>
-
 
 </script>
 

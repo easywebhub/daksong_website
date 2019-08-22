@@ -954,7 +954,7 @@
            <TR><TD style="TEXT-ALIGN: justify">
              <div class="ExternalClassD44D9F9779FB424380767EC8F35A4E72">
                 <p style="text-align:justify"><span style="font-size:14px"><br /></span></p>
-<div>
+<div id="content-print">
 <p><img alt="" src="/img/nb 1.png" /></p>
 
 <p><img alt="" src="/img/nb 2.png" /></p>
@@ -1099,33 +1099,25 @@
 
 <script type="text/javascript">
     function popuponclick() {
-        var content ='&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/img/nb 1.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/img/nb 2.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/img/nb 3.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/img/nb 4.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/img/nb 5.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/img/nb 6.png&quot; /&gt;&lt;/p&gt;
-'.replace(/&quot;/g, '"')
-        .replace(/&#39;/g, "'")
-        .replace(/&lt;/g, '<')
-        .replace(/&gt;/g, '>')
-        .replace(/&amp;/g, '&')
+      // console.log('popuponclick()');
+      let getbyid = document.getElementById('content-print');
+      // console.log('getbyid', getbyid);
+      let getbyidhtml = document.getElementById('content-print').innerHTML.replace(/&quot;/g, '"')
+      .replace(/&#39;/g, "'")
+      .replace(/&lt;/g, '<')
+      .replace(/&gt;/g, '>')
+      .replace(/&amp;/g, '&');
+      // console.log('getbyidhtml', getbyidhtml);
+     
       my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
       my_window.document.write('<html><head><title>Print Me</title></head>');
       my_window.document.write('<body onafterprint="self.close()">');
       my_window.document.write('<h1>Lịch tiếp công dân năm 2019 của lãnh đạo  Ủy ban nhân dân xã Nam Bình</h1>');
       my_window.document.write('<h3></h3>');
-      my_window.document.write(` <p> ${content}</p> `);
+      my_window.document.write(` <p> ${getbyidhtml}</p> `);
       my_window.document.write('</body> </html>');
       my_window.print();
   }
-  </script>
-
 
 </script>
 

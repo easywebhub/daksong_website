@@ -954,7 +954,7 @@
            <TR><TD style="TEXT-ALIGN: justify">
              <div class="ExternalClassD44D9F9779FB424380767EC8F35A4E72">
                 <p style="text-align:justify"><span style="font-size:14px"><br /></span></p>
-<div>
+<div id="content-print">
 <p><img alt="" src="/img/NVT01.PNG" /></p>
 
 <p><img alt="" src="/img/NVT02.PNG" /></p>
@@ -1010,17 +1010,17 @@
         <DIV id="part2" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts"><TABLE border="0" cellSpacing="0" cellPadding="0" width="100%"><TBODY><TR><TD class="Other" width="100%"><UL /></TD></TR></TBODY></TABLE><TABLE class="tbtinkhac" border="0" cellSpacing="0" cellPadding="0" width="100%">
 					<TBODY><TR><TD class="OtherTitle"><P class="OtherTitle">TIN ĐÃ ĐƯA  </P></TD></TR></TBODY></TABLE><TABLE border="0" cellSpacing="0" cellPadding="0" width="100%">
 				<TBODY><TR><TD class="Other" width="100%"><UL>
+						 <li><a href="./the-le-cuoc-thi-khoi-nghiep-tinh-dak-nong-lan-i-2019">Thể lệ Cuộc thi Khởi nghiệp tỉnh Đắk Nông lần I năm 2019</a>
+							 <SPAN class="ShowDate">(23/07/2019)</SPAN>
+						 </li>
+						 <li><a href="./de-cuong-tuyen-truyen-90-nam-ngay-thanh-lap-cong-doan-viet-nam-2871929-2872019">Đề cương Tuyên truyền 90 năm Ngày thành lập Công đoàn Việt Nam (28/7/1929 - 28/7/2019)</a>
+							 <SPAN class="ShowDate">(04/07/2019)</SPAN>
+						 </li>
 						 <li><a href="./dc-ve-cong-tac-to-chuc-xay-dung-dang-xay-dung-he-thong-chinh-tri-nam-2019">Đề cương Thông tin, tuyên truyền công tác xây dựng Đảng, Xây dựng hệ thống chính trị năm 2019 </a>
 							 <SPAN class="ShowDate">(28/06/2019)</SPAN>
 						 </li>
 						 <li><a href="./ke-hoach-thong-tin-tuyen-tuyen-26-06-2019">Kế hoạch Thông tin, tuyên tuyền  về công tác tổ chức xây dựng Đảng, Xây dựng hệ thống chính trị năm 2019 trên địa bàn huyện Đắk Song</a>
 							 <SPAN class="ShowDate">(28/06/2019)</SPAN>
-						 </li>
-						 <li><a href="./ky-niem-130-nam-ngay-sinh-cu-nguyen-van-to-truong-ban-ttqh">KỶ NIỆM 130 NĂM NGÀY SINH CỤ NGUYỄN VĂN TỐ - TRƯỞNG BAN THƯỜNG TRỰC QUỐC HỘI (5/6/1889-5/6/2019)</a>
-							 <SPAN class="ShowDate">(06/06/2019)</SPAN>
-						 </li>
-						 <li><a href="./de-cuong-tuyen-truyen-kn-115-ngay-sinh-dong-chi-hoang-dinh-giong-052019">Kỉ niệm 115 năm Ngày sinh đồng chí Hoàng Đình Giong, lãnh đạo  tiền bối tiêu biểu của Đảng và cách mạng Việt Nam (01/6/1904 - 04/62019) </a>
-							 <SPAN class="ShowDate">(30/05/2019)</SPAN>
 						 </li>
 
           </UL></TD></TR></TBODY></TABLE>
@@ -1107,35 +1107,25 @@
 
 <script type="text/javascript">
     function popuponclick() {
-        var content ='&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/img/NVT01.PNG&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/img/NVT02.PNG&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/img/NVT03.PNG&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/img/NVT04.PNG&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/img/NVT05.PNG&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/img/NVT06.PNG&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/img/NVT07.PNG&quot; /&gt;&lt;/p&gt;
-'.replace(/&quot;/g, '"')
-        .replace(/&#39;/g, "'")
-        .replace(/&lt;/g, '<')
-        .replace(/&gt;/g, '>')
-        .replace(/&amp;/g, '&')
+      // console.log('popuponclick()');
+      let getbyid = document.getElementById('content-print');
+      // console.log('getbyid', getbyid);
+      let getbyidhtml = document.getElementById('content-print').innerHTML.replace(/&quot;/g, '"')
+      .replace(/&#39;/g, "'")
+      .replace(/&lt;/g, '<')
+      .replace(/&gt;/g, '>')
+      .replace(/&amp;/g, '&');
+      // console.log('getbyidhtml', getbyidhtml);
+     
       my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
       my_window.document.write('<html><head><title>Print Me</title></head>');
       my_window.document.write('<body onafterprint="self.close()">');
       my_window.document.write('<h1>KỶ NIỆM 130 NĂM NGÀY SINH CỤ NGUYỄN VĂN TỐ - TRƯỞNG BAN THƯỜNG TRỰC QUỐC HỘI (5/6/1889-5/6/2019)</h1>');
       my_window.document.write('<h3></h3>');
-      my_window.document.write(` <p> ${content}</p> `);
+      my_window.document.write(` <p> ${getbyidhtml}</p> `);
       my_window.document.write('</body> </html>');
       my_window.print();
   }
-  </script>
-
 
 </script>
 

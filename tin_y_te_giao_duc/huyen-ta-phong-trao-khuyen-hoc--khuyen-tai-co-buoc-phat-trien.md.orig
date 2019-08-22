@@ -954,7 +954,7 @@
            <TR><TD style="TEXT-ALIGN: justify">
              <div class="ExternalClassD44D9F9779FB424380767EC8F35A4E72">
                 <p style="text-align:justify"><span style="font-size:14px"><br /></span></p>
-<div>
+<div id="content-print">
 Trong những năm qua, phong trào khuyến học- khuyến tài đã được các cấp, các ngành của huyện ta chú trọng, từ đó đã xuất hiện nhiều gia đình hiếu học, dòng họ hiếu học, cộng đồng khuyến học đã góp phần nâng cao chất lượng giáo dục và đào tạo của huyện nhà.
           Theo đó, Hội Khuyến học từ huyện đến cơ sở luôn chủ động phối hợp với các ban ngành, đoàn thể với hội phụ huynh học sinh của các trường triển khai chỉ thị, nghị quyết của Đảng, pháp luật của Nhà nước về công tác khuyến học khuyến tài. Vì vậy, đến nay hội đã vận động quyên góp được trên 109 triệu đồng giúp đỡ cho các em học sinh có hoàn cảnh khó khăn cũng như xây dựng cơ sở vật chất trường học và giúp đỡ thầy cô giáo có hoàn cảnh khó khăn. Bên ạnh đó, phối hợp với gia đình và nhà trường vận động con em đến trường đúng độ tuổi, học sinh bỏ học tiếp tục đến trường. Cùng với phong trào khuyến học- khuyến tài thì phong trào thi đua xây dựng gia đình hiếu học, dòng họ hiếu học cũng được quan tâm đẩy mạnh và xác định là nhiệm vụ trọng tâm. Đến nay, toàn huyện có 552 gia đình hiếu học hoạt động có hiệu quả và góp phần rất lớn vào công tác giáo dục của huyện nhà.
  Có thể nói các hoạt động khuyến học- khuyến tài trên địa bàn huyện ta trong thời gian qua đã góp phần tích cực vào việc chung tay, góp sức, chăm lo đến công việc giáo dục đào tạo, góp phần thực hiện thắng lợi các chủ chương của Đảng và Nhà nước trong việc đẩy mạnh công tác xã hôi hóa giáo dục.
@@ -1096,24 +1096,25 @@ Trong những năm qua, phong trào khuyến học- khuyến tài đã được 
 
 <script type="text/javascript">
     function popuponclick() {
-        var content ='Trong những năm qua, phong trào khuyến học- khuyến tài đã được các cấp, các ngành của huyện ta chú trọng, từ đó đã xuất hiện nhiều gia đình hiếu học, dòng họ hiếu học, cộng đồng khuyến học đã góp phần nâng cao chất lượng giáo dục và đào tạo của huyện nhà.
-          Theo đó, Hội Khuyến học từ huyện đến cơ sở luôn chủ động phối hợp với các ban ngành, đoàn thể với hội phụ huynh học sinh của các trường triển khai chỉ thị, nghị quyết của Đảng, pháp luật của Nhà nước về công tác khuyến học khuyến tài. Vì vậy, đến nay hội đã vận động quyên góp được trên 109 triệu đồng giúp đỡ cho các em học sinh có hoàn cảnh khó khăn cũng như xây dựng cơ sở vật chất trường học và giúp đỡ thầy cô giáo có hoàn cảnh khó khăn. Bên ạnh đó, phối hợp với gia đình và nhà trường vận động con em đến trường đúng độ tuổi, học sinh bỏ học tiếp tục đến trường. Cùng với phong trào khuyến học- khuyến tài thì phong trào thi đua xây dựng gia đình hiếu học, dòng họ hiếu học cũng được quan tâm đẩy mạnh và xác định là nhiệm vụ trọng tâm. Đến nay, toàn huyện có 552 gia đình hiếu học hoạt động có hiệu quả và góp phần rất lớn vào công tác giáo dục của huyện nhà.
- Có thể nói các hoạt động khuyến học- khuyến tài trên địa bàn huyện ta trong thời gian qua đã góp phần tích cực vào việc chung tay, góp sức, chăm lo đến công việc giáo dục đào tạo, góp phần thực hiện thắng lợi các chủ chương của Đảng và Nhà nước trong việc đẩy mạnh công tác xã hôi hóa giáo dục.'.replace(/&quot;/g, '"')
-        .replace(/&#39;/g, "'")
-        .replace(/&lt;/g, '<')
-        .replace(/&gt;/g, '>')
-        .replace(/&amp;/g, '&')
+      // console.log('popuponclick()');
+      let getbyid = document.getElementById('content-print');
+      // console.log('getbyid', getbyid);
+      let getbyidhtml = document.getElementById('content-print').innerHTML.replace(/&quot;/g, '"')
+      .replace(/&#39;/g, "'")
+      .replace(/&lt;/g, '<')
+      .replace(/&gt;/g, '>')
+      .replace(/&amp;/g, '&');
+      // console.log('getbyidhtml', getbyidhtml);
+     
       my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
       my_window.document.write('<html><head><title>Print Me</title></head>');
       my_window.document.write('<body onafterprint="self.close()">');
       my_window.document.write('<h1>Huyện ta phong trào khuyến học- khuyến tài có bước phát triển</h1>');
       my_window.document.write('<h3>Trong những năm qua, phong trào khuyến học- khuyến tài đã được các cấp, các ngành của huyện ta chú trọng, từ đó đã xuất hiện nhiều gia đình hiếu học, dòng họ hiếu học, cộng đồng khuyến học đã góp phần nâng cao chất lượng giáo dục và đào tạo của huyện nhà.</h3>');
-      my_window.document.write(` <p> ${content}</p> `);
+      my_window.document.write(` <p> ${getbyidhtml}</p> `);
       my_window.document.write('</body> </html>');
       my_window.print();
   }
-  </script>
-
 
 </script>
 

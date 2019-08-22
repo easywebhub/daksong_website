@@ -954,7 +954,7 @@
            <TR><TD style="TEXT-ALIGN: justify">
              <div class="ExternalClassD44D9F9779FB424380767EC8F35A4E72">
                 <p style="text-align:justify"><span style="font-size:14px"><br /></span></p>
-<div>
+<div id="content-print">
 <p style="text-align:justify"><span style="background-color:white"><span style="font-size:14.0pt"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Theo số liệu thống k&ecirc; của UBND huyện&nbsp; trong th&aacute;ng 02, c&aacute;c cơ sở y tế tr&ecirc;n địa b&agrave;n huyện đ&atilde; kh&aacute;m, điều trị cho 8.870 lượt bệnh nh&acirc;n. Trong đ&oacute;, Trung t&acirc;m y tế huyện c&oacute; 5.387 lượt bệnh nh&acirc;n, giảm 1.84 lượt so với c&ugrave;ng kỳ th&aacute;ng trước; Trạm Y tế c&aacute;c x&atilde;, thị trấn 3.483 lượt. Với mục ti&ecirc;u n&acirc;ng cao tinh thần, th&aacute;i độ phục vụ nh&acirc;n d&acirc;n v&agrave; n&acirc;ng cao chất lượng phục vụ y tế, hiện nay Trung t&acirc;m y tế huyện đ&atilde; triển khai đồng bộ nhiều giải ph&aacute;p, như: Thực hiện cải c&aacute;ch h&agrave;nh ch&iacute;nh, giảm thiểu những thủ tục g&acirc;y phiền h&agrave; cho người bệnh; Thực hiện tốt quy tắc ứng xử của đội ngũ c&aacute;n bộ y tế đối với bệnh nh&acirc;n v&agrave; người nh&agrave; bệnh nh&acirc;n, x&acirc;y dựng văn h&oacute;a bệnh viện.</span></span></span></p>
 
 <p style="text-align:right"><span style="background-color:white"><span style="font-size:14.0pt"><span style="color:black">Kim Ng&acirc;n</span></span></span></p>
@@ -1097,25 +1097,25 @@
 
 <script type="text/javascript">
     function popuponclick() {
-        var content ='&lt;p style=&quot;text-align:justify&quot;&gt;&lt;span style=&quot;background-color:white&quot;&gt;&lt;span style=&quot;font-size:14.0pt&quot;&gt;&lt;span style=&quot;color:black&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Theo số liệu thống k&amp;ecirc; của UBND huyện&amp;nbsp; trong th&amp;aacute;ng 02, c&amp;aacute;c cơ sở y tế tr&amp;ecirc;n địa b&amp;agrave;n huyện đ&amp;atilde; kh&amp;aacute;m, điều trị cho 8.870 lượt bệnh nh&amp;acirc;n. Trong đ&amp;oacute;, Trung t&amp;acirc;m y tế huyện c&amp;oacute; 5.387 lượt bệnh nh&amp;acirc;n, giảm 1.84 lượt so với c&amp;ugrave;ng kỳ th&amp;aacute;ng trước; Trạm Y tế c&amp;aacute;c x&amp;atilde;, thị trấn 3.483 lượt. Với mục ti&amp;ecirc;u n&amp;acirc;ng cao tinh thần, th&amp;aacute;i độ phục vụ nh&amp;acirc;n d&amp;acirc;n v&amp;agrave; n&amp;acirc;ng cao chất lượng phục vụ y tế, hiện nay Trung t&amp;acirc;m y tế huyện đ&amp;atilde; triển khai đồng bộ nhiều giải ph&amp;aacute;p, như: Thực hiện cải c&amp;aacute;ch h&amp;agrave;nh ch&amp;iacute;nh, giảm thiểu những thủ tục g&amp;acirc;y phiền h&amp;agrave; cho người bệnh; Thực hiện tốt quy tắc ứng xử của đội ngũ c&amp;aacute;n bộ y tế đối với bệnh nh&amp;acirc;n v&amp;agrave; người nh&amp;agrave; bệnh nh&amp;acirc;n, x&amp;acirc;y dựng văn h&amp;oacute;a bệnh viện.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p style=&quot;text-align:right&quot;&gt;&lt;span style=&quot;background-color:white&quot;&gt;&lt;span style=&quot;font-size:14.0pt&quot;&gt;&lt;span style=&quot;color:black&quot;&gt;Kim Ng&amp;acirc;n&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-'.replace(/&quot;/g, '"')
-        .replace(/&#39;/g, "'")
-        .replace(/&lt;/g, '<')
-        .replace(/&gt;/g, '>')
-        .replace(/&amp;/g, '&')
+      // console.log('popuponclick()');
+      let getbyid = document.getElementById('content-print');
+      // console.log('getbyid', getbyid);
+      let getbyidhtml = document.getElementById('content-print').innerHTML.replace(/&quot;/g, '"')
+      .replace(/&#39;/g, "'")
+      .replace(/&lt;/g, '<')
+      .replace(/&gt;/g, '>')
+      .replace(/&amp;/g, '&');
+      // console.log('getbyidhtml', getbyidhtml);
+     
       my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
       my_window.document.write('<html><head><title>Print Me</title></head>');
       my_window.document.write('<body onafterprint="self.close()">');
       my_window.document.write('<h1>Tháng 02 năm 2019 , Huyện Đắk Song tổ chức khám cho 8.870 lượt bệnh nhân</h1>');
       my_window.document.write('<h3></h3>');
-      my_window.document.write(` <p> ${content}</p> `);
+      my_window.document.write(` <p> ${getbyidhtml}</p> `);
       my_window.document.write('</body> </html>');
       my_window.print();
   }
-  </script>
-
 
 </script>
 

@@ -954,7 +954,7 @@
            <TR><TD style="TEXT-ALIGN: justify">
              <div class="ExternalClassD44D9F9779FB424380767EC8F35A4E72">
                 <p style="text-align:justify"><span style="font-size:14px"><br /></span></p>
-<div>
+<div id="content-print">
 <p><img alt="" src="/img/55-UBND-TTr(CD)signed_201905160300458980-01.PNG" /></p>
 
 </div></div></TD></TR><TR><TD /></TR></TBODY></TABLE><BR />
@@ -998,6 +998,9 @@
         <DIV id="part2" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts"><TABLE border="0" cellSpacing="0" cellPadding="0" width="100%"><TBODY><TR><TD class="Other" width="100%"><UL /></TD></TR></TBODY></TABLE><TABLE class="tbtinkhac" border="0" cellSpacing="0" cellPadding="0" width="100%">
 					<TBODY><TR><TD class="OtherTitle"><P class="OtherTitle">TIN ĐÃ ĐƯA  </P></TD></TR></TBODY></TABLE><TABLE border="0" cellSpacing="0" cellPadding="0" width="100%">
 				<TBODY><TR><TD class="Other" width="100%"><UL>
+						 <li><a href="./tra-loi-don-cua-ba-nta-dao-td3-tt-duc-an-06-2019">Trả lời đơn của công dân (bà) Nguyễn Thị Anh Đào, trú TDP 3, thị trấn Đức An, huyện Đắk Song, tỉnh Đắk Nông</a>
+							 <SPAN class="ShowDate">(17/06/2019)</SPAN>
+						 </li>
 						 <li><a href="./tb-khong-thu-ly-giai-quyet-khieu-nai-ba-tran-thi-binh-dak-mil">Thông báo Về việc không thụ lý giải quyết khiếu nại của bà Trần Thị Bình, địa chi: số nhà 90, TT Đắk Mil, huyện Đắk Mil, tỉnh Đắk Nông</a>
 							 <SPAN class="ShowDate">(13/06/2019)</SPAN>
 						 </li>
@@ -1006,9 +1009,6 @@
 						 </li>
 						 <li><a href="./tra-loi-noi-dung-don-cua-cong-dan-nguyen-thi-kim-huong-xa-dak-mol-huyen-dak-song-tinh-dak-nong">Trả lời nội dung đơn của công dân (Nguyễn Thị Kim Hương) xã Đắk Mol, huyện Đắk Song, tỉnh Đắk Nông</a>
 							 <SPAN class="ShowDate">(04/06/2019)</SPAN>
-						 </li>
-						 <li><a href="./tra-loi-don-cua-cong-dan-nguyen-thi-hao-xa-nam-njang">Trả lời đơn của công dân ( Nguyễn Thị Hảo ) xã Nâm NJang, huyện Đắk Song, tỉnh Đắk Nông</a>
-							 <SPAN class="ShowDate">(29/05/2019)</SPAN>
 						 </li>
 
           </UL></TD></TR></TBODY></TABLE>
@@ -1095,23 +1095,25 @@
 
 <script type="text/javascript">
     function popuponclick() {
-        var content ='&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/img/55-UBND-TTr(CD)signed_201905160300458980-01.PNG&quot; /&gt;&lt;/p&gt;
-'.replace(/&quot;/g, '"')
-        .replace(/&#39;/g, "'")
-        .replace(/&lt;/g, '<')
-        .replace(/&gt;/g, '>')
-        .replace(/&amp;/g, '&')
+      // console.log('popuponclick()');
+      let getbyid = document.getElementById('content-print');
+      // console.log('getbyid', getbyid);
+      let getbyidhtml = document.getElementById('content-print').innerHTML.replace(/&quot;/g, '"')
+      .replace(/&#39;/g, "'")
+      .replace(/&lt;/g, '<')
+      .replace(/&gt;/g, '>')
+      .replace(/&amp;/g, '&');
+      // console.log('getbyidhtml', getbyidhtml);
+     
       my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
       my_window.document.write('<html><head><title>Print Me</title></head>');
       my_window.document.write('<body onafterprint="self.close()">');
       my_window.document.write('<h1>Trả lời đơn của công dân (Trần Đức Tân) trú xã Trường Xuân, huyện Đắk Song, tỉnh Đắk Nông</h1>');
       my_window.document.write('<h3></h3>');
-      my_window.document.write(` <p> ${content}</p> `);
+      my_window.document.write(` <p> ${getbyidhtml}</p> `);
       my_window.document.write('</body> </html>');
       my_window.print();
   }
-  </script>
-
 
 </script>
 

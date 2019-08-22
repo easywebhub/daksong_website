@@ -954,7 +954,7 @@
            <TR><TD style="TEXT-ALIGN: justify">
              <div class="ExternalClassD44D9F9779FB424380767EC8F35A4E72">
                 <p style="text-align:justify"><span style="font-size:14px"><br /></span></p>
-<div>
+<div id="content-print">
 <p><img alt="" src="/img/71-TB-UBND_20190613082308123120-01.PNG" /></p>
 
 </div></div></TD></TR><TR><TD /></TR></TBODY></TABLE><BR />
@@ -998,6 +998,9 @@
         <DIV id="part2" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema" xmlns:cs="urn:my-scripts"><TABLE border="0" cellSpacing="0" cellPadding="0" width="100%"><TBODY><TR><TD class="Other" width="100%"><UL /></TD></TR></TBODY></TABLE><TABLE class="tbtinkhac" border="0" cellSpacing="0" cellPadding="0" width="100%">
 					<TBODY><TR><TD class="OtherTitle"><P class="OtherTitle">TIN ĐÃ ĐƯA  </P></TD></TR></TBODY></TABLE><TABLE border="0" cellSpacing="0" cellPadding="0" width="100%">
 				<TBODY><TR><TD class="Other" width="100%"><UL>
+						 <li><a href="./tb-88-ngay-15-07-2019">Kết luận Về việc giải quyết kiến nghị của 13 hộ dân, trú tại thôn Boong Ring, xã Nâm N&#x27;Jang, huyện Đắk Song tại buổi tiếp công dân ngày 10/07/2019</a>
+							 <SPAN class="ShowDate">(15/07/2019)</SPAN>
+						 </li>
 						 <li><a href="./tb-ket-luan-cua-dc-nvp-ve-kien-nghi-cua-ong-pham-van-ngo-ngay-10062019">Kết luận của đồng chí Nguyễn Văn Phò - Phó Chủ tịch UBND huyện Đắk Song về việc giải quyết kiến nghị của ông Phạm Văn Ngọ tại buổi tiếp công dân ngày 10/06/2019</a>
 							 <SPAN class="ShowDate">(13/06/2019)</SPAN>
 						 </li>
@@ -1086,23 +1089,25 @@
 
 <script type="text/javascript">
     function popuponclick() {
-        var content ='&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/img/71-TB-UBND_20190613082308123120-01.PNG&quot; /&gt;&lt;/p&gt;
-'.replace(/&quot;/g, '"')
-        .replace(/&#39;/g, "'")
-        .replace(/&lt;/g, '<')
-        .replace(/&gt;/g, '>')
-        .replace(/&amp;/g, '&')
+      // console.log('popuponclick()');
+      let getbyid = document.getElementById('content-print');
+      // console.log('getbyid', getbyid);
+      let getbyidhtml = document.getElementById('content-print').innerHTML.replace(/&quot;/g, '"')
+      .replace(/&#39;/g, "'")
+      .replace(/&lt;/g, '<')
+      .replace(/&gt;/g, '>')
+      .replace(/&amp;/g, '&');
+      // console.log('getbyidhtml', getbyidhtml);
+     
       my_window = window.open('', 'mywindow', 'status=1,width=800,height=600');
       my_window.document.write('<html><head><title>Print Me</title></head>');
       my_window.document.write('<body onafterprint="self.close()">');
       my_window.document.write('<h1>Kết luận của đồng chí Nguyễn Văn Phò - Phó Chủ tịch UBND huyện Đắk Song về việc giải quyết kiến nghị của ông Phạm Văn Ngọ tại buổi tiếp công dân ngày 10/06/2019</h1>');
       my_window.document.write('<h3></h3>');
-      my_window.document.write(` <p> ${content}</p> `);
+      my_window.document.write(` <p> ${getbyidhtml}</p> `);
       my_window.document.write('</body> </html>');
       my_window.print();
   }
-  </script>
-
 
 </script>
 

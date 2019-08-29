@@ -75,6 +75,18 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "tiep-buoc-niem-tin-va-suc-manh-cua-cach-mang-thang-tam",
+            "title": "Tiếp bước niềm tin và sức mạnh của Cách mạng tháng Tám",
+            "description": "",
+            "banner": "/img/T802.PNG"
+        },
+        {
+            "slug": "huyen-dak-song-to-chuc-giai-bong-chuyen-nu-va-giai-quan-vot",
+            "title": "Chào mừng Kỷ niệm Ngày giải phóng Miền Nam, thống nhất đất nước (30/4/1975 – 30/4/2019) và Ngày Quốc tế lao động (1/5/1886 – 1/5/2019)",
+            "description": "Huyện Đak Song tổ chức giải bóng chuyền nữ và giải quần vợt  chào mừng Kỷ niệm 44 năm Ngày giải phóng Miền Nam, thống nhất đất nước (30/4/1975 – 30/4/2019) và 133 năm Ngày Quốc tế lao động (1/5/1886 – 1/5/2019)",
+            "banner": "/img/304_03 - Copy.PNG"
+        },
+        {
             "slug": "thong-bao-moi-thau-ban-chuyen-doi-cho-huyen",
             "title": "Thông báo Mời thầu Đầu tư xây dựng, quản lý, kinh doanh, khai thác chợ trung tâm huyện Đắk Song",
             "description": "",
@@ -91,18 +103,6 @@
             "title": "Thông báo Danh sách giáo viên đủ điều kiện dự xét thăng hạng Chức danh nghề nghiệp (CDNN) huyện Đắk Song năm 2019",
             "description": "",
             "banner": "/img/tb1313165498498.jpg"
-        },
-        {
-            "slug": "trong-cay-nho-on-bac-ho-nam-2019",
-            "title": "UBND HUYỆN ĐAK SONG TỔ CHỨC LỄ PHÁT ĐỘNG TẾT TRỒNG CÂY ĐỜI ĐỜI NHỚ ƠN BÁC HỒ ",
-            "description": "",
-            "banner": "/img/trongcay2019_02 - Copy.PNG"
-        },
-        {
-            "slug": "huyen-dak-song-to-chuc-giai-bong-chuyen-nu-va-giai-quan-vot",
-            "title": "Chào mừng Kỷ niệm Ngày giải phóng Miền Nam, thống nhất đất nước (30/4/1975 – 30/4/2019) và Ngày Quốc tế lao động (1/5/1886 – 1/5/2019)",
-            "description": "Huyện Đak Song tổ chức giải bóng chuyền nữ và giải quần vợt  chào mừng Kỷ niệm 44 năm Ngày giải phóng Miền Nam, thống nhất đất nước (30/4/1975 – 30/4/2019) và 133 năm Ngày Quốc tế lao động (1/5/1886 – 1/5/2019)",
-            "banner": "/img/304_03 - Copy.PNG"
         }
     ],
     "tag": [],

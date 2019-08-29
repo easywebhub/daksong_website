@@ -81,10 +81,10 @@
             "banner": "/img/T802.PNG"
         },
         {
-            "slug": "huyen-dak-song-to-chuc-giai-bong-chuyen-nu-va-giai-quan-vot",
-            "title": "Chào mừng Kỷ niệm Ngày giải phóng Miền Nam, thống nhất đất nước (30/4/1975 – 30/4/2019) và Ngày Quốc tế lao động (1/5/1886 – 1/5/2019)",
-            "description": "Huyện Đak Song tổ chức giải bóng chuyền nữ và giải quần vợt  chào mừng Kỷ niệm 44 năm Ngày giải phóng Miền Nam, thống nhất đất nước (30/4/1975 – 30/4/2019) và 133 năm Ngày Quốc tế lao động (1/5/1886 – 1/5/2019)",
-            "banner": "/img/304_03 - Copy.PNG"
+            "slug": "tb-243-hat-kiem-lam",
+            "title": "Thông báo Về việc lựa chọn tổ chức đấu giá tài sản",
+            "description": "",
+            "banner": "/img/thong-bao-new.jpg"
         },
         {
             "slug": "thong-bao-moi-thau-ban-chuyen-doi-cho-huyen",

@@ -74,5 +74,11 @@
             "duong_dan": "/dong-gop-y-kien"
         }
     ],
-    "danh_sach_banner_nho": []
+    "danh_sach_banner_nho": [
+	 {
+            "hinh_anh": "/banner/banner-ky-niem-74-nam.jpg",
+            "duong_dan": "/"
+     }
+	 
+	]
 }

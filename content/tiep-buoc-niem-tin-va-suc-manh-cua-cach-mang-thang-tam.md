@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-08-21T00:00:00.000Z",
+    "date": "2019-08-21T00:05:00.000Z",
     "draft": false,
     "upload-image": "/img/T802.PNG",
     "description": "",
@@ -95,3 +95,7 @@
 <p><em>(3) - To&agrave;n văn Di ch&uacute;c của Chủ tịch Hồ Ch&iacute; Minh, NXB Trẻ, năm 2007 tr. 60.</em></p>
 
 <p><em>Xem th&ecirc;m: http://www.hdll.vn (Trang th&ocirc;ng tin điện tử Hội đồng L&yacute; luận Trung ương): Tọa đ&agrave;m KH &quot;Tổng kết một số vấn đề l&yacute; luận, thực tiễn qua 30 năm thực hiện Cương lĩnh x&acirc;y dựng đất nước trong TKQĐ l&ecirc;n CNXH, trọng t&acirc;m l&agrave; 10 năm thực hiện Cương lĩnh 2011&quot;, Cập nhật ng&agrave;y 11/10/2018.</em></p>
+
+<p>&nbsp;</p>
+
+<p><em>Theo Đắk N&ocirc;ng online</em></p>

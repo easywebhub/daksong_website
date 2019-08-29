@@ -9,7 +9,7 @@
     "draft": false,
     "upload-image": "/img/T802.PNG",
     "description": "",
-    "banner": "",
+    "banner": "/img/T802.PNG",
     "__content__": ""
 }
 ---

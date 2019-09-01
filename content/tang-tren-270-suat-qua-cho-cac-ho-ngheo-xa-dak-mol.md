@@ -4,7 +4,7 @@
     "title": "Tặng trên 270 suất quả cho các hộ nghèo xã Đak Mol",
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],
-    "layout": "post.html",
+    "layout": "404.html",
     "date": "2019-01-14T08:25:00.000Z",
     "draft": false,
     "upload-image": "/img/dakmol03.png",

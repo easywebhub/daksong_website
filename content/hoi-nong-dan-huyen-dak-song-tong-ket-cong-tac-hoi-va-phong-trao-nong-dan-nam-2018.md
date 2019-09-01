@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-01-14T09:12:00.000Z",
+    "date": "2019-01-14T09:17:00.000Z",
     "draft": false,
     "upload-image": "/img/ND03.png",
     "description": "",
@@ -29,7 +29,7 @@
 
 <p style="text-align:justify"><img alt="" src="/img/ND02.png" /></p>
 
-<p style="text-align:justify"><strong><em><span style="font-size:14.0pt"><span style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Đồng ch&iacute; Đo&agrave;n Văn Sự - Ph&oacute; B&iacute; thư Thường trực Huyện ủy ph&aacute;t biểu chỉ đạo</span></span></em></strong></p>
+<p><strong><em><span style="font-size:14.0pt"><span style="color:black">Đồng ch&iacute; Đo&agrave;n Văn Sự - Ph&oacute; B&iacute; thư Thường trực Huyện ủy ph&aacute;t biểu chỉ đạo</span></span></em></strong></p>
 
 <p style="text-align:justify"><span style="font-size:14.0pt"><span style="color:black">Đến dự v&agrave; ph&aacute;t biểu tại hội nghị, Đồng ch&iacute; Đo&agrave;n Văn Sự &ndash; Ph&oacute; B&iacute; thư huyện ủy, ghi nhận những kết quả Hội n&ocirc;ng d&acirc;n huyện đạt được. Đồng thời, đề nghị hội N&ocirc;ng d&acirc;n huyện r&agrave; so&aacute;t xem x&atilde; n&agrave;o chưa được bố tr&iacute; quỹ hỗ trợ n&ocirc;ng d&acirc;n th&igrave; lập danh s&aacute;ch đề nghị UBND huyện; tỷ lệ n&ocirc;ng d&acirc;n tham gia BHYT c&ograve;n thấp; Cần n&acirc;ng cao chất lượng hoạt động của chi h&ocirc;i, tổ hội v&agrave; cơ sở hội tr&ecirc;n địa b&agrave;n huyện.</span></span></p>
 

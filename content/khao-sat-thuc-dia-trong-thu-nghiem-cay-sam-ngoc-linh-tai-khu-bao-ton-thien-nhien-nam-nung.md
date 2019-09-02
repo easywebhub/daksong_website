@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-01-01T07:33:00.000Z",
+    "date": "2019-01-01T07:38:00.000Z",
     "draft": false,
     "upload-image": "/img/tải xuống.png",
     "description": "",
@@ -17,7 +17,7 @@
 
 <p style="text-align:justify"><img alt="" src="/img/tải xuống.png" /></p>
 
-<p><span style="background-color:white"><strong><span style="font-size:14.0pt"><span style="color:black">Đo&agrave;n khảo s&aacute;t do đ/c nguyễn hữu kh&aacute;nh &ndash; chủ tịch hđnd huyện v&agrave; đ/c l&ecirc; viết sinh &ndash; ph&oacute; chủ tịch UBND huyện, đang đi l&ecirc;n đỉnh n&acirc;m nung</span></span></strong></span></p>
+<p><span style="background-color:white"><strong><span style="font-size:14.0pt"><span style="color:black">Đo&agrave;n khảo s&aacute;t do đ/c Nguyễn Hữu Kh&aacute;nh &ndash; Chủ tịch HĐND&nbsp;huyện v&agrave; Đ/c L&ecirc; Viết Sinh &ndash; Ph&oacute; Chủ tịch UBND huyện, đang đi l&ecirc;n đỉnh n&acirc;m nung</span></span></strong></span></p>
 
 <p style="text-align:justify"><span style="font-size:14.0pt"><span style="color:black">S&acirc;m Ngọc Linh c&ograve;n gọi l&agrave; s&acirc;m Việt Nam, s&acirc;m Khu Năm, s&acirc;m tr&uacute;c Trong tự nhi&ecirc;n, lo&agrave;i s&acirc;m n&agrave;y ph&acirc;n bổ hẹp, l&agrave; lo&agrave;i đặc hữu của hai tỉnh Kon Tum v&agrave; Quảng Nam, c&oacute; gi&aacute; trị dược liệu kh&aacute; cao khi chứa đến 52 hợp chất saponin, gi&aacute; trị h&agrave;ng h&oacute;a từ 60-100 triệu đồng/kg củ tươi. Qua khảo s&aacute;t bước đầu của đo&agrave;n th&igrave; Khu bảo tồn nhi&ecirc;n nhi&ecirc;n N&acirc;m Nung c&oacute; nhiều khu vực mang n&eacute;t tương đồng với v&ugrave;ng n&uacute;i Ngọc Linh &ndash; nơi c&acirc;y s&acirc;m Ngọc Linh sinh trưởng l&yacute; tưởng, với độ cao từ 1.300-1.600m, nhiệt độ th&iacute;ch hợp dao động từ 14-18 độ C; lượng mưa quanh năm kh&aacute; dồi d&agrave;o. </span></span></p>
 

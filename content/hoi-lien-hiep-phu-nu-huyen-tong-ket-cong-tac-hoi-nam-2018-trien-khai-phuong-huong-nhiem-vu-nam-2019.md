@@ -5,10 +5,10 @@
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-01-17T01:17:00.000Z",
+    "date": "2019-01-17T01:22:00.000Z",
     "draft": false,
     "upload-image": "/img/HLHPN04.png",
-    "description": "Hội Liên hiệp phụ nữ huyện tổng kết công tác hội năm 2018, triển khai phương hướng, nhiệm vụ năm 2019.",
+    "description": "",
     "banner": "/img/HLHPN04 - Copy.png",
     "__content__": ""
 }

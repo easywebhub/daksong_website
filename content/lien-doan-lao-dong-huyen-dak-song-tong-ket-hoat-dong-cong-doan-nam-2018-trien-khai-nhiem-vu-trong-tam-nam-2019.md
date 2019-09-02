@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-01-17T07:00:00.000Z",
+    "date": "2019-01-17T07:05:00.000Z",
     "draft": false,
     "upload-image": "/img/IMG-4392.JPG",
     "description": "",
@@ -13,9 +13,9 @@
     "__content__": ""
 }
 ---
-<p style="margin-right:-.5in; text-align:center"><strong><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">Li&ecirc;n đo&agrave;n Lao động huyện Đắk Song tổng kết hoạt động c&ocirc;ng đo&agrave;n năm 2018, triển khai nhiệm vụ trọng t&acirc;m năm 2019.</span></span></span></strong></p>
+<p style="margin-right:-.5in; text-align:center">&nbsp;</p>
 
-<p style="text-align:justify"><span style="background-color:white"><span style="font-size:14.0pt"><span style="color:black">&nbsp;Li&ecirc;n đo&agrave;n Lao động huyện vừa &nbsp;tổ chức hội nghị tổng kết c&ocirc;ng t&aacute;c C&ocirc;ng đo&agrave;n năm 2018, triển khai chương tr&igrave;nh c&ocirc;ng t&aacute;c c&ocirc;ng đo&agrave;n 2019. Về dự v&agrave; ph&aacute;t biểu chỉ đạo tại hội nghị c&oacute; Đ/c Đo&agrave;n Văn Sự -Ph&oacute; B&iacute; Thư huyện ủy.</span></span></span></p>
+<p style="text-align:justify"><span style="background-color:white"><span style="font-size:14.0pt"><span style="color:black">Li&ecirc;n đo&agrave;n Lao động huyện vừa &nbsp;tổ chức hội nghị tổng kết c&ocirc;ng t&aacute;c C&ocirc;ng đo&agrave;n năm 2018, triển khai chương tr&igrave;nh c&ocirc;ng t&aacute;c c&ocirc;ng đo&agrave;n 2019. Về dự v&agrave; ph&aacute;t biểu chỉ đạo tại hội nghị c&oacute; Đ/c Đo&agrave;n Văn Sự -Ph&oacute; B&iacute; Thư huyện ủy.</span></span></span></p>
 
 <p style="text-align:justify"><img alt="" src="/img/IMG-4389.JPG" /></p>
 

@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-y-te-giao-duc",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-03-08T07:10:00.000Z",
+    "date": "2019-03-08T07:15:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "",
@@ -13,7 +13,7 @@
     "__content__": ""
 }
 ---
-<p style="margin-left:-0.25in; margin-right:9pt"><strong><em><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:#292e31">&nbsp; &nbsp; &nbsp; &nbsp; Chiều ng&agrave;y 5/3, Ban Chỉ đạo Vận động hiến m&aacute;u t&igrave;nh nguyện huyện Đắk Song đ&atilde; họp triển khai&nbsp; kế hoạch tuy&ecirc;n truyền vận động hiến m&aacute;u t&igrave;nh nguyện v&agrave; tổ chức tiếp nhận&nbsp; m&aacute;u năm 2019</span></span></span></em></strong><strong><em><span style="font-size:14.0pt">. <span style="background-color:white"><span style="color:#292e31">Đồng ch&iacute; Nguyễn Ngọc Th&acirc;n - Ph&oacute; Chủ tịch UBND huyện, Trưởng Ban Chỉ đạo Vận động hiến m&aacute;u t&igrave;nh nguyện huyện chủ tr&igrave; cuộc họp.</span></span></span></em></strong></p>
+<p style="margin-left:-0.25in; margin-right:9pt"><strong><em><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:#292e31">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Chiều ng&agrave;y 5/3, Ban Chỉ đạo Vận động hiến m&aacute;u t&igrave;nh nguyện huyện Đắk Song đ&atilde; họp triển khai&nbsp; kế &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;hoạch tuy&ecirc;n truyền vận động hiến m&aacute;u t&igrave;nh nguyện v&agrave; tổ chức tiếp nhận&nbsp; m&aacute;u năm 2019</span></span></span></em></strong><strong><em><span style="font-size:14.0pt">. <span style="background-color:white"><span style="color:#292e31">Đồng ch&iacute; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Nguyễn Ngọc Th&acirc;n - Ph&oacute; Chủ tịch UBND huyện, Trưởng Ban Chỉ đạo Vận động hiến m&aacute;u t&igrave;nh nguyện &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;huyện chủ tr&igrave; cuộc họp.</span></span></span></em></strong></p>
 
 <p style="margin-right:9pt">&nbsp;</p>
 

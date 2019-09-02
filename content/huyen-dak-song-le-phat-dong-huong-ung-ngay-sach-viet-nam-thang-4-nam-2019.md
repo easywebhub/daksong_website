@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-y-te-giao-duc",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-04-19T01:30:00.000Z",
+    "date": "2019-04-19T01:00:00.000Z",
     "draft": false,
     "upload-image": "/img/nhasach02.png",
     "description": "",
@@ -13,8 +13,6 @@
     "__content__": ""
 }
 ---
-<p><strong><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">Huyện Đăk Song Lễ ph&aacute;t động hưởng ứng ng&agrave;y s&aacute;ch Việt Nam th&aacute;ng 4 năm 2019</span></span></span></strong></p>
-
 <p><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">S&aacute;ng 18/4, tại Nh&agrave; Văn h&oacute;a huyện, UBND huyện tổ chức Lễ khai mạc Hưởng ứng Ng&agrave;y s&aacute;ch Việt Nam th&aacute;ng 4 năm 2019.<strong> </strong> </span></span></span></p>
 
 <p><img alt="" src="/img/nhasach01.png" /></p>

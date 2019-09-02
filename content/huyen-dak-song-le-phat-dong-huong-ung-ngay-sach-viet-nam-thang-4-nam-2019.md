@@ -5,6 +5,7 @@
     "category": "tin-tuc-su-kien.tin-y-te-giao-duc",
     "tag": [],
     "layout": "post.html",
+    "date": "2019-04-19T01:05:00.000Z",
     "draft": false,
     "upload-image": "/img/nhasach02.png",
     "description": "",

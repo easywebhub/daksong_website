@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-01-01T07:43:00.000Z",
+    "date": "2019-01-01T07:50:00.000Z",
     "draft": false,
     "upload-image": "/img/tải xuống.png",
     "description": "",
@@ -13,7 +13,7 @@
     "__content__": ""
 }
 ---
-<h1 style="margin-left:0in; margin-right:0in; text-align:justify"><span style="background-color:white"><span style="font-size:14.0pt"><span style="color:black">Vừa qua, đo&agrave;n li&ecirc;n ng&agrave;nh của huyện do đồng ch&iacute; Nguyễn Hữu Kh&aacute;nh &ndash; chủ tịch HĐND huyện, v&agrave; đồng ch&iacute; L&ecirc; Viết Sinh &ndash; ph&oacute; chủ tịch UBND huyện l&agrave;m trưởng đo&agrave;n, phối hợp với khu bảo tồn thi&ecirc;n nhi&ecirc;n N&acirc;m Nung đ&atilde; c&oacute; chuyến khảo s&aacute;t, kiểm tra thực địa trồng thử nghiệm c&acirc;y s&acirc;m Ngọc Linh, trong khu bảo tồn thi&ecirc;n nhi&ecirc;n N&acirc;m Nung.</span></span></span></h1>
+<h1 style="margin-left:0in; margin-right:0in; text-align:justify"><span style="background-color:white"><span style="font-size:14.0pt"><span style="color:black">Vừa qua, đo&agrave;n li&ecirc;n ng&agrave;nh của huyện do đồng ch&iacute; Nguyễn Hữu Kh&aacute;nh &ndash; Chủ tịch HĐND huyện, v&agrave; Đồng ch&iacute; L&ecirc; Viết Sinh &ndash; Ph&oacute; chủ tịch UBND huyện l&agrave;m trưởng đo&agrave;n, phối hợp với khu bảo tồn thi&ecirc;n nhi&ecirc;n N&acirc;m Nung đ&atilde; c&oacute; chuyến khảo s&aacute;t, kiểm tra thực địa trồng thử nghiệm c&acirc;y s&acirc;m Ngọc Linh, trong khu bảo tồn thi&ecirc;n nhi&ecirc;n N&acirc;m Nung.</span></span></span></h1>
 
 <p style="text-align:justify"><img alt="" src="/img/tải xuống.png" /></p>
 

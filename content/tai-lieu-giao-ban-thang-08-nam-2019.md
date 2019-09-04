@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Tài liệu giao ban tháng 08 năm 2019",
     "description": "",
-    "date": "2019-09-04T07:00:00.000Z",
+    "date": "2019-09-04T07:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

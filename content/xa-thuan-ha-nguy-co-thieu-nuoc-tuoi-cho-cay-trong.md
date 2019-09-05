@@ -5,9 +5,9 @@
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-02-28T01:42:00.000Z",
+    "date": "2019-02-28T01:47:00.000Z",
     "draft": false,
-    "upload-image": "",
+    "upload-image": "/img/d893e44aa78a40d4199b.jpg",
     "description": "",
     "banner": "/img/b1 001 - Copy.png",
     "__content__": ""
@@ -17,7 +17,7 @@
 
 <p style="text-align:justify"><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </em><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:#333333">Gia đ&igrave;nh chị Đỗ Thị Th&ugrave;y Mến th&ocirc;n 3 x&atilde; Thuận H&agrave; c&oacute; 5 s&agrave;o c&agrave; chua đang ra hoa kết quả, v&agrave; 3 s&agrave;o bắp s&uacute; đang chuẩn bị cuộn. Theo chị, mọi năm v&agrave;o thời điểm n&agrave;y kh&ocirc;ng phải lo lắng về nước tưới nhưng năm nay đ&atilde; r&uacute;t s&acirc;u gần 10 m rồi, sợ t&igrave;nh trạng nắng n&oacute;ng k&eacute;o d&agrave;i th&igrave; c&acirc;y trồng sẽ thiếu nước nghi&ecirc;m trọng .</span></span></span></p>
 
-<p style="text-align:justify"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:#333333"><img src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image002.jpg" style="height:389px; width:720px" /></span></span></span></p>
+<p style="text-align:justify"><img alt="" src="/img/baa1e8a65f66b838e177.jpg" /></p>
 
 <p style="text-align:center"><em><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:#333333">Người d&acirc;n nối th&ecirc;m ống để lấy nước</span></span></span></em></p>
 
@@ -25,7 +25,7 @@
 
 <p style="text-align:justify"><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </em><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:#333333">C&ugrave;ng ho&agrave;n cảnh lo thiếu nước tưới Anh Trần Minh Khoa &ndash; Th&ocirc;n 2, x&atilde; Thuận H&agrave; cho biết:<em> Hiện tại ở khu vực n&agrave;y nếu nắng hạn k&eacute;o d&agrave;i th&igrave; sẽ thiếu nước, những hộ dưới ch&acirc;n s&igrave;nh sẽ chống chọi&nbsp; được th&ecirc;m thời gian nữa, nhưng cũng sẽ ảnh hưởng tới c&acirc;y trồng, c&acirc;y c&agrave; ph&ecirc; đang thời kỳ &eacute;p hoa m&agrave; kh&ocirc;ng c&oacute; nước tưới th&igrave; đ&aacute;ng lo ngại.</em></span></span></span></p>
 
-<p style="text-align:justify"><img src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image004.jpg" style="height:527px; width:524px" /></p>
+<p style="text-align:justify"><img alt="" src="/img/d893e44aa78a40d4199b.jpg" /></p>
 
 <p style="text-align:justify"><strong><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;K&ecirc;nh chứa nước trơ đ&aacute;y tại th&ocirc;n 2 x&atilde; Thuận H&agrave;</em></strong></p>
 

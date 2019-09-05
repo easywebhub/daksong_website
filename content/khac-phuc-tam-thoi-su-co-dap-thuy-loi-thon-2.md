@@ -5,11 +5,11 @@
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-09-03T00:05:00.000Z",
+    "date": "2019-09-03T00:10:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "",
-    "banner": "",
+    "banner": "/img/khacphucdaptx.png",
     "__content__": ""
 }
 ---

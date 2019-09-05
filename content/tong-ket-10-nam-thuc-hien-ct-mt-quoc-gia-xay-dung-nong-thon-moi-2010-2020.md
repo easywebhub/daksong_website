@@ -1,11 +1,11 @@
 ---json
 {
     "slug": "tong-ket-10-nam-thuc-hien-ct-mt-quoc-gia-xay-dung-nong-thon-moi-2010-2020",
-    "title": "tổng kết 10 năm thực hiện CT MT quốc gia xây dựng nông thôn mới 2010 2020",
+    "title": "UBND huyện tổng kết 10 năm thực hiện chương trình mục tiêu quốc gia xây dựng nông thôn mới giai đoạn 2010- 2020.",
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-09-05T07:16:00.000Z",
+    "date": "2019-09-05T07:21:00.000Z",
     "draft": false,
     "upload-image": "/img/MTQG02.PNG",
     "description": "",

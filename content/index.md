@@ -75,12 +75,6 @@
     },
     "tinTucNoiBat": [
         {
-            "slug":"khac-phuc-tam-thoi-su-co-dap-thuy-loi-thon-2",
-            "title": "Khắc phục tạm thời sự cố đập thủy lợi thôn 2",
-            "description": "",
-            "banner": "/img/khacphucdaptx.png"
-        },
-        {
             "slug":"dak-song-hinh-thanh-vung-san-xuat-rau-xanh-lon",
             "title": "Đắk Song hình thành vùng sản xuất rau xanh lớn",
             "description": "",

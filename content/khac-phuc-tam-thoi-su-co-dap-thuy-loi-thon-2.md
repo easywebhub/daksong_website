@@ -4,7 +4,7 @@
     "title": "Khắc phục tạm thời sự cố đập thủy lợi thôn 2",
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
-    "layout": "post.html",
+    "layout": "404.html",
     "date": "2019-09-03T00:10:00.000Z",
     "draft": false,
     "upload-image": "",

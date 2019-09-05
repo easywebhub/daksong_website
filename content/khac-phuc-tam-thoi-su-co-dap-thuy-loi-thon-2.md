@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-09-03T00:00:00.000Z",
+    "date": "2019-09-03T00:05:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "",
@@ -13,7 +13,7 @@
     "__content__": ""
 }
 ---
-<p>Sau 1 đ&ecirc;m mở cửa van xả nước đập thủy lợi th&ocirc;n 2, x&atilde; Trường Xu&acirc;n (Đắk Song), mực nước hạ thấp hơn so với ngưỡng tr&agrave;n khoảng 45 cm, hệ thống đập bảo đảm được an to&agrave;n. 3 hộ d&acirc;n sống hạ lưu kh&ocirc;ng bị thiệt hại về nh&agrave; ở, t&iacute;nh mạng nhưng lượng nước lớn l&agrave;m vỡ ao c&aacute; 700 m2 của gia đ&igrave;nh &ocirc;ng Phạm Văn Th&agrave;nh.</p>
+<p><span style="color:#2c3e50"><strong>Sau 1 đ&ecirc;m mở cửa van xả nước đập thủy lợi th&ocirc;n 2, x&atilde; Trường Xu&acirc;n (Đắk Song), mực nước hạ thấp hơn so với ngưỡng tr&agrave;n khoảng 45 cm, hệ thống đập bảo đảm được an to&agrave;n. 3 hộ d&acirc;n sống hạ lưu kh&ocirc;ng bị thiệt hại về nh&agrave; ở, t&iacute;nh mạng nhưng lượng nước lớn l&agrave;m vỡ ao c&aacute; 700 m2 của gia đ&igrave;nh &ocirc;ng Phạm Văn Th&agrave;nh.</strong></span></p>
 
 <table align="center">
 	<tbody>
@@ -22,7 +22,7 @@
 		</tr>
 		<tr>
 			<td>
-			<p>S&aacute;ng&nbsp;31/8 lượng nước&nbsp;phun từ c&aacute;c 3 lỗ hổng từ th&acirc;n đập vẫn rất lớn</p>
+			<p style="text-align:center"><span style="color:#2980b9">S&aacute;ng&nbsp;31/8 lượng nước&nbsp;phun từ c&aacute;c 3 lỗ hổng từ th&acirc;n đập vẫn rất lớn</span></p>
 			</td>
 		</tr>
 	</tbody>
@@ -37,7 +37,7 @@
 		</tr>
 		<tr>
 			<td>
-			<p>Phương &aacute;n d&ugrave;ng bao c&aacute;t lấp d&ograve;ng chảy từ hồ ra ngo&agrave;i mang lại hiệu quả</p>
+			<p style="text-align:center"><span style="color:#2980b9">Phương &aacute;n d&ugrave;ng bao c&aacute;t lấp d&ograve;ng chảy từ hồ ra ngo&agrave;i mang lại hiệu quả</span></p>
 			</td>
 		</tr>
 	</tbody>
@@ -52,12 +52,14 @@
 		</tr>
 		<tr>
 			<td>
-			<p>Dựng lều bạt để t&uacute;c trực, ứng ph&oacute; với sự cố</p>
+			<p style="text-align:center"><span style="color:#2980b9">Dựng lều bạt để t&uacute;c trực, ứng ph&oacute; với sự cố</span></p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
 <p>Tin, ảnh: Phạm Kh&aacute;nh</p>
+
+<p>&nbsp;</p>
 
 <p>Theo&nbsp;&quot;B&aacute;o Đắk N&ocirc;ng điện tử&quot;</p>

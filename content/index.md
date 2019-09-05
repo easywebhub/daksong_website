@@ -75,6 +75,18 @@
     },
     "tinTucNoiBat": [
         {
+            "slug":"khac-phuc-tam-thoi-su-co-dap-thuy-loi-thon-2",
+            "title": "Khắc phục tạm thời sự cố đập thủy lợi thôn 2",
+            "description": "",
+            "banner": "/img/khacphucdaptx.png"
+        },
+        {
+            "slug":"dak-song-hinh-thanh-vung-san-xuat-rau-xanh-lon",
+            "title": "Đắk Song hình thành vùng sản xuất rau xanh lớn",
+            "description": "",
+            "banner": "/img/sanxuatrauds.png"
+        },
+        {
             "slug": "tiep-buoc-niem-tin-va-suc-manh-cua-cach-mang-thang-tam",
             "title": "Tiếp bước niềm tin và sức mạnh của Cách mạng tháng Tám",
             "description": "",
@@ -91,18 +103,6 @@
             "title": "Thông báo Mời thầu Đầu tư xây dựng, quản lý, kinh doanh, khai thác chợ trung tâm huyện Đắk Song",
             "description": "",
             "banner": "/img/loa.jpg"
-        },
-        {
-            "slug":"quan-dan-huyen-dak-song-chung-suc-bao-ve-moi-truong",
-            "title": "Quân dân huyện Đăk Song chung sức bảo vệ môi trường",
-            "description": "Người M’Nông ở Bon Bu Prâng, xã Đăk N’Drung (Đăk Song, Đăk Nông) thường bảo nhau:...",
-            "banner": "/img/BCHQSDK01Copy.PNG"
-        },
-        {
-            "slug":"thong-bao-ds-giao-vien-du-dieu-kien-du-xet-thang-hang-cdnn-nam-2019",
-            "title": "Thông báo Danh sách giáo viên đủ điều kiện dự xét thăng hạng Chức danh nghề nghiệp (CDNN) huyện Đắk Song năm 2019",
-            "description": "",
-            "banner": "/img/tb1313165498498.jpg"
         }
     ],
     "tag": [],

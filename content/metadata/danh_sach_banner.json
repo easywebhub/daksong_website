@@ -1,6 +1,5 @@
 {
-    "banner_lon": 
-    [
+    "banner_lon": [
         {
             "hinh_anh": "/hinh-anh/banner/baner_lon.png",
             "duong_dan": "#"
@@ -32,7 +31,7 @@
             "duong_dan": "#"
         }
     ],
-    "banner_goc_phai_trang_chu": [ 
+    "banner_goc_phai_trang_chu": [
         {
             "hinh_anh": "/hinh-anh/banner/caicachhanhchinh.png",
             "duong_dan": "/thong-tin-chi-dao/chuyen-muc-cchc/"
@@ -75,10 +74,9 @@
         }
     ],
     "danh_sach_banner_nho": [
-	 {
-            "hinh_anh": "/banner/banner-ky-niem-74-nam.jpg",
-            "duong_dan": "/"
-     }
-	 
-	]
+        {
+            "hinh_anh": "/banner/A_banner 01.jpg",
+            "duong_dan": "http://daksong.daknong.gov.vn/thu-ngo-cua-chu-tich-hiep-hoi-doanh-nghiep-tinh-ve-trien-khai-bo-chi-so-ddci/"
+        }
+    ]
 }

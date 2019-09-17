@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": " Báo cáo Công tác tiếp nhận và giải quyết đơn thư, khiếu nại, tố cáo, kiến nghị, phản ánh tháng 09/ 2019",
     "description": "",
-    "date": "2019-09-12T00:00:00.000Z",
+    "date": "2019-09-13T00:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

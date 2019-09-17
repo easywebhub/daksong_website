@@ -1,0 +1,66 @@
+{
+    "_$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+        "banner_lon": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "hinh_anh": {
+                        "type": "string"
+                    },
+                    "duong_dan": {
+                        "type": "string"
+                    }
+                }
+            },
+            "format": "table"
+        },
+        "banner_nho": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "hinh_anh": {
+                        "type": "string"
+                    },
+                    "duong_dan": {
+                        "type": "string"
+                    }
+                }
+            },
+            "format": "table"
+        },
+        "banner_goc_phai_trang_chu": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "hinh_anh": {
+                        "type": "string"
+                    },
+                    "duong_dan": {
+                        "type": "string"
+                    }
+                }
+            },
+            "format": "table"
+        },
+        "danh_sach_banner_nho": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "hinh_anh": {
+                        "type": "string"
+                    },
+                    "duong_dan": {
+                        "type": "string"
+                    }
+                }
+            },
+            "format": "table"
+        }
+    }
+}

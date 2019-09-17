@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "254-bc-ubnd-thuan-hanh-10-09-2019",
+    "slug": "255-bc-ubnd-thuan-hanh-10-09-2019",
     "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-thuan-hanh.tinh-hinh-tcd-va-giai-quyet-don-thu",
     "tag": [],
     "layout": "van-ban.html",

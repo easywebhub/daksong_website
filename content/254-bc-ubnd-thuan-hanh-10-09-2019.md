@@ -6,7 +6,6 @@
     "layout": "van-ban.html",
     "title": "Báo cáo Công tác giải quyết đơn thư, khiếu nại, tố cáo tháng  08 năm 2019",
     "description": "",
-    "date": "2019-09-12T00:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

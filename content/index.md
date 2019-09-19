@@ -75,6 +75,18 @@
     },
     "tinTucNoiBat": [
         {
+            "slug":"bap-su-thuan-ha-duoc-mua-duoc-gia",
+            "title": "Bắp sú Thuận Hà được mùa, được giá",
+            "description": "",
+            "banner": "/img/3135-KT-2.jpg"
+        },
+        {
+            "slug":"36-cay-sau-rieng-cho-thu-hoach-13-tan-qua",
+            "title": "36 cây sầu riêng cho thu hoạch 13 tấn quả",
+            "description": "",
+            "banner": "/img/3133-KT-10.jpg"
+        },
+        {
             "slug":"dak-song-hinh-thanh-vung-san-xuat-rau-xanh-lon",
             "title": "Đắk Song hình thành vùng sản xuất rau xanh lớn",
             "description": "",
@@ -91,12 +103,6 @@
             "title": "Thông báo Về việc lựa chọn tổ chức đấu giá tài sản",
             "description": "",
             "banner": "/img/thong-bao-new.jpg"
-        },
-        {
-            "slug": "thong-bao-moi-thau-ban-chuyen-doi-cho-huyen",
-            "title": "Thông báo Mời thầu Đầu tư xây dựng, quản lý, kinh doanh, khai thác chợ trung tâm huyện Đắk Song",
-            "description": "",
-            "banner": "/img/loa.jpg"
         }
     ],
     "tag": [],

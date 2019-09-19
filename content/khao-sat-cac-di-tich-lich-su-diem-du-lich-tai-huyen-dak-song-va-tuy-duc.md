@@ -2,10 +2,10 @@
 {
     "slug": "khao-sat-cac-di-tich-lich-su-diem-du-lich-tai-huyen-dak-song-va-tuy-duc",
     "title": "Khảo sát các di tích lịch sử, điểm du lịch tại huyện Đắk Song và Tuy Đức",
-    "category": "tin-tuc-su-kien.tin-van-hoa",
+    "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-09-16T00:00:00.000Z",
+    "date": "2019-09-16T00:05:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "",

@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-09-17T01:00:00.000Z",
+    "date": "2019-09-17T01:05:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "",
@@ -43,7 +43,7 @@
 		</tr>
 		<tr>
 			<td>
-			<p>&Ocirc;ng L&yacute; Đ&igrave;nh Trang ở th&ocirc;n 4, x&atilde; Thuận H&agrave;, khi&nbsp;b&aacute;n xong một phần diện t&iacute;ch bắp s&uacute; liền&nbsp;xuống giống lứa tiếp theo</p>
+			<p><span style="color:#2980b9">&Ocirc;ng L&yacute; Đ&igrave;nh Trang ở th&ocirc;n 4, x&atilde; Thuận H&agrave;, khi&nbsp;b&aacute;n xong một phần diện t&iacute;ch bắp s&uacute; liền&nbsp;xuống giống lứa tiếp theo</span></p>
 			</td>
 		</tr>
 	</tbody>
@@ -60,7 +60,7 @@
 		</tr>
 		<tr>
 			<td>
-			<p>Gia đ&igrave;nh &ocirc;ng L&yacute; Đ&igrave;nh Kiệt ở th&ocirc;n 4, x&atilde; Thuận H&agrave;,&nbsp;cải tạo, xử l&yacute; đất trồng ph&ugrave; hợp&nbsp;n&ecirc;n hạn chế s&acirc;u bệnh, gi&uacute;p bắp s&uacute; c&oacute; trọng lượng v&agrave; chất lượng đạt y&ecirc;u cầu, gi&aacute; b&aacute;n cao</p>
+			<p><span style="color:#2980b9">Gia đ&igrave;nh &ocirc;ng L&yacute; Đ&igrave;nh Kiệt ở th&ocirc;n 4, x&atilde; Thuận H&agrave;,&nbsp;cải tạo, xử l&yacute; đất trồng ph&ugrave; hợp&nbsp;n&ecirc;n hạn chế s&acirc;u bệnh, gi&uacute;p bắp s&uacute; c&oacute; trọng lượng v&agrave; chất lượng đạt y&ecirc;u cầu, gi&aacute; b&aacute;n cao</span></p>
 			</td>
 		</tr>
 	</tbody>

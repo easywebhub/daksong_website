@@ -5,11 +5,11 @@
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-09-17T01:05:00.000Z",
+    "date": "2019-09-17T01:00:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "",
-    "banner": "",
+    "banner": "/img/3135-KT-2.jpg",
     "__content__": ""
 }
 ---

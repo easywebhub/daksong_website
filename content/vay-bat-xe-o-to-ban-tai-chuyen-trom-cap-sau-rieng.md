@@ -9,7 +9,7 @@
     "draft": false,
     "upload-image": "/img/ACSS01.PNG",
     "description": "",
-    "banner": "",
+    "banner": "/img/ACSS01 - Copy.PNG",
     "__content__": ""
 }
 ---

@@ -5,11 +5,22 @@
     "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-09-19T00:00:00.000Z",
+    "date": "2019-09-19T00:05:00.000Z",
     "draft": false,
-    "upload-image": "",
+    "upload-image": "/img/TTBBD06.PNG",
     "description": "",
     "banner": "",
     "__content__": ""
 }
 ---
+<p><img alt="" src="/img/TTBBD01.png" /></p>
+
+<p><img alt="" src="/img/TTBBD02.PNG" /></p>
+
+<p><img alt="" src="/img/TTBBD03.PNG" /></p>
+
+<p><img alt="" src="/img/TTBBD04.PNG" /></p>
+
+<p><img alt="" src="/img/TTBBD05.PNG" /></p>
+
+<p><img alt="" src="/img/TTBBD06.PNG" /></p>

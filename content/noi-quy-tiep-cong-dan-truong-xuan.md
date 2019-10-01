@@ -4,7 +4,7 @@
     "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-truong-xuan.quy-dinh-ve-tcd-va-giai-quyet-don-thu",
     "tag": [],
     "layout": "van-ban.html",
-    "title": "Nội quy tiếp công dân trường xuân",
+    "title": "Nội quy tiếp công dân tại UBND xã Trường Xuân",
     "description": "",
     "date": "2019-09-30T00:00:00.000Z",
     "so": "",

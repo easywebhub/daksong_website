@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "ky-su-dia-chat-the-he-9x-lam-giau-tu-mo-hinh-rau-thuy-canh",
+            "title": "Kỹ sư địa chất  thế hệ 9X làm giàu từ  mô hình rau thủy canh",
+            "description": "",
+            "banner": "/img/02101901 - Copy.PNG"
+        },
+        {
             "slug":"bap-su-thuan-ha-duoc-mua-duoc-gia",
             "title": "Bắp sú Thuận Hà được mùa, được giá",
             "description": "",
@@ -97,12 +103,6 @@
             "title": "Tiếp bước niềm tin và sức mạnh của Cách mạng tháng Tám",
             "description": "",
             "banner": "/img/T802.PNG"
-        },
-        {
-            "slug": "tb-243-hat-kiem-lam",
-            "title": "Thông báo Về việc lựa chọn tổ chức đấu giá tài sản",
-            "description": "",
-            "banner": "/img/thong-bao-new.jpg"
         }
     ],
     "tag": [],

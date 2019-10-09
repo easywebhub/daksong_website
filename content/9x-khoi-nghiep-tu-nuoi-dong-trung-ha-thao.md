@@ -5,9 +5,9 @@
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-10-08T00:00:00.000Z",
+    "date": "2019-10-08T00:05:00.000Z",
     "draft": false,
-    "upload-image": "/img/0810201904.PNG",
+    "upload-image": "/img/0810201903.PNG",
     "description": "",
     "banner": "/img/0810201904 - Copy.PNG",
     "__content__": ""
@@ -25,7 +25,7 @@
 
 <p><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">Nhờ cần c&ugrave;, chịu kh&oacute;, sau nhiều nỗ lực đến nay chị Xuyến đ&atilde; th&agrave;nh c&ocirc;ng gồm&nbsp; s<span style="background-color:white">ản phẩm nấm đ&ocirc;ng tr&ugrave;ng hạ thảo; rượu ĐTHT đạt y&ecirc;u cầu v&agrave; chất lượng. Cơ sở của chị đ&atilde; được Sở N&ocirc;ng Nghiệp v&agrave; Ph&aacute;t triển N&ocirc;ng th&ocirc;n tỉnh Đăk N&ocirc;ng v&agrave; C&ocirc;ng ty Tr&aacute;ch nhiệm hữu hạn Khoa học v&agrave; C&ocirc;ng nghệ S&agrave;i G&ograve;n; Trung t&acirc;m ph&acirc;n t&iacute;ch kỹ thuật cao S&agrave;i G&ograve;n cấp giấy ph&eacute;p đủ điều kiện hoạt động.</span></span></span></span></p>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="" src="/img/0810201903.PNG" /></p>
+<p><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black"><span style="background-color:white"><img alt="" src="/img/0810201903.PNG" /></span></span></span></span></p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><span style="font-size:12.0pt"><span style="background-color:white"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:#111111">Một số sản phẩm ĐTHT </span></span></span></span></em></p>
 

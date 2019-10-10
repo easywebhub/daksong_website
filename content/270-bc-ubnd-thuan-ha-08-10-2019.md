@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Kết quả giải quyết đơn  của công dân (Bà) Vũ Thị Sáng, hộ khẩu thường trú: Bản Đắk Thốt - Thuận Hà - Đắk Song - Đắk Nông",
     "description": "",
-    "date": "2019-10-09T01:00:00.000Z",
+    "date": "2019-10-09T01:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

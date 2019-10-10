@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-10-08T00:05:00.000Z",
+    "date": "2019-10-08T00:00:00.000Z",
     "draft": false,
     "upload-image": "/img/0810201903.PNG",
     "description": "",
@@ -13,7 +13,7 @@
     "__content__": ""
 }
 ---
-<p><em><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Tốt nghiệp trường Đại học T&acirc;y Nguy&ecirc;n, với bằng cử nh&acirc;n sinh. Chị Nguyễn Thị Xuyến sinh&nbsp; năm 1993 ở th&ocirc;n 5 x&atilde; Thuận H&agrave;, huyện Đak Song đ&atilde; trở về qu&ecirc; hương khởi&nbsp; nghiệp th&agrave;nh c&ocirc;ng&nbsp; với m&ocirc; h&igrave;nh nu&ocirc;i trồng nấm đ&ocirc;ng tr&ugrave;ng hạ thảo.</span></span></span></em></p>
+<p><em><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">Tốt nghiệp trường Đại học T&acirc;y Nguy&ecirc;n, với bằng cử nh&acirc;n sinh. Chị Nguyễn Thị Xuyến sinh&nbsp; năm 1993 ở th&ocirc;n 5 x&atilde; Thuận H&agrave;, huyện Đak Song đ&atilde; trở về qu&ecirc; hương khởi&nbsp; nghiệp th&agrave;nh c&ocirc;ng&nbsp; với m&ocirc; h&igrave;nh nu&ocirc;i trồng nấm đ&ocirc;ng tr&ugrave;ng hạ thảo.</span></span></span></em></p>
 
 <p><em><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="" src="/img/0810201901.PNG" /></span></span></span></em></p>
 

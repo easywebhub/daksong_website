@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "9x-khoi-nghiep-tu-nuoi-dong-trung-ha-thao",
+            "title": "9X KHỞI NGHIỆP TỪ NUÔI ĐÔNG TRÙNG HẠ THẢO",
+            "description": "",
+            "banner": "/img/0810201904 - Copy.PNG"
+        },
+        {
             "slug": "ky-su-dia-chat-the-he-9x-lam-giau-tu-mo-hinh-rau-thuy-canh",
             "title": "Kỹ sư địa chất  thế hệ 9X làm giàu từ  mô hình rau thủy canh",
             "description": "",
@@ -97,12 +103,6 @@
             "title": "Đắk Song hình thành vùng sản xuất rau xanh lớn",
             "description": "",
             "banner": "/img/sanxuatrauds.png"
-        },
-        {
-            "slug": "tiep-buoc-niem-tin-va-suc-manh-cua-cach-mang-thang-tam",
-            "title": "Tiếp bước niềm tin và sức mạnh của Cách mạng tháng Tám",
-            "description": "",
-            "banner": "/img/T802.PNG"
         }
     ],
     "tag": [],

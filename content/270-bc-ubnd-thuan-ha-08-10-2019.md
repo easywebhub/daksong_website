@@ -4,7 +4,7 @@
     "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-thuan-ha.ket-qua-xu-ly-don-thu",
     "tag": [],
     "layout": "van-ban.html",
-    "title": "270 BC UBND Thuận hà 08 10 2019",
+    "title": "Kết quả giải quyết đơn  của công dân (Bà) Vũ Thị Sáng, hộ khẩu thường trú: Bản Đắk Thốt - Thuận Hà - Đắk Song - Đắk Nông",
     "description": "",
     "date": "2019-10-09T01:00:00.000Z",
     "so": "",

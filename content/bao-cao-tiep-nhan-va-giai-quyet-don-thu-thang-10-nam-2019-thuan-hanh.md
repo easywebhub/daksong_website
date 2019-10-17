@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Báo cáo Công tác giải quyết đơn thư, kiếu nại, tố cáo tháng 10  năm 2019 của UBND xã Thuận Hạnh",
     "description": "",
-    "date": "2019-10-11T00:00:00.000Z",
+    "date": "2019-10-10T00:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

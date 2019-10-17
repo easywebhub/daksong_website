@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Giải quyết đơn của công dân Đào Thị Vi thôn Thuận Thành, xã Thuận Hạnh, huyện Đắk Song, tỉnh Đắk Nông",
     "description": "",
-    "date": "2019-10-14T00:00:00.000Z",
+    "date": "2019-10-14T00:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

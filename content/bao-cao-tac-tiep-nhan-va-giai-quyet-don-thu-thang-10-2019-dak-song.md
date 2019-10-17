@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Báo cáo Công tác tiếp nhận và giải quyết đơn thư, kiếu nại, tố cáo trên địa bàn huyện Đắk Song tháng 10 năm 2019",
     "description": "",
-    "date": "2019-10-15T06:05:00.000Z",
+    "date": "2019-10-15T12:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

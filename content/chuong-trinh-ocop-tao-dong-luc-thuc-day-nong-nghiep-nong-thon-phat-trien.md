@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-10-16T08:00:00.000Z",
+    "date": "2019-10-16T08:05:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "",
@@ -92,3 +92,5 @@
 <p>Chương tr&igrave;nh OCOP l&agrave; chương tr&igrave;nh ph&aacute;t triển kinh tế khu vực n&ocirc;ng th&ocirc;n theo hướng ph&aacute;t triển nội lực v&agrave; gia tăng gi&aacute; trị. Đ&acirc;y l&agrave; một trong những giải ph&aacute;p, nhiệm vụ trong triển khai thực hiện Chương tr&igrave;nh x&acirc;y dựng n&ocirc;ng th&ocirc;n mới. Trọng t&acirc;m của Chương tr&igrave;nh OCOP l&agrave; ph&aacute;t triển sản phẩm n&ocirc;ng nghiệp, phi n&ocirc;ng nghiệp, dịch vụ c&oacute; lợi thế ở mỗi địa phương theo chuỗi gi&aacute; trị, do c&aacute;c th&agrave;nh phần kinh tế tư nh&acirc;n v&agrave; kinh tế tập thể thực hiện. Nh&agrave; nước đ&oacute;ng vai tr&ograve; kiến tạo, ban h&agrave;nh khung ph&aacute;p l&yacute; v&agrave; ch&iacute;nh s&aacute;ch để thực hiện.</p>
 
 <p style="text-align:right">B&agrave;i, ảnh: Kim Ng&acirc;n</p>
+
+<p><a href="http://www.baodaknong.org.vn/kinh-te/chuong-trinh-ocop-tao-dong-luc-thuc-day-nong-nghiep-nong-thon-phat-trien-75140.html">http://www.baodaknong.org.vn/kinh-te/chuong-trinh-ocop-tao-dong-luc-thuc-day-nong-nghiep-nong-thon-phat-trien-75140.html</a></p>

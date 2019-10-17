@@ -1,12 +1,12 @@
 ---json
 {
     "slug": "bao-cao-tiep-nhan-va-giai-quyet-don-thu-thang-10-nam-2019-thuan-hanh",
-    "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-thuan-hanh.quy-dinh-ve-tcd-va-giai-quyet-don-thu",
+    "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-thuan-hanh.tinh-hinh-tcd-va-giai-quyet-don-thu",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Báo cáo Công tác giải quyết đơn thư, kiếu nại, tố cáo tháng 10  năm 2019 của UBND xã Thuận Hạnh",
     "description": "",
-    "date": "2019-10-10T00:00:00.000Z",
+    "date": "2019-10-10T00:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

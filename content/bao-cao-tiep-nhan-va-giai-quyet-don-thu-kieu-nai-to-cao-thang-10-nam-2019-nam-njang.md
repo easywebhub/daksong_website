@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Báo cáo Công tác tiếp nhận và giải quyết đơn thư, kiếu nại, tố cáo tháng 10 năm 2019  của UBND xã Nam N'Jang",
     "description": "",
-    "date": "2019-10-15T06:00:00.000Z",
+    "date": "2019-10-15T06:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

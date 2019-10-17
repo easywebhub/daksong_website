@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-10-17T00:00:00.000Z",
+    "date": "2019-10-17T00:05:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "",
@@ -202,6 +202,6 @@
 	</tbody>
 </table>
 
-<p>Tin, ảnh: Ho&agrave;ng Ho&agrave;i</p>
+<p style="text-align:right">Tin, ảnh: Ho&agrave;ng Ho&agrave;i</p>
 
 <p><a href="http://www.baodaknong.org.vn/chinh-tri/dai-hoi-dai-bieu-cac-dan-toc-thieu-so-tinh-dak-nong-lan-thu-iii-nam-2019-75144.html">http://www.baodaknong.org.vn/chinh-tri/dai-hoi-dai-bieu-cac-dan-toc-thieu-so-tinh-dak-nong-lan-thu-iii-nam-2019-75144.html</a></p>

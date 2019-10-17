@@ -74,6 +74,24 @@
         ]
     },
     "tinTucNoiBat": [
+         {
+            "slug": "dai-hoi-dai-bieu-cac-dan-toc-thieu-so-tinh-dak-nong-lan-thu-iii-nam-2019",
+            "title": "Đại hội đại biểu các dân tộc thiểu số tỉnh Đắk Nông lần thứ III năm 2019",
+            "description": "",
+            "banner": "/img/75144.jpg"
+        },
+        {
+            "slug": "chuong-trinh-ocop-tao-dong-luc-thuc-day-nong-nghiep-nong-thon-phat-trien",
+            "title": "Chương trình OCOP tạo động lực thúc đẩy nông nghiệp, nông thôn phát triển",
+            "description": "",
+            "banner": "/img/75140.jpg"
+        },
+        {
+            "slug":"phong-trao-nong-dan-san-xuat-kinh-doanh-gioi-thuc-day-phat-trien-nong-nghiep-nong-dan-nong-thon",
+            "title": "Phong trào nông dân sản xuất, kinh doanh giỏi thúc đẩy phát triển nông nghiệp, nông dân, nông thôn",
+            "description": "",
+            "banner": "/img/3155-KT-3.jpg"
+        },
         {
             "slug": "9x-khoi-nghiep-tu-nuoi-dong-trung-ha-thao",
             "title": "9X KHỞI NGHIỆP TỪ NUÔI ĐÔNG TRÙNG HẠ THẢO",
@@ -85,24 +103,6 @@
             "title": "Kỹ sư địa chất  thế hệ 9X làm giàu từ  mô hình rau thủy canh",
             "description": "",
             "banner": "/img/02101901 - Copy.PNG"
-        },
-        {
-            "slug":"bap-su-thuan-ha-duoc-mua-duoc-gia",
-            "title": "Bắp sú Thuận Hà được mùa, được giá",
-            "description": "",
-            "banner": "/img/3135-KT-2.jpg"
-        },
-        {
-            "slug":"36-cay-sau-rieng-cho-thu-hoach-13-tan-qua",
-            "title": "36 cây sầu riêng cho thu hoạch 13 tấn quả",
-            "description": "",
-            "banner": "/img/3133-KT-10.jpg"
-        },
-        {
-            "slug":"dak-song-hinh-thanh-vung-san-xuat-rau-xanh-lon",
-            "title": "Đắk Song hình thành vùng sản xuất rau xanh lớn",
-            "description": "",
-            "banner": "/img/sanxuatrauds.png"
         }
     ],
     "tag": [],

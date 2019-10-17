@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-10-17T00:05:00.000Z",
+    "date": "2019-10-17T00:00:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "",
@@ -14,6 +14,8 @@
 }
 ---
 <p>* C&aacute;c d&acirc;n tộc đo&agrave;n kết, ph&aacute;t huy nội lực, hội nhập v&agrave; ph&aacute;t triển</p>
+
+<p>&nbsp;</p>
 
 <p>Ng&agrave;y 16/10, tại Trung t&acirc;m Hội nghị tỉnh đ&atilde; diễn ra Đại hội đại biểu c&aacute;c d&acirc;n tộc thiểu số (DTTS) tỉnh Đắk N&ocirc;ng lần thứ III, năm 2019 với sự tham dự của 250 đại biểu ch&iacute;nh thức đại diện cho 40 DTTS đang sinh sống tr&ecirc;n địa b&agrave;n tỉnh.</p>
 

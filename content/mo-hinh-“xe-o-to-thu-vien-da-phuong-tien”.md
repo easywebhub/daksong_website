@@ -1,11 +1,11 @@
 ---json
 {
-    "slug": "mo-hinh-“xe-o-to-thu-vien-da-phuong-tien”",
+    "slug": "mo-hinh-xe-o-to-thu-vien-da-phuong-tien",
     "title": "Mô hình “Xe ô tô thư viện đa phương tiện”",
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-10-28T08:00:00.000Z",
+    "date": "2019-10-28T08:05:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "",

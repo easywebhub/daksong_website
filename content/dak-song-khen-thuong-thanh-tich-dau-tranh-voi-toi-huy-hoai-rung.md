@@ -9,7 +9,7 @@
     "draft": false,
     "upload-image": "/img/29102019_02.PNG",
     "description": "Ngày 28/10, UBND huyện Đắk Song (Đắk Nông) đã trao thưởng đột xuất cho tập thể, cá nhân Công an huyện Đắk Song đã có thành tích xuất sắc trong chuyên án đấu tranh với tội phạm hủy hoại rừng.",
-    "banner": "",
+    "banner": "/img/29102019_01Copy.PNG",
     "__content__": ""
 }
 ---
@@ -32,7 +32,8 @@
 
 <p>Ph&aacute;t biểu tại buổi trao thưởng, &ocirc;ng Nguyễn Xu&acirc;n Thanh &ndash; Chủ tịch UBND huyện Đắk Song biểu dương v&agrave; đ&aacute;nh gi&aacute; cao th&agrave;nh t&iacute;ch xuất sắc c&aacute;c chiến sỹ c&ocirc;ng an huyện Đắk Song trong c&ocirc;ng t&aacute;c điều tra, đấu tranh nhanh ch&oacute;ng ph&aacute;t hiện c&aacute;c đối tượng đ&atilde; ken th&ocirc;ng bằng h&oacute;a chất. Đồng thời &ocirc;ng Thanh mong muốn c&aacute;n bộ, chiến sỹ c&ocirc;ng an huyện Đắk Song bằng c&aacute;c biện ph&aacute;p nghiệp vụ tiếp tục đấu tranh l&agrave;m r&otilde; động cơ của c&aacute;c đối tượng tr&ecirc;n để xử l&yacute; theo quy định của ph&aacute;p luật.</p>
 
-<p>&nbsp;
+<p>&nbsp;</p>
+
 <table align="center" border="0" cellpadding="3" cellspacing="0">
 	<tbody>
 		<tr>
@@ -45,7 +46,8 @@
 		</tr>
 	</tbody>
 </table>
-</p>
+
+<p>&nbsp;</p>
 
 <p>Nh&acirc;n dịp n&agrave;y, UBND huyện Đắk Song đ&atilde; tặng giấy khen cho 2 tập thể v&agrave; 9 c&aacute;c nh&acirc;n C&ocirc;ng an huyện Đắk Song c&oacute; th&agrave;nh t&iacute;ch xuất sắc trong chuy&ecirc;n &aacute;n đấu tranh với tội phạm hủy hoại rừng.</p>
 

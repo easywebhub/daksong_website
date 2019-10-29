@@ -74,7 +74,13 @@
         ]
     },
     "tinTucNoiBat": [
-         {
+        {
+            "slug":"dak-song-khen-thuong-thanh-tich-dau-tranh-voi-toi-huy-hoai-rung",
+            "title": "Đắk Song: Khen thưởng thành tích đấu tranh với tội hủy hoại rừng",
+            "description": "Ngày 28/10, UBND huyện Đắk Song (Đắk Nông) đã trao thưởng đột xuất cho tập thể, cá nhân Công an huyện Đắk Song đã có thành tích xuất sắc trong chuyên án đấu tranh với tội phạm hủy hoại rừng.",
+            "banner": "/img/29102019_01Copy.PNG"
+        },
+        {
             "slug": "dai-hoi-dai-bieu-cac-dan-toc-thieu-so-tinh-dak-nong-lan-thu-iii-nam-2019",
             "title": "Đại hội đại biểu các dân tộc thiểu số tỉnh Đắk Nông lần thứ III năm 2019",
             "description": "",
@@ -85,12 +91,6 @@
             "title": "Chương trình OCOP tạo động lực thúc đẩy nông nghiệp, nông thôn phát triển",
             "description": "",
             "banner": "/img/75140.jpg"
-        },
-        {
-            "slug":"phong-trao-nong-dan-san-xuat-kinh-doanh-gioi-thuc-day-phat-trien-nong-nghiep-nong-dan-nong-thon",
-            "title": "Phong trào nông dân sản xuất, kinh doanh giỏi thúc đẩy phát triển nông nghiệp, nông dân, nông thôn",
-            "description": "",
-            "banner": "/img/3155-KT-3.jpg"
         },
         {
             "slug": "9x-khoi-nghiep-tu-nuoi-dong-trung-ha-thao",

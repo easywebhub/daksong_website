@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-an-ninh-trat-tu",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-10-29T01:00:00.000Z",
+    "date": "2019-10-29T01:05:00.000Z",
     "draft": false,
     "upload-image": "/img/29102019_02.PNG",
     "description": "Ngày 28/10, UBND huyện Đắk Song (Đắk Nông) đã trao thưởng đột xuất cho tập thể, cá nhân Công an huyện Đắk Song đã có thành tích xuất sắc trong chuyên án đấu tranh với tội phạm hủy hoại rừng.",
@@ -18,11 +18,11 @@
 <table align="center" border="0" cellpadding="3" cellspacing="0">
 	<tbody>
 		<tr>
-			<td><img alt="" src="/img/29102019_01.PNG" /></td>
+			<td><img alt="" src="/img/29102019_02.PNG" /></td>
 		</tr>
 		<tr>
 			<td>
-			<p><span style="color:#0033ff">C&aacute;c c&aacute; nh&acirc;n C&ocirc;ng an huyện Đắk Song được tặng giấy khen</span></p>
+			<p style="text-align:center"><span style="color:#0033ff">Rừng th&ocirc;ng ph&ograve;ng hộ cảnh quan Quốc lộ 14 bị c&aacute;c đối tượng ken th&ocirc;ng dẫn đến chết dần</span></p>
 			</td>
 		</tr>
 	</tbody>
@@ -32,17 +32,25 @@
 
 <p>Ph&aacute;t biểu tại buổi trao thưởng, &ocirc;ng Nguyễn Xu&acirc;n Thanh &ndash; Chủ tịch UBND huyện Đắk Song biểu dương v&agrave; đ&aacute;nh gi&aacute; cao th&agrave;nh t&iacute;ch xuất sắc c&aacute;c chiến sỹ c&ocirc;ng an huyện Đắk Song trong c&ocirc;ng t&aacute;c điều tra, đấu tranh nhanh ch&oacute;ng ph&aacute;t hiện c&aacute;c đối tượng đ&atilde; ken th&ocirc;ng bằng h&oacute;a chất. Đồng thời &ocirc;ng Thanh mong muốn c&aacute;n bộ, chiến sỹ c&ocirc;ng an huyện Đắk Song bằng c&aacute;c biện ph&aacute;p nghiệp vụ tiếp tục đấu tranh l&agrave;m r&otilde; động cơ của c&aacute;c đối tượng tr&ecirc;n để xử l&yacute; theo quy định của ph&aacute;p luật.</p>
 
+<p>&nbsp;
 <table align="center" border="0" cellpadding="3" cellspacing="0">
 	<tbody>
 		<tr>
-			<td><img alt="" src="/img/29102019_02.PNG" /></td>
+			<td><img alt="" src="/img/29102019_01.PNG" /></td>
 		</tr>
 		<tr>
 			<td>
-			<p><span style="color:#0033ff">Rừng th&ocirc;ng ph&ograve;ng hộ cảnh quan Quốc lộ 14 bị c&aacute;c đối tượng ken th&ocirc;ng dẫn đến chết dần</span></p>
+			<p style="text-align:center"><span style="color:#0033ff">C&aacute;c c&aacute; nh&acirc;n C&ocirc;ng an huyện Đắk Song được tặng giấy khen</span></p>
 			</td>
 		</tr>
 	</tbody>
 </table>
+</p>
 
 <p>Nh&acirc;n dịp n&agrave;y, UBND huyện Đắk Song đ&atilde; tặng giấy khen cho 2 tập thể v&agrave; 9 c&aacute;c nh&acirc;n C&ocirc;ng an huyện Đắk Song c&oacute; th&agrave;nh t&iacute;ch xuất sắc trong chuy&ecirc;n &aacute;n đấu tranh với tội phạm hủy hoại rừng.</p>
+
+<p style="text-align:right">Ho&agrave;ng Long</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align:right">&nbsp;</p>

@@ -75,12 +75,6 @@
     },
     "tinTucNoiBat": [
         {
-            "slug": "dak-song-khen-thuong-thanh-tich-dau-tranh-voi-toi-huy-hoai-rung",
-            "title": "Đắk Song: Khen thưởng thành tích đấu tranh với tội hủy hoại rừng",
-            "description": "Ngày 28/10, UBND huyện Đắk Song (Đắk Nông) đã trao thưởng đột xuất cho tập thể, cá nhân Công an huyện Đắk Song đã có thành tích xuất sắc trong chuyên án đấu tranh với tội phạm hủy hoại rừng.",
-            "banner": "/img/29102019_banner.png"
-        },
-        {
             "slug": "dai-hoi-dai-bieu-cac-dan-toc-thieu-so-tinh-dak-nong-lan-thu-iii-nam-2019",
             "title": "Đại hội đại biểu các dân tộc thiểu số tỉnh Đắk Nông lần thứ III năm 2019",
             "description": "",

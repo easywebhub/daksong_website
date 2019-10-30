@@ -5,11 +5,11 @@
     "category": "tin-tuc-su-kien.tin-an-ninh-trat-tu",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-10-29T01:00:00.000Z",
+    "date": "2019-10-29T01:45:00.000Z",
     "draft": false,
     "upload-image": "/img/29102019_01.png",
-    "description": "Ngày 28/10, UBND huyện Đắk Song (Đắk Nông) đã trao thưởng đột xuất cho tập thể, cá nhân Công an huyện Đắk Song đã có thành tích xuất sắc trong chuyên án đấu tranh với tội phạm hủy hoại rừng.",
-    "banner": "/img/29102019_banner.png",
+    "description": "Ngày 28/10, UBND huyện Đắk Song (Đắk Nông) đã trao thưởng đột xuất cho tập thể, cá nhân Công an huyện Đắk Song đã có thành tích xuất sắc trong chuyên án đấu tranh với tội phạm hủy hoại rừng.\n",
+    "banner": "",
     "__content__": ""
 }
 ---

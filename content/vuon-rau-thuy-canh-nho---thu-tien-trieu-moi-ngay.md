@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-11-06T02:00:00.000Z",
+    "date": "2019-11-06T02:05:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "Sau thời gian ấp ủ, mày mò tìm hiểu quy trình sản xuất rau theo phương pháp thủy canh, tháng 7/2019, anh Huỳnh Xuân Quân, sinh năm 1987, ở thị trấn Đức An (Đắk Song) đã bắt tay đầu tư sản xuất. Sau 3 tháng đi vào hoạt động, hiện anh Quân đã cung cấp nhiều loại rau theo phương pháp này và được thị trường trên địa bàn ưa chuộng.",

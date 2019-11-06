@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "vuon-rau-thuy-canh-nho---thu-tien-trieu-moi-ngay",
+    "slug": "vuon-rau-thuy-canh-nho-thu-tien-trieu-moi-ngay",
     "title": "Vườn rau thủy canh nhỏ - thu tiền triệu mỗi ngày",
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],

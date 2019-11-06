@@ -9,7 +9,7 @@
     "draft": false,
     "upload-image": "",
     "description": "Tận dụng nguồn thức ăn trong vườn, hộ bà Nguyễn Thị Ánh Thùy, ở thôn 7, xã Trường Xuân (Đắk Song) đã đầu tư, phát triển đàn dê và bước đầu mang lại hiệu quả kinh tế khá cao.",
-    "banner": "",
+    "banner": "/img/75489.jpg",
     "__content__": ""
 }
 ---

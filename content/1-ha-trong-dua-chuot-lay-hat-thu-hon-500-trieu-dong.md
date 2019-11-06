@@ -5,7 +5,6 @@
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-10-30T06:00:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "Mỗi năm, một ha đất trồng dưa chuột cho năng suất từ 500 đến 600 kg hạt khô. Theo nhẩm tính của ông Vũ Văn Bàn, ở thôn 6, xã Trường Xuân (Đắk Song) với giá bán từ 900 nghìn đồng đến 1 triệu đồng/kg thì mỗi năm 1 ha dưa chuột đã mang về nguồn thu cho gia đình hơn 500 triệu đồng.",

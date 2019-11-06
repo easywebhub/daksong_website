@@ -75,6 +75,24 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "tan-dung-nguon-thuc-an-trong-vuon-nuoi-de-tang-thu-nhap",
+            "title": "Tận dụng nguồn thức ăn trong vườn, nuôi dê tăng thu nhập",
+            "description": "Tận dụng nguồn thức ăn trong vườn, hộ bà Nguyễn Thị Ánh Thùy, ở thôn 7, xã Trường Xuân (Đắk Song) đã đầu tư, phát triển đàn dê và bước đầu mang lại hiệu quả kinh tế khá cao.",
+            "banner": "/img/75489.jpg"
+        },
+        {
+            "slug": "vuon-rau-thuy-canh-nho-thu-tien-trieu-moi-ngay",
+            "title": "Vườn rau thủy canh nhỏ - thu tiền triệu mỗi ngày",
+            "description": "Sau thời gian ấp ủ, mày mò tìm hiểu quy trình sản xuất rau theo phương pháp thủy canh, tháng 7/2019, anh Huỳnh Xuân Quân, sinh năm 1987, ở thị trấn Đức An (Đắk Song) đã bắt tay đầu tư sản xuất. Sau 3 tháng đi vào hoạt động, hiện anh Quân đã cung cấp nhiều loại rau theo phương pháp này và được thị trường trên địa bàn ưa chuộng.",
+            "banner": "/img/75472.jpg"
+        },
+        {
+            "slug": "1-ha-trong-dua-chuot-lay-hat-thu-hon-500-trieu-dong",
+            "title": "1 ha trồng dưa chuột lấy hạt, thu hơn 500 triệu đồng",
+            "description": "Mỗi năm, một ha đất trồng dưa chuột cho năng suất từ 500 đến 600 kg hạt khô. Theo nhẩm tính của ông Vũ Văn Bàn, ở thôn 6, xã Trường Xuân (Đắk Song) với giá bán từ 900 nghìn đồng đến 1 triệu đồng/kg thì mỗi năm 1 ha dưa chuột đã mang về nguồn thu cho gia đình hơn 500 triệu đồng.",
+            "banner": "/img/3167-KT-1.jpg"
+        },
+        {
             "slug": "dak-song-khen-thuong-thanh-tich-dau-tranh-voi-toi-huy-hoai-rung",
             "title": "Đắk Song: Khen thưởng thành tích đấu tranh với tội hủy hoại rừng",
             "description": "Ngày 28/10, UBND huyện Đắk Song (Đắk Nông) đã trao thưởng đột xuất cho tập thể, cá nhân Công an huyện Đắk Song đã có thành tích xuất sắc trong chuyên án đấu tranh với tội phạm hủy hoại rừng.",
@@ -85,24 +103,6 @@
             "title": "Đại hội đại biểu các dân tộc thiểu số tỉnh Đắk Nông lần thứ III năm 2019",
             "description": "",
             "banner": "/img/75144.jpg"
-        },
-        {
-            "slug": "chuong-trinh-ocop-tao-dong-luc-thuc-day-nong-nghiep-nong-thon-phat-trien",
-            "title": "Chương trình OCOP tạo động lực thúc đẩy nông nghiệp, nông thôn phát triển",
-            "description": "",
-            "banner": "/img/75140.jpg"
-        },
-        {
-            "slug": "9x-khoi-nghiep-tu-nuoi-dong-trung-ha-thao",
-            "title": "9X KHỞI NGHIỆP TỪ NUÔI ĐÔNG TRÙNG HẠ THẢO",
-            "description": "",
-            "banner": "/img/0810201904 - Copy.PNG"
-        },
-        {
-            "slug": "ky-su-dia-chat-the-he-9x-lam-giau-tu-mo-hinh-rau-thuy-canh",
-            "title": "Kỹ sư địa chất  thế hệ 9X làm giàu từ  mô hình rau thủy canh",
-            "description": "",
-            "banner": "/img/02101901 - Copy.PNG"
         }
     ],
     "tag": [],

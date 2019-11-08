@@ -1768,7 +1768,12 @@ td.Time{
 .Apple-style-span p,#tableforprint div, #tableforprint p, #tableforprint span{
 	font-family:Arial!important;
 	font-size:12px!important;
-	width: 455px;
+
+}
+.Apple-style-span p, #tableforprint div, #tableforprint p, #tableforprint span {
+    font-family: Arial!important;
+    font-size: 12px!important;
+    width: 100% !important;
 }
 .css_printandback{
 	float:right;

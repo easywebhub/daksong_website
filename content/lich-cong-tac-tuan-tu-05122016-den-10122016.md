@@ -18,41 +18,40 @@
 <span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><strong>LỊCH C&Ocirc;NG T&Aacute;C TUẦN</strong><br />
 <strong>(Từ ng&agrave;y 05/12/2016 đến ng&agrave;y 10/12/2016)</strong></span></span></p>
 
-<table border="1" class="Table" style="border:solid windowtext 1.0pt; width:491.25pt">
+<table border="1" class="Table" style="border:solid windowtext 1.0pt;">
 	<tbody>
 		<tr>
-			<td style="width:41.4pt">
+			<td>
 			<p style="text-align:center"><strong><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Thứ ng&agrave;y</span></span></strong></p>
 			</td>
-			<td style="width:40.5pt">
+			<td >
 			<p style="text-align:center"><strong><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Thời gian</span></span></strong></p>
 			</td>
-			<td style="width:166.5pt">
+			<td >
 			<p style="text-align:center"><strong><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Nội dung</span></span></strong></p>
 			</td>
-			<td style="width:99.0pt">
+			<td >
 			<p style="text-align:center"><strong><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Địa điểm</span></span></strong></p>
 			</td>
-			<td style="width:94.5pt">
+			<td >
 			<p style="text-align:center"><strong><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Th&agrave;nh phần</span></span></strong></p>
-
 			<p style="text-align:center"><strong><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">tham dự</span></span></strong></p>
 			</td>
-			<td style="width:49.5pt">
+			<td >
 			<p style="text-align:center"><strong><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Xe phục vụ</span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="4" style="width:41.4pt">
+			<td rowspan="4" >
 			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Thứ Hai </span></span></p>
 			</td>
-			<td style="width:40.5pt">
+			<td >
 			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">9h00</span></span></p>
 			</td>
-			<td style="width:166.5pt">
+			<td >
 			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Giao ban L&atilde;nh đạo UBND huyện</span></span></p>
 			</td>
-			<td style="width:99.0pt">
+			<td >
 			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Ph&ograve;ng họp tầng 2</span></span></p>
 			</td>
 			<td style="width:94.5pt">
@@ -61,18 +60,17 @@
 			<td style="text-align:center; width:49.5pt">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="width:40.5pt">
+			<td >
 			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">13h30</span></span></p>
 			</td>
-			<td style="width:166.5pt">
+			<td >
 			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">L&agrave;m việc với đo&agrave;n c&ocirc;ng t&aacute;c khảo s&aacute;t, kiểm tra t&igrave;nh h&igrave;nh thực hiện đề &aacute;n tăng cường hợ t&aacute;c quốc tế hỗ trợ ph&aacute;t triển KT-XH v&ugrave;ng đồng b&agrave;o d&acirc;n tộc thiể số</span></span></p>
 			</td>
-			<td style="width:99.0pt">
+			<td >
 			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Ph&ograve;ng họp tầng 01</span></span></p>
 			</td>
 			<td style="width:94.5pt">
 			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Đ/c N. Văn Ph&ograve;</span></span></p>
-
 			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">PCt - UBND</span></span></p>
 			</td>
 			<td style="text-align:center; width:49.5pt">&nbsp;</td>
@@ -92,12 +90,12 @@
 			<td style="text-align:center; width:49.5pt">&nbsp;</td>
 		</tr>
 		<tr>
-			<td rowspan="4" style="width:41.4pt">
+			<td rowspan="4">
 			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:#0070c0">Thứ Ba</span></span></span></p>
 
 			<p style="text-align:center">&nbsp;</p>
 			</td>
-			<td style="width:40.5pt">
+			<td >
 			<p style="text-align:center">&nbsp;</p>
 			</td>
 			<td style="width:166.5pt">

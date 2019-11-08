@@ -1,950 +1,390 @@
 ---json
-{"slug":"lich-cong-tac-tuan-tu-05122016-den-10122016","layout":"post.html","category":"thong-tin-chi-dao.lich-lam-viec-cua-lanh-dao","title":"Lịch công tác tuần (Từ 05/12/2016 đến 10/12/2016)","description":"","date":"2016-12-05T00:00:00.000Z","banner":"img/LichLV1217.jpg","tag":[],"permalink":true,"draft":"","url":""}
+{
+    "slug": "lich-cong-tac-tuan-tu-05122016-den-10122016",
+    "title": "Lịch công tác tuần (Từ 05/12/2016 đến 10/12/2016)",
+    "category": "thong-tin-chi-dao.lich-lam-viec-cua-lanh-dao",
+    "tag": [],
+    "layout": "post.html",
+    "draft": false,
+    "upload-image": "",
+    "description": "",
+    "banner": "img/LichLV1217.jpg",
+    "permalink": "true",
+    "url": "",
+    "__content__": ""
+}
 ---
-<p class="MsoNormal" align="center" style="text-align:center"><b><span lang="EN-US">HỘI
-ĐỒNG NHÂN DÂN - ỦY BAN NHÂN DÂN </span></b><b>HUYỆN ĐẮK SONG</b><br>
-<b>LỊCH CÔNG TÁC TUẦN</b><br>
-<b><span lang="EN-US">(</span></b><b>Từ
-ngày &nbsp;<span lang="EN-US">05/12</span></b><b>/2016 đến ngày <span lang="EN-US">10/12</span></b><b>/2016<span lang="EN-US">)<o:p></o:p></span></b></p>
+<p style="text-align:center"><strong><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">HỘI ĐỒNG NH&Acirc;N D&Acirc;N - ỦY BAN NH&Acirc;N D&Acirc;N HUYỆN ĐẮK SONG</span></span></strong><br />
+<span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><strong>LỊCH C&Ocirc;NG T&Aacute;C TUẦN</strong><br />
+<strong>(Từ ng&agrave;y 05/12/2016 đến ng&agrave;y 10/12/2016)</strong></span></span></p>
 
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="655" style="border: none;">
- <tbody><tr>
-  <td width="55" style="width:41.4pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><b><span lang="EN-US">Thứ ngày<o:p></o:p></span></b></p>
-  </td>
-  <td width="54" style="width:40.5pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><b><span lang="EN-US">Thời gian<o:p></o:p></span></b></p>
-  </td>
-  <td width="222" style="width:166.5pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><b><span lang="EN-US">Nội dung<o:p></o:p></span></b></p>
-  </td>
-  <td width="132" style="width:99.0pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><b><span lang="EN-US">Địa điểm<o:p></o:p></span></b></p>
-  </td>
-  <td width="126" style="width:94.5pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><b><span lang="EN-US">Thành phần<o:p></o:p></span></b></p>
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><b><span lang="EN-US">tham dự<o:p></o:p></span></b></p>
-  </td>
-  <td width="66" style="width:49.5pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><b><span lang="EN-US">Xe phục vụ<o:p></o:p></span></b></p>
-  </td>
- </tr>
- <tr>
-  <td width="55" rowspan="4" style="width:41.4pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Thứ Hai <o:p></o:p></span></p>
-  </td>
-  <td width="54" style="width:40.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">9h00<o:p></o:p></span></p>
-  </td>
-  <td width="222" style="width:166.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Giao ban Lãnh đạo UBND
-  huyện<o:p></o:p></span></p>
-  </td>
-  <td width="132" style="width:99.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Phòng họp tầng 2<o:p></o:p></span></p>
-  </td>
-  <td width="126" style="width:94.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Tập thể lãnh đạo UBND<o:p></o:p></span></p>
-  </td>
-  <td width="66" style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width="54" style="width:40.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">13h30<o:p></o:p></span></p>
-  </td>
-  <td width="222" style="width:166.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Làm việc với đoàn công
-  tác khảo sát, kiểm tra tình hình thực hiện đề án tăng cường hợ tác quốc tế hỗ
-  trợ phát triển KT-XH vùng đồng bào dân tộc thiể số<o:p></o:p></span></p>
-  </td>
-  <td width="132" style="width:99.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Phòng họp tầng 01<o:p></o:p></span></p>
-  </td>
-  <td width="126" style="width:94.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Đ/c N. Văn Phò</span><o:p></o:p></p>
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">PCt - UBND<o:p></o:p></span></p>
-  </td>
-  <td width="66" style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width="54" style="width:40.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
-  <td width="222" style="width:166.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
-  <td width="132" style="width:99.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
-  <td width="126" style="width:94.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
-  <td width="66" style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width="54" style="width:40.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
-  <td width="222" style="width:166.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
-  <td width="132" style="width:99.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
-  <td width="126" style="width:94.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
-  <td width="66" style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width="55" rowspan="4" style="width:41.4pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">Thứ
-  Ba<o:p></o:p></span></p>
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">&nbsp;</span></p>
-  </td>
-  <td width="54" style="width:40.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">&nbsp;</span></p>
-  </td>
-  <td width="222" style="width:166.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">&nbsp;</span></p>
-  </td>
-  <td width="132" style="width:99.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">&nbsp;</span></p>
-  </td>
-  <td width="126" style="width:94.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">&nbsp;</span></p>
-  </td>
-  <td width="66" style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">&nbsp;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width="54" style="width:40.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">7h30<o:p></o:p></span></p>
-  </td>
-  <td width="222" style="width:166.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">Họp
-  nghe báo cáo kết quả thanh tra Dự án ổn định dân di cư tự do xã Thuận Hà<o:p></o:p></span></p>
-  </td>
-  <td width="132" style="width:99.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">UBND
-  tỉnh<o:p></o:p></span></p>
-  </td>
-  <td width="126" style="width:94.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">Đ/c
-  N. Văn Phò</span><span style="color:#0070C0;mso-ansi-language:VI"><o:p></o:p></span></p>
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">Pct
-  - UBND<o:p></o:p></span></p>
-  </td>
-  <td width="66" style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">0272<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr>
-  <td width="54" style="width:40.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">&nbsp;</span></p>
-  </td>
-  <td width="222" style="width:166.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">&nbsp;</span></p>
-  </td>
-  <td width="132" style="width:99.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">&nbsp;</span></p>
-  </td>
-  <td width="126" style="width:94.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">&nbsp;</span></p>
-  </td>
-  <td width="66" style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">&nbsp;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width="54" style="width:40.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">&nbsp;</span></p>
-  </td>
-  <td width="222" style="width:166.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">&nbsp;</span></p>
-  </td>
-  <td width="132" style="width:99.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">&nbsp;</span></p>
-  </td>
-  <td width="126" style="width:94.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">&nbsp;</span></p>
-  </td>
-  <td width="66" style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">&nbsp;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width="55" rowspan="4" style="width:41.4pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Thứ Tư <o:p></o:p></span></p>
-  </td>
-  <td width="54" style="width:40.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">8h30<o:p></o:p></span></p>
-  </td>
-  <td width="222" style="width:166.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Thẩm định các phương
-  án giá đất cụ thể để tính tiền bồi thường&nbsp;
-  khi nhà nước thu hồi đất&nbsp; xây dựng
-  dự án lưới điện 220Kv<o:p></o:p></span></p>
-  </td>
-  <td width="132" style="width:99.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Sở Tài Chính<o:p></o:p></span></p>
-  </td>
-  <td width="126" style="width:94.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Đ/c N. Văn Phò</span><o:p></o:p></p>
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">PCt - UBND<o:p></o:p></span></p>
-  </td>
-  <td width="66" style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">0272<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr>
-  <td width="54" style="width:40.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">8h00<o:p></o:p></span></p>
-  </td>
-  <td width="222" style="width:166.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Làm việc việc với Cty
-  cổ phần thực phẩm Đồng Giao về đầu tư dự án nhà máy chế biến nông sản<o:p></o:p></span></p>
-  </td>
-  <td width="132" style="width:99.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Phòng họp số 01 VP
-  UBND tỉnh<o:p></o:p></span></p>
-  </td>
-  <td width="126" style="width:94.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Đ/c N. Xuân Thanh</span><o:p></o:p></p>
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Ct - UBND<o:p></o:p></span></p>
-  </td>
-  <td width="66" style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">0170<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr>
-  <td width="54" style="width:40.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">13h30<o:p></o:p></span></p>
-  </td>
-  <td width="222" style="width:166.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Khảo sát mở lối biên
-  giới xã Thuận Hạnh<o:p></o:p></span></p>
-  </td>
-  <td width="132" style="width:99.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Ngoài thực địa<o:p></o:p></span></p>
-  </td>
-  <td width="126" style="width:94.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Đ/c N. Văn Phò</span><o:p></o:p></p>
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">PCt - UBND<o:p></o:p></span></p>
-  </td>
-  <td width="66" style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">0272<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr>
-  <td width="54" style="width:40.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
-  <td width="222" style="width:166.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
-  <td width="132" style="width:99.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
-  <td width="126" style="width:94.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
-  <td width="66" style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width="55" rowspan="4" style="width:41.4pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">Thứ
-  Năm <o:p></o:p></span></p>
-  </td>
-  <td width="54" style="width:40.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">8h00<o:p></o:p></span></p>
-  </td>
-  <td width="222" style="width:166.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">Thẩm
-  định kết quả tự đánh giá công tác CCHC của các xã, thị trấn Đức An năm 2016<o:p></o:p></span></p>
-  </td>
-  <td width="132" style="width:99.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">Phòng
-  họp tầng 2<o:p></o:p></span></p>
-  </td>
-  <td width="126" style="width:94.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">Đ/c
-  N. Xuân Thanh</span><span style="color:#0070C0;mso-ansi-language:VI"><o:p></o:p></span></p>
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">Ct
-  - UBND<o:p></o:p></span></p>
-  </td>
-  <td width="66" style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">&nbsp;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width="54" style="width:40.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">7h30<o:p></o:p></span></p>
-  </td>
-  <td width="222" style="width:166.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">Làm
-  việc với Tòa án nhân dân tỉnh theo đơn kiện của bà Đào<o:p></o:p></span></p>
-  </td>
-  <td width="132" style="width:99.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">Tòa
-  án tỉnh<o:p></o:p></span></p>
-  </td>
-  <td width="126" style="width:94.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">Đ/c
-  N. Văn Phò</span><span style="color:#0070C0;mso-ansi-language:VI"><o:p></o:p></span></p>
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">PCt
-  - UBND<o:p></o:p></span></p>
-  </td>
-  <td width="66" style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">0088<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr>
-  <td width="54" style="width:40.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">8h00<o:p></o:p></span></p>
-  </td>
-  <td width="222" style="width:166.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">Làm
-  việc với Sở Giao thông vận tải Kiểm tra chất lượng công trình<o:p></o:p></span></p>
-  </td>
-  <td width="132" style="width:99.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">Hội
-  trường tầng 3<o:p></o:p></span></p>
-  </td>
-  <td width="126" style="width:94.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">Ban
-  QLDA; phòng KT-HT<o:p></o:p></span></p>
-  </td>
-  <td width="66" style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">&nbsp;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width="54" style="width:40.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">&nbsp;</span></p>
-  </td>
-  <td width="222" style="width:166.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">&nbsp;</span></p>
-  </td>
-  <td width="132" style="width:99.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">&nbsp;</span></p>
-  </td>
-  <td width="126" style="width:94.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">&nbsp;</span></p>
-  </td>
-  <td width="66" style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US" style="color:#0070C0">&nbsp;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width="55" rowspan="5" style="width:41.4pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Thứ Sáu <o:p></o:p></span></p>
-  </td>
-  <td width="54" style="width:40.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">8h00<o:p></o:p></span></p>
-  </td>
-  <td width="222" style="width:166.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Họp Ban chỉ đạo Bình
-  xét các danh hiệu văn hóa năm 2016<o:p></o:p></span></p>
-  </td>
-  <td width="132" style="width:99.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Hội trường tầng 3<o:p></o:p></span></p>
-  </td>
-  <td width="126" style="width:94.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Đ/c N. Ngọc Thân</span><o:p></o:p></p>
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">PCt - UBND<o:p></o:p></span></p>
-  </td>
-  <td width="66" style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width="54" style="width:40.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">8h00<o:p></o:p></span></p>
-  </td>
-  <td width="222" style="width:166.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Hội nghị tổng kết 10
-  năm thực hiện NQ 09-NQ/TU về phát triển du lịch giai đoạn 2006 - 2016<o:p></o:p></span></p>
-  </td>
-  <td width="132" style="width:99.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">UBND tỉnh<o:p></o:p></span></p>
-  </td>
-  <td width="126" style="width:94.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Hoãn họp<o:p></o:p></span></p>
-  </td>
-  <td width="66" style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width="54" style="width:40.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">14h00<o:p></o:p></span></p>
-  </td>
-  <td width="222" style="width:166.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Thẩm định kết quả đánh
-  giá chất lượng tổ chức CSĐ và đảng viên năm 2016<o:p></o:p></span></p>
-  </td>
-  <td width="132" style="width:99.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Phòng họp tầng 2<o:p></o:p></span></p>
-  </td>
-  <td width="126" style="width:94.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Tổ thẩm định Đảng ủy
-  CQCQ<o:p></o:p></span></p>
-  </td>
-  <td width="66" style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width="54" style="width:40.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
-  <td width="222" style="width:166.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
-  <td width="132" style="width:99.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
-  <td width="126" style="width:94.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
-  <td width="66" style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width="54" style="width:40.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
-  <td width="222" style="width:166.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
-  <td width="132" style="width:99.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
-  <td width="126" style="width:94.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
-  <td width="66" style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
- </tr>
- <tr>
-  <td width="55" style="width:41.4pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">Thứ Bảy <o:p></o:p></span></p>
-  </td>
-  <td width="54" style="width:40.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
-  <td width="222" style="width:166.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
-  <td width="132" style="width:99.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
-  <td width="126" style="width:94.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
-  <td width="66" style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
-  <p class="MsoNormal" align="center" style="margin-bottom:0in;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span lang="EN-US">&nbsp;</span></p>
-  </td>
- </tr>
-</tbody></table>
+<table border="1" class="Table" style="border:solid windowtext 1.0pt; width:491.25pt">
+	<tbody>
+		<tr>
+			<td style="width:41.4pt">
+			<p style="text-align:center"><strong><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Thứ ng&agrave;y</span></span></strong></p>
+			</td>
+			<td style="width:40.5pt">
+			<p style="text-align:center"><strong><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Thời gian</span></span></strong></p>
+			</td>
+			<td style="width:166.5pt">
+			<p style="text-align:center"><strong><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Nội dung</span></span></strong></p>
+			</td>
+			<td style="width:99.0pt">
+			<p style="text-align:center"><strong><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Địa điểm</span></span></strong></p>
+			</td>
+			<td style="width:94.5pt">
+			<p style="text-align:center"><strong><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Th&agrave;nh phần</span></span></strong></p>
 
-<p class="MsoNormal"><span lang="EN-US">&nbsp;</span></p>
+			<p style="text-align:center"><strong><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">tham dự</span></span></strong></p>
+			</td>
+			<td style="width:49.5pt">
+			<p style="text-align:center"><strong><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Xe phục vụ</span></span></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="4" style="width:41.4pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Thứ Hai </span></span></p>
+			</td>
+			<td style="width:40.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">9h00</span></span></p>
+			</td>
+			<td style="width:166.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Giao ban L&atilde;nh đạo UBND huyện</span></span></p>
+			</td>
+			<td style="width:99.0pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Ph&ograve;ng họp tầng 2</span></span></p>
+			</td>
+			<td style="width:94.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Tập thể l&atilde;nh đạo UBND</span></span></p>
+			</td>
+			<td style="text-align:center; width:49.5pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width:40.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">13h30</span></span></p>
+			</td>
+			<td style="width:166.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">L&agrave;m việc với đo&agrave;n c&ocirc;ng t&aacute;c khảo s&aacute;t, kiểm tra t&igrave;nh h&igrave;nh thực hiện đề &aacute;n tăng cường hợ t&aacute;c quốc tế hỗ trợ ph&aacute;t triển KT-XH v&ugrave;ng đồng b&agrave;o d&acirc;n tộc thiể số</span></span></p>
+			</td>
+			<td style="width:99.0pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Ph&ograve;ng họp tầng 01</span></span></p>
+			</td>
+			<td style="width:94.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Đ/c N. Văn Ph&ograve;</span></span></p>
+
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">PCt - UBND</span></span></p>
+			</td>
+			<td style="text-align:center; width:49.5pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align:center; width:40.5pt">&nbsp;</td>
+			<td style="text-align:center; width:166.5pt">&nbsp;</td>
+			<td style="text-align:center; width:99pt">&nbsp;</td>
+			<td style="text-align:center; width:94.5pt">&nbsp;</td>
+			<td style="text-align:center; width:49.5pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align:center; width:40.5pt">&nbsp;</td>
+			<td style="text-align:center; width:166.5pt">&nbsp;</td>
+			<td style="text-align:center; width:99pt">&nbsp;</td>
+			<td style="text-align:center; width:94.5pt">&nbsp;</td>
+			<td style="text-align:center; width:49.5pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="4" style="width:41.4pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:#0070c0">Thứ Ba</span></span></span></p>
+
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+			<td style="width:40.5pt">
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+			<td style="width:166.5pt">
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+			<td style="width:99.0pt">
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+			<td style="width:94.5pt">
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+			<td style="width:49.5pt">
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:40.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:#0070c0">7h30</span></span></span></p>
+			</td>
+			<td style="width:166.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:#0070c0">Họp nghe b&aacute;o c&aacute;o kết quả thanh tra Dự &aacute;n ổn định d&acirc;n di cư tự do x&atilde; Thuận H&agrave;</span></span></span></p>
+			</td>
+			<td style="width:99.0pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:#0070c0">UBND tỉnh</span></span></span></p>
+			</td>
+			<td style="width:94.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:#0070c0">Đ/c N. Văn Ph&ograve;</span></span></span></p>
+
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:#0070c0">Pct - UBND</span></span></span></p>
+			</td>
+			<td style="width:49.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:#0070c0">0272</span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:40.5pt">
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+			<td style="width:166.5pt">
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+			<td style="width:99.0pt">
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+			<td style="width:94.5pt">
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+			<td style="width:49.5pt">
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:40.5pt">
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+			<td style="width:166.5pt">
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+			<td style="width:99.0pt">
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+			<td style="width:94.5pt">
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+			<td style="width:49.5pt">
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="4" style="width:41.4pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Thứ Tư </span></span></p>
+			</td>
+			<td style="width:40.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">8h30</span></span></p>
+			</td>
+			<td style="width:166.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Thẩm định c&aacute;c phương &aacute;n gi&aacute; đất cụ thể để t&iacute;nh tiền bồi thường khi nh&agrave; nước thu hồi đất x&acirc;y dựng dự &aacute;n lưới điện 220Kv</span></span></p>
+			</td>
+			<td style="width:99.0pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Sở T&agrave;i Ch&iacute;nh</span></span></p>
+			</td>
+			<td style="width:94.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Đ/c N. Văn Ph&ograve;</span></span></p>
+
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">PCt - UBND</span></span></p>
+			</td>
+			<td style="width:49.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">0272</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:40.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">8h00</span></span></p>
+			</td>
+			<td style="width:166.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">L&agrave;m việc việc với Cty cổ phần thực phẩm Đồng Giao về đầu tư dự &aacute;n nh&agrave; m&aacute;y chế biến n&ocirc;ng sản</span></span></p>
+			</td>
+			<td style="width:99.0pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Ph&ograve;ng họp số 01 VP UBND tỉnh</span></span></p>
+			</td>
+			<td style="width:94.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Đ/c N. Xu&acirc;n Thanh</span></span></p>
+
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Ct - UBND</span></span></p>
+			</td>
+			<td style="width:49.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">0170</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:40.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">13h30</span></span></p>
+			</td>
+			<td style="width:166.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Khảo s&aacute;t mở lối bi&ecirc;n giới x&atilde; Thuận Hạnh</span></span></p>
+			</td>
+			<td style="width:99.0pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Ngo&agrave;i thực địa</span></span></p>
+			</td>
+			<td style="width:94.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Đ/c N. Văn Ph&ograve;</span></span></p>
+
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">PCt - UBND</span></span></p>
+			</td>
+			<td style="width:49.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">0272</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center; width:40.5pt">&nbsp;</td>
+			<td style="text-align:center; width:166.5pt">&nbsp;</td>
+			<td style="text-align:center; width:99pt">&nbsp;</td>
+			<td style="text-align:center; width:94.5pt">&nbsp;</td>
+			<td style="text-align:center; width:49.5pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="4" style="width:41.4pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:#0070c0">Thứ Năm </span></span></span></p>
+			</td>
+			<td style="width:40.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:#0070c0">8h00</span></span></span></p>
+			</td>
+			<td style="width:166.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:#0070c0">Thẩm định kết quả tự đ&aacute;nh gi&aacute; c&ocirc;ng t&aacute;c CCHC của c&aacute;c x&atilde;, thị trấn Đức An năm 2016</span></span></span></p>
+			</td>
+			<td style="width:99.0pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:#0070c0">Ph&ograve;ng họp tầng 2</span></span></span></p>
+			</td>
+			<td style="width:94.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:#0070c0">Đ/c N. Xu&acirc;n Thanh</span></span></span></p>
+
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:#0070c0">Ct - UBND</span></span></span></p>
+			</td>
+			<td style="width:49.5pt">
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:40.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:#0070c0">7h30</span></span></span></p>
+			</td>
+			<td style="width:166.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:#0070c0">L&agrave;m việc với T&ograve;a &aacute;n nh&acirc;n d&acirc;n tỉnh theo đơn kiện của b&agrave; Đ&agrave;o</span></span></span></p>
+			</td>
+			<td style="width:99.0pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:#0070c0">T&ograve;a &aacute;n tỉnh</span></span></span></p>
+			</td>
+			<td style="width:94.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:#0070c0">Đ/c N. Văn Ph&ograve;</span></span></span></p>
+
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:#0070c0">PCt - UBND</span></span></span></p>
+			</td>
+			<td style="width:49.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:#0070c0">0088</span></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:40.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:#0070c0">8h00</span></span></span></p>
+			</td>
+			<td style="width:166.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:#0070c0">L&agrave;m việc với Sở Giao th&ocirc;ng vận tải Kiểm tra chất lượng c&ocirc;ng tr&igrave;nh</span></span></span></p>
+			</td>
+			<td style="width:99.0pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:#0070c0">Hội trường tầng 3</span></span></span></p>
+			</td>
+			<td style="width:94.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:#0070c0">Ban QLDA; ph&ograve;ng KT-HT</span></span></span></p>
+			</td>
+			<td style="width:49.5pt">
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:40.5pt">
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+			<td style="width:166.5pt">
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+			<td style="width:99.0pt">
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+			<td style="width:94.5pt">
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+			<td style="width:49.5pt">
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="5" style="width:41.4pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Thứ S&aacute;u </span></span></p>
+			</td>
+			<td style="width:40.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">8h00</span></span></p>
+			</td>
+			<td style="width:166.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Họp Ban chỉ đạo B&igrave;nh x&eacute;t c&aacute;c danh hiệu văn h&oacute;a năm 2016</span></span></p>
+			</td>
+			<td style="width:99.0pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Hội trường tầng 3</span></span></p>
+			</td>
+			<td style="width:94.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Đ/c N. Ngọc Th&acirc;n</span></span></p>
+
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">PCt - UBND</span></span></p>
+			</td>
+			<td style="text-align:center; width:49.5pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width:40.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">8h00</span></span></p>
+			</td>
+			<td style="width:166.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Hội nghị tổng kết 10 năm thực hiện NQ 09-NQ/TU về ph&aacute;t triển du lịch giai đoạn 2006 - 2016</span></span></p>
+			</td>
+			<td style="width:99.0pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">UBND tỉnh</span></span></p>
+			</td>
+			<td style="width:94.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Ho&atilde;n họp</span></span></p>
+			</td>
+			<td style="text-align:center; width:49.5pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width:40.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">14h00</span></span></p>
+			</td>
+			<td style="width:166.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Thẩm định kết quả đ&aacute;nh gi&aacute; chất lượng tổ chức CSĐ v&agrave; đảng vi&ecirc;n năm 2016</span></span></p>
+			</td>
+			<td style="width:99.0pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Ph&ograve;ng họp tầng 2</span></span></p>
+			</td>
+			<td style="width:94.5pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Tổ thẩm định Đảng ủy CQCQ</span></span></p>
+			</td>
+			<td style="text-align:center; width:49.5pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align:center; width:40.5pt">&nbsp;</td>
+			<td style="text-align:center; width:166.5pt">&nbsp;</td>
+			<td style="text-align:center; width:99pt">&nbsp;</td>
+			<td style="text-align:center; width:94.5pt">&nbsp;</td>
+			<td style="text-align:center; width:49.5pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align:center; width:40.5pt">&nbsp;</td>
+			<td style="text-align:center; width:166.5pt">&nbsp;</td>
+			<td style="text-align:center; width:99pt">&nbsp;</td>
+			<td style="text-align:center; width:94.5pt">&nbsp;</td>
+			<td style="text-align:center; width:49.5pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width:41.4pt">
+			<p style="text-align:center"><span style="font-size:9.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Thứ Bảy </span></span></p>
+			</td>
+			<td style="text-align:center; width:40.5pt">&nbsp;</td>
+			<td style="text-align:center; width:166.5pt">&nbsp;</td>
+			<td style="text-align:center; width:99pt">&nbsp;</td>
+			<td style="text-align:center; width:94.5pt">&nbsp;</td>
+			<td style="text-align:center; width:49.5pt">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:center">&nbsp;</p>

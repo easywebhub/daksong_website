@@ -1,12 +1,12 @@
 ---json
 {
     "slug": "qd-1420-qd-ubnd-ngay-26-thang-08-nam-2019",
-    "category": "thong-tin-chi-dao.chuyen-muc-cchc",
+    "category": "cong-khai.cong-khai-thu-tuc-hanh-chinh",
     "tag": [],
     "layout": "van-ban.html",
     "title": "QUYẾT ĐỊNH  Về việc phê duyệt Danh mục thủ tục hành chính ưu tiên tiếp nhận hồ sơ và trả kết quả qua dịch vụ bưu chính công ích thuộc thẩm quyền giải quyết  của các Sở, Ban, ngành; UBND cấp huyện; UBND cấp xã  trên địa bàn tỉnh Đắk Nông",
     "description": "",
-    "date": "2019-08-27T00:00:00.000Z",
+    "date": "2019-08-27T00:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

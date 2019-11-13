@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-van-hoa",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-11-11T01:30:00.000Z",
+    "date": "2019-11-11T01:00:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "Tại Đêm hội Văn hóa các dân tộc tỉnh chào mừng Đại hội đại biểu các dân tộc thiểu số tỉnh Đắk Nông lần thứ III-năm 2019 mới đây, các nghệ nhân, đồng bào đã giới thiệu, quảng bá nét đẹp văn hóa của các dân tộc trong tỉnh đến đông đảo công chúng.",
@@ -102,4 +102,6 @@
 
 <p>Ngo&agrave;i c&aacute;c ch&iacute;nh s&aacute;ch, đề &aacute;n, h&agrave;ng năm tỉnh v&agrave; c&aacute;c địa phương, đơn vị c&ograve;n thường xuy&ecirc;n tổ chức c&aacute;c chương tr&igrave;nh, hội thi văn h&oacute;a, văn nghệ, qua đ&oacute; kh&iacute;ch lệ, động vi&ecirc;n đồng b&agrave;o giữ g&igrave;n, ph&aacute;t huy văn h&oacute;a của c&aacute;c d&acirc;n tộc, lưu truyền cho thế hệ mai sau.</p>
 
-<p>B&agrave;i, ảnh: Ho&agrave;ng Bảo</p>
+<p style="text-align:right">B&agrave;i, ảnh: Ho&agrave;ng Bảo</p>
+
+<p style="text-align:right">&nbsp;Theo &quot;B&aacute;o Đắk N&ocirc;ng điện tử&quot;</p>

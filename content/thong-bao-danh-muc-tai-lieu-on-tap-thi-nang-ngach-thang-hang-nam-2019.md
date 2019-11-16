@@ -1,12 +1,12 @@
 ---json
 {
     "slug": "thong-bao-danh-muc-tai-lieu-on-tap-thi-nang-ngach-thang-hang-nam-2019",
-    "category": "thong-bao-giay-moi",
+    "category": "thong-bao-giay-moi.thong-bao",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Thông báo danh mục tài liệu ôn tập thi nâng ngạch, thăng hạng năm 2019",
     "description": "",
-    "date": "2019-11-15T09:00:00.000Z",
+    "date": "2019-11-15T09:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

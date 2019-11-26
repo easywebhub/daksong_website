@@ -182,11 +182,11 @@
             "subMenu": [
                 {
                     "title": "Văn bản Trung Ương",
-                    "url": "van-ban-phap-luat/van-ban-trung-uong"
+                    "url": "http://vbpl.vn/TW/Pages/Home.aspx"
                 },
                 {
                     "title": "Văn bản của Tỉnh",
-                    "url": "van-ban-phap-luat/van-ban-cua-tinh"
+                    "url": "http://vbpl.vn/daknong/Pages/home.aspx"
                 },
                 {
                     "title": "Văn bản của Huyện",

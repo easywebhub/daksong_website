@@ -173,27 +173,7 @@
                 }
             ]
         },
-        {
-            "title": "Văn bản QPPL",
-            "url": "van-ban-phap-luat",
-            "type": {
-                "isMulti": true
-            },
-            "subMenu": [
-                {
-                    "title": "Văn bản Trung Ương",
-                    "url": "http://vbpl.vn/TW/Pages/Home.aspx"
-                },
-                {
-                    "title": "Văn bản của Tỉnh",
-                    "url": "http://vbpl.vn/daknong/Pages/home.aspx"
-                },
-                {
-                    "title": "Văn bản của Huyện",
-                    "url": "van-ban-phap-luat/van-ban-cua-huyen"
-                }
-            ]
-        },
+     
         {
             "title": "Công khai",
             "url": "cong-khai",

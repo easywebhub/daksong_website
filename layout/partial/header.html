@@ -25,8 +25,8 @@
           <a class="dropdown-toggle" data-toggle="dropdown" href="#"> {{title}} <span class="caret"></span></a>
           <ul class="dropdown-menu">
             {{#each subMenu}}
-            <li>
-              <a href="{{url}}">{{ title}}</a></li>
+            <li>  <a href="{{url}}">{{title}}{{url}}</a></li>
+              
             {{/each }}
 
           </ul>
@@ -36,6 +36,20 @@
         <li> <a href="{{this.url}}">{{this.title}} </a> </li>
 
         {{/if}} {{/each}}
+        <!-- <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" > Văn bản QPPL <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li>
+              <a href="http://vbpl.vn/TW/Pages/Home.aspx">Văn bản trung ương</a>
+            </li>
+            <li>
+              <a href="http://vbpl.vn/daknong/Pages/home.aspx">Văn bản của Tỉnh</a>
+            </li>
+            <li>
+              <a href="/van-ban-phap-luat/van-ban-cua-huyen">Văn bản của Huyện</a>
+            </li>
+          </ul>
+        </li> -->
       </ul>
 
     </div>

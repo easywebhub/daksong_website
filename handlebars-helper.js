@@ -131,6 +131,16 @@ module.exports = function (Handlebars) {
     /**
      * take item number of array
      */
+    let variableIsUrl = function(variable) {
+        if (variable && variable.indexOf('/') === 0) {
+          
+            return false;
+        } else {
+          
+            return true;
+        }
+    };
+    Handlebars.registerHelper("variableIsUrl", variableIsUrl);
     Handlebars.registerHelper('eachBefore', function (context, options) {
         //let ret = '';
         let fn = options.fn,

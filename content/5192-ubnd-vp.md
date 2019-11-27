@@ -5,7 +5,7 @@
     "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-11-27T08:00:00.000Z",
+    "date": "2019-11-27T08:05:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "Ban Tuyên giáo Trung ương đã ban hành Đề cương tuyên truyền kỷ niệm 30 năm Ngày truyền thống Hội Cựu chiến binh Việt Nam (6/12/1989 - 6/12/2019), Toàn văn Đề cương như sau:",
@@ -67,7 +67,7 @@
 
 <p>Trung ương Hội Cựu chiến binh<strong>&nbsp;</strong>x&acirc;y dựng chương tr&igrave;nh phối hợp với Ch&iacute;nh phủ, c&aacute;c bộ, ng&agrave;nh v&agrave; đo&agrave;n thể như: Bộ N&ocirc;ng nghiệp v&agrave; Ph&aacute;t triển n&ocirc;ng th&ocirc;n, Bộ T&agrave;i nguy&ecirc;n v&agrave; M&ocirc;i trường, Li&ecirc;n minh Hợp t&aacute;c x&atilde; Việt Nam, Bộ C&ocirc;ng an, Tổng cục ch&iacute;nh trị Qu&acirc;n đội Nh&acirc;n d&acirc;n Việt Nam; phối hợp với Ban Chỉ đạo Quốc gia về t&igrave;m kiếm, quy tập h&agrave;i cốt liệt sĩ v&agrave; Hiệp hội Doanh nh&acirc;n Hội Cựu chiến binh Việt Nam tổ chức c&aacute;c chương tr&igrave;nh &quot;Tri &acirc;n đồng đội, vang m&atilde;i kh&uacute;c qu&acirc;n h&agrave;nh&quot;, c&ocirc;ng t&aacute;c đền ơn, đ&aacute;p nghĩa được triển khai hiệu quả từ Trung ương tới địa phương.</p>
 
-<p>C&aacute;c cấp hội đ&atilde; tổ chức triển khai, hưởng ứng nhiều phong tr&agrave;o với nội dung, h&igrave;nh thức phong ph&uacute;, s&aacute;ng tạo, hiệu quả, như: Cuộc vận động &ldquo;CCB Việt Nam tham gia giữ g&igrave;n trật tự an to&agrave;n giao th&ocirc;ng&rdquo;, &quot;To&agrave;n d&acirc;n đo&agrave;n kết x&acirc;y dựng n&ocirc;ng th&ocirc;n mới, đ&ocirc; thị văn minh&quot;, &ldquo;Người Việt Nam ưu ti&ecirc;n d&ugrave;ng h&agrave;ng Việt Nam&rdquo;, Chương tr&igrave;nh mục ti&ecirc;u quốc gia x&acirc;y dựng n&ocirc;ng th&ocirc;n mới; c&aacute;c phong tr&agrave;o ph&ograve;ng, chống tội phạm, ma t&uacute;y v&agrave; tệ nạn; phong tr&agrave;o bảo vệ m&ocirc;i trường v&agrave; vệ sinh an to&agrave;n thực phẩm; chương tr&igrave;nh x&oacute;a đ&oacute;i, giảm ngh&egrave;o&hellip;<a href="file:///C:/Users/ADMIN/Downloads/decuonghoiccb.doc#_ftn2" name="_ftnref2">[2]</a></p>
+<p>C&aacute;c cấp hội đ&atilde; tổ chức triển khai, hưởng ứng nhiều phong tr&agrave;o với nội dung, h&igrave;nh thức phong ph&uacute;, s&aacute;ng tạo, hiệu quả, như: Cuộc vận động &ldquo;CCB Việt Nam tham gia giữ g&igrave;n trật tự an to&agrave;n giao th&ocirc;ng&rdquo;, &quot;To&agrave;n d&acirc;n đo&agrave;n kết x&acirc;y dựng n&ocirc;ng th&ocirc;n mới, đ&ocirc; thị văn minh&quot;, &ldquo;Người Việt Nam ưu ti&ecirc;n d&ugrave;ng h&agrave;ng Việt Nam&rdquo;, Chương tr&igrave;nh mục ti&ecirc;u quốc gia x&acirc;y dựng n&ocirc;ng th&ocirc;n mới; c&aacute;c phong tr&agrave;o ph&ograve;ng, chống tội phạm, ma t&uacute;y v&agrave; tệ nạn; phong tr&agrave;o bảo vệ m&ocirc;i trường v&agrave; vệ sinh an to&agrave;n thực phẩm; chương tr&igrave;nh x&oacute;a đ&oacute;i, giảm ngh&egrave;o&hellip;[2]</p>
 
 <p><strong>4. Vận động qu&acirc;n nh&acirc;n đ&atilde; ho&agrave;n th&agrave;nh nghĩa vụ qu&acirc;n sự tiếp tục ph&aacute;t huy truyền thống &ldquo;Bộ đội Cụ Hồ&rdquo; tham gia tổ chức C&acirc;u lạc bộ, Ban li&ecirc;n lạc Cựu qu&acirc;n nh&acirc;n, t&iacute;ch cực tham gia c&aacute;c phong tr&agrave;o ở cơ sở</strong></p>
 

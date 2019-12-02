@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Trả lời đơn ông Nguyễn Công Ninh, địa chỉ thôn 07, xã Nam Bình, huyện Đắk Song, tỉnh Đắk Nông",
     "description": "",
+    "date": "2019-10-23T00:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

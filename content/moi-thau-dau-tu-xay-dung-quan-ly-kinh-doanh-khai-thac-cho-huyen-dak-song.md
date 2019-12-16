@@ -5,7 +5,7 @@
     "category": "thong-bao-giay-moi.thong-bao",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-12-13T01:00:00.000Z",
+    "date": "2019-12-12T01:00:00.000Z",
     "draft": false,
     "upload-image": "/img/16122019-1.PNG",
     "description": "",

@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "TÀI LIỆU PHỤC VỤ KỲ HỌP THỨ 9 - HĐND HUYỆN KHÓA IV, NHIỆM KỲ 2016-2021",
     "description": "",
+    "date": "2019-12-24T07:30:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

@@ -5,15 +5,15 @@
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-12-27T08:00:00.000Z",
+    "date": "2019-12-27T08:05:00.000Z",
     "draft": false,
-    "upload-image": "",
+    "upload-image": "/img/291220193.PNG",
     "description": "Chiều ngày  26/12 UBND Huyện tổ chức hội nghị tổng kết thực hiện nhiệm vụ năm 2019 và triển khai nhiệm vụ năm 2020; giao chỉ tiêu phát triển kinh tế xã hội và dự toán ngân sách nhà nước năm 2020. Về dự hội nghị có đồng chí Thị Trãi phó chủ tịch HĐND huyện, trưởng các phòng, ban ngành đoàn thể huyện, chủ tịch UBND 8 xã, thị trấn. Đồng chí Nguyễn Xuân Thanh - Chủ tịch UBND huyện chủ trì hội nghị.",
     "banner": "",
     "__content__": ""
 }
 ---
-<p style="text-align:center"><span style="background-color:white"><img alt="Description: C:\Documents and Settings\HuyBao-PC\Local Settings\Temporary Internet Files\Content.Word\20191226_154525.jpg" src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image002.jpg" style="height:303px; width:624px" /></span></p>
+<p style="text-align:center"><img alt="" src="/img/291220191.PNG" /></p>
 
 <p style="text-align:center"><span style="background-color:white"><strong><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">To&agrave;n cảnh hội nghị</span></span></span></strong><strong><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"> Giao chỉ ti&ecirc;u kế hoạch ph&aacute;t triển kinh tế - x&atilde; hội v&agrave; dự to&aacute;n ng&acirc;n s&aacute;ch nh&agrave; nước năm 2020.</span></span></strong></span></p>
 
@@ -21,7 +21,7 @@
 
 <p>&nbsp;</p>
 
-<p style="text-align:center"><img alt="Description: C:\Documents and Settings\HuyBao-PC\Local Settings\Temporary Internet Files\Content.Word\20191226_154921.jpg" src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image004.jpg" style="height:303px; width:465px" /></p>
+<p style="text-align:center"><img alt="" src="/img/291220192.PNG" /></p>
 
 <p style="text-align:center"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Đ/c Nguyễ N Xu&acirc;n Thanh - Chủ tịch UBND huyện ph&aacute;t biểu khai mạc hội nghị Giao chỉ ti&ecirc;u kế hoạch ph&aacute;t triển kinh tế - x&atilde; hội v&agrave; dự to&aacute;n ng&acirc;n s&aacute;ch nh&agrave; nước năm 2020.</span></span></p>
 
@@ -29,7 +29,7 @@
 
 <p><span style="font-size:14.0pt"><span style="background-color:white"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">Tại hội nghị c&aacute;c đại biểu đ&atilde; nghe b&aacute;o c&aacute;o t&oacute;m tắt t&igrave;nh h&igrave;nh thu, chi ng&acirc;n s&aacute;ch huyện năm 2019, giao chỉ ti&ecirc;u ph&aacute;t triển kinh tế -&nbsp; x&atilde; hội v&agrave; dự to&aacute;n ph&acirc;n bổ ng&acirc;n s&aacute;ch nh&agrave; nước năm 2020. Sau khi nghe c&aacute;c nội dung b&aacute;o c&aacute;o, c&aacute;c đại biểu tham dự hội nghị đ&atilde; thảo luận l&agrave;m r&otilde; th&ecirc;m những kết quả đạt được, những tồn tại hạn chế, ph&acirc;n t&iacute;ch nguy&ecirc;n nh&acirc;n, đề xuất một số giải ph&aacute;p để tổ chức thực hiện c&oacute; hiệu quả c&aacute;c nhiệm vụ đ&atilde; đề ra trong năm 2020.</span></span></span></span></p>
 
-<p style="text-align:center"><img alt="Description: C:\Documents and Settings\HuyBao-PC\Local Settings\Temporary Internet Files\Content.Word\20191226_154932.jpg" src="file:///C:\Users\PHANTR~1\AppData\Local\Temp\msohtmlclip1\01\clip_image006.jpg" style="height:303px; width:505px" /></p>
+<p style="text-align:center"><img alt="" src="/img/291220193.PNG" /></p>
 
 <p style="text-align:center"><strong><span style="font-size:14.0pt"><span style="background-color:white"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><span style="color:black">Kết luận hội </span></span></span></span></strong><strong><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">nghị Giao chỉ ti&ecirc;u kế hoạch ph&aacute;t triển kinh tế - x&atilde; hội v&agrave; dự to&aacute;n ng&acirc;n s&aacute;ch nh&agrave; nước năm 2020.</span></span></strong></p>
 

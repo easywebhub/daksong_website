@@ -5,7 +5,7 @@
     "category": "thong-tin-chi-dao.chuyen-muc-cchc",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-12-16T03:30:00.000Z",
+    "date": "2019-12-16T03:35:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "Mặc dù hệ thống dịch vụ công trực tuyến đã được triển khai, đi vào hoạt động khá ổn định nhưng số lượng hồ sơ trực tuyến mức độ 3 và mức độ 4 phát sinh trên hệ thống còn thấp, đòi hỏi các cấp, các ngành phải tăng cường khai thác hiệu quả.",
@@ -60,3 +60,7 @@
 <p>Chỉ thị cũng n&ecirc;u r&otilde;, trong trường hợp giải quyết hồ sơ, kết quả bị sai, bị mất, bị hư hỏng hoặc chậm trả kết quả giải quyết thủ tục h&agrave;nh ch&iacute;nh th&igrave; sẽ bị xử l&yacute; nghi&ecirc;m theo quy định tại Điều 21, Nghị định số 61/2010/NĐ-CP ng&agrave;y 23/4/2018 của Ch&iacute;nh phủ về thực hiện cơ chế một cửa, một cửa li&ecirc;n th&ocirc;ng trong giải quyết thủ tục h&agrave;nh ch&iacute;nh.</p>
 
 <p style="text-align:right">Tường Mạnh</p>
+
+<p style="text-align:right">Theo B&aacute;o Đắk N&ocirc;ng</p>
+
+<p><a href="http://baodaknong.org.vn/cai-cach-hanh-chinh/tang-cuong-hieu-qua-khai-thac-thuc-day-su-dung-dich-vu-cong-truc-tuyen-muc-do-3-va-4-75991.html">http://baodaknong.org.vn/cai-cach-hanh-chinh/tang-cuong-hieu-qua-khai-thac-thuc-day-su-dung-dich-vu-cong-truc-tuyen-muc-do-3-va-4-75991.html</a></p>

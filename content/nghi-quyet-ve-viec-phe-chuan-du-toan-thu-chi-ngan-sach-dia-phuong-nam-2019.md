@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Nghị quyết Về việc phê chuẩn dự toán thu, chi ngân sách địa phương năm 2019",
     "description": "",
-    "date": "2019-01-01T08:19:00.000Z",
+    "date": "2019-01-01T08:24:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",
@@ -22,12 +22,7 @@
     "hinh_thuc_van_ban": "",
     "ngay_ban_hanh": "",
     "so_hieu": "",
-    "upload-image": "/img/2.png",
+    "upload-image": "",
     "__content__": ""
 }
 ---
-<p><img alt="" src="/img/1.png" /></p>
-
-<p><img alt="" src="/img/2.png" /></p>
-
-<p>&nbsp;</p>

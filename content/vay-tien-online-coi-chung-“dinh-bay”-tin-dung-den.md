@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "vay-tien-online-coi-chung-“dinh-bay”-tin-dung-den",
+    "slug": "vay-tien-online-coi-chung-dinh-bay-tin-dung-den",
     "title": "Vay tiền online, coi chừng “dính bẫy” tín dụng đen",
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],

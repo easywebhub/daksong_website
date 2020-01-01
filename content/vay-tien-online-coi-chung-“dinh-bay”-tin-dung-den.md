@@ -2,10 +2,10 @@
 {
     "slug": "vay-tien-online-coi-chung-dinh-bay-tin-dung-den",
     "title": "Vay tiền online, coi chừng “dính bẫy” tín dụng đen",
-    "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
+    "category": "tin-tuc-su-kien.tin-an-ninh-trat-tu",
     "tag": [],
     "layout": "post.html",
-    "date": "2019-12-30T03:33:00.000Z",
+    "date": "2019-12-30T03:38:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "Trong thời gian gần đây, cứ vài ngày, điện thoại của tôi lại nhận được một số tin nhắn dạng mời chào vay tiền qua mạng, với những thông tin về các điều khoản rất dễ dàng, hấp dẫn. Mặc dù không có nhu cầu vay nhưng tôi cũng lên mạng tìm hiểu xem dạng vay tiền online này ra sao mới thấy nhiều điều đáng giật mình.",

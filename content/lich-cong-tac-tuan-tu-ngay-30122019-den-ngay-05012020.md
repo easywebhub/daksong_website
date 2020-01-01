@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "LỊCH CÔNG TÁC TUẦN TỪ NGÀY 30/12/2019 ĐẾN NGÀY 05/01/2020",
     "description": "",
-    "date": "2019-12-30T05:00:00.000Z",
+    "date": "2019-12-30T12:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

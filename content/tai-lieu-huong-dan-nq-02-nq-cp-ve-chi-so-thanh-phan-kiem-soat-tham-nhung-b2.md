@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Tài liệu hướng dẫn thực hiện Nghị quyết số 02/NQ-CP về Chỉ số thành phần về kiểm soát tham nhũng (B2) do thanh tra chính phủ ban hành",
     "description": "",
-    "date": "2020-03-02T00:05:00.000Z",
+    "date": "2020-02-03T00:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

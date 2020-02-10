@@ -5,11 +5,11 @@
     "category": "tin-tuc-su-kien.tin-y-te-giao-duc",
     "tag": [],
     "layout": "post.html",
-    "date": "2020-02-09T09:00:00.000Z",
+    "date": "2020-02-09T09:05:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "Sáng 8/2, tại Hà Nội, Bộ Y tế tổ chức Hội nghị trưc tuyến toàn quốc hướng dẫn điều trị và phòng, chống dịch bệnh viêm đường hô hấp cấp do chủng mới của vi rút Corona (nCoV) gây ra.",
-    "banner": "",
+    "banner": "/img/3240-SK-4.jpg",
     "__content__": ""
 }
 ---

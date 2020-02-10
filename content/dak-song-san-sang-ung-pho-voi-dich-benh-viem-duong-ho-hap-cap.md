@@ -5,11 +5,11 @@
     "category": "tin-tuc-su-kien.tin-y-te-giao-duc",
     "tag": [],
     "layout": "post.html",
-    "date": "2020-02-10T09:00:00.000Z",
+    "date": "2020-02-10T09:05:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "Trước tình hình dịch bệnh viêm đường hô hấp cấp do vi rút Corona mới gây ra đang diễn biến phức tạp, Ban Chỉ đạo phòng, chống dịch bệnh viêm đường hô hấp cấp do vi rút Corona mới gây ra huyện Đắk Song đã tích cực chuẩn bị đầy đủ về nhân lực, vật lực, vật tư y tế, sẵn sàng ứng phó với dịch.",
-    "banner": "",
+    "banner": "/img/3241-SK-8.jpg",
     "__content__": ""
 }
 ---

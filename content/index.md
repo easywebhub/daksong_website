@@ -75,6 +75,24 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "dak-song-san-sang-ung-pho-voi-dich-benh-viem-duong-ho-hap-cap",
+            "title": "Đắk Song sẵn sàng ứng phó với dịch bệnh viêm đường hô hấp cấp",
+            "description": "Trước tình hình dịch bệnh viêm đường hô hấp cấp do vi rút Corona mới gây ra đang diễn biến phức tạp, Ban Chỉ đạo phòng, chống dịch bệnh viêm đường hô hấp cấp do vi rút Corona mới gây ra huyện Đắk Song đã tích cực chuẩn bị đầy đủ về nhân lực, vật lực, vật tư y tế, sẵn sàng ứng phó với dịch.",
+            "banner": "/img/3241-SK-8.jpg"
+        },
+        {
+            "slug": "phong-chong-dich-benh-viem-duong-ho-hap-cap-do-chung-moi-cua-vi-rut-corona-gay-ra",
+            "title": "Ngành Y tế tiếp tục khẩn trương triển khai công tác phòng, chống dịch bệnh viêm đường hô hấp cấp do chủng mới của vi rút Corona gây ra",
+            "description": "Sáng 8/2, tại Hà Nội, Bộ Y tế tổ chức Hội nghị trưc tuyến toàn quốc hướng dẫn điều trị và phòng, chống dịch bệnh viêm đường hô hấp cấp do chủng mới của vi rút Corona (nCoV) gây ra.",
+            "banner": "/img/3240-SK-4.jpg"
+        },
+        {
+            "slug": "diem-giao-dich-dong-nguoi-nang-cao-y-thuc-phong-chong-dich-benh-viem-duong-ho-hap",
+            "title": "Các điểm giao dịch đông người nâng cao ý thức phòng, chống dịch bệnh viêm đường hô hấp cấp",
+            "description": "Nhằm tăng cường công tác phòng, chống dịch bệnh viêm đường hô hấp cấp do chủng mới của vi rút Corona gây ra, hiện nay tại các điểm giao dịch đông người trên địa bàn tỉnh đã chủ động triển khai các biện pháp cần thiết. Nhờ đó, ý thức người dân trong thực hiện phòng, chống dịch bệnh cũng được nâng lên.",
+            "banner": "/img/3239-TT-6.jpg"
+        },
+        {
             "slug": "tan-dung-nguon-thuc-an-trong-vuon-nuoi-de-tang-thu-nhap",
             "title": "Tận dụng nguồn thức ăn trong vườn, nuôi dê tăng thu nhập",
             "description": "Tận dụng nguồn thức ăn trong vườn, hộ bà Nguyễn Thị Ánh Thùy, ở thôn 7, xã Trường Xuân (Đắk Song) đã đầu tư, phát triển đàn dê và bước đầu mang lại hiệu quả kinh tế khá cao.",
@@ -85,24 +103,6 @@
             "title": "Vườn rau thủy canh nhỏ - thu tiền triệu mỗi ngày",
             "description": "Sau thời gian ấp ủ, mày mò tìm hiểu quy trình sản xuất rau theo phương pháp thủy canh, tháng 7/2019, anh Huỳnh Xuân Quân, sinh năm 1987, ở thị trấn Đức An (Đắk Song) đã bắt tay đầu tư sản xuất. Sau 3 tháng đi vào hoạt động, hiện anh Quân đã cung cấp nhiều loại rau theo phương pháp này và được thị trường trên địa bàn ưa chuộng.",
             "banner": "/img/75472.jpg"
-        },
-        {
-            "slug": "1-ha-trong-dua-chuot-lay-hat-thu-hon-500-trieu-dong",
-            "title": "1 ha trồng dưa chuột lấy hạt, thu hơn 500 triệu đồng",
-            "description": "Mỗi năm, một ha đất trồng dưa chuột cho năng suất từ 500 đến 600 kg hạt khô. Theo nhẩm tính của ông Vũ Văn Bàn, ở thôn 6, xã Trường Xuân (Đắk Song) với giá bán từ 900 nghìn đồng đến 1 triệu đồng/kg thì mỗi năm 1 ha dưa chuột đã mang về nguồn thu cho gia đình hơn 500 triệu đồng.",
-            "banner": "/img/3167-KT-1.jpg"
-        },
-        {
-            "slug": "dak-song-khen-thuong-thanh-tich-dau-tranh-voi-toi-huy-hoai-rung",
-            "title": "Đắk Song: Khen thưởng thành tích đấu tranh với tội hủy hoại rừng",
-            "description": "Ngày 28/10, UBND huyện Đắk Song (Đắk Nông) đã trao thưởng đột xuất cho tập thể, cá nhân Công an huyện Đắk Song đã có thành tích xuất sắc trong chuyên án đấu tranh với tội phạm hủy hoại rừng.",
-            "banner": "/img/29102019_banner.png"
-        },
-        {
-            "slug": "dai-hoi-dai-bieu-cac-dan-toc-thieu-so-tinh-dak-nong-lan-thu-iii-nam-2019",
-            "title": "Đại hội đại biểu các dân tộc thiểu số tỉnh Đắk Nông lần thứ III năm 2019",
-            "description": "",
-            "banner": "/img/75144.jpg"
         }
     ],
     "tag": [],

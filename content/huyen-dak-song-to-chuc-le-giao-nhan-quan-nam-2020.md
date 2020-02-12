@@ -5,11 +5,11 @@
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2020-02-12T00:00:00.000Z",
+    "date": "2020-02-12T00:05:00.000Z",
     "draft": false,
-    "upload-image": "/img/h9-12-2-2020.PNG",
+    "upload-image": "/img/h3-12-2-2020.PNG",
     "description": "Sáng 11/02/2020,  Ủy ban nhân dân huyện Đắk Song tổ chức lễ giao nhận quân năm 2020.",
-    "banner": "",
+    "banner": "/img/h4-12-2-2020.PNG",
     "__content__": ""
 }
 ---
@@ -19,27 +19,31 @@
 
 <p style="text-align:justify"><span style="font-size:14.0pt">Nhờ l&agrave;m tốt c&ocirc;ng t&aacute;c tuy&ecirc;n truyền s&acirc;u rộng Luật nghĩa vụ qu&acirc;n sự, k&ecirc;u gọi c&ocirc;ng d&acirc;n trong độ tuổi sẵn s&agrave;ng l&ecirc;n đường nhập ngũ, sơ tuyển, x&eacute;t duyệt c&ocirc;ng khai d&acirc;n chủ, gọi kh&aacute;m sức khỏe với tỉ lệ ph&ugrave; hợp thực hiện &ldquo; 3 cử 4 c&ocirc;ng khai&rdquo; phối hợp chặt chẽ với đơn vị nhận qu&acirc;n&nbsp; v&agrave; ph&aacute;t lệnh nhập ngũ đ&uacute;ng quy định n&ecirc;n số lượng t&acirc;n binh năm nay đảm bảo chỉ ti&ecirc;u giao qu&acirc;n. </span></p>
 
-<p style="text-align:justify"><span style="font-size:14.0pt">Trước ng&agrave;y giao nhận qu&acirc;n, UBND c&aacute;c x&atilde;, thị trấn đ&atilde; tổ chức gặp mặt thăm hỏi, tặng qu&agrave; động vi&ecirc;n tinh thần t&acirc;n binh y&ecirc;n t&acirc;m &nbsp;l&ecirc;n đường nhập ngũ. </span></p>
+<p style="text-align:justify"><span style="font-size:14.0pt">Trước ng&agrave;y giao nhận qu&acirc;n, UBND c&aacute;c x&atilde;, thị trấn đ&atilde; tổ chức gặp mặt thăm hỏi, tặng qu&agrave; động vi&ecirc;n tinh thần t&acirc;n binh y&ecirc;n t&acirc;m &nbsp;l&ecirc;n đường nhập ngũ</span></p>
+
+<p style="text-align:justify"><img alt="" src="/img/h2-12-2-2020.PNG" /></p>
+
+<p style="text-align:justify"><span style="color:#0033ff">Lễ giao nhận qu&acirc;n, t&acirc;n binh</span></p>
 
 <p style="text-align:justify"><img alt="" src="/img/h3-12-2-2020.PNG" /></p>
 
-<p style="text-align:justify">C&aacute;c t&acirc;n binh bước l&ecirc;n cầu vinh quan</p>
+<p style="text-align:justify"><span style="color:#0033ff">C&aacute;c t&acirc;n binh bước l&ecirc;n cầu vinh quan</span></p>
 
 <p style="text-align:justify"><img alt="" src="/img/h6-12-2-2020.PNG" /></p>
 
-<p style="text-align:justify">Đồng ch&iacute; Phan Văn Hợp &ndash; Tỉnh ủy vi&ecirc;n, B&iacute; thư huyện ủy tặng hoa, qu&agrave; động vi&ecirc;n t&acirc;n binh l&ecirc;n đường nhận nhiệm vụ.</p>
+<p style="text-align:justify"><span style="color:#0033ff">Đồng ch&iacute; Phan Văn Hợp &ndash; Tỉnh ủy vi&ecirc;n, B&iacute; thư huyện ủy tặng hoa, qu&agrave; động vi&ecirc;n t&acirc;n binh l&ecirc;n đường nhận nhiệm vụ.</span></p>
 
 <p style="text-align:justify"><img alt="" src="/img/h9-12-2-2020.PNG" /></p>
 
-<p style="text-align:justify">Đồng ch&iacute; Nguyễn Hữu kh&aacute;nh Ph&oacute; b&iacute; thư, chủ tịch UBND&nbsp; huyện tặng hoa, qu&agrave; động vi&ecirc;n t&acirc;n binh l&ecirc;n đường nhận nhiệm vụ.</p>
+<p style="text-align:justify"><span style="color:#0033ff">Đồng ch&iacute; Nguyễn Hữu kh&aacute;nh Ph&oacute; b&iacute; thư, chủ tịch UBND&nbsp; huyện tặng hoa, qu&agrave; động vi&ecirc;n t&acirc;n binh l&ecirc;n đường nhận nhiệm vụ.</span></p>
 
 <p style="text-align:justify"><img alt="" src="/img/h7-12-2-2020.PNG" /></p>
 
-<p style="text-align:justify">Đ/c Nguyễn Xu&acirc;n Thanh &ndash; Chủ tịch UBND huyện tặng hoa, qu&agrave; động vi&ecirc;n t&acirc;n binh l&ecirc;n đường nhận nhiệm vụ.</p>
+<p style="text-align:justify"><span style="color:#0033ff">Đồng ch&iacute;&nbsp;Nguyễn Xu&acirc;n Thanh &ndash; Chủ tịch UBND huyện tặng hoa, qu&agrave; động vi&ecirc;n t&acirc;n binh l&ecirc;n đường nhận nhiệm vụ.</span></p>
 
 <p style="text-align:justify"><img alt="" src="/img/h5-12-2-2020.PNG" /></p>
 
-<p style="text-align:justify">Thiếu t&aacute; Phạm Thanh Ho&agrave;i &ndash; Ph&oacute; chỉ huy trưởng động vi&ecirc;n tuyển qu&acirc;n Bộ&nbsp; chỉ huy Qu&acirc;n sự tỉnh tặng hoa đ&ocirc;ng vi&ecirc;n t&acirc;n binh</p>
+<p style="text-align:justify"><span style="color:#0033ff">Thiếu t&aacute; Phạm Thanh Ho&agrave;i &ndash; Ph&oacute; chỉ huy trưởng động vi&ecirc;n tuyển qu&acirc;n Bộ&nbsp; chỉ huy Qu&acirc;n sự tỉnh tặng hoa đ&ocirc;ng vi&ecirc;n t&acirc;n binh</span></p>
 
 <p style="text-align:justify">&nbsp;</p>
 

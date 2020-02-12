@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "huyen-dak-song-to-chuc-le-giao-nhan-quan-nam-2020",
+            "title": "Huyện Đăk Song tổ chức lễ giao nhận quân năm 2020",
+            "description": "Sáng 11/02/2020,  Ủy ban nhân dân huyện Đắk Song tổ chức lễ giao nhận quân năm 2020.",
+            "banner": "/img/h4-12-2-2020.PNG"
+        },
+        {
             "slug": "dak-song-san-sang-ung-pho-voi-dich-benh-viem-duong-ho-hap-cap",
             "title": "Đắk Song sẵn sàng ứng phó với dịch bệnh viêm đường hô hấp cấp",
             "description": "Trước tình hình dịch bệnh viêm đường hô hấp cấp do vi rút Corona mới gây ra đang diễn biến phức tạp, Ban Chỉ đạo phòng, chống dịch bệnh viêm đường hô hấp cấp do vi rút Corona mới gây ra huyện Đắk Song đã tích cực chuẩn bị đầy đủ về nhân lực, vật lực, vật tư y tế, sẵn sàng ứng phó với dịch.",
@@ -97,12 +103,6 @@
             "title": "Tận dụng nguồn thức ăn trong vườn, nuôi dê tăng thu nhập",
             "description": "Tận dụng nguồn thức ăn trong vườn, hộ bà Nguyễn Thị Ánh Thùy, ở thôn 7, xã Trường Xuân (Đắk Song) đã đầu tư, phát triển đàn dê và bước đầu mang lại hiệu quả kinh tế khá cao.",
             "banner": "/img/75489.jpg"
-        },
-        {
-            "slug": "vuon-rau-thuy-canh-nho-thu-tien-trieu-moi-ngay",
-            "title": "Vườn rau thủy canh nhỏ - thu tiền triệu mỗi ngày",
-            "description": "Sau thời gian ấp ủ, mày mò tìm hiểu quy trình sản xuất rau theo phương pháp thủy canh, tháng 7/2019, anh Huỳnh Xuân Quân, sinh năm 1987, ở thị trấn Đức An (Đắk Song) đã bắt tay đầu tư sản xuất. Sau 3 tháng đi vào hoạt động, hiện anh Quân đã cung cấp nhiều loại rau theo phương pháp này và được thị trường trên địa bàn ưa chuộng.",
-            "banner": "/img/75472.jpg"
         }
     ],
     "tag": [],

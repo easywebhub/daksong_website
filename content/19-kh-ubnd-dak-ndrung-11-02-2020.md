@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Kế hoạch thực hiện công tác tuyên truyền Cải cách hành chính năm 2020",
     "description": "",
+    "date": "2020-02-13T00:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

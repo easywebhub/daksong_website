@@ -1,12 +1,12 @@
 ---json
 {
     "slug": "37-kh-ubnd-dak-song-06-02-2020",
-    "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
+    "category": "thong-tin-chi-dao.chuyen-muc-cchc",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Kế hoạch tuyên truyền Cải cách hành chính năm 2020",
     "description": "",
-    "date": "2020-02-07T00:00:00.000Z",
+    "date": "2020-02-07T00:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

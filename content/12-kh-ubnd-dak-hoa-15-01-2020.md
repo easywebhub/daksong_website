@@ -1,12 +1,12 @@
 ---json
 {
     "slug": "12-kh-ubnd-dak-hoa-15-01-2020",
-    "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-dak-hoa.quy-dinh-ve-tcd-va-giai-quyet-don-thu",
+    "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-dak-hoa.lich-tiep-cong-dan",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Kế hoạch Tổ chức tiếp công dân trước, trong và sau tết Nguyên đán Canh Tý năm 2020",
     "description": "",
-    "date": "2020-01-20T00:00:00.000Z",
+    "date": "2020-01-20T00:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

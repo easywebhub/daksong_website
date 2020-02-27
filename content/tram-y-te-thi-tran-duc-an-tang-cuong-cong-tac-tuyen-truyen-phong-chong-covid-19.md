@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-y-te-giao-duc",
     "tag": [],
     "layout": "post.html",
-    "date": "2020-02-27T00:00:00.000Z",
+    "date": "2020-02-27T00:05:00.000Z",
     "draft": false,
     "upload-image": "/img/27-02-2020-3.PNG",
     "description": "Trước tình hình diễn biến phức tạp của dịch bệnh viêm đường hô hấp cấp do chủng mới của vi rút gây ra trên thế giới cũng như tại Việt Nam.",
@@ -13,11 +13,11 @@
     "__content__": ""
 }
 ---
-<p style="margin-right:-18pt"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">T&iacute;nh đến nay tr&ecirc;n địa b&agrave;n tỉnh Đăk N&ocirc;ng chưa ghi nhận trường hợp mắc virus Corona. Tuy nhi&ecirc;n, ngay từ khi c&oacute; th&ocirc;ng tin về dịch bệnh vi&ecirc;m đường h&ocirc; hấp cấp do chủng mới của virus </span></span></span><span style="font-size:14.0pt"><span style="color:#141515">COVID-19</span></span><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black"> ở Vũ H&aacute;n (Trung Quốc).&nbsp; Trạm y tế thị trấn Đức An huyện Đăk Song đ&atilde; triển khai c&ocirc;ng t&aacute;c ph&ograve;ng chống dịch v&agrave; đẩy mạnh c&ocirc;ng t&aacute;c tuy&ecirc;n truyền, đến đ&ocirc;ng đảo nh&acirc;n d&acirc;n nhận thức r&otilde; về t&igrave;nh h&igrave;nh dịch bệnh, mức độ nguy hiểm v&agrave; c&aacute;ch ph&ograve;ng chống l&acirc;y nhiễm trong cộng đồng.</span></span></span></span></p>
+<p style="margin-right:-18pt"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">T&iacute;nh đến ng&agrave;y 27/02/2020&nbsp;tr&ecirc;n địa b&agrave;n tỉnh Đăk N&ocirc;ng chưa ghi nhận trường hợp mắc virus Corona. Tuy nhi&ecirc;n, ngay từ khi c&oacute; th&ocirc;ng tin về dịch bệnh vi&ecirc;m đường h&ocirc; hấp cấp do chủng mới của virus </span></span></span><span style="font-size:14.0pt"><span style="color:#141515">COVID-19</span></span><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">.&nbsp; Trạm y tế thị trấn Đức An huyện Đăk Song đ&atilde; triển khai c&ocirc;ng t&aacute;c ph&ograve;ng chống dịch v&agrave; đẩy mạnh c&ocirc;ng t&aacute;c tuy&ecirc;n truyền, đến đ&ocirc;ng đảo nh&acirc;n d&acirc;n nhận thức r&otilde; về t&igrave;nh h&igrave;nh dịch bệnh, mức độ nguy hiểm v&agrave; c&aacute;ch ph&ograve;ng chống l&acirc;y nhiễm trong cộng đồng.</span></span></span></span></p>
 
 <p style="margin-right:-18pt">&nbsp;</p>
 
-<p style="margin-right:-18pt"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">B&agrave; Phạm Thị Minh Hậu &ndash; Ph&oacute; Trưởng Trạm y tế thị trấn Đức An huyện Đăk Song cho biết: Sau khi nhận được c&ocirc;ng văn chỉ đạo của Trung ương v&agrave; địa phương trong việc ph&ograve;ng chống dịch bệnh Corona. Trạm y tế thị trấn Đức an đ&atilde; phối hợp với UBND thị trấn tổ chức phun thuốc diệt khuẩn tại c&aacute;c trường học tr&ecirc;n địa b&agrave;n thị trấn. Đồng thời chuẩn bị khu c&aacute;ch ly gồm 4 gường bệnh, trang bị vật tư y tế, thuốc đầy đủ để phục vụ cho việc kh&aacute;m chữa bệnh ban đầu cho người d&acirc;n. </span></span></span></span></p>
+<p style="margin-right:-18pt"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">B&agrave; Phạm Thị Minh Hậu &ndash; Ph&oacute; Trưởng Trạm y tế thị trấn Đức An huyện Đăk Song cho biết: Sau khi nhận được c&ocirc;ng văn chỉ đạo của Trung ương v&agrave; địa phương trong việc ph&ograve;ng chống dịch bệnh Corona. Trạm y tế thị trấn Đức An đ&atilde; phối hợp với UBND thị trấn tổ chức phun thuốc diệt khuẩn tại c&aacute;c trường học tr&ecirc;n địa b&agrave;n thị trấn;&nbsp;Đồng thời, chuẩn bị khu c&aacute;ch ly gồm 4 gường bệnh, trang bị vật tư y tế, thuốc đầy đủ để phục vụ cho việc kh&aacute;m chữa bệnh ban đầu cho người d&acirc;n. </span></span></span></span></p>
 
 <p style="margin-right:-18pt; text-align:center"><img alt="" src="/img/27-02-2020-1.PNG" /></p>
 
@@ -29,7 +29,7 @@
 
 <p style="margin-right:-18pt; text-align:center"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px"><em><span style="background-color:white"><span style="color:black">Nh&acirc;n vi&ecirc;n y tế Trạm y tế thị trấn Đức An ph&aacute;t tờ rơi khuyến c&aacute;o c&aacute;ch ph&ograve;ng bệnh&nbsp; Vi&ecirc;m đường h&ocirc; hấp cấp do Virut Corona</span></span></em></span></span></p>
 
-<p style="margin-right:-18pt"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">Nhờ thế đến nay đa số người d&acirc;n&nbsp; đều&nbsp; nhận thức r&otilde; t&iacute;nh chất nguy hiểm v&agrave; t&aacute;c hại nghi&ecirc;m trọng của dịch bệnh do virut&nbsp; Corona g&acirc;y ra. Từ đ&oacute; mỗi người d&acirc;n đều &yacute; thức trong c&ocirc;ng t&aacute;c ph&ograve;ng chống v&agrave; bảo vệ sức khỏe của m&igrave;nh. </span></span></span></span></p>
+<p style="margin-right:-18pt"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">Nhờ thế,&nbsp;đa số người d&acirc;n&nbsp; đều&nbsp; nhận thức r&otilde; t&iacute;nh chất nguy hiểm v&agrave; t&aacute;c hại nghi&ecirc;m trọng của dịch bệnh do virut&nbsp; Corona g&acirc;y ra. Từ đ&oacute; mỗi người d&acirc;n đều &yacute; thức trong c&ocirc;ng t&aacute;c ph&ograve;ng chống v&agrave; bảo vệ sức khỏe của m&igrave;nh v&agrave; bảo vệ &nbsp;chung cho cộng đồng.</span></span></span></span></p>
 
 <p style="margin-right:-18pt; text-align:center"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14.0pt"><span style="background-color:white"><span style="color:black">&nbsp;&nbsp;<img alt="" src="/img/27-02-2020-3.PNG" /></span></span></span></span></p>
 

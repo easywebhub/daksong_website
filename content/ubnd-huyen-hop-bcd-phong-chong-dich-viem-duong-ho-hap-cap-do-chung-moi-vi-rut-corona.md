@@ -1,0 +1,34 @@
+---json
+{
+    "slug": "ubnd-huyen-hop-bcd-phong-chong-dich-viem-duong-ho-hap-cap-do-chung-moi-vi-rut-corona",
+    "title": "UBND huyện Đắk Song họp Ban chỉ đạo phòng chống dịch viêm đường hô hấp cấp do chủng mới vi rút Corona.",
+    "category": "tin-tuc-su-kien.tin-y-te-giao-duc",
+    "tag": [],
+    "layout": "post.html",
+    "date": "2020-02-21T02:56:00.000Z",
+    "draft": false,
+    "upload-image": "/img/27-02-2020-04.PNG",
+    "description": "Sáng ngày 19/2/2020, UBND huyện Đắk Song họp Ban chỉ đạo phòng chống dịch viêm đường hô hôp cấp do chủng mới viêm đường hô hâp cấp gây ra.",
+    "banner": "",
+    "__content__": ""
+}
+---
+<p><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14.0pt">Tham dự c&oacute; l&atilde;nh đạo c&aacute;c ph&ograve;ng ban, ng&agrave;nh của huyện, Chủ tịch UBND c&aacute;c x&atilde; thị trấn , trưởng &nbsp;Trạm y tế &nbsp;08 x&atilde;, thị trấn. Đồng ch&iacute; Nguyễn Ngọc Th&acirc;n - Ph&oacute; chủ tịch UBND huyện ph&oacute; trưởng Ban chỉ đạo ph&ograve;ng chống dịch chủ tr&igrave; hội nghị.</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14.0pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tại hội nghị, c&aacute;c đại biểu đ&atilde; được nghe trung t&acirc;m Y tế huyện th&ocirc;ng b&aacute;o c&ocirc;ng t&aacute;c ph&ograve;ng chống dịch bệnh vi&ecirc;m đường h&ocirc; hấp cấp do chủng mới vi r&uacute;t corona g&acirc;y ra tr&ecirc;n địa b&agrave;n huyện. <span style="background-color:white">Theo đ&oacute;, Ban chỉ đạo c&oacute; nhiệm vụ x&acirc;y dựng v&agrave; chỉ đạo c&oacute; hiệu quả kế hoạch ph&ograve;ng, chống dịch bệnh vi&ecirc;m đường h&ocirc; hấp cấp do chủng mới của virus Corona g&acirc;y ra; Hướng dẫn, đ&ocirc;n đốc, kiểm tra, gi&aacute;m s&aacute;t v&agrave; đ&ocirc;n đốc c&aacute;c cơ quan, ban, ng&agrave;nh, UBND c&aacute;c x&atilde;, thị trấn thực hiện c&aacute;c biện ph&aacute;p ph&ograve;ng, chống dịch bệnh&hellip;/</span> </span></span></p>
+
+<p><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14.0pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cuộc họp&nbsp;đ&atilde; tập trung thảo luận l&ecirc;n kế hoạch cụ thể, chi tết về phương &aacute;n c&aacute;ch ly tại nh&agrave; v&agrave; c&aacute;ch l&yacute; tập trung. Cụ thể, địa điểm khu c&aacute;ch ly tập trung ở trường THCS Nguyễn Ch&iacute; Thanh x&atilde; Đắk H&ograve;a, với quy m&ocirc; 100 giường bệnh.</span></span></p>
+
+<p style="text-align:center"><span style="font-family:Times New Roman,Times,serif"><img alt="" src="/img/27-02-2020.PNG" /></span></p>
+
+<p style="text-align:center"><span style="font-family:Times New Roman,Times,serif"><strong><span style="font-size:14.0pt">C&aacute;c đại biểu Thảo luận tại hội nghị .</span></strong></span></p>
+
+<p style="text-align:center"><img alt="" src="/img/27-02-2020-04.PNG" /></p>
+
+<p style="text-align:center"><strong><span style="font-size:14.0pt"><span style="background-color:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#444444">Đ/c Nguyễn Ngọc Th&acirc;n Ph&oacute; chủ tịch UBND huyện, Ph&oacute;&nbsp; Ban chỉ đạo Ph&aacute;t biểu kết luận hội nghị. </span></span></span></span></strong></p>
+
+<p><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14.0pt"><span style="background-color:white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph&aacute;t biểu kết luận cuộc họp, đồng ch&iacute; Nguyễn Ngọc Th&acirc;n - Ph&oacute; Chủ tịch UBND huyện, Ph&oacute; Trưởng Ban chỉ đạo ph&ograve;ng, chống dịch bệnh vi&ecirc;m đường h&ocirc; hấp cấp do chủng mới của vi r&uacute;t Corona g&acirc;y ra của huyện y&ecirc;u cầu: C&aacute;c cơ quan, ban, ng&agrave;nh v&agrave; UBND c&aacute;c x&atilde;, thị trấn thực hiện nghi&ecirc;m, quyết liệt chỉ đạo của Ban B&iacute; thư Trung ương Đảng, của Thủ tướng Ch&iacute;nh phủ, của Tỉnh ủy, UBND tỉnh v&agrave; Huyện ủy về việc tăng cường c&ocirc;ng t&aacute;c ph&ograve;ng, chống dịch vi&ecirc;m đường h&ocirc; hấp cấp do chủng mới của vi r&uacute;t Corona g&acirc;y ra; phải coi trọng c&ocirc;ng t&aacute;c ph&ograve;ng, chống dịch bệnh như chống giặc. Mặc d&ugrave; đến nay tr&ecirc;n địa b&agrave;n huyện chưa c&oacute; trường hợp n&agrave;o mắc bệnh n&agrave;y nhưng c&aacute;c cơ quan, ban, ng&agrave;nh, địa phương phải hết sức khẩn trương triển khai c&aacute;c biện ph&aacute;p ph&ograve;ng, chống dịch bệnh, tuyệt đối kh&ocirc;ng được lơ l&agrave;, chủ quan, ki&ecirc;n quyết ngăn chặn dịch bệnh vi&ecirc;m đường h&ocirc; hấp cấp do chủng mới của của vi r&uacute;t Corona g&acirc;y ra. UBND c&aacute;c x&atilde; phải chủ động, nắm chắc t&igrave;nh h&igrave;nh dịch bệnh ở địa phương, hết sức b&igrave;nh tĩnh, kh&ocirc;ng hoang mang, lo lắng. Ng&agrave;nh Y tế huyện phải c&oacute; phương &aacute;n, kế hoạch cụ thể để kiểm so&aacute;t tốt nhất dịch bệnh, c&oacute; biện ph&aacute;p chủ động xử l&yacute; kịp thời theo diễn biến của dịch bệnh, kh&ocirc;ng để lan rộng. Ph&ograve;ng lao động Thương binh v&agrave; x&atilde; hội huyện Tăng cường việc gi&aacute;m s&aacute;t c&ocirc;ng d&acirc;n, lao động nước ngo&agrave;i sinh sống, l&agrave;m việc tại Việt Nam về qu&ecirc; ăn Tết ở v&ugrave;ng c&oacute; dịch nay trở lại Việt Nam đến địa b&agrave;n huyện, theo d&otilde;i chặt chẽ c&aacute;c trường hợp nghi ngờ nhiễm bệnh trong v&ograve;ng 14 ng&agrave;y; c&aacute;ch ly, điều trị kịp thời c&aacute;c trường hợp nhiễm bệnh, thực hiện việc ti&ecirc;u độc, khử tr&ugrave;ng c&aacute;c điểm nghi ngờ dịch bệnh theo quy định. Trung t&acirc;m văn h&oacute;a&nbsp; Thể thao v&agrave; Truyền th&ocirc;ng huyện&nbsp; tăng cương tuy&ecirc;n truyền v&agrave; viết c&aacute;c tin b&agrave;i c&ocirc;ng t&aacute;c ph&ograve;ng chống dịch tr&ecirc;n trang th&ocirc;ng tin điện tử huyện&hellip;./</span></span></span></p>
+
+<p style="text-align:right"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14.0pt"><span style="background-color:white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Vương Hợp &ndash; PT. </strong></span></span></span></p>

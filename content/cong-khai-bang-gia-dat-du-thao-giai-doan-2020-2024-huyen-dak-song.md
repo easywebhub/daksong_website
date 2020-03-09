@@ -6,7 +6,6 @@
     "layout": "van-ban.html",
     "title": "Công khai bảng giá đất dự thảo giai đoạn 2020-2024 huyện Đắk Song",
     "description": "",
-    "date": "2020-03-27T00:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

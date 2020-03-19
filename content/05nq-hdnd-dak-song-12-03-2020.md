@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Nghị quyết về việc thông qua Đồ án điều chỉnh quy hoạch chung thị trấn Đức An, huyện Đắk Song, tỉnh Đắk Nông đến năm 2030",
     "description": "",
+    "date": "2020-03-16T00:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "Về việc thông qua Đồ án điều chỉnh quy hoạch chung thị trấn Đức An, huyện Đắk Song, tỉnh Đắk Nông đến năm 2030",

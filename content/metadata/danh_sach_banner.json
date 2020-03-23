@@ -65,6 +65,10 @@
             "duong_dan": "http://congbao.chinhphu.vn/"
         },
         {
+            "hinh_anh": "/hinh-anh/banner/covid_19.jpg",
+            "duong_dan": "http://baodaknong.org.vn/chu-de/dich-viem-phoi-virus-corona-27.html/"
+        },
+        {
             "hinh_anh": "/hinh-anh/banner/qppl.png",
             "duong_dan": "/gop-y-du-thao-van-ban-qppl/"
         },

@@ -9,7 +9,7 @@
     "draft": false,
     "upload-image": "",
     "description": "Ngày 9/3/2020, Bộ Thông tin và Truyền thông và Bộ Y tế đã ra mắt hai ứng dụng: Ứng dụng NCOVI dành cho người dân Việt Nam và Ứng dụng Vietnam Health Declaration dành cho người nhập cảnh vào Việt Nam.",
-    "banner": "",
+    "banner": "/img/23-03-2020-1.PNG",
     "__content__": ""
 }
 ---

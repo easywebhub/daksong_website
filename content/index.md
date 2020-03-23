@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "ung-dung-khai-bao-y-te-toan-dan-ncov",
+            "title": "Ứng dụng khai báo Y tế toàn dân NCOV",
+            "description": "Ngày 9/3/2020, Bộ Thông tin và Truyền thông và Bộ Y tế đã ra mắt hai ứng dụng: Ứng dụng NCOVI dành cho người dân Việt Nam và Ứng dụng Vietnam Health Declaration dành cho người nhập cảnh vào Việt Nam.",
+            "banner": "/img/23-03-2020-1.PNG"
+        },
+        {
             "slug": "huyen-dak-song-to-chuc-le-giao-nhan-quan-nam-2020",
             "title": "Huyện Đăk Song tổ chức lễ giao nhận quân năm 2020",
             "description": "Sáng 11/02/2020,  Ủy ban nhân dân huyện Đắk Song tổ chức lễ giao nhận quân năm 2020.",
@@ -97,12 +103,6 @@
             "title": "Các điểm giao dịch đông người nâng cao ý thức phòng, chống dịch bệnh viêm đường hô hấp cấp",
             "description": "Nhằm tăng cường công tác phòng, chống dịch bệnh viêm đường hô hấp cấp do chủng mới của vi rút Corona gây ra, hiện nay tại các điểm giao dịch đông người trên địa bàn tỉnh đã chủ động triển khai các biện pháp cần thiết. Nhờ đó, ý thức người dân trong thực hiện phòng, chống dịch bệnh cũng được nâng lên.",
             "banner": "/img/3239-TT-6.jpg"
-        },
-        {
-            "slug": "tan-dung-nguon-thuc-an-trong-vuon-nuoi-de-tang-thu-nhap",
-            "title": "Tận dụng nguồn thức ăn trong vườn, nuôi dê tăng thu nhập",
-            "description": "Tận dụng nguồn thức ăn trong vườn, hộ bà Nguyễn Thị Ánh Thùy, ở thôn 7, xã Trường Xuân (Đắk Song) đã đầu tư, phát triển đàn dê và bước đầu mang lại hiệu quả kinh tế khá cao.",
-            "banner": "/img/75489.jpg"
         }
     ],
     "tag": [],

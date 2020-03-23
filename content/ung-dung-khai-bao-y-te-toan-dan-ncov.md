@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-y-te-giao-duc",
     "tag": [],
     "layout": "post.html",
-    "date": "2020-03-20T00:00:00.000Z",
+    "date": "2020-03-20T00:05:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "Ngày 9/3/2020, Bộ Thông tin và Truyền thông và Bộ Y tế đã ra mắt hai ứng dụng: Ứng dụng NCOVI dành cho người dân Việt Nam và Ứng dụng Vietnam Health Declaration dành cho người nhập cảnh vào Việt Nam.",
@@ -13,7 +13,7 @@
     "__content__": ""
 }
 ---
-<h1><span style="font-size:16px">Trước những diễn biến mới của dịch bệnh COVID-19 ở Việt Nam v&agrave; tr&ecirc;n thế giới, nhằm gi&uacute;p người d&acirc;n tr&ecirc;n địa b&agrave;n tỉnh nắm bắt được đầy đủ th&ocirc;ng tin, c&aacute;c khuyến c&aacute;o về ph&ograve;ng, chống dịch bệnh từ Ch&iacute;nh phủ, Ban chỉ đạo Quốc gia ph&ograve;ng, chống dịch COVID-19, Trang th&ocirc;ng tin điện tử huyện Đắk Song cung cấp một số t&agrave;i liệu, đường link ch&iacute;nh thức để tải ứng dụng,&nbsp;như sau:</span></h1>
+<p><span style="font-size:16px">Trước những diễn biến mới của dịch bệnh COVID-19 ở Việt Nam v&agrave; tr&ecirc;n thế giới, nhằm gi&uacute;p người d&acirc;n tr&ecirc;n địa b&agrave;n tỉnh nắm bắt được đầy đủ th&ocirc;ng tin, c&aacute;c khuyến c&aacute;o về ph&ograve;ng, chống dịch bệnh từ Ch&iacute;nh phủ, Ban chỉ đạo Quốc gia ph&ograve;ng, chống dịch COVID-19, Trang th&ocirc;ng tin điện tử huyện Đắk Song cung cấp một số t&agrave;i liệu, đường link ch&iacute;nh thức để tải ứng dụng,&nbsp;như sau:</span></p>
 
 <h1><span style="font-size:16px">- Link tải ứng dụng NCOVI tr&ecirc;n Android:</span></h1>
 

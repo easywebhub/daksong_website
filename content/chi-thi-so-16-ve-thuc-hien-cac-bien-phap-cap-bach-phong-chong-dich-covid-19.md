@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Chỉ thị số 16 về thực hiện các biện pháp cấp bách phòng, chống dịch COVID-19",
     "description": "",
-    "date": "2020-03-31T06:17:00.000Z",
+    "date": "2020-03-31T06:22:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",
@@ -26,9 +26,9 @@
     "__content__": ""
 }
 ---
-<p>H&ocirc;m nay, Thủ tướng ban h&agrave;nh Chỉ thị số 16 về thực hiện c&aacute;c biện ph&aacute;p cấp b&aacute;ch ph&ograve;ng, chống dịch COVID-19. Cụ thể, nội dung như sau:</p>
-
-<p>Dịch bệnh COVID-19 đ&atilde; b&ugrave;ng ph&aacute;t tr&ecirc;n phạm vi to&agrave;n cầu l&agrave;m tr&ecirc;n 72 vạn người mắc, gần 3,5 vạn người tử vong ở tr&ecirc;n 200 quốc gia, v&ugrave;ng l&atilde;nh thổ v&agrave; chưa c&oacute; dấu hiệu dừng lại. Ở Việt Nam, số ca mắc đang tăng nhanh từng ng&agrave;y v&agrave; c&oacute; nguy cơ cao l&acirc;y nhiễm trong cộng đồng. Dự b&aacute;o, dịch bệnh sẽ l&acirc;y lan nhanh tr&ecirc;n diện rộng, đe dọa nghi&ecirc;m trọng đến t&iacute;nh mạng, sức khỏe con người v&agrave; kinh tế - x&atilde; hội của đất nước.<br />
+<p><span style="font-size:16px"><span style="font-family:&quot;Times New Roman&quot;,serif">H&ocirc;m nay, Thủ tướng ban h&agrave;nh Chỉ thị số 16 về thực hiện c&aacute;c biện ph&aacute;p cấp b&aacute;ch ph&ograve;ng, chống dịch COVID-19. Cụ thể, nội dung như sau:<br />
+<br />
+Dịch bệnh COVID-19 đ&atilde; b&ugrave;ng ph&aacute;t tr&ecirc;n phạm vi to&agrave;n cầu l&agrave;m tr&ecirc;n 72 vạn người mắc, gần 3,5 vạn người tử vong ở tr&ecirc;n 200 quốc gia, v&ugrave;ng l&atilde;nh thổ v&agrave; chưa c&oacute; dấu hiệu dừng lại. Ở Việt Nam, số ca mắc đang tăng nhanh từng ng&agrave;y v&agrave; c&oacute; nguy cơ cao l&acirc;y nhiễm trong cộng đồng. Dự b&aacute;o, dịch bệnh sẽ l&acirc;y lan nhanh tr&ecirc;n diện rộng, đe dọa nghi&ecirc;m trọng đến t&iacute;nh mạng, sức khỏe con người v&agrave; kinh tế - x&atilde; hội của đất nước.<br />
 <br />
 Thực hiện Lời k&ecirc;u gọi của Tổng B&iacute; thư, Chủ tịch nước Nguyễn Ph&uacute; Trọng, với tinh thần coi trọng sức khỏe v&agrave; t&iacute;nh mạng của con người l&agrave; tr&ecirc;n hết, để tiếp tục chủ động ngăn chặn, kiểm so&aacute;t dịch bệnh, Thủ tướng Ch&iacute;nh phủ y&ecirc;u cầu c&aacute;c Bộ, cơ quan ngang bộ, cơ quan thuộc Ch&iacute;nh phủ, Ủy ban nh&acirc;n d&acirc;n tỉnh, th&agrave;nh phố trực thuộc Trung ương tập trung cao độ thực hiện c&aacute;c biện ph&aacute;p ph&ograve;ng chống dịch đ&atilde; đề ra, nhất l&agrave; Chỉ thị số 15/CT-TTg ng&agrave;y 27 th&aacute;ng 3 năm 2020, tu&acirc;n thủ c&aacute;c chỉ đạo của Ban chỉ đạo quốc gia ph&ograve;ng, chống dịch COVID-19, thực hiện c&oacute; hiệu quả c&aacute;c biện ph&aacute;p cấp b&aacute;ch sau:<br />
 <br />
@@ -39,7 +39,7 @@ Thủ tướng Ch&iacute;nh phủ y&ecirc;u cầu to&agrave;n thể nh&acirc;n d
 Ủy ban nh&acirc;n d&acirc;n c&aacute;c tỉnh, th&agrave;nh phố c&oacute; li&ecirc;n quan phối hợp chặt chẽ với c&aacute;c Bộ v&agrave; 2 Th&agrave;nh phố thực hiện tốt nhiệm vụ n&agrave;y. Thực hiện c&aacute;ch ly tại gia đ&igrave;nh, khai b&aacute;o y tế để ph&acirc;n loại, x&eacute;t nghiệm v&agrave; c&aacute;ch ly tập trung nếu cần thiết đối với người đ&atilde; qua lại Bệnh viện Bạch Mai từ ng&agrave;y 12 th&aacute;ng 3 năm 2020; giao ch&iacute;nh quyền cơ sở tổ chức gi&aacute;m s&aacute;t chặt chẽ tại từng gia đ&igrave;nh.<br />
 Bộ C&ocirc;ng an v&agrave; Uỷ ban nh&acirc;n d&acirc;n cấp tỉnh tiếp tục khẩn trương thực hiện r&agrave; so&aacute;t, kiểm tra y tế, cập nhật t&igrave;nh h&igrave;nh sức khỏe của những người đ&atilde; nhập cảnh từ ng&agrave;y 8 th&aacute;ng 3 năm 2020 nhưng chưa &aacute;p dụng c&aacute;ch ly; lập danh s&aacute;ch những người đ&atilde; tiếp x&uacute;c trực tiếp, tiếp x&uacute;c gần để ph&acirc;n loại s&agrave;ng lọc, &aacute;p dụng biện ph&aacute;p c&aacute;ch ly ph&ugrave; hợp (c&aacute;ch ly tập trung, tại nh&agrave;, cơ sở lưu tr&uacute;).<br />
 <br />
-3. C&aacute;c cơ quan, đơn vị nh&agrave; nước bố tr&iacute; cho c&aacute;n bộ, c&ocirc;ng chức, vi&ecirc;n chức sử dụng c&ocirc;ng nghệ th&ocirc;ng tin l&agrave;m việc tại nh&agrave;; chỉ những trường hợp thật sự cần thiết như trực chiến đấu, trực cơ quan, cung ứng h&agrave;ng h&oacute;a dịch vụ thiết yếu, xử l&yacute; t&agrave;i liệu mật v&agrave; c&aacute;c nhiệm vụ cần thiết kh&aacute;c theo y&ecirc;u cầu mới đến&nbsp;l&agrave;m việc tại c&ocirc;ng sở; tăng cường tổ chức họp trực tuyến. Người đứng đầu chịu tr&aacute;ch nhiệm về việc c&aacute;n bộ, nh&acirc;n vi&ecirc;n l&acirc;y nhiễm dịch bệnh do kh&ocirc;ng chấp h&agrave;nh nghi&ecirc;m quy định ph&ograve;ng, chống dịch tại c&ocirc;ng sở.<br />
+3. C&aacute;c cơ quan, đơn vị nh&agrave; nước bố tr&iacute; cho c&aacute;n bộ, c&ocirc;ng chức, vi&ecirc;n chức sử dụng c&ocirc;ng nghệ th&ocirc;ng tin l&agrave;m việc tại nh&agrave;; chỉ những trường hợp thật sự cần thiết như trực chiến đấu, trực cơ quan, cung ứng h&agrave;ng h&oacute;a dịch vụ thiết yếu, xử l&yacute; t&agrave;i liệu mật v&agrave; c&aacute;c nhiệm vụ cần thiết kh&aacute;c theo y&ecirc;u cầu mới đến l&agrave;m việc tại c&ocirc;ng sở; tăng cường tổ chức họp trực tuyến. Người đứng đầu chịu tr&aacute;ch nhiệm về việc c&aacute;n bộ, nh&acirc;n vi&ecirc;n l&acirc;y nhiễm dịch bệnh do kh&ocirc;ng chấp h&agrave;nh nghi&ecirc;m quy định ph&ograve;ng, chống dịch tại c&ocirc;ng sở.<br />
 <br />
 4. Bộ Giao th&ocirc;ng vận tải, Ủy ban nh&acirc;n d&acirc;n c&aacute;c tỉnh, th&agrave;nh phố chỉ đạo cơ bản dừng hoạt động vận chuyển h&agrave;nh kh&aacute;ch c&ocirc;ng cộng. Hạn chế tối đa việc di chuyển từ địa b&agrave;n, khu vực n&agrave;y sang địa b&agrave;n, khu vực kh&aacute;c; dừng việc di chuyển từ v&ugrave;ng c&oacute; dịch đến c&aacute;c địa phương kh&aacute;c, trừ trường hợp đặc biệt v&igrave; l&yacute; do c&ocirc;ng vụ v&agrave; c&aacute;c trường hợp cung cấp lương thực, thực phẩm, nhu yếu phẩm cần thiết, xe đưa đ&oacute;n c&ocirc;ng nh&acirc;n, chuy&ecirc;n gia của c&aacute;c doanh nghiệp, chuy&ecirc;n chở nguy&ecirc;n vật liệu sản xuất.<br />
 <br />
@@ -62,10 +62,12 @@ d) Tổ chức, sắp xếp việc tiếp tục kh&aacute;m chữa bệnh tại 
 <br />
 11. C&aacute;c Bộ, ng&agrave;nh, địa phương v&agrave; c&aacute;c cơ quan b&aacute;o ch&iacute; tiếp tục đẩy mạnh th&ocirc;ng tin, tuy&ecirc;n truyền ủng hộ chủ trương bảo vệ sức khỏe của nh&acirc;n d&acirc;n, chấn chỉnh một số b&aacute;o r&uacute;t t&iacute;t g&acirc;y hoang mang, hiểu nhầm. Người chịu tr&aacute;ch nhiệm ph&ograve;ng, chống dịch kh&ocirc;ng ph&aacute;t ng&ocirc;n g&acirc;y hoảng loạn trong nh&acirc;n d&acirc;n.<br />
 <br />
-12. Bộ C&ocirc;ng Thương, Ủy ban nh&acirc;n d&acirc;n c&aacute;c địa phương ch&uacute; &yacute; bảo đảm h&agrave;ng h&oacute;a, lương thực, thực phẩm thiết yếu cho nh&acirc;n d&acirc;n.</p>
+12. Bộ C&ocirc;ng Thương, Ủy ban nh&acirc;n d&acirc;n c&aacute;c địa phương ch&uacute; &yacute; bảo đảm h&agrave;ng h&oacute;a, lương thực, thực phẩm thiết yếu cho nh&acirc;n d&acirc;n.</span></span></p>
 
-<p style="text-align:center"><img alt="" src="/img/CT-16-31-03-2020.PNG" /></p>
+<p style="text-align:center">&nbsp;</p>
 
-<p style="text-align:center"><img alt="" src="/img/CT-16-31-03-2020-02.PNG" /></p>
+<p style="text-align:center">&nbsp;</p>
 
-<p style="text-align:center"><img alt="" src="/img/CT-16-31-03-2020-03.PNG" /></p>
+<p style="text-align:center">&nbsp;</p>
+
+<p>&nbsp;</p>

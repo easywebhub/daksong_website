@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Chỉ thị số 16 về thực hiện các biện pháp cấp bách phòng, chống dịch COVID-19",
     "description": "",
-    "date": "2020-03-31T06:22:00.000Z",
+    "date": "2020-03-31T06:27:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",
@@ -50,7 +50,7 @@ c) B&aacute;o c&aacute;o Thủ tướng Ch&iacute;nh phủ c&aacute;c phương &
 d) Tổ chức, sắp xếp việc tiếp tục kh&aacute;m chữa bệnh tại Bệnh viện Bạch Mai (H&agrave; Nội), bảo đảm an to&agrave;n cho c&aacute;n bộ, nh&acirc;n vi&ecirc;n y tế v&agrave; nh&acirc;n d&acirc;n theo đề nghị của Ban Chỉ đạo v&agrave; Bộ Y tế.<br />
 đ) Xem x&eacute;t, xử l&yacute; c&aacute;c kiến nghị của Ủy ban nh&acirc;n d&acirc;n th&agrave;nh phố H&agrave; Nội, hỗ trợ, tạo điều kiện cho H&agrave; Nội kiểm so&aacute;t dịch bệnh tr&ecirc;n địa b&agrave;n.<br />
 <br />
-6. Bộ Y tế tổng hợp v&agrave; định kỳ c&ocirc;ng bố 2 lần/ng&agrave;y kết quả x&eacute;t nghi&ecirc;m dương t&iacute;nh ở c&aacute;c địa phương, bảo đảm ch&iacute;nh x&aacute;c.<br />
+6. Bộ Y tế tổng hợp v&agrave; định kỳ c&ocirc;ng bố 2 lần/ng&agrave;y kết quả x&eacute;t nghiệm dương t&iacute;nh ở c&aacute;c địa phương, bảo đảm ch&iacute;nh x&aacute;c.<br />
 <br />
 7. Tạm thời đ&oacute;ng cửa c&aacute;c cửa khẩu ch&iacute;nh, cửa khẩu phụ d&agrave;nh cho người qua lại từ 00 giờ ng&agrave;y 01 th&aacute;ng 4 năm 2020 tr&ecirc;n tuyến bi&ecirc;n giới với L&agrave;o v&agrave; Campuchia. Kiểm so&aacute;t chặt chẽ việc nhập cảnh qua c&aacute;c cửa khẩu quốc tế tr&ecirc;n c&aacute;c tuyến bi&ecirc;n giới đường bộ; tất cả người nhập cảnh từ L&agrave;o, Campuchia đều phải c&aacute;ch ly tập trung 14 ng&agrave;y.<br />
 <br />
@@ -63,6 +63,12 @@ d) Tổ chức, sắp xếp việc tiếp tục kh&aacute;m chữa bệnh tại 
 11. C&aacute;c Bộ, ng&agrave;nh, địa phương v&agrave; c&aacute;c cơ quan b&aacute;o ch&iacute; tiếp tục đẩy mạnh th&ocirc;ng tin, tuy&ecirc;n truyền ủng hộ chủ trương bảo vệ sức khỏe của nh&acirc;n d&acirc;n, chấn chỉnh một số b&aacute;o r&uacute;t t&iacute;t g&acirc;y hoang mang, hiểu nhầm. Người chịu tr&aacute;ch nhiệm ph&ograve;ng, chống dịch kh&ocirc;ng ph&aacute;t ng&ocirc;n g&acirc;y hoảng loạn trong nh&acirc;n d&acirc;n.<br />
 <br />
 12. Bộ C&ocirc;ng Thương, Ủy ban nh&acirc;n d&acirc;n c&aacute;c địa phương ch&uacute; &yacute; bảo đảm h&agrave;ng h&oacute;a, lương thực, thực phẩm thiết yếu cho nh&acirc;n d&acirc;n.</span></span></p>
+
+<p style="text-align:center"><span style="font-size:16px"><span style="font-family:&quot;Times New Roman&quot;,serif"><img alt="" src="/img/CT-16-31-03-2020.PNG" /></span></span></p>
+
+<p style="text-align:center"><span style="font-size:16px"><span style="font-family:&quot;Times New Roman&quot;,serif"><img alt="" src="/img/CT-16-31-03-2020-02.PNG" /></span></span></p>
+
+<p style="text-align:center"><span style="font-size:16px"><span style="font-family:&quot;Times New Roman&quot;,serif"><img alt="" src="/img/CT-16-31-03-2020-03.PNG" /></span></span></p>
 
 <p style="text-align:center">&nbsp;</p>
 

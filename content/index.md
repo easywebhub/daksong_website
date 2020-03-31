@@ -75,16 +75,16 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "chi-thi-so-16-ve-thuc-hien-cac-bien-phap-cap-bach-phong-chong-dich-covid-19",
+            "title": "Chỉ thị số 16 về thực hiện các biện pháp cấp bách phòng, chống dịch COVID-19",
+            "description": "Hôm nay, Thủ tướng ban hành Chỉ thị số 16 về thực hiện các biện pháp cấp bách phòng, chống dịch COVID-19. Cụ thể, nội dung như sau:",
+            "banner": "/img/CT-16-31-03-2020 - Copy.PNG"
+        },
+        {
             "slug": "ung-dung-khai-bao-y-te-toan-dan-ncov",
             "title": "Ứng dụng khai báo Y tế toàn dân NCOV",
             "description": "Ngày 9/3/2020, Bộ Thông tin và Truyền thông và Bộ Y tế đã ra mắt hai ứng dụng: Ứng dụng NCOVI dành cho người dân Việt Nam và Ứng dụng Vietnam Health Declaration dành cho người nhập cảnh vào Việt Nam.",
             "banner": "/img/23-03-2020-1.PNG"
-        },
-        {
-            "slug": "huyen-dak-song-to-chuc-le-giao-nhan-quan-nam-2020",
-            "title": "Huyện Đăk Song tổ chức lễ giao nhận quân năm 2020",
-            "description": "Sáng 11/02/2020,  Ủy ban nhân dân huyện Đắk Song tổ chức lễ giao nhận quân năm 2020.",
-            "banner": "/img/h4-12-2-2020.PNG"
         },
         {
             "slug": "dak-song-san-sang-ung-pho-voi-dich-benh-viem-duong-ho-hap-cap",

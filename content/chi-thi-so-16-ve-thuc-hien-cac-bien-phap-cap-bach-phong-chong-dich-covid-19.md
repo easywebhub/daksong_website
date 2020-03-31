@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Chỉ thị số 16 về thực hiện các biện pháp cấp bách phòng, chống dịch COVID-19",
     "description": "",
-    "date": "2020-03-31T06:12:00.000Z",
+    "date": "2020-03-31T06:17:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",
@@ -26,6 +26,8 @@
     "__content__": ""
 }
 ---
+<p><span style="font-size:14px">H&ocirc;m nay, Thủ tướng ban h&agrave;nh Chỉ thị số 16 về thực hiện c&aacute;c biện ph&aacute;p cấp b&aacute;ch ph&ograve;ng, chống dịch COVID-19. Cụ thể, nội dung như sau:</span></p>
+
 <p><span style="font-size:14px">Dịch bệnh COVID-19 đ&atilde; b&ugrave;ng ph&aacute;t tr&ecirc;n phạm vi to&agrave;n cầu l&agrave;m tr&ecirc;n 72 vạn người mắc, gần 3,5 vạn người tử vong ở tr&ecirc;n 200 quốc gia, v&ugrave;ng l&atilde;nh thổ v&agrave; chưa c&oacute; dấu hiệu dừng lại. Ở Việt Nam, số ca mắc đang tăng nhanh từng ng&agrave;y v&agrave; c&oacute; nguy cơ cao l&acirc;y nhiễm trong cộng đồng. Dự b&aacute;o, dịch bệnh sẽ l&acirc;y lan nhanh tr&ecirc;n diện rộng, đe dọa nghi&ecirc;m trọng đến t&iacute;nh mạng, sức khỏe con người v&agrave; kinh tế - x&atilde; hội của đất nước.<br />
 <br />
 Thực hiện Lời k&ecirc;u gọi của Tổng B&iacute; thư, Chủ tịch nước Nguyễn Ph&uacute; Trọng, với tinh thần coi trọng sức khỏe v&agrave; t&iacute;nh mạng của con người l&agrave; tr&ecirc;n hết, để tiếp tục chủ động ngăn chặn, kiểm so&aacute;t dịch bệnh, Thủ tướng Ch&iacute;nh phủ y&ecirc;u cầu c&aacute;c Bộ, cơ quan ngang bộ, cơ quan thuộc Ch&iacute;nh phủ, Ủy ban nh&acirc;n d&acirc;n tỉnh, th&agrave;nh phố trực thuộc Trung ương tập trung cao độ thực hiện c&aacute;c biện ph&aacute;p ph&ograve;ng chống dịch đ&atilde; đề ra, nhất l&agrave; Chỉ thị số 15/CT-TTg ng&agrave;y 27 th&aacute;ng 3 năm 2020, tu&acirc;n thủ c&aacute;c chỉ đạo của Ban chỉ đạo quốc gia ph&ograve;ng, chống dịch COVID-19, thực hiện c&oacute; hiệu quả c&aacute;c biện ph&aacute;p cấp b&aacute;ch sau:<br />

@@ -77,7 +77,7 @@
         {
             "slug": "chi-thi-so-16-ve-thuc-hien-cac-bien-phap-cap-bach-phong-chong-dich-covid-19",
             "title": "Chỉ thị số 16 về thực hiện các biện pháp cấp bách phòng, chống dịch COVID-19",
-            "description": "Hôm nay, Thủ tướng ban hành Chỉ thị số 16 về thực hiện các biện pháp cấp bách phòng, chống dịch COVID-19. Cụ thể, nội dung như sau:",
+            "description": "",
             "banner": "/img/CT-16-31-03-2020 - Copy.PNG"
         },
         {

@@ -5,7 +5,7 @@
     "tag": [],
     "layout": "van-ban.html",
     "title": "Chỉ thị số 16 về thực hiện các biện pháp cấp bách phòng, chống dịch COVID-19",
-    "description": "Hôm nay, Thủ tướng ban hành Chỉ thị số 16 về thực hiện các biện pháp cấp bách phòng, chống dịch COVID-19. Cụ thể, nội dung như sau:",
+    "description": "",
     "date": "2020-03-31T06:12:00.000Z",
     "so": "",
     "permalink": true,

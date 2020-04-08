@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2020-04-07T00:00:00.000Z",
+    "date": "2020-04-07T00:05:00.000Z",
     "draft": false,
     "upload-image": "/img/04-04-2020-02.PNG",
     "description": "Hưởng ứng lời kêu gọi của Ban chỉ đạo Phòng chống dịch Covid – 19 huyện Đắk Song, ngày 4/4, Hội doanh nghiệp huyện Đắk Song đã quyên góp hỗ trợ cho hoạt động chống dịch huyện 50 triệu đồng.",
@@ -21,9 +21,15 @@
 
 <p><img alt="" src="/img/04-04-2020.PNG" /></p>
 
+<p>Hội doanh nghiệp huyện Đắk Song hỗ trợ 30 triệu đồng tại trung t&acirc;m y tế huyện.</p>
+
 <p><img alt="" src="/img/04-04-2020-01.PNG" /></p>
 
+<p>Hội doanh nghiệp huyện Đắk Song hỗ trợ 20 triệu đồng tại khu c&aacute;ch ly x&atilde; Đắk H&ograve;a</p>
+
 <p style="text-align:justify"><img alt="" src="/img/04-04-2020-02.PNG" /></p>
+
+<p style="text-align:justify">C&aacute; nh&acirc;n ủng hộ c&ocirc;ng t&aacute;c ph&ograve;ng chống dich co vid -19.</p>
 
 <p><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">DANH S&Aacute;CH HỘI DOANH NGHIỆP ỦNG HỘ PH&Ograve;NG CHỐNG DỊCH COVID - 19</span></span></p>
 

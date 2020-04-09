@@ -5,7 +5,7 @@
     "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
     "tag": [],
     "layout": "post.html",
-    "date": "2020-03-04T00:00:00.000Z",
+    "date": "2020-03-04T00:05:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "Chiều ngày 26/12/2019, tại Hà Nội, Tổng cục Giáo dục nghề nghiệp – Bộ Lao động - Thương binh và Xã hội đã tổ chức Lễ công bố 02 trang thông tin phục vụ cho công tác quản lý nhà nước, hỗ trợ các tổ chức, cá nhân, các doanh nghiệp trong việc tra cứu văn bằng và thông tin kết nối giáo dục nghề nghiệp và doanh nghiệp; đồng thời cũng thể hiện việc đẩy mạnh ứng dụng công nghệ thông tin trong hoạt động giáo dục nghề nghiệp. Đó là: (1) Trang thông tin tra cứu văn bằng giáo dục nghề nghiệp và (2) Trang thông tin kết nối doanh nghiệp.",
@@ -29,4 +29,4 @@
 
 <p style="margin-left:0mm; margin-right:0mm"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:black">Điểm nổi bật của Trang ch&iacute;nh l&agrave; mục Diễn đ&agrave;n, cho ph&eacute;p người sử dụng đăng k&yacute; th&agrave;nh vi&ecirc;n v&agrave; tham gia v&agrave;o thảo luận theo c&aacute;c chủ đề c&oacute; sẵn, hoặc đ&atilde; được c&aacute;c th&agrave;nh vi&ecirc;n kh&aacute;c tạo lập hoặc tự tạo ra chủ đề để thảo luận. Diễn đ&agrave;n l&agrave; nơi trao đổi, thảo luận c&aacute;c th&ocirc;ng tin về ch&iacute;nh s&aacute;ch, ph&aacute;p luật, c&aacute;c hoạt động của doanh nghiệp, GDNN... phục vụ cho c&ocirc;ng t&aacute;c quản l&yacute; nh&agrave; nước, c&aacute;c doanh nghiệp, c&aacute;c chuy&ecirc;n gia v&agrave; c&aacute;c c&aacute; nh&acirc;n quan t&acirc;m, muốn đ&oacute;ng g&oacute;p &yacute; kiến cho GDNN.</span></span></span></p>
 
-<p style="margin-left:36pt; margin-right:0mm; text-align:right"><strong><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:black">TỔNG CỤC GI&Aacute;O DỤC NGHỀ NGHIỆP</span></span></span></strong></p>
+<p style="margin-left:36pt; margin-right:0mm"><strong><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:black">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;TỔNG CỤC GI&Aacute;O DỤC NGHỀ NGHIỆP</span></span></span></strong></p>

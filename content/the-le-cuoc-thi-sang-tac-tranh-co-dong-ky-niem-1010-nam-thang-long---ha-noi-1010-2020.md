@@ -1,6 +1,6 @@
 ---json
 {
-    "slug": "the-le-cuoc-thi-sang-tac-tranh-co-dong-ky-niem-1010-nam-thang-long---ha-noi-1010-2020",
+    "slug": "the-le-cuoc-thi-sang-tac-tranh-co-dong-ky-niem-1010-nam-thang-long-ha-noi-1010-2020",
     "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
     "tag": [],
     "layout": "van-ban.html",

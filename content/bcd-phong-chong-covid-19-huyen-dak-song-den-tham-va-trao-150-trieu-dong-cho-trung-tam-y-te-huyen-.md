@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2020-04-15T03:55:00.000Z",
+    "date": "2020-04-15T03:50:00.000Z",
     "draft": false,
     "upload-image": "/img/15-04-2020-1.PNG",
     "description": "",
@@ -16,3 +16,5 @@
 <p>Ng&agrave;y 15/4/2020, &ocirc;ng Nguyễn Xu&acirc;n Thanh - Chủ tịch UBND huyện Đắk Song, Trưởng BCĐ ph&ograve;ng chống dịch COVID-19 huyện đến thăm v&agrave; trao nguồn kinh ph&iacute; quy&ecirc;n g&oacute;p cho Trung t&acirc;m Y tế huyện mua sắm trang thiết bị phục vụ c&ocirc;ng t&aacute;c ph&ograve;ng chống dịch COVID-19 ./.</p>
 
 <p style="text-align:center"><img alt="" src="/img/15-04-2020-1.PNG" /></p>
+
+<p style="text-align:right">HL <em>st</em></p>

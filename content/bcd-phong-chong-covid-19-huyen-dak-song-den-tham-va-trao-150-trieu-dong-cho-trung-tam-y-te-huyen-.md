@@ -1,11 +1,11 @@
 ---json
 {
-    "slug": "bcd-phong-chong-covid-19-huyen-dak-song-den-tham-va-trao-150-trieu-dong-cho-trung-tam-y-te-huyen-",
+    "slug": "bcd-phong-chong-covid-19-huyen-dak-song-den-tham-va-trao-150-trieu-dong-cho-trung-tam-y-te-huyen",
     "title": "Ban Chỉ đạo phòng chống Covid-19 huyện Đắk Song đến thăm và trao 150 triệu đồng cho Trung tâm Y tế huyện.",
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2020-04-15T04:00:00.000Z",
+    "date": "2020-04-15T03:55:00.000Z",
     "draft": false,
     "upload-image": "/img/15-04-2020-1.PNG",
     "description": "",

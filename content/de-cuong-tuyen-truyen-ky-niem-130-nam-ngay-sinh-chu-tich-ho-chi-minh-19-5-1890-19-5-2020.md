@@ -1,15 +1,15 @@
 ---json
 {
     "slug": "de-cuong-tuyen-truyen-ky-niem-130-nam-ngay-sinh-chu-tich-ho-chi-minh-19-5-1890-19-5-2020",
-    "title": "Đề cương tuyên truyền kỷ niệm 130 năm ngày sinh Chủ tịch Hồ Chí Minh 19 5 1890 19 5 2020",
+    "title": "Đề cương tuyên truyền kỷ niệm 130 năm ngày sinh Chủ tịch Hồ Chí Minh (19/5/1890-19/5/2020)",
     "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
     "tag": [],
     "layout": "post.html",
-    "date": "2020-04-29T00:00:00.000Z",
+    "date": "2020-04-29T00:05:00.000Z",
     "draft": false,
     "upload-image": "/img/Ho-Chi-Minh.PNG",
     "description": "",
-    "banner": "",
+    "banner": "/img/Ho-Chi-Minh.PNG",
     "__content__": ""
 }
 ---

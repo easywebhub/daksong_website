@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Tài liệu phục vụ hội nghị giao ban tháng 04  năm 2020 ",
     "description": "",
+    "date": "2020-05-06T10:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

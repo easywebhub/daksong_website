@@ -1,12 +1,12 @@
 ---json
 {
-    "slug": "tai-lieu-phuc-vu-hop-giao-ban",
+    "slug": "tai-lieu-phuc-vu-hoi-nghi-giao-ban-thang-04-nam-2020",
     "category": "thong-bao-giay-moi.tai-lieu-hop-truc-tuyen",
     "tag": [],
     "layout": "van-ban.html",
-    "title": "Tài liệu phục vụ hội nghị giao ban tháng 04  năm 2020 ",
+    "title": "Tài liệu phục vụ hội nghị giao ban tháng 04 năm 2020",
     "description": "",
-    "date": "2020-05-06T10:05:00.000Z",
+    "date": "2020-05-06T10:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

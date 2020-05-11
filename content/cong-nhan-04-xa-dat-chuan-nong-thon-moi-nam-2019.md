@@ -5,6 +5,7 @@
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
+    "date": "2020-05-09T07:13:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "Sáng ngày 8/5, Hội đồng thẩm định xã nông thôn mới (NTM) tỉnh tổ chức họp xét công nhận 04 xã đạt chuẩn NTM năm 2019, gồm các xã: Đức Mạnh (Đắk Mil); Đắk R'moan (Thành phố Gia Nghĩa); Thuận Hạnh, Nam Bình (Đắk Song).",

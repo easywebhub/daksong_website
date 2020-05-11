@@ -54,7 +54,7 @@
         },
         {
             "hinh_anh": "/hinh-anh/banner/dvcong.jpg",
-            "duong_dan": "http://motcua.daknong.gov.vn/trang-chu/tra-cuu/bo-thu-tuc?ma-cap-thu-tuc=2&ma-co-quan=UBNDHDS&ma-phuong-xa=&active-tab=cap-huyen-xa"
+            "duong_dan": "https://dichvucong.daknong.gov.vn/dichvucong/bothutuc?AllThuTuc=1&maThuTuc=&numCQ=30&dieuKienMoRong=&maCoQuan=UBNDHDS&maLinhVuc=&maMucDo=&maCapTT="
         },
         {
             "hinh_anh": "/hinh-anh/banner/GPLX.jpg",
@@ -79,7 +79,7 @@
     ],
     "danh_sach_banner_nho": [
         {
-            "hinh_anh": "/banner/130-nam-CT-HCM.png",
+            "hinh_anh": "/banner/130-nam-CT-HCM.PNG",
             "duong_dan": ""
         }
     ]

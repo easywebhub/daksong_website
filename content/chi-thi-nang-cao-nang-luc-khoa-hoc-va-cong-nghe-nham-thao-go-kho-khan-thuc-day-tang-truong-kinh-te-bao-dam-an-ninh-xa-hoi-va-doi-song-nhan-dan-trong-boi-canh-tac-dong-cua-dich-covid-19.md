@@ -1,12 +1,12 @@
 ---json
 {
     "slug": "chi-thi-nang-cao-nang-luc-khoa-hoc-va-cong-nghe-nham-thao-go-kho-khan-thuc-day-tang-truong-kinh-te-bao-dam-an-ninh-xa-hoi-va-doi-song-nhan-dan-trong-boi-canh-tac-dong-cua-dich-covid-19",
-    "category": "thong-tin-chi-dao",
+    "category": "thong-tin-chi-dao.y-kien-chi-dao-phan-hoi",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Chỉ thị Nâng cao năng lực khoa học và công nghệ nhằm tháo gỡ khó khăn, thúc đẩy tăng trưởng kinh tế, bảo đảm an ninh xã hội và đời sống nhân dân trong bối cảnh tác động của dịch COVID 19",
     "description": "",
-    "date": "2020-05-15T09:46:00.000Z",
+    "date": "2020-05-15T09:51:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

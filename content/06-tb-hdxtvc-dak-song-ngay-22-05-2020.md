@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Thông báo kết quả kiểm tra Phiếu đăng ký hồ sơ dự tuyển (vòng 01), kế hoạch phỏng vấn (vòng 2) kỳ xét tuyển viên chức sự nghiệp giáo dục năm 2020",
     "description": "",
-    "date": "2020-05-22T08:00:00.000Z",
+    "date": "2020-05-22T07:30:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

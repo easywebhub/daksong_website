@@ -6,7 +6,6 @@
     "layout": "van-ban.html",
     "title": "Công bố Danh mục thủ tục hành chính sửa đổi, bổ sung, thay thế, bãi bỏ lĩnh vực Giáo dục và Đào tạo thuộc thẩm quyền giải quyết của Sở Giáo dục và Đào tạo tỉnh Đắk Nông",
     "description": "",
-    "date": "2018-11-13T01:40:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "Công bố Danh mục thủ tục hành chính sửa đổi, bổ sung, thay thế, bãi bỏ lĩnh vực Giáo dục và Đào tạo thuộc thẩm quyền giải quyết của Sở Giáo dục và Đào tạo tỉnh Đắk Nông",
@@ -22,6 +21,7 @@
     "hinh_thuc_van_ban": "",
     "ngay_ban_hanh": "",
     "so_hieu": "",
+    "upload-image": "",
     "__content__": ""
 }
 ---

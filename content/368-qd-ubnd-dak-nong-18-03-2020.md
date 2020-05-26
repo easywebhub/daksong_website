@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Quyết định công bố Danh mục thủ tục hành chính bị bãi bỏ lĩnh vực Đường thủy nội địa thuộc phạm vi quản lý của Sở Giao thông vận tải",
     "description": "",
+    "date": "2020-03-19T05:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

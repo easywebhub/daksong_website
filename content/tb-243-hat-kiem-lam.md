@@ -5,6 +5,7 @@
     "category": "thong-bao-giay-moi.thong-bao",
     "tag": [],
     "layout": "post.html",
+    "date": "2019-08-27T05:00:00.000Z",
     "draft": false,
     "upload-image": "/img/HATKIEMLAM_TB243_01.PNG",
     "description": "",

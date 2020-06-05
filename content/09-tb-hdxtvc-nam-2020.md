@@ -6,7 +6,6 @@
     "layout": "van-ban.html",
     "title": "Thông báo Về việc đính chính thông tin tại Thông báo số 06/TB-HĐXTVC ngày 22/5/2020 của Hội đồng xét tuyển viên chức sự nghiệp về kết quả kiểm tra Phiếu đăng ký hồ sơ dự tuyển (vòng 01), kế hoạch phỏng vấn vòng 2 kỳ xét tuyển viên chức giáo dục sư nghiệp năm 2020.",
     "description": "",
-    "date": "2020-06-04T07:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

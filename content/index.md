@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "09-tb-hdxtvc-nam-2020",
+            "title": "Thông báo Về việc đính chính thông tin tại Thông báo số 06/TB-HĐXTVC ngày 22/5/2020 của Hội đồng xét tuyển viên chức sự nghiệp về kết quả kiểm tra Phiếu đăng ký hồ sơ dự tuyển (vòng 01), kế hoạch phỏng vấn vòng 2 kỳ xét tuyển viên chức giáo dục sư nghiệp năm 2020",
+            "description": "Nhằm tăng cường công tác phòng, chống dịch bệnh viêm đường hô hấp cấp do chủng mới của vi rút Corona gây ra, hiện nay tại các điểm giao dịch đông người trên địa bàn tỉnh đã chủ động triển khai các biện pháp cần thiết. Nhờ đó, ý thức người dân trong thực hiện phòng, chống dịch bệnh cũng được nâng lên.",
+            "banner": "/img/TB 09 XTVC 4062020.PNG"
+        },
+        {
             "slug": "chi-thi-so-16-ve-thuc-hien-cac-bien-phap-cap-bach-phong-chong-dich-covid-19",
             "title": "Chỉ thị số 16 về thực hiện các biện pháp cấp bách phòng, chống dịch COVID-19",
             "description": "",
@@ -97,12 +103,6 @@
             "title": "Ngành Y tế tiếp tục khẩn trương triển khai công tác phòng, chống dịch bệnh viêm đường hô hấp cấp do chủng mới của vi rút Corona gây ra",
             "description": "Sáng 8/2, tại Hà Nội, Bộ Y tế tổ chức Hội nghị trưc tuyến toàn quốc hướng dẫn điều trị và phòng, chống dịch bệnh viêm đường hô hấp cấp do chủng mới của vi rút Corona (nCoV) gây ra.",
             "banner": "/img/3240-SK-4.jpg"
-        },
-        {
-            "slug": "diem-giao-dich-dong-nguoi-nang-cao-y-thuc-phong-chong-dich-benh-viem-duong-ho-hap",
-            "title": "Các điểm giao dịch đông người nâng cao ý thức phòng, chống dịch bệnh viêm đường hô hấp cấp",
-            "description": "Nhằm tăng cường công tác phòng, chống dịch bệnh viêm đường hô hấp cấp do chủng mới của vi rút Corona gây ra, hiện nay tại các điểm giao dịch đông người trên địa bàn tỉnh đã chủ động triển khai các biện pháp cần thiết. Nhờ đó, ý thức người dân trong thực hiện phòng, chống dịch bệnh cũng được nâng lên.",
-            "banner": "/img/3239-TT-6.jpg"
         }
     ],
     "tag": [],

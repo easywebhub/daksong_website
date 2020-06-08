@@ -4,7 +4,7 @@
     "slug": "thong-tin-lien-lac",
     "layout": "page.html",
     "tag": [],
-    "date": "2020-05-06T00:00:00.000Z",
+    "date": "2020-05-06T02:00:00.000Z",
     "draft": true,
     "description": "",
     "permalink": "",
@@ -34,7 +34,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.35pt">
-			<p style="text-align:center"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Hội đồng nh&acirc;n d&acirc;n huyện</span></span></strong></p>
+			<p style="text-align:center"><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Hội đồng nh&acirc;n d&acirc;n huyện</span></span></strong></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -90,7 +90,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.35pt">
-			<p style="text-align:center"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Ủy ban nh&acirc;n d&acirc;n huyện</span></span></strong></p>
+			<p style="text-align:center"><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Ủy ban nh&acirc;n d&acirc;n huyện</span></span></strong></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -188,7 +188,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.7pt">
-			<p><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">I. Văn ph&ograve;ng HĐND&amp;UBND huyện</span></span></strong></p>
+			<p><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">I. Văn ph&ograve;ng HĐND&amp;UBND huyện</span></span></strong></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -244,7 +244,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.7pt">
-			<p><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">II. Ph&ograve;ng Nội vụ</span></span></strong></p>
+			<p><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">II. Ph&ograve;ng Nội vụ</span></span></strong></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -283,7 +283,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.7pt">
-			<p><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">III. Ph&ograve;ng T&agrave;i ch&iacute;nh &ndash; Kế hoạch</span></span></strong></p>
+			<p><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">III. Ph&ograve;ng T&agrave;i ch&iacute;nh &ndash; Kế hoạch</span></span></strong></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +322,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.7pt">
-			<p><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">IV. Ph&ograve;ng Y tế</span></span></strong></p>
+			<p><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">IV. Ph&ograve;ng Y tế</span></span></strong></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -344,7 +344,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.7pt">
-			<p><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">V. Ph&ograve;ng Lao động Thương binh v&agrave; X&atilde; hội</span></span></strong></p>
+			<p><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">V. Ph&ograve;ng Lao động Thương binh v&agrave; X&atilde; hội</span></span></strong></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -383,7 +383,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.7pt">
-			<p><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">VI. Ph&ograve;ng Gi&aacute;o dục v&agrave; Đ&agrave;o tạo</span></span></strong></p>
+			<p><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">VI. Ph&ograve;ng Gi&aacute;o dục v&agrave; Đ&agrave;o tạo</span></span></strong></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -422,7 +422,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.7pt">
-			<p><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">VII. Ph&ograve;ng Văn h&oacute;a v&agrave; Th&ocirc;ng tin</span></span></strong></p>
+			<p><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">VII. Ph&ograve;ng Văn h&oacute;a v&agrave; Th&ocirc;ng tin</span></span></strong></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -466,7 +466,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.7pt">
-			<p><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">IX. Ph&ograve;ng N&ocirc;ng nghiệp v&agrave; Ph&aacute;t triển N&ocirc;ng th&ocirc;n</span></span></strong></p>
+			<p><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">IX. Ph&ograve;ng N&ocirc;ng nghiệp v&agrave; Ph&aacute;t triển N&ocirc;ng th&ocirc;n</span></span></strong></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -522,7 +522,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.7pt">
-			<p><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">X. Ph&ograve;ng Kinh tế v&agrave; Hạ tầng</span></span></strong></p>
+			<p><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">X. Ph&ograve;ng Kinh tế v&agrave; Hạ tầng</span></span></strong></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -578,7 +578,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.7pt">
-			<p><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">XI. Thanh tra huyện</span></span></strong></p>
+			<p><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">XI. Thanh tra huyện</span></span></strong></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -617,7 +617,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.7pt">
-			<p><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">XII. Ph&ograve;ng T&agrave;i nguy&ecirc;n v&agrave; M&ocirc;i trường</span></span></strong></p>
+			<p><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">XII. Ph&ograve;ng T&agrave;i nguy&ecirc;n v&agrave; M&ocirc;i trường</span></span></strong></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -673,7 +673,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.7pt">
-			<p><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">XIII. Ph&ograve;ng D&acirc;n tộc</span></span></strong></p>
+			<p><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">XIII. Ph&ograve;ng D&acirc;n tộc</span></span></strong></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -723,11 +723,11 @@
 	<tbody>
 		<tr>
 			<td colspan="5" style="width:495.2pt">
-			<p style="text-align:center"><strong><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Bộ phận Tiếp nh&acirc;n v&agrave; Ho&agrave;n trả kết quả giải quyết thủ tục h&agrave;nh ch&iacute;nh huyện</span></span></strong></p>
+			<p style="text-align:center"><span style="color:#0000cc"><strong><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Bộ phận Tiếp nh&acirc;n v&agrave; Ho&agrave;n trả kết quả giải quyết thủ tục h&agrave;nh ch&iacute;nh huyện</span></span></strong></span></p>
 
-			<p style="text-align:center"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Địa chỉ: Tổ d&acirc;n phố 3 &ndash; Thị trấn Đức An &ndash; Huyện Đắk Song &ndash; Tỉnh Đắk N&ocirc;ng</span></span></p>
+			<p style="text-align:center"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>Địa chỉ: </strong>Tổ d&acirc;n phố 3 &ndash; Thị trấn Đức An &ndash; Huyện Đắk Song &ndash; Tỉnh Đắk N&ocirc;ng</span></span></p>
 
-			<p style="text-align:center"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Điện thoại: 0261.3710424</span></span></p>
+			<p style="text-align:center"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>Điện thoại:</strong> 0261.3710424</span></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -863,7 +863,7 @@
 	<tbody>
 		<tr>
 			<td colspan="5" style="width:495.2pt">
-			<p style="text-align:center"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Trung t&acirc;m Văn h&oacute;a &ndash; Thể thao v&agrave; Truyền th&ocirc;ng</span></span></strong></p>
+			<p style="text-align:center"><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Trung t&acirc;m Văn h&oacute;a &ndash; Thể thao v&agrave; Truyền th&ocirc;ng</span></span></strong></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -913,7 +913,7 @@
 	<tbody>
 		<tr>
 			<td colspan="5" style="width:495.2pt">
-			<p style="text-align:center"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Trung t&acirc;m Dịch vụ Kỹ thuật N&ocirc;ng nghiệp</span></span></strong></p>
+			<p style="text-align:center"><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Trung t&acirc;m Dịch vụ Kỹ thuật N&ocirc;ng nghiệp</span></span></strong></span></p>
 			</td>
 		</tr>
 		<tr>

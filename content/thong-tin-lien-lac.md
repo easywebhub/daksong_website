@@ -4,7 +4,7 @@
     "slug": "thong-tin-lien-lac",
     "layout": "page.html",
     "tag": [],
-    "date": "2020-05-05T00:00:00.000Z",
+    "date": "2020-05-06T00:00:00.000Z",
     "draft": true,
     "description": "",
     "permalink": "",
@@ -258,10 +258,10 @@
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Trưởng ph&ograve;ng </span></span></p>
 			</td>
 			<td style="width:77.9pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0977 885 7099</span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0778 557 099</span></span></p>
 			</td>
 			<td style="width:190.2pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0778 557 099</span></span></p>
+			<p style="text-align:center">&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -715,6 +715,10 @@
 
 <p>&nbsp;</p>
 
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
 <table border="1" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border:solid windowtext 1.0pt">
 	<tbody>
 		<tr>
@@ -855,8 +859,6 @@
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <table border="1" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border:solid windowtext 1.0pt">
 	<tbody>
 		<tr>
@@ -900,6 +902,8 @@
 		</tr>
 	</tbody>
 </table>
+
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 

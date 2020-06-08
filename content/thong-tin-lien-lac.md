@@ -439,12 +439,12 @@
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0906 533 399</span></span></p>
 			</td>
 			<td style="width:190.2pt">
-			<p style="text-align:center">&nbsp;</p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">thannn.daksong@daknong.gov.vn</span></span></span></p>
 			</td>
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.7pt">
-			<p><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">VIII. Ph&ograve;ng Tư Ph&aacute;p</span></span></strong></p>
+			<p><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">VIII. Ph&ograve;ng Tư Ph&aacute;p</span></span></strong></span></p>
 			</td>
 		</tr>
 		<tr>

@@ -5,8 +5,8 @@
     "category": "thu-vien-video",
     "tag": [],
     "layout": "video-post.html",
-    "date": "2020-06-09T02:17:41.320Z",
-    "publishDate": "",
-    "draft": false
+    "draft": false,
+    "__content__": ""
 }
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mkr9xUYGwuM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

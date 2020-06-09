@@ -66,12 +66,20 @@
             }
         },
         "__content__": {
-            "type": "string",
+            "title": "",
+            "description": "",
+            "default": "",
             "format": "text",
+            "required": false,
+            "readOnly": false,
+            "pattern": "",
             "propertyOrder": 100,
+            "minLength": 0,
+            "maxLength": 140,
             "options": {
-                "hidden": true
-            }
+                "hidden": false
+            },
+            "type": "string"
         }
     }
 }

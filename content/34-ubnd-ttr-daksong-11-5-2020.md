@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "V/v trả lời đơn của công dân (ông) Nông Văn Đường thôn 11, xã Nâm N'Jang, huyện Đắk Song, tỉnh Đắk Nông",
     "description": "",
-    "date": "2020-05-12T01:00:00.000Z",
+    "date": "2020-05-12T01:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

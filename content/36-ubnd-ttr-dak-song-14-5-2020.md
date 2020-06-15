@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "V/v trả lời đơn của công dân (ông) Đặng Văn Tuấn, trú tổ 3, thị trấn Đức An, huyện Đắk Song, tỉnh Đắk Nông.",
     "description": "",
-    "date": "2020-05-15T02:00:00.000Z",
+    "date": "2020-05-15T02:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

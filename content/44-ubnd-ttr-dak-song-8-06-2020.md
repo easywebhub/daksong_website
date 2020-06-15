@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "V/v trả lời đơn của công dân (ông) Nguyễn Xuân Thanh, Công chức Văn phòng - Thống kê xã Đắk Mol, huyện Đắk Song, tỉnh Đắk Nông",
     "description": "",
-    "date": "2020-06-11T00:02:00.000Z",
+    "date": "2020-06-11T00:07:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

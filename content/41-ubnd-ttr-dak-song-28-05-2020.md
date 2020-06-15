@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "V/v trả lời kiến nghị của công dân (ông) Nguyễn Thanh Sơn, trú thôn 10, xã Trường Xuân, huyện Đắk Song, tỉnh Đắk Nông",
     "description": "",
-    "date": "2020-05-29T00:00:00.000Z",
+    "date": "2020-05-29T00:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

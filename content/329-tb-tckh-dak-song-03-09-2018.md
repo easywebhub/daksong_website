@@ -1,11 +1,12 @@
 ---json
 {
-    "slug": "329-tb-tckh-dak-song-03-9-2018",
+    "slug": "329-tb-tckh-dak-song-03-09-2018",
     "category": "cong-khai.cong-khai-tai-chinh",
     "tag": [],
     "layout": "van-ban.html",
-    "title": "Công khai số liệu và thuyết minh tình hình thực hiện dự toán ngân sách nhà nước địa phương Quý III năm 2018",
+    "title": "Công khai số liệu và thuyết minh tình hình thực hiện dự toán ngân sách địa phương Quý III năm 2018",
     "description": "",
+    "date": "2018-09-04T08:32:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

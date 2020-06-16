@@ -1,12 +1,12 @@
 ---json
 {
     "slug": "113-bc-ubnd-nam-njang-10-06-2020",
-    "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-thi-tran-duc-an.tinh-hinh-tcd-va-giai-quyet-don-thu",
+    "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-xa-nam-n-jang.tinh-hinh-tcd-va-giai-quyet-don-thu",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Báo cáo Công tác tiếp công dân, tiếp nhận và xử lý đơn thư; giải quyết khiếu nại, tố cáo trên địa bàn xã Nâm N'Jang tháng 6 năm 2020",
     "description": "",
-    "date": "2020-06-12T02:21:00.000Z",
+    "date": "2020-06-12T02:26:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

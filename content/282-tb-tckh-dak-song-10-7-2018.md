@@ -6,7 +6,6 @@
     "layout": "van-ban.html",
     "title": "Công khai số liệu và thuyết minh tình hình thực hiện dự toán ngân sách nhà nước địa phương Quý III năm 2018",
     "description": "",
-    "date": "2018-09-04T08:23:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

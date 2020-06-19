@@ -9,7 +9,7 @@
     "draft": false,
     "upload-image": "/img/18062020-12.PNG",
     "description": "",
-    "banner": "",
+    "banner": "/img/thongbao.jpg",
     "__content__": ""
 }
 ---

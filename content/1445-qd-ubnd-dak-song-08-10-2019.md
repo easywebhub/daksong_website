@@ -19,7 +19,7 @@
     "banner": "",
     "draft": false,
     "url": "",
-    "hinh_thuc_van_ban": "",
+    "hinh_thuc_van_ban": "Quyết định",
     "ngay_ban_hanh": "08/10/2019",
     "so_hieu": "1445/QĐ-UBND",
     "upload-image": "",

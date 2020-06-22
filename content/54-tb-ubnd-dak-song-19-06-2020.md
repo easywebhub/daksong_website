@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Thông báo Kết quả phỏng vấn (vòng 02) và dự kiến danh sách thí sinh trúng tuyển ký xét tuyển viên chức sự nghiệp giáo dục năm 2020",
     "description": "",
+    "date": "2020-06-19T09:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

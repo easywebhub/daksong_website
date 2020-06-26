@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "hoi-thao-ky-niem-19-nam-ngay-thanh-lap-huyen-dak-song-21-6-2001-21-6-2020",
+            "title": "Hội thao kỷ niệm 19 năm ngày thành lập huyện Đăk Song  (21/6/2001 – 21/6/2020)",
+            "description": "",
+            "banner": "/img/2462020-2.PNG"
+        },
+        {
             "slug": "09-tb-hdxtvc-nam-2020",
             "title": "Thông báo Về việc đính chính thông tin tại Thông báo số 06/TB-HĐXTVC ngày 22/5/2020 của Hội đồng xét tuyển viên chức sự nghiệp về kết quả kiểm tra Phiếu đăng ký hồ sơ dự tuyển (vòng 01), kế hoạch phỏng vấn vòng 2 kỳ xét tuyển viên chức giáo dục sư nghiệp năm 2020",
             "description": "",
@@ -97,12 +103,6 @@
             "title": "Đắk Song sẵn sàng ứng phó với dịch bệnh viêm đường hô hấp cấp",
             "description": "Trước tình hình dịch bệnh viêm đường hô hấp cấp do vi rút Corona mới gây ra đang diễn biến phức tạp, Ban Chỉ đạo phòng, chống dịch bệnh viêm đường hô hấp cấp do vi rút Corona mới gây ra huyện Đắk Song đã tích cực chuẩn bị đầy đủ về nhân lực, vật lực, vật tư y tế, sẵn sàng ứng phó với dịch.",
             "banner": "/img/3241-SK-8.jpg"
-        },
-        {
-            "slug": "phong-chong-dich-benh-viem-duong-ho-hap-cap-do-chung-moi-cua-vi-rut-corona-gay-ra",
-            "title": "Ngành Y tế tiếp tục khẩn trương triển khai công tác phòng, chống dịch bệnh viêm đường hô hấp cấp do chủng mới của vi rút Corona gây ra",
-            "description": "Sáng 8/2, tại Hà Nội, Bộ Y tế tổ chức Hội nghị trưc tuyến toàn quốc hướng dẫn điều trị và phòng, chống dịch bệnh viêm đường hô hấp cấp do chủng mới của vi rút Corona (nCoV) gây ra.",
-            "banner": "/img/3240-SK-4.jpg"
         }
     ],
     "tag": [],

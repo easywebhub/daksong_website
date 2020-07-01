@@ -5,7 +5,7 @@
     "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
     "tag": [],
     "layout": "post.html",
-    "date": "2020-06-30T00:00:00.000Z",
+    "date": "2020-06-30T00:05:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "Ngày 20/11/2014, Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 8 đã thông qua Luật Hộ tịch. Luật có hiệu lực thi hành kể từ ngày 01/01/2016.",
@@ -71,4 +71,4 @@
 
 <p>C&oacute; thể n&oacute;i rằng, Luật Hộ tịch ra đời đ&atilde; tạo bước đột ph&aacute; về thể chế của c&ocirc;ng t&aacute;c hộ tịch. L&agrave; cơ sở ph&aacute;p l&yacute; thống nhất, đồng bộ cho c&ocirc;ng t&aacute;c đăng k&yacute; v&agrave; quản l&yacute; hộ tịch, l&agrave; cơ sở quan trọng để x&acirc;y dựng hệ thống đăng k&yacute; v&agrave; quản l&yacute; hộ tịch theo hướng chuy&ecirc;n nghiệp, hiện đại.</p>
 
-<p style="text-align:right">Ho&agrave;ng Long -&nbsp;Sưu tầm</p>
+<p style="text-align:right">Nguồn&nbsp;-&nbsp;Sưu tầm</p>

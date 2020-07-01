@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Quyết định về việc thu hồi 69,9 m² đất của hộ ông Phạm Văn Thiết tại: TDP 8, thị trấn Đức An, huyện Đắk Song để xây dựng dự án Đường vành đai phía Đông huyện Đắk Song",
     "description": "",
+    "date": "2020-06-16T00:19:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "Quyết định về việc thu hồi 69,9 m² đất của hộ ông Phạm Văn Thiết tại: TDP 8, thị trấn Đức An, huyện Đắk Song để xây dựng dự án Đường vành đai phía Đông huyện Đắk Song",

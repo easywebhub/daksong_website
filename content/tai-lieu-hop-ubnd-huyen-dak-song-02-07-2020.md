@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Tài liệu Hội nghị đánh giá tình hình thực hiện nhiệm vụ phát triển KT-XH, đảm bảo QP-AN 6 tháng đầu năm 2020",
     "description": "",
+    "date": "2020-07-02T08:30:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

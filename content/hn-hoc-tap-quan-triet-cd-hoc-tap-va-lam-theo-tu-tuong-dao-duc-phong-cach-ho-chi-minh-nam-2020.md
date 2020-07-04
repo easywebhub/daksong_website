@@ -5,7 +5,6 @@
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2020-05-28T07:29:00.000Z",
     "draft": false,
     "upload-image": "/img/28052020-35.PNG",
     "description": "Ngày 21/5/2020 vừa qua, Ban Thường vụ Huyện đoàn Đắk Song tổ chức Hội nghị học tập, quán triệt Chuyên đề \"Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh\" năm 2020 dành cho cán bộ Đoàn...",

@@ -1,11 +1,11 @@
 ---json
 {
-    "slug": "giai-bong-ban-huyen-dak-song-mo-rong-lan-thu-iv-nam-2020-",
+    "slug": "giai-bong-ban-huyen-dak-song-mo-rong-lan-thu-iv-nam-2020",
     "title": "Ghi nhận: Giải bóng bàn huyện Đắk Song mở rộng lần thứ IV, năm 2020.",
     "category": "tin-tuc-su-kien.tin-van-hoa",
     "tag": [],
     "layout": "post.html",
-    "date": "2020-06-08T00:00:00.000Z",
+    "date": "2020-06-08T00:05:00.000Z",
     "draft": false,
     "upload-image": "/img/08062020-29.PNG",
     "description": "Trong hai ngày, từ ngày 6 đến ngày 7/6 UBND huyện Đắk Song đã tổ chức giải bóng bàn mởi rộng lần thứ IV, chào mừng kỷ niệm 19 năm ngày thành lập huyện (21/6/2001 – 21/6/2020). Tham dự giải có 8 đội bóng bàn với gần 100 vận động viên đến từ các câu lạc bộ bóng bàn trong và ngoài tỉnh...",

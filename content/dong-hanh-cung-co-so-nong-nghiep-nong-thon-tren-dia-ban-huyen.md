@@ -1,11 +1,11 @@
 ---json
 {
     "slug": "dong-hanh-cung-co-so-nong-nghiep-nong-thon-tren-dia-ban-huyen",
-    "title": "ĐỒNG HÀNH CÙNG CƠ SỞ NÔNG NGHIỆP NÔNG THÔN  TRÊN ĐỊA BÀN HUYỆN ĐẮK SONG",
+    "title": "ĐỒNG HÀNH CÙNG CƠ SỞ NÔNG NGHIỆP NÔNG THÔN  TRÊN ĐỊA BÀN HUYỆN ĐẮK SONG",
     "category": "tin-tuc-su-kien.tin-kinh-te",
     "tag": [],
     "layout": "post.html",
-    "date": "2020-05-28T07:33:00.000Z",
+    "date": "2020-05-28T00:26:00.000Z",
     "draft": false,
     "upload-image": "/img/28052020-31.PNG",
     "description": "",
@@ -251,5 +251,3 @@
 <p>&nbsp;</p>
 
 <p style="text-align:right"><strong><span style="font-size:14.0pt">T&aacute;c giả: Minh Kiều - KTHT</span></strong></p>
-
-<p>&nbsp;</p>

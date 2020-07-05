@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-an-ninh-trat-tu",
     "tag": [],
     "layout": "post.html",
-    "date": "2020-03-23T00:05:00.000Z",
+    "date": "2020-03-23T00:06:00.000Z",
     "draft": false,
     "upload-image": "/img/23-03-2020-06.PNG",
     "description": "Sáng ngày 20/3/2020, Công an huyện Đắk Song đã tổ chức Lễ công bố quyết định của Giám đốc Công an tỉnh Đắk Nông về việc điều động, bổ nhiệm Công an chính quy đảm nhiệm chức danh Trưởng, phó Công an xã, Công an viên thường trực.",
@@ -29,4 +29,4 @@
 
 <p><span style="font-size:16px">Tại buổi lễ, đồng ch&iacute; Thượng t&aacute; Nguyễn Đức Th&ugrave;y - Trưởng C&ocirc;ng an huyện Đắk Song đ&atilde; ph&aacute;t biểu, giao nhiệm vụ cho c&aacute;c đồng ch&iacute;; nhất l&agrave;, ch&uacute; trọng l&agrave;m tốt c&ocirc;ng t&aacute;c nắm t&igrave;nh h&igrave;nh, quản l&yacute; đối tượng, giải quyết tốt c&aacute;c vụ việc ngay từ cơ sở, kh&ocirc;ng để nảy sinh c&aacute;c điểm n&oacute;ng, phức tạp về an ninh trật tự nhất l&agrave; trong thời gian diễn ra Đại hội Đảng c&aacute;c cấp; x&acirc;y dựng lực lượng C&ocirc;ng an x&atilde; v&agrave; phong tr&agrave;o To&agrave;n d&acirc;n bảo vệ an ninh Tổ quốc.</span></p>
 
-<p style="text-align:right"><span style="font-size:14px">L&ecirc; Xu&acirc;n - HL</span></p>
+<p style="text-align:right"><span style="font-size:14px">L&ecirc; Xu&acirc;n</span></p>

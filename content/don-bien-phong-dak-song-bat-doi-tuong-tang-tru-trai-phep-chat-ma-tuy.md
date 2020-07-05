@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-an-ninh-trat-tu",
     "tag": [],
     "layout": "post.html",
-    "date": "2020-03-23T00:00:00.000Z",
+    "date": "2020-03-23T00:01:00.000Z",
     "draft": false,
     "upload-image": "/img/23-03-2020-01.PNG",
     "description": "Đồn Biên phòng Đăk Song, BĐBP Đăk Nông vừa bắt giữ 1 đối tượng v hành vi tàng trữ chất ma túy.",
@@ -21,4 +21,4 @@
 
 <p><span style="font-size:16px">Tổ c&ocirc;ng t&aacute;c đ&atilde; dẫn giải đối tượng Vũ Văn Hải v&agrave; tang vật về&nbsp;Đồn Bi&ecirc;n ph&ograve;ng Đăk Song để lập bi&ecirc;n bản, tiến h&agrave;nh điều tra v&agrave; xử l&yacute; theo quy định của ph&aacute;p luật.&nbsp;</span></p>
 
-<p style="text-align:right">L&ecirc; Xu&acirc;n - HL</p>
+<p style="text-align:right">L&ecirc; Xu&acirc;n&nbsp;</p>

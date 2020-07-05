@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Chỉ thị số 16 về thực hiện các biện pháp cấp bách phòng, chống dịch COVID-19",
     "description": "",
-    "date": "2020-03-31T06:27:00.000Z",
+    "date": "2020-03-31T06:29:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",
@@ -63,6 +63,10 @@ d) Tổ chức, sắp xếp việc tiếp tục kh&aacute;m chữa bệnh tại 
 11. C&aacute;c Bộ, ng&agrave;nh, địa phương v&agrave; c&aacute;c cơ quan b&aacute;o ch&iacute; tiếp tục đẩy mạnh th&ocirc;ng tin, tuy&ecirc;n truyền ủng hộ chủ trương bảo vệ sức khỏe của nh&acirc;n d&acirc;n, chấn chỉnh một số b&aacute;o r&uacute;t t&iacute;t g&acirc;y hoang mang, hiểu nhầm. Người chịu tr&aacute;ch nhiệm ph&ograve;ng, chống dịch kh&ocirc;ng ph&aacute;t ng&ocirc;n g&acirc;y hoảng loạn trong nh&acirc;n d&acirc;n.<br />
 <br />
 12. Bộ C&ocirc;ng Thương, Ủy ban nh&acirc;n d&acirc;n c&aacute;c địa phương ch&uacute; &yacute; bảo đảm h&agrave;ng h&oacute;a, lương thực, thực phẩm thiết yếu cho nh&acirc;n d&acirc;n.</span></span></p>
+
+<p style="text-align:right"><span style="font-size:16px"><span style="font-family:&quot;Times New Roman&quot;,serif">Ho&agrave;ng Long</span></span></p>
+
+<p><span style="font-size:16px"><span style="font-family:&quot;Times New Roman&quot;,serif">Nguồn: Chỉ thị số 16/CT-TTg,&nbsp;ng&agrave;y 31/03/2020 về việc thực hiện c&aacute;c biện ph&aacute;p cấp b&aacute;ch, ph&ograve;ng chống, dịch COVID-19</span></span></p>
 
 <p style="text-align:center"><span style="font-size:16px"><span style="font-family:&quot;Times New Roman&quot;,serif"><img alt="" src="/img/CT-16-31-03-2020.PNG" /></span></span></p>
 

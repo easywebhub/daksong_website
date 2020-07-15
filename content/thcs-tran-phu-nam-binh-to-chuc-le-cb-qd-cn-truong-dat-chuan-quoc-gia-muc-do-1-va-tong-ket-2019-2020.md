@@ -5,7 +5,7 @@
     "category": "tin-tuc-su-kien.tin-y-te-giao-duc",
     "tag": [],
     "layout": "post.html",
-    "date": "2020-07-14T09:00:00.000Z",
+    "date": "2020-07-10T09:00:00.000Z",
     "draft": false,
     "upload-image": "/img/14072020-6.PNG",
     "description": "Ngày 8/7 Trường THCS Trần Phú xã Nam Bình  tổ chức lễ công bố quyết định công nhận trường  đạt chuẩn Quốc gia mức độ 1 và tổng kết năm học 2019-2020.",

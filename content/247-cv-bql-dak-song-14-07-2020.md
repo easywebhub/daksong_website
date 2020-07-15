@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "V/v giải quyết đơn kiến nghị của công dân Lê Thị Vinh địa chỉ TDP 02, thị trấn Đức An, huyện Đắk Song, tỉnh Đắk Nông",
     "description": "",
-    "date": "2020-07-15T00:00:00.000Z",
+    "date": "2020-07-15T00:30:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

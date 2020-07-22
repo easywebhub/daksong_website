@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Nghị quyết Về việc phê chuẩn quyết toán thu, chi ngân sách nhà nước năm 2019",
     "description": "",
-    "date": "2020-07-17T00:00:00.000Z",
+    "date": "2020-07-17T00:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "Về việc phê chuẩn quyết toán thu, chi ngân sách nhà nước năm 2019",
@@ -20,7 +20,7 @@
     "draft": false,
     "url": "",
     "hinh_thuc_van_ban": "Nghị quyết",
-    "ngay_ban_hanh": "",
+    "ngay_ban_hanh": "15/07/2020",
     "so_hieu": "06/NQ-HĐND",
     "upload-image": "",
     "__content__": ""

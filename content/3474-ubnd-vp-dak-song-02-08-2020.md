@@ -1,12 +1,12 @@
 ---json
 {
     "slug": "3474-ubnd-vp-dak-song-02-08-2020",
-    "category": "thong-tin-chi-dao",
+    "category": "thong-tin-chi-dao.y-kien-chi-dao-phan-hoi",
     "tag": [],
     "layout": "van-ban.html",
     "title": "V/v Tăng cường công tác phòng, chống dịch Covid - 19",
     "description": "",
-    "date": "2020-08-03T00:00:00.000Z",
+    "date": "2020-08-03T00:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Thông báo về việc lựa chọn tổ chức đấu giá tài sản là quyền sử dụng đất Thương mại - dịch vụ tại thôn 10 xã Nam Bình huyện Đắk Song, tỉnh Đắk Nông",
     "description": "",
-    "date": "2020-08-06T08:16:00.000Z",
+    "date": "2020-08-10T00:16:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

@@ -79,7 +79,7 @@
             "title": "ĐẢNG BỘ HUYỆN ĐĂK SONG KHỞI SẮC SAU MỘT NHIỆM KỲ ĐẠI HỘI.",
             "description": "Thưa quý vị và các bạn! Nhiệm kỳ 2015-2020 Đảng bộ huyện Đăk Song đã lãnh đạo, chỉ đạo các tổ chức đoàn thể và  chính quyền,  nhân dân phát huy tinh thần đoàn kết, khắc phục khó khăn,  khai thác tốt tiềm năng, lợi thế của địa phương để thực hiện thắng lợi các chỉ tiêu của nghị  quyết đề ra, nhờ thế đến nay trên tất cả các lĩnh vực kinh tế, văn hóa xã hội, quốc phòng an ninh đã đạt được nhiều  kết quả đáng khích lệ.",
             "banner": "/img/11082020-08.PNG"
-        }
+        },
         {
             "slug": "hoi-thao-ky-niem-19-nam-ngay-thanh-lap-huyen-dak-song-21-6-2001-21-6-2020",
             "title": "Hội thao kỷ niệm 19 năm ngày thành lập huyện Đăk Song  (21/6/2001 – 21/6/2020)",

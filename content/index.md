@@ -75,6 +75,12 @@
     },
     "tinTucNoiBat": [
         {
+            "slug": "11-08-2020-01",
+            "title": "ĐẢNG BỘ HUYỆN ĐĂK SONG KHỞI SẮC SAU MỘT NHIỆM KỲ ĐẠI HỘI.",
+            "description": "Thưa quý vị và các bạn! Nhiệm kỳ 2015-2020 Đảng bộ huyện Đăk Song đã lãnh đạo, chỉ đạo các tổ chức đoàn thể và  chính quyền,  nhân dân phát huy tinh thần đoàn kết, khắc phục khó khăn,  khai thác tốt tiềm năng, lợi thế của địa phương để thực hiện thắng lợi các chỉ tiêu của nghị  quyết đề ra, nhờ thế đến nay trên tất cả các lĩnh vực kinh tế, văn hóa xã hội, quốc phòng an ninh đã đạt được nhiều  kết quả đáng khích lệ.",
+            "banner": "/img/11082020-08.PNG"
+        }
+        {
             "slug": "hoi-thao-ky-niem-19-nam-ngay-thanh-lap-huyen-dak-song-21-6-2001-21-6-2020",
             "title": "Hội thao kỷ niệm 19 năm ngày thành lập huyện Đăk Song  (21/6/2001 – 21/6/2020)",
             "description": "Nhân dịp kỷ niệm 19 năm ngày thành lập huyện Đak Song (21/6/2001 – 21/6/2020),UBND huyện đã tổ chức hội thao từ ngày 23/6  đến ngày 24/6,…",
@@ -97,12 +103,6 @@
             "title": "Ứng dụng khai báo Y tế toàn dân NCOV",
             "description": "Ngày 9/3/2020, Bộ Thông tin và Truyền thông và Bộ Y tế đã ra mắt hai ứng dụng: Ứng dụng NCOVI dành cho người dân Việt Nam và Ứng dụng Vietnam Health Declaration dành cho người nhập cảnh vào Việt Nam.",
             "banner": "/img/23-03-2020-1.PNG"
-        },
-        {
-            "slug": "dak-song-san-sang-ung-pho-voi-dich-benh-viem-duong-ho-hap-cap",
-            "title": "Đắk Song sẵn sàng ứng phó với dịch bệnh viêm đường hô hấp cấp",
-            "description": "Trước tình hình dịch bệnh viêm đường hô hấp cấp do vi rút Corona mới gây ra đang diễn biến phức tạp, Ban Chỉ đạo phòng, chống dịch bệnh viêm đường hô hấp cấp do vi rút Corona mới gây ra huyện Đắk Song đã tích cực chuẩn bị đầy đủ về nhân lực, vật lực, vật tư y tế, sẵn sàng ứng phó với dịch.",
-            "banner": "/img/3241-SK-8.jpg"
         }
     ],
     "tag": [],

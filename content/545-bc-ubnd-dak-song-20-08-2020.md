@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Kết quả giải quyết đơn của ông Lê Văn Ca cùng 11 hộ dân, trú tại thôn Tuy Đức, xã Đắk Buk So, huyện Tuy Đức, tỉnh Đắk Nông",
     "description": "",
+    "date": "2020-08-20T06:30:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

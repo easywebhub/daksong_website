@@ -1,12 +1,12 @@
 ---json
 {
     "slug": "708-ubnd-tnmt-dak-song-26-02-2020",
-    "category": "van-ban-phap-luat.van-ban-cua-huyen",
+    "category": "dinh-huong-phat-trien.thong-tin-du-an-dau-tu",
     "tag": [],
     "layout": "van-ban.html",
-    "title": "708 UBND TNMT dak song 26 02 2020",
+    "title": "V/v Bổ sung quy hoạch phát triển điện lực của Công ty cổ phần tập đoàn N&G",
     "description": "",
-    "date": "2020-02-28T02:56:00.000Z",
+    "date": "2020-02-28T03:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

@@ -1,16 +1,16 @@
 ---json
 {
     "slug": "3926-ubnd-tnmt-dak-song-27-08-2020",
-    "category": "van-ban-phap-luat.van-ban-cua-huyen",
+    "category": "dinh-huong-phat-trien.thong-tin-du-an-dau-tu",
     "tag": [],
     "layout": "van-ban.html",
     "title": "V/v cho ý kiến hồ sơ hiệu chỉnh bổ sung dự án điện gió Đắk  N'Drung 1, 2, 3",
     "description": "",
-    "date": "2020-08-31T03:16:00.000Z",
+    "date": "2020-08-31T03:21:00.000Z",
     "so": "",
     "permalink": true,
-    "trich_yeu": "V/v cho ý kiến hồ sơ hiệu chỉnh bổ sung dự án điện gió Đắk  N'Drung 1, 2, 3",
-    "co_quan_ban_hanh": "UBDN huyện Đắk Song",
+    "trich_yeu": "",
+    "co_quan_ban_hanh": "",
     "linh_vuc": "",
     "loai_van_ban": "",
     "nguoi_ky": "",
@@ -20,8 +20,8 @@
     "draft": false,
     "url": "",
     "hinh_thuc_van_ban": "",
-    "ngay_ban_hanh": "27/08/2020",
-    "so_hieu": "3926/UBND-TNMT",
+    "ngay_ban_hanh": "",
+    "so_hieu": "",
     "upload-image": "",
     "__content__": ""
 }

@@ -1,16 +1,16 @@
 ---json
 {
     "slug": "3609-ubnd-tnmt-dak-song-10-08-2020",
-    "category": "van-ban-phap-luat.van-ban-cua-huyen",
+    "category": "dinh-huong-phat-trien.thong-tin-du-an-dau-tu",
     "tag": [],
     "layout": "van-ban.html",
     "title": "V/v bổ sung dự án điện gió Đắk N'drung 1, 2, 3 vào quy hoạch sử dụng đất ở huyện Đắk Song",
     "description": "",
-    "date": "2020-08-11T03:13:00.000Z",
+    "date": "2020-08-11T03:18:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",
-    "co_quan_ban_hanh": "UBND huyện Đắk Song",
+    "co_quan_ban_hanh": "",
     "linh_vuc": "",
     "loai_van_ban": "",
     "nguoi_ky": "",
@@ -20,8 +20,8 @@
     "draft": false,
     "url": "",
     "hinh_thuc_van_ban": "",
-    "ngay_ban_hanh": "10/08/2020",
-    "so_hieu": "3609/UBND-TNMT",
+    "ngay_ban_hanh": "",
+    "so_hieu": "",
     "upload-image": "",
     "__content__": ""
 }

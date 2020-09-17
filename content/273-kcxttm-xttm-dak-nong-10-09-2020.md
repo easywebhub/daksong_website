@@ -5,7 +5,7 @@
     "category": "thong-bao-giay-moi.thong-bao",
     "tag": [],
     "layout": "post.html",
-    "date": "2020-09-17T00:00:00.000Z",
+    "date": "2020-09-17T00:05:00.000Z",
     "draft": false,
     "upload-image": "",
     "description": "Thực hiện ý kiến chỉ đạo của Sở Công Thương tỉnh Đắk Nông tại Công văn số 1175/SCT-QLTM ngày 7/9/2020 về việc tham gia Hội chợ Công nghiệp và Nông sản vùng Tây Bắc tỉnh Hòa Bình năm 2020.",
@@ -26,3 +26,5 @@
 <p>Mọi Th&ocirc;ng tin chi tiết v&agrave; đăng k&iacute; tham gia vui l&ograve;ng li&ecirc;n hệ theo địa chỉ:</p>
 
 <p>Trung t&acirc;m Khuyến c&ocirc;ng v&agrave; X&uacute;c tiến thương mại Đắk N&ocirc;ng; Khu h&agrave;nh ch&iacute;nh S&ugrave;ng Đức, phường Nghĩa T&acirc;n, th&agrave;nh phố Gia Nghĩa, tỉnh Đắk N&ocirc;ng; Điện thoại: 02612.216.950 hoặc 0934.789.596 (Chị Phương); Email: lanphuong.sct@gmail.com.</p>
+
+<p style="text-align:right">Nguồn tin: Ho&agrave;ng Long</p>

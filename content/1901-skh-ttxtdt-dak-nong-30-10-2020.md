@@ -4,7 +4,7 @@
     "category": "thong-tin-chi-dao.chuyen-muc-cchc",
     "tag": [],
     "layout": "van-ban.html",
-    "title": "1901 SKH TTXTĐT dak nong 30 10 2020",
+    "title": "Các thủ tục hành chính liên quan đến hoạt động đầu tư và hỗ trợ doanh nghiệp tỉnh Đắk Nông",
     "description": "",
     "date": "2020-10-30T09:00:00.000Z",
     "so": "",
@@ -48,7 +48,7 @@
 
 <p style="margin-left:0in; margin-right:0in; text-align:justify"><strong>2. Danh mục thủ tục h&agrave;nh ch&iacute;nh tư vấn, hỗ trợ miễn phi:</strong></p>
 
-<p style="margin-left:0in; margin-right:0in; text-align:justify">Tổ chức, c&aacute; nh&acirc;n c&oacute; nhu cầu được tư vấn, hỗ trợ, li&ecirc;n hệ trực tiếp Trung t&acirc;m X&uacute;c tiến đầu tư, Sở Kế hoạch v&agrave; Đầu tư, số điện thoại: 02613 702 777 hoặc 0905 290 111 (Mr Dũng), email: <a href="mailto:ipcdaknong@gmail.com">ipcdaknong@gmail.com</a>, địa chỉ: đường 23/3, phường Nghĩa Đức, th&agrave;nh phố Gia Nghĩa, tỉnh Đắk N&ocirc;ng (k&egrave;m theo phụ lục 01 v&agrave; 02)</p>
+<p style="margin-left:0in; margin-right:0in; text-align:justify">Tổ chức, c&aacute; nh&acirc;n c&oacute; nhu cầu được tư vấn, hỗ trợ, li&ecirc;n hệ trực tiếp Trung t&acirc;m X&uacute;c tiến đầu tư, Sở Kế hoạch v&agrave; Đầu tư, số điện thoại: 02613 702 777 hoặc 0905 290 111 (Mr Dũng), email: <a href="mailto:ipcdaknong@gmail.com">ipcdaknong@gmail.com</a>, địa chỉ: đường 23/3, phường Nghĩa Đức, th&agrave;nh phố Gia Nghĩa, tỉnh Đắk N&ocirc;ng.</p>
 
 <p style="margin-left:0in; margin-right:0in; text-align:justify">- Về lĩnh vực th&agrave;nh lập v&agrave; hoạt động của doanh nghiệp: li&ecirc;n hệ &ocirc;ng Trần Đức To&agrave;n, số điện thoại: 0914 486 856, email: <a href="mailto:toantd.skh@gmail.com">toantd.skh@gmail.com</a>.</p>
 

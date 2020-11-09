@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": " Quyết định số 32/2020/QĐ-TTg của Thủ tướng Chính phủ về việc  thực hiện các chính sách hỗ trợ người dân gặp khó khăn do đại dịch COVID-19",
     "description": "",
-    "date": "2020-11-09T02:33:00.000Z",
+    "date": "2020-11-09T02:35:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",
@@ -44,6 +44,6 @@
 
 <p style="text-align:right">HL</p>
 
-<p>&nbsp;</p>
+<p><a href="http://vanban.chinhphu.vn/portal/page/portal/chinhphu/hethongvanban?class_id=1&amp;mode=detail&amp;document_id=201399">http://vanban.chinhphu.vn/portal/page/portal/chinhphu/hethongvanban?class_id=1&amp;mode=detail&amp;document_id=201399</a></p>
 
 <p>&nbsp;</p>

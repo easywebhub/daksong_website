@@ -5,11 +5,11 @@
     "category": "tin-tuc-su-kien.tin-chinh-tri-xa-hoi",
     "tag": [],
     "layout": "post.html",
-    "date": "2020-11-23T00:00:00.000Z",
+    "date": "2020-11-23T00:05:00.000Z",
     "draft": false,
     "upload-image": "/img/8bdb3de1989c69c2308d.jpg",
     "description": "Sáng 21/11, tại TP. Gia Nghĩa, Hội Doanh nhân trẻ tỉnh Đắk Nông đã tổ chức Khai mạc Giải Quần vợt Doanh nhân trẻ gây quỹ từ thiện lần thứ II, năm 2020.",
-    "banner": "",
+    "banner": "/img/6d05d03f7542841cdd53.jpg",
     "__content__": ""
 }
 ---

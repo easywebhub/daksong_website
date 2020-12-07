@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Thông báo tổ chức đấu giá tài sản là quyền sử dụng đất tại tổ dân phố 6, thị trấn Đức An, huyện Đắk Song, tỉnh Đắk Nông (lần 1)",
     "description": "",
-    "date": "2020-12-02T00:37:00.000Z",
+    "date": "2020-12-02T00:42:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",
@@ -30,7 +30,7 @@
 
 <p><strong><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">1. T&ecirc;n, địa chỉ người c&oacute; t&agrave;i sản:</span></span></strong><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"> Ban QLDA v&agrave; PTQĐ huyện Đắk Song.</span></span></p>
 
-<p style="margin-left:28.35pt; margin-right:0in"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;Địa chỉ: Tổ d&acirc;n phố 3, thị trấn Đức An, huyện Đắk Song, tỉnh Đắk N&ocirc;ng.</span></span></p>
+<p><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Địa chỉ: Tổ d&acirc;n phố 3, thị trấn Đức An, huyện Đắk Song, tỉnh Đắk N&ocirc;ng.</span></span></p>
 
 <p><strong><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">2. Th&ocirc;ng tin về t&agrave;i sản đấu gi&aacute;:</span></span></strong></p>
 
@@ -60,7 +60,7 @@
 
 <p><strong><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:black">5. Thời hạn, địa điểm nộp hồ sơ đăng k&yacute; tham gia tổ chức đấu gi&aacute;: </span></span></span></strong></p>
 
-<p><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nộp hồ sơ trực tiếp hoặc qua đường bưu điện đến trụ sở Ban QLDA v&agrave; PTQĐ huyện Đắk Song. Địa chỉ: Tổ d&acirc;n phố 3, thị trấn Đức An, huyện Đắk Song, tỉnh Đắk N&ocirc;ng từ l&uacute;c </span></span></span><strong><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">7 giờ 30 ph&uacute;t ng&agrave;y 02/12/2020 đến 15h 00 ph&uacute;t ng&agrave;y 07/12/2020</span></span></strong><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"> (Nhận hồ sơ trong giờ h&agrave;nh ch&iacute;nh). &nbsp;</span></span></p>
+<p><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:black">Nộp hồ sơ trực tiếp hoặc qua đường bưu điện đến trụ sở Ban QLDA v&agrave; PTQĐ huyện Đắk Song. Địa chỉ: Tổ d&acirc;n phố 3, thị trấn Đức An, huyện Đắk Song, tỉnh Đắk N&ocirc;ng từ l&uacute;c </span></span></span><strong><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">7 giờ 30 ph&uacute;t ng&agrave;y 02/12/2020 đến 15h 00 ph&uacute;t ng&agrave;y 07/12/2020</span></span></strong><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"> (Nhận hồ sơ trong giờ h&agrave;nh ch&iacute;nh). &nbsp;</span></span></p>
 
 <p><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Gặp Đ/c Trần Anh Khoa. SĐT 0941477878.</span></span></p>
 

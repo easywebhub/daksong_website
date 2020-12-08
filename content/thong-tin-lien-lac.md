@@ -100,7 +100,7 @@
 			<p><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">Nguyễn Văn Ph&ograve;</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:75.1pt">
-			<p><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">Ph&oacute; Chủ tịch UBND</span></span></span></p>
+			<p><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">Chủ tịch UBND</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:77.25pt">
 			<p><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">0914018566</span></span></span></p>

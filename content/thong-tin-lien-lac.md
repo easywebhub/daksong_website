@@ -4,16 +4,15 @@
     "slug": "thong-tin-lien-lac",
     "layout": "page.html",
     "tag": [],
-    "date": "2020-05-06T02:07:00.000Z",
     "draft": true,
     "description": "",
     "permalink": "",
     "__content__": ""
 }
 ---
-<p><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">L&Atilde;NH ĐẠO HUYỆN</span></span></strong><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"> ĐẮK SONG</span></span></strong><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">:</span></span></strong></span></p>
+<p><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">L&Atilde;NH ĐẠO HUYỆN ĐẮK SONG:</span></span></span></strong></p>
 
-<table border="1" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border:solid windowtext 1.0pt; margin-left:.25pt; width:486.35pt">
+<table cellspacing="0" class="Table" style="border-collapse:collapse; border:undefined; margin-left:.25pt; width:486.35pt">
 	<tbody>
 		<tr>
 			<td style="width:33.5pt">
@@ -34,7 +33,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.35pt">
-			<p style="text-align:center"><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">HỘI ĐỒNG NH&Acirc;N D&Acirc;N HUYỆN</span></span></strong></span></p>
+			<p style="text-align:center"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">HỘI ĐỒNG NH&Acirc;N D&Acirc;N HUYỆN</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +44,7 @@
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">Nguyễn Hữu Kh&aacute;nh</span></span></span></p>
 			</td>
 			<td style="width:94.0pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">Ph&oacute; B&iacute; Thư &ndash; C</span></span></span><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">hủ tịch</span></span></span><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333"> HĐND</span></span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">Ph&oacute; B&iacute; Thư &ndash; Chủ tịch HĐND</span></span></span></p>
 			</td>
 			<td style="width:93.85pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0913423492​</span></span></p>
@@ -62,13 +61,13 @@
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">Thị Tr&atilde;i</span></span></span></p>
 			</td>
 			<td style="width:94.0pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">Ph&oacute; C</span></span></span><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">hủ tịch</span></span></span><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333"> HĐND</span></span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">Ph&oacute; Chủ tịch HĐND</span></span></span></p>
 			</td>
 			<td style="width:93.85pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">0979437867</span></span></span></p>
 			</td>
 			<td style="width:180.85pt">
-			<p style="text-align:center">Đang cập nhập</p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Đang cập nhập</span></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -79,18 +78,18 @@
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">L&ecirc; Xu&acirc;n Tương</span></span></span></p>
 			</td>
 			<td style="width:94.0pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">Ph&oacute; C</span></span></span><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">hủ tịch</span></span></span><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333"> HĐND</span></span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">Ph&oacute; Chủ tịch HĐND</span></span></span></p>
 			</td>
 			<td style="width:93.85pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">0942408999</span></span></span></p>
 			</td>
 			<td style="width:180.85pt">
-			<p style="text-align:center">Đang cập nhập</p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Đang cập nhập</span></span></p>
 			</td>
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.35pt">
-			<p style="text-align:center"><span style="color:#0000cc"><span style="font-family:Times New Roman, serif"><span style="font-size:16px"><strong>ỦY BAN NH&Acirc;N D&Acirc;N HUYỆN</strong></span></span></span></p>
+			<p style="text-align:center"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">ỦY BAN NH&Acirc;N D&Acirc;N HUYỆN</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -98,44 +97,10 @@
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">1</span></span></p>
 			</td>
 			<td style="width:84.15pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">Nguyễn Xu&acirc;n Thanh</span></span></span></p>
-			</td>
-			<td style="width:94.0pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">Ph&oacute; B&iacute; Thư - CT UBND</span></span></span></p>
-			</td>
-			<td style="width:93.85pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">0913423492</span></span></span></p>
-			</td>
-			<td style="width:180.85pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">thanhnx.daksong@daknong.gov.vn</span></span></span></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:33.5pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">2</span></span></p>
-			</td>
-			<td style="width:84.15pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">L&ecirc; Viết Sinh</span></span></span></p>
-			</td>
-			<td style="width:94.0pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">Ph&oacute; C</span></span></span><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">hủ tịch</span></span></span><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333"> UBND</span></span></span></p>
-			</td>
-			<td style="width:93.85pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">0945933569</span></span></span></p>
-			</td>
-			<td style="width:180.85pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">sinhlv.daksong@daknong.gov.vn</span></span></span></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:33.5pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">3</span></span></p>
-			</td>
-			<td style="width:84.15pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">Nguyễn Văn Ph&ograve;</span></span></span></p>
 			</td>
 			<td style="width:94.0pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">Ph&oacute; C</span></span></span><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">hủ tịch</span></span></span><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333"> UBND</span></span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">Ph&oacute; Chủ tịch UBND</span></span></span></p>
 			</td>
 			<td style="width:93.85pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">0914018566</span></span></span></p>
@@ -146,13 +111,13 @@
 		</tr>
 		<tr>
 			<td style="width:33.5pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">4</span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">2</span></span></p>
 			</td>
 			<td style="width:84.15pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">Nguyễn Ngọc Th&acirc;n</span></span></span></p>
 			</td>
 			<td style="width:94.0pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">Ph&oacute; C</span></span></span><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">hủ tịch</span></span></span><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333"> UBND</span></span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">Ph&oacute; Chủ tịch UBND</span></span></span></p>
 			</td>
 			<td style="width:93.85pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#333333">0975616768</span></span></span></p>
@@ -165,9 +130,9 @@
 </table>
 
 <p><br />
-<span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">TH&Ocirc;NG TIN LI&Ecirc;N HỆ CỦA CBCC</span></span></strong><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">:</span></span></strong></span></p>
+<strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">TH&Ocirc;NG TIN LI&Ecirc;N HỆ CỦA CBCC:</span></span></span></strong></p>
 
-<table border="1" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border:solid windowtext 1.0pt; width:486.7pt">
+<table cellspacing="0" class="Table" style="border-collapse:collapse; border:undefined; width:486.7pt">
 	<tbody>
 		<tr>
 			<td style="width:33.5pt">
@@ -188,7 +153,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.7pt">
-			<p><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">I. Văn ph&ograve;ng HĐND&amp;UBND huyện</span></span></strong></span></p>
+			<p><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">I. Văn ph&ograve;ng HĐND&amp;UBND huyện</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -230,21 +195,21 @@
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">3</span></span></p>
 			</td>
 			<td style="width:83.45pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Hồ Thị Thu Uyển</span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Nguyễn Vũ &Acirc;n</span></span></p>
 			</td>
 			<td style="width:101.65pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Ph&oacute; Ch&aacute;nh Văn ph&ograve;ng</span></span></p>
 			</td>
 			<td style="width:77.9pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">09</span></span><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">68 389 957</span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0943 446 779</span></span></p>
 			</td>
 			<td style="width:190.2pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Đang cập nhập</span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">annv.daksong@daknong.gov.vn</span></span></p>
 			</td>
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.7pt">
-			<p><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">II. Ph&ograve;ng Nội vụ</span></span></strong></span></p>
+			<p><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">II. Ph&ograve;ng Nội vụ</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -283,12 +248,12 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.7pt">
-			<p><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">III. Ph&ograve;ng T&agrave;i ch&iacute;nh &ndash; Kế hoạch</span></span></strong></span></p>
+			<p><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">III. Ph&ograve;ng T&agrave;i ch&iacute;nh &ndash; Kế hoạch</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width:33.5pt">
-			<p style="text-align:center"><span style="font-family:Times New Roman, serif"><span style="font-size:16px">1</span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">1</span></span></p>
 			</td>
 			<td style="width:83.45pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Trần Thanh Nghi&ecirc;m</span></span></p>
@@ -300,12 +265,12 @@
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0979 777 467</span></span></p>
 			</td>
 			<td style="width:190.2pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">n</span></span><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">ghiemtt.daksong@daknong.gov.vn</span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">nghiemtt.daksong@daknong.gov.vn</span></span></p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width:33.5pt">
-			<p style="text-align:center"><span style="font-family:Times New Roman, serif"><span style="font-size:16px">2</span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">2</span></span></p>
 			</td>
 			<td style="width:83.45pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Trần Thị Xanh</span></span></p>
@@ -322,12 +287,12 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.7pt">
-			<p><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">IV. Ph&ograve;ng Y tế</span></span></strong></span></p>
+			<p><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">IV. Ph&ograve;ng Y tế</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width:33.5pt">
-			<p style="text-align:center"><span style="font-family:Times New Roman, serif"><span style="font-size:16px">1</span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">1</span></span></p>
 			</td>
 			<td style="width:83.45pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">L&ecirc; Văn H&agrave;</span></span></p>
@@ -344,12 +309,12 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.7pt">
-			<p><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">V. Ph&ograve;ng Lao động Thương binh v&agrave; X&atilde; hội</span></span></strong></span></p>
+			<p><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">V. Ph&ograve;ng Lao động Thương binh v&agrave; X&atilde; hội</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width:33.5pt">
-			<p style="text-align:center"><span style="font-family:Times New Roman, serif"><span style="font-size:16px">1</span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">1</span></span></p>
 			</td>
 			<td style="width:83.45pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">B&ugrave;i Ngọc</span></span></p>
@@ -369,21 +334,21 @@
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">2</span></span></p>
 			</td>
 			<td style="width:83.45pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Nguyễn Vũ &Acirc;n</span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Hồ Thị Thu Uyển</span></span></p>
 			</td>
 			<td style="width:101.65pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Ph&oacute; Trưởng ph&ograve;ng</span></span></p>
 			</td>
 			<td style="width:77.9pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0943 446 779</span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0968 389 957</span></span></p>
 			</td>
 			<td style="width:190.2pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">annv.daksong@daknong.gov.vn</span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Đang cập nhập</span></span></p>
 			</td>
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.7pt">
-			<p><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">VI. Ph&ograve;ng Gi&aacute;o dục v&agrave; Đ&agrave;o tạo</span></span></strong></span></p>
+			<p><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">VI. Ph&ograve;ng Gi&aacute;o dục v&agrave; Đ&agrave;o tạo</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -422,7 +387,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.7pt">
-			<p><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">VII. Ph&ograve;ng Văn h&oacute;a v&agrave; Th&ocirc;ng tin</span></span></strong></span></p>
+			<p><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">VII. Ph&ograve;ng Văn h&oacute;a v&agrave; Th&ocirc;ng tin</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -433,7 +398,7 @@
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Nguyễn Ngọc Th&acirc;n</span></span></p>
 			</td>
 			<td style="width:101.65pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Ph&oacute; C</span></span><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">hủ tịch</span></span><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"> UBND</span></span><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"> huy&ecirc;n &ndash; Phụ tr&aacute;ch</span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Ph&oacute; Chủ tịch UBND huy&ecirc;n &ndash; Phụ tr&aacute;ch</span></span></p>
 			</td>
 			<td style="width:77.9pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0906 533 399</span></span></p>
@@ -444,7 +409,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.7pt">
-			<p><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">VIII. Ph&ograve;ng Tư Ph&aacute;p</span></span></strong></span></p>
+			<p><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">VIII. Ph&ograve;ng Tư Ph&aacute;p</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -466,7 +431,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.7pt">
-			<p><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">IX. Ph&ograve;ng N&ocirc;ng nghiệp v&agrave; Ph&aacute;t triển N&ocirc;ng th&ocirc;n</span></span></strong></span></p>
+			<p><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">IX. Ph&ograve;ng N&ocirc;ng nghiệp v&agrave; Ph&aacute;t triển N&ocirc;ng th&ocirc;n</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -497,7 +462,7 @@
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Ph&oacute; Trưởng ph&ograve;ng</span></span></p>
 			</td>
 			<td style="width:77.9pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">09</span></span><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">72 963 645</span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0972 963 645</span></span></p>
 			</td>
 			<td style="width:190.2pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">thuytn.daksong@daknong.gov.vn</span></span></p>
@@ -578,7 +543,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.7pt">
-			<p><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">XI. Thanh tra huyện</span></span></strong></span></p>
+			<p><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">XI. Thanh tra huyện</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -609,7 +574,7 @@
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Ph&oacute; Ch&aacute;nh Thanh tra</span></span></p>
 			</td>
 			<td style="width:77.9pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">09</span></span><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">35 342 655</span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0935 342 655</span></span></p>
 			</td>
 			<td style="width:190.2pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">tungdt.daksong@daknong.gov.vn</span></span></p>
@@ -617,7 +582,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.7pt">
-			<p><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">XII. Ph&ograve;ng T&agrave;i nguy&ecirc;n v&agrave; M&ocirc;i trường</span></span></strong></span></p>
+			<p><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">XII. Ph&ograve;ng T&agrave;i nguy&ecirc;n v&agrave; M&ocirc;i trường</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -631,7 +596,7 @@
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Trưởng ph&ograve;ng</span></span></p>
 			</td>
 			<td style="width:77.9pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0</span></span><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">985</span></span> <span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">567</span></span> <span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">347</span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0985 567 347</span></span></p>
 			</td>
 			<td style="width:190.2pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">hiennd.daksong@daknong.gov.vn</span></span></p>
@@ -648,7 +613,7 @@
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Ph&oacute; Trưởng ph&ograve;ng</span></span></p>
 			</td>
 			<td style="width:77.9pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0</span></span><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">934</span></span> <span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">712</span></span> <span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">312</span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0934 712 312</span></span></p>
 			</td>
 			<td style="width:190.2pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">giapdv.daksong@daknong.gov.vn</span></span></p>
@@ -665,7 +630,7 @@
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Ph&oacute; Trưởng ph&ograve;ng</span></span></p>
 			</td>
 			<td style="width:77.9pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0</span></span><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">915</span></span> <span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">813</span></span> <span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">884</span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0915 813 884</span></span></p>
 			</td>
 			<td style="width:190.2pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">hadt.daksong@daknong.gov.vn</span></span></p>
@@ -673,7 +638,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width:486.7pt">
-			<p><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">XIII. Ph&ograve;ng D&acirc;n tộc</span></span></strong></span></p>
+			<p><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">XIII. Ph&ograve;ng D&acirc;n tộc</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -684,7 +649,7 @@
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">RCom Tơ Guan</span></span></p>
 			</td>
 			<td style="width:101.65pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Ph&oacute; </span></span><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Trưởng ph&ograve;ng</span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Ph&oacute; Trưởng ph&ograve;ng</span></span></p>
 			</td>
 			<td style="width:77.9pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0972 693 802</span></span></p>
@@ -701,7 +666,7 @@
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Điểu Gron</span></span></p>
 			</td>
 			<td style="width:101.65pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Ph&oacute; </span></span><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Trưởng ph&ograve;ng</span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Ph&oacute; Trưởng ph&ograve;ng</span></span></p>
 			</td>
 			<td style="width:77.9pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0978 480 779</span></span></p>
@@ -715,138 +680,117 @@
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<table border="1" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border:solid windowtext 1.0pt">
+<table cellspacing="0" class="Table" style="border-collapse:collapse; border:undefined">
 	<tbody>
 		<tr>
-			<td colspan="5" style="width:495.2pt">
-			<p style="text-align:center"><span style="color:#0000cc"><strong><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Bộ phận Tiếp nh&acirc;n v&agrave; Ho&agrave;n trả kết quả giải quyết thủ tục h&agrave;nh ch&iacute;nh huyện</span></span></strong></span></p>
+			<td colspan="5" style="width:485.9pt">
+			<p style="text-align:center"><strong><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">Bộ phận Tiếp nh&acirc;n v&agrave; Ho&agrave;n trả kết quả giải quyết thủ tục h&agrave;nh ch&iacute;nh huyện</span></span></span></strong></p>
 
-			<p style="text-align:center"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>Địa chỉ:</strong> <span style="color:#0000ff"><em>Tổ d&acirc;n phố 3 &ndash; Thị trấn Đức An &ndash; Huyện Đắk Song &ndash; Tỉnh Đắk N&ocirc;n</em>g</span></span></span></p>
+			<p style="text-align:center"><strong><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Địa chỉ:</span></span></strong><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"> <em><span style="color:blue">Tổ d&acirc;n phố 3 &ndash; Thị trấn Đức An &ndash; Huyện Đắk Song &ndash; Tỉnh Đắk N&ocirc;n</span></em><span style="color:blue">g</span></span></span></p>
 
-			<p style="text-align:center"><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>Điện thoại:</strong> <span style="color:#0000ff"><em>0261.3710424</em></span></span></span></p>
+			<p style="text-align:center"><strong><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Điện thoại:</span></span></strong><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"> <em><span style="color:blue">0261.3710424</span></em></span></span></p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width:33.5pt">
+			<td style="width:33.05pt">
 			<p style="text-align:center"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">STT</span></span></strong></p>
 			</td>
-			<td style="width:85.1pt">
+			<td style="width:82.95pt">
 			<p style="text-align:center"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Họ v&agrave; t&ecirc;n</span></span></strong></p>
 			</td>
-			<td style="width:98.5pt">
+			<td style="width:95.45pt">
 			<p style="text-align:center"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Chức vụ</span></span></strong></p>
 			</td>
-			<td style="width:80.95pt">
+			<td style="width:78.45pt">
 			<p style="text-align:center"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Điện thoại</span></span></strong></p>
 			</td>
-			<td style="width:197.15pt">
+			<td style="width:196.0pt">
 			<p style="text-align:center"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Gmail</span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width:33.5pt">
+			<td style="width:33.05pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">1</span></span></p>
 			</td>
-			<td style="width:85.1pt">
+			<td style="width:82.95pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Huỳnh Tấn Tuấn</span></span></p>
 			</td>
-			<td style="width:98.5pt">
+			<td style="width:95.45pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Ch&aacute;nh văn ph&ograve;ng -Tổ trưởng</span></span></p>
 			</td>
-			<td style="width:80.95pt">
+			<td style="width:78.45pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0983 142 566</span></span></p>
 			</td>
-			<td style="width:197.15pt">
+			<td style="width:196.0pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">tuanht.daksong@daknong.gov.vn</span></span></p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width:33.5pt">
+			<td style="width:33.05pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">2</span></span></p>
 			</td>
-			<td style="width:85.1pt">
+			<td style="width:82.95pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Trần Thị Ti&ecirc;n</span></span></p>
 			</td>
-			<td style="width:98.5pt">
+			<td style="width:95.45pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Nh&acirc;n vi&ecirc;n</span></span></p>
 			</td>
-			<td style="width:80.95pt">
+			<td style="width:78.45pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0944 446 556</span></span></p>
 			</td>
-			<td style="width:197.15pt">
+			<td style="width:196.0pt">
 			<p style="text-align:center"><br />
 			<span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">tientt.daksong@daknong.gov.vn</span></span></p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width:33.5pt">
+			<td style="width:33.05pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">3</span></span></p>
 			</td>
-			<td style="width:85.1pt">
+			<td style="width:82.95pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Trần Thị Tr&agrave;</span></span></p>
 			</td>
-			<td style="width:98.5pt">
+			<td style="width:95.45pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Nh&acirc;n vi&ecirc;n</span></span></p>
 			</td>
-			<td style="width:80.95pt">
+			<td style="width:78.45pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0967 530 505</span></span></p>
 			</td>
-			<td style="width:197.15pt">
+			<td style="width:196.0pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Đang cập nhập</span></span></p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width:33.5pt">
+			<td style="width:33.05pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">4</span></span></p>
 			</td>
-			<td style="width:85.1pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">L&ecirc; Thị Minh Nữ</span></span></p>
-			</td>
-			<td style="width:98.5pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Nh&acirc;n vi&ecirc;n</span></span></p>
-			</td>
-			<td style="width:80.95pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0973 522 966</span></span></p>
-			</td>
-			<td style="width:197.15pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Đang cập nhập</span></span></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:33.5pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">5</span></span></p>
-			</td>
-			<td style="width:85.1pt">
+			<td style="width:82.95pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Nguyễn Ho&agrave;ng Long</span></span></p>
 			</td>
-			<td style="width:98.5pt">
+			<td style="width:95.45pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Nh&acirc;n vi&ecirc;n</span></span></p>
 			</td>
-			<td style="width:80.95pt">
+			<td style="width:78.45pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0974 689 467</span></span></p>
 			</td>
-			<td style="width:197.15pt">
+			<td style="width:196.0pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">longngh.daksong@daknong.gov.vn</span></span></p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width:33.5pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">6</span></span></p>
+			<td style="width:33.05pt">
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">5</span></span></p>
 			</td>
-			<td style="width:85.1pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">B&ugrave;i Th&uacute;y Nga</span></span></p>
+			<td style="width:82.95pt">
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Nguyễn Duy Hưng</span></span></p>
 			</td>
-			<td style="width:98.5pt">
+			<td style="width:95.45pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Nh&acirc;n vi&ecirc;n</span></span></p>
 			</td>
-			<td style="width:80.95pt">
+			<td style="width:78.45pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0965 709 479</span></span></p>
 			</td>
-			<td style="width:197.15pt">
+			<td style="width:196.0pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Đang cập nhập</span></span></p>
 			</td>
 		</tr>
@@ -855,17 +799,11 @@
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<table border="1" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border:solid windowtext 1.0pt">
+<table cellspacing="0" class="Table" style="border-collapse:collapse; border:undefined">
 	<tbody>
 		<tr>
 			<td colspan="5" style="width:495.2pt">
-			<p style="text-align:center"><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Trung t&acirc;m Văn h&oacute;a &ndash; Thể thao v&agrave; Truyền th&ocirc;ng</span></span></strong></span></p>
+			<p style="text-align:center"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">Trung t&acirc;m Văn h&oacute;a &ndash; Thể thao v&agrave; Truyền th&ocirc;ng</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -896,7 +834,7 @@
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Phụ tr&aacute;ch</span></span></p>
 			</td>
 			<td style="width:80.95pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0942</span></span> <span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">002</span></span> <span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">444</span></span></p>
+			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0942 002 444</span></span></p>
 			</td>
 			<td style="width:197.15pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">nhanmq.daksong@daknong.gov.vn</span></span></p>
@@ -907,19 +845,11 @@
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<table border="1" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border:solid windowtext 1.0pt">
+<table cellspacing="0" class="Table" style="border-collapse:collapse; border:undefined">
 	<tbody>
 		<tr>
 			<td colspan="5" style="width:495.2pt">
-			<p style="text-align:center"><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Trung t&acirc;m Dịch vụ Kỹ thuật N&ocirc;ng nghiệp</span></span></strong></span></p>
+			<p style="text-align:center"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">Trung t&acirc;m Dịch vụ Kỹ thuật N&ocirc;ng nghiệp</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -966,5 +896,7 @@
 <p>&nbsp;</p>
 
 <p style="text-align:justify">&nbsp;</p>
+
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>

@@ -130,7 +130,7 @@
 	</tbody>
 </table>
 
-<p><br />
+<p style="text-align:center"><br />
 <span style="background-color:white"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">TH&Ocirc;NG TIN LI&Ecirc;N HỆ CỦA CBCC:</span></span></span></strong></span></p>
 
 <table border="1" cellspacing="0" class="Table" style="background:white; border-collapse:collapse; border:solid windowtext 1.0pt; width:486.7pt">
@@ -591,17 +591,15 @@
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#535353">1</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:83.45pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#535353">Nguyễn Duy Hiển</span></span></span></p>
+			<p style="text-align:center">&nbsp;</p>
 			</td>
 			<td style="background-color:white; width:101.65pt">
 			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#535353">Trưởng ph&ograve;ng</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:77.9pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#535353">0985</span></span></span> <span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#535353">567</span></span></span> <span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#535353">347</span></span></span></p>
+			<p style="text-align:center">&nbsp;</p>
 			</td>
-			<td style="background-color:white; width:190.2pt">
-			<p style="text-align:center"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#535353"><a href="mailto:hiennd.daksong@daknong.gov.vn"><span style="font-size:9.0pt"><span style="font-family:&quot;Arial&quot;,sans-serif"><span style="color:blue">hiennd.daksong@daknong.gov.vn</span></span></span></a></span></span></span></p>
-			</td>
+			<td style="background-color:white; width:190.2pt">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="background-color:white; width:33.5pt">

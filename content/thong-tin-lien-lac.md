@@ -10,7 +10,7 @@
     "__content__": ""
 }
 ---
-<p style="text-align:justify"><br />
+<p><br />
 <span style="background-color:white"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">L&Atilde;NH ĐẠO HUYỆN ĐẮK SONG:</span></span></span></strong></span></p>
 
 <table border="1" cellspacing="0" class="Table" style="background:white; border-collapse:collapse; border:solid windowtext 1.0pt; margin-left:.25pt; width:486.35pt">
@@ -130,7 +130,7 @@
 	</tbody>
 </table>
 
-<p style="text-align:justify"><br />
+<p><br />
 <span style="background-color:white"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">TH&Ocirc;NG TIN LI&Ecirc;N HỆ CỦA CBCC:</span></span></span></strong></span></p>
 
 <table border="1" cellspacing="0" class="Table" style="background:white; border-collapse:collapse; border:solid windowtext 1.0pt; width:486.7pt">
@@ -154,7 +154,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="background-color:white; width:486.7pt">
-			<p style="text-align:justify"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">I. Văn ph&ograve;ng HĐND&amp;UBND huyện</span></span></span></strong></p>
+			<p style="text-align:center"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">I. Văn ph&ograve;ng HĐND&amp;UBND huyện</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -210,7 +210,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="background-color:white; width:486.7pt">
-			<p style="text-align:justify"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">II. Ph&ograve;ng Nội vụ</span></span></span></strong></p>
+			<p style="text-align:center"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">II. Ph&ograve;ng Nội vụ</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -249,7 +249,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="background-color:white; width:486.7pt">
-			<p style="text-align:justify"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">III. Ph&ograve;ng T&agrave;i ch&iacute;nh &ndash; Kế hoạch</span></span></span></strong></p>
+			<p style="text-align:center"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">III. Ph&ograve;ng T&agrave;i ch&iacute;nh &ndash; Kế hoạch</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -288,7 +288,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="background-color:white; width:486.7pt">
-			<p style="text-align:justify"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">IV. Ph&ograve;ng Y tế</span></span></span></strong></p>
+			<p style="text-align:center"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">IV. Ph&ograve;ng Y tế</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -310,7 +310,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="background-color:white; width:486.7pt">
-			<p style="text-align:justify"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">V. Ph&ograve;ng Lao động Thương binh v&agrave; X&atilde; hội</span></span></span></strong></p>
+			<p style="text-align:center"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">V. Ph&ograve;ng Lao động Thương binh v&agrave; X&atilde; hội</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -349,7 +349,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="background-color:white; width:486.7pt">
-			<p style="text-align:justify"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">VI. Ph&ograve;ng Gi&aacute;o dục v&agrave; Đ&agrave;o tạo</span></span></span></strong></p>
+			<p style="text-align:center"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">VI. Ph&ograve;ng Gi&aacute;o dục v&agrave; Đ&agrave;o tạo</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -388,7 +388,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="background-color:white; width:486.7pt">
-			<p style="text-align:justify"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">VII. Ph&ograve;ng Văn h&oacute;a v&agrave; Th&ocirc;ng tin</span></span></span></strong></p>
+			<p style="text-align:center"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">VII. Ph&ograve;ng Văn h&oacute;a v&agrave; Th&ocirc;ng tin</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -410,7 +410,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="background-color:white; width:486.7pt">
-			<p style="text-align:justify"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">VIII. Ph&ograve;ng Tư Ph&aacute;p</span></span></span></strong></p>
+			<p style="text-align:center"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">VIII. Ph&ograve;ng Tư Ph&aacute;p</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +432,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="background-color:white; width:486.7pt">
-			<p style="text-align:justify"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">IX. Ph&ograve;ng N&ocirc;ng nghiệp v&agrave; Ph&aacute;t triển N&ocirc;ng th&ocirc;n</span></span></span></strong></p>
+			<p style="text-align:center"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">IX. Ph&ograve;ng N&ocirc;ng nghiệp v&agrave; Ph&aacute;t triển N&ocirc;ng th&ocirc;n</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -488,7 +488,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="background-color:white; width:486.7pt">
-			<p style="text-align:justify"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#535353">X. Ph&ograve;ng Kinh tế v&agrave; Hạ tầng</span></span></span></strong></p>
+			<p style="text-align:center"><span style="color:#0000cc"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">X. Ph&ograve;ng Kinh tế v&agrave; Hạ tầng</span></span></strong></span></p>
 			</td>
 		</tr>
 		<tr>
@@ -544,7 +544,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="background-color:white; width:486.7pt">
-			<p style="text-align:justify"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">XI. Thanh tra huyện</span></span></span></strong></p>
+			<p style="text-align:center"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">XI. Thanh tra huyện</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -583,7 +583,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="background-color:white; width:486.7pt">
-			<p style="text-align:justify"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">XII. Ph&ograve;ng T&agrave;i nguy&ecirc;n v&agrave; M&ocirc;i trường</span></span></span></strong></p>
+			<p style="text-align:center"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">XII. Ph&ograve;ng T&agrave;i nguy&ecirc;n v&agrave; M&ocirc;i trường</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -639,7 +639,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="background-color:white; width:486.7pt">
-			<p style="text-align:justify"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">XIII. Ph&ograve;ng D&acirc;n tộc</span></span></span></strong></p>
+			<p style="text-align:center"><strong><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#0000cc">XIII. Ph&ograve;ng D&acirc;n tộc</span></span></span></strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -679,7 +679,7 @@
 	</tbody>
 </table>
 
-<p style="text-align:justify">&nbsp;</p>
+<p>&nbsp;</p>
 
 <table border="1" cellspacing="0" class="Table" style="background:white; border-collapse:collapse; border:solid windowtext 1.0pt">
 	<tbody>
@@ -798,7 +798,7 @@
 	</tbody>
 </table>
 
-<p style="text-align:justify">&nbsp;</p>
+<p>&nbsp;</p>
 
 <table border="1" cellspacing="0" class="Table" style="background:white; border-collapse:collapse; border:solid windowtext 1.0pt">
 	<tbody>
@@ -844,7 +844,7 @@
 	</tbody>
 </table>
 
-<p style="text-align:justify">&nbsp;</p>
+<p>&nbsp;</p>
 
 <table border="1" cellspacing="0" class="Table" style="background:white; border-collapse:collapse; border:solid windowtext 1.0pt">
 	<tbody>
@@ -890,6 +890,6 @@
 	</tbody>
 </table>
 
-<p style="text-align:justify">&nbsp;</p>
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>

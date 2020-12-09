@@ -4,7 +4,7 @@
     "slug": "thong-tin-lien-lac",
     "layout": "page.html",
     "tag": [],
-    "date": "2020-12-07T00:15:00.000Z",
+    "date": "2020-12-07T00:20:00.000Z",
     "draft": true,
     "description": "",
     "permalink": "",
@@ -199,7 +199,7 @@
 			<p style="text-align:center"><span style="color:#0000cc"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Nguyễn Vũ &Acirc;n</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:92.15pt">
-			<p style="text-align:center"><span style="color:#0000cc"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Ph&oacute; Trưởng ph&ograve;ng</span></span></span></p>
+			<p style="text-align:center"><span style="color:#0000cc"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Ph&oacute; Ch&aacute;nh Văn ph&ograve;ng</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:69.5pt">
 			<p style="text-align:center"><span style="color:#0000cc"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0943 446 779</span></span></span></p>
@@ -338,7 +338,7 @@
 			<p style="text-align:center"><span style="color:#0000cc"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Hồ Thị Thu Uyển</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:92.15pt">
-			<p style="text-align:center"><span style="color:#0000cc"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Ph&oacute; Ch&aacute;nh Văn ph&ograve;ng</span></span></span></p>
+			<p style="text-align:center"><span style="color:#0000cc"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">Ph&oacute; Trưởng ph&ograve;ng</span></span></span></p>
 			</td>
 			<td style="background-color:white; width:69.5pt">
 			<p style="text-align:center"><span style="color:#0000cc"><span style="font-size:12.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">0968 389 957</span></span></span></p>

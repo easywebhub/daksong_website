@@ -6,7 +6,7 @@
     "layout": "van-ban.html",
     "title": "Hội chợ Nông nghiệp Quốc tế Việt Nam 2020",
     "description": "",
-    "date": "2020-10-27T00:05:00.000Z",
+    "date": "2020-10-27T00:10:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",
@@ -40,7 +40,7 @@ Email: ttxt@cantho.gov.vn</span></span></p>
 <p><span style="font-size:16px"><span style="font-family:Verdana,Geneva,sans-serif">Rất mong Qu&yacute; Doanh nghiệp quan t&acirc;m tham gia.<br />
 Tr&acirc;n trọng !</span></span></p>
 
-<p style="text-align:right">T.H</p>
+<p style="text-align:right">HL</p>
 
 <p>&nbsp;</p>
 

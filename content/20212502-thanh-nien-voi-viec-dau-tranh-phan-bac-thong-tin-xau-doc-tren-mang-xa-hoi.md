@@ -1,27 +1,15 @@
 ---json
 {
     "slug": "20212502-thanh-nien-voi-viec-dau-tranh-phan-bac-thong-tin-xau-doc-tren-mang-xa-hoi",
+    "title": "Thanh niên với việc đấu tranh, phản bác thông tin xấu, độc trên mạng xã hội",
     "category": "thong-tin-chi-dao.thong-tin-tuyen-truyen",
     "tag": [],
-    "layout": "van-ban.html",
-    "title": "Thanh niên với việc đấu tranh, phản bác thông tin xấu, độc trên mạng xã hội",
-    "description": "",
-    "so": "",
-    "permalink": true,
-    "trich_yeu": "Sinh thời, Chủ tịch Hồ Chí Minh luôn dành sự quan tâm đặc biệt đến vai trò của thanh niên đối với sự nghiệp cách mạng. Người khẳng định: “Thanh niên là người chủ tương lai của nước nhà, nước nhà thịnh hay suy, yếu hay mạnh một phần lớn là do các thanh niên”.",
-    "co_quan_ban_hanh": "",
-    "linh_vuc": "",
-    "loai_van_ban": "",
-    "nguoi_ky": "",
-    "ngay_co_hieu_luc": "",
-    "tai_lieu_dinh_kem": "",
-    "banner": "",
+    "layout": "post.html",
+    "date": "2021-02-25T09:04:00.000Z",
     "draft": false,
-    "url": "",
-    "hinh_thuc_van_ban": "",
-    "ngay_ban_hanh": "",
-    "so_hieu": "",
     "upload-image": "",
+    "description": "Sinh thời, Chủ tịch Hồ Chí Minh luôn dành sự quan tâm đặc biệt đến vai trò của thanh niên đối với sự nghiệp cách mạng. Người khẳng định: “Thanh niên là người chủ tương lai của nước nhà, nước nhà thịnh hay suy, yếu hay mạnh một phần lớn là do các thanh niên”.",
+    "banner": "",
     "__content__": ""
 }
 ---

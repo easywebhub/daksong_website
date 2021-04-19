@@ -6,7 +6,6 @@
     "layout": "van-ban.html",
     "title": "Thông báo kết luận của ông Nguyễn Văn Phò - Chủ tịch UBND huyện tại buổi tiếp công dân với bà Đặng Thị Luận ngày 23/3/2021",
     "description": "",
-    "date": "2021-04-02T02:21:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

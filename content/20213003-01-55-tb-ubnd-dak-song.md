@@ -1,12 +1,12 @@
 ---json
 {
     "slug": "20213003-01-55-tb-ubnd-dak-song",
-    "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-huyen-dak-song.ket-qua-xu-ly-don-thu",
+    "category": "tiep-cong-dan-&-xu-ly-don-thu.ubnd-huyen-dak-song.ket-luan-tcd",
     "tag": [],
     "layout": "van-ban.html",
     "title": "Thông báo kết luận của ông Nguyễn Văn Phò - Chủ tịch UBND huyện tại buổi tiếp công dân với bà Nguyễn Thị Hòa ngày 23/3/2021",
     "description": "",
-    "date": "2021-04-02T03:14:00.000Z",
+    "date": "2021-04-02T03:19:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

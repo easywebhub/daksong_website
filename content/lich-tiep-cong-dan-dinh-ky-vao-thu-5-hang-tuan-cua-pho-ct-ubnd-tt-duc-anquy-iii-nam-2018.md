@@ -3,7 +3,7 @@
     "slug": "lich-tiep-cong-dan-dinh-ky-vao-thu-5-hang-tuan-cua-pho-ct-ubnd-tt-duc-anquy-iii-nam-2018",
     "category": "tiep-dan.tcd-cap-xa&thi-tran",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Lịch tiếp công dân định kỳ vào thứ 5 hàng tuần của Phó CT UBND tt Đức An,quý III năm 2018",
     "description": "",
     "date": "2018-10-04T01:24:00.000Z",

@@ -3,7 +3,7 @@
     "slug": "bc-cong-tac-giai-quyet-khieu-nai-to-cao-thang-3-nam-2019",
     "category": "tiep-dan.kqgq-don-thu-cap-xa-&-thi-tran",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "BC Công tác giải quyết khiếu nại, tố cáo tháng 3 năm 2019",
     "description": "",
     "date": "2019-03-15T01:34:00.000Z",

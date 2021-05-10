@@ -3,7 +3,7 @@
     "slug": "bc-vv-giai-quyet-don-to-cao-cua-ong-dinh-ngoc-chuan-thon-1-truong-xuan",
     "category": "tiep-dan.kqgq-don-thu-cap-xa-&-thi-tran",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Bc V/v giải quyết đơn tố cáo của ông Đinh Ngọc Chuân, thôn 1 Trường Xuân",
     "description": "",
     "date": "2019-01-14T02:01:00.000Z",

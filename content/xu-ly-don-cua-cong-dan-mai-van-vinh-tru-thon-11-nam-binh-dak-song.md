@@ -3,7 +3,7 @@
     "slug": "xu-ly-don-cua-cong-dan-mai-van-vinh-tru-thon-11-nam-binh-dak-song",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Xử lý đơn của công dân Mai Văn Vinh, trú thôn 11, Nam Bình, Đắk Song",
     "description": "",
     "date": "2018-11-25T09:29:00.000Z",

@@ -3,7 +3,7 @@
     "slug": "bao-cao-ket-qua-giai-quyet-don-do-ban-tiep-cong-dan-tinh-chuyen-den",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Báo cáo kết quả giải quyết đơn do Ban Tiếp  công dân tỉnh chuyển đến",
     "description": "",
     "date": "2019-01-23T06:55:00.000Z",

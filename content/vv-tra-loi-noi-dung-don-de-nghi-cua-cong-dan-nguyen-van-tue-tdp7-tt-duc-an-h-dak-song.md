@@ -3,7 +3,7 @@
     "slug": "vv-tra-loi-noi-dung-don-de-nghi-cua-cong-dan-nguyen-van-tue-tdp7-tt-duc-an-h-dak-song",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Vv trả lời nội dung đơn đề nghị của công dân Nguyễn Văn Tuế, Tdp7, tt Đức An, h Đắk Song",
     "description": "",
     "date": "2019-01-03T02:50:00.000Z",

@@ -3,7 +3,7 @@
     "slug": "bc-cong-tac-tiep-nhan-va-giai-quyet-don-thu-khieu-nai-to-cao-kien-nghi-phan-anh-thang-10-cua-ubnd-xa-dak-mol",
     "category": "tiep-dan.tcd-cap-xa&thi-tran",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Bc Công tác tiếp nhận và giải quyết đơn thư, khiếu nại, tố cáo, kiến nghị, phản ánh tháng 10 của UBND xã Đắk Môl",
     "description": "",
     "date": "2018-10-04T01:13:00.000Z",

@@ -3,7 +3,7 @@
     "slug": "bc-ket-qua-giai-quyet-don-cua-ong-nguyen-tan-the-tru-tai-thon-10-xa-nam-n-jang-huyen-dak-song-tinh-dak-nong",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Bc kết quả giải quyết đơn của ông Nguyễn Tấn Thế, trú tại thôn 10, xã Nâm N'Jang, huyện Đắk Song, tỉnh Đắk Nông",
     "description": "",
     "date": "2019-02-01T07:09:00.000Z",

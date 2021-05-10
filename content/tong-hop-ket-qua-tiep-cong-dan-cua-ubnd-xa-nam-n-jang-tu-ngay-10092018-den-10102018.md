@@ -3,7 +3,7 @@
     "slug": "tong-hop-ket-qua-tiep-cong-dan-cua-ubnd-xa-nam-n-jang-tu-ngay-10092018-den-10102018",
     "category": "tiep-dan.tcd-cap-xa&thi-tran",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Tổng hợp kết quả Tiếp công dân của UBND xã Nâm N'Jang từ ngày 10/09/2018 đến 10/10/2018",
     "description": "",
     "date": "2018-10-11T02:32:00.000Z",

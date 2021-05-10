@@ -3,7 +3,7 @@
     "slug": "tra-loi-don-cua-cong-dan-pham-van-phuc-tdp2-tt-duc-an-huyen-dak-song",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Trả lời đơn của công dân Phạm Văn Phúc TDP2, tt Đức An, huyện Đắk Song",
     "description": "",
     "date": "2018-11-28T02:06:00.000Z",

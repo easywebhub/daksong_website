@@ -3,7 +3,7 @@
     "slug": "tra-loi-don-cua-cong-dan-nguyen-thi-hoa-tru-to-2-thi-tran-duc-an-huyen-dak-song-tinh-dak-nong",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Trả lời đơn của công dân Nguyễn Thị Hòa, trú tổ 2, thị trấn Đức An, huyện Đắk Song, tỉnh Đắk Nông",
     "description": "",
     "date": "2019-01-21T08:19:00.000Z",

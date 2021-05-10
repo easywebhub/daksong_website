@@ -3,7 +3,7 @@
     "slug": "vv-tra-loi-don-cua-cong-dan-truong-manh-hung-tru-thon-thuan-loi-xa-thuan-hanh-huyen-dak-song",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "V/v trả lời đơn của công dân Trương Mạnh Hùng, trú thôn Thuận Lợi, xã Thuận Hạnh, huyện Đắk Song",
     "description": "",
     "date": "2019-02-21T01:45:00.000Z",

@@ -3,7 +3,7 @@
     "slug": "bc-cong-tac-tcd-giai-quyet-khieu-nai-to-cao-kien-nghi-phan-anh-thang-03-nam-2019-cua-ubnd-thi-tran-duc-an",
     "category": "tiep-dan.kqgq-don-thu-cap-xa-&-thi-tran",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Bc Công tác TCD giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh tháng 03 năm 2019 của UBND Thị trấn Đức An",
     "description": "",
     "date": "2019-03-12T11:10:00.000Z",

@@ -3,7 +3,7 @@
     "slug": "vv-tra-loi-noi-dung-don-cua-cong-dan-nong-van-duong-thon-11-xa-nam-n-jang-huyen-dak-song",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Vv trả lời nội dung đơn của công dân Nông Văn Đường thôn 11, xã Nâm N'Jang, huyện Đắk Song",
     "description": "",
     "date": "2019-02-01T07:59:00.000Z",

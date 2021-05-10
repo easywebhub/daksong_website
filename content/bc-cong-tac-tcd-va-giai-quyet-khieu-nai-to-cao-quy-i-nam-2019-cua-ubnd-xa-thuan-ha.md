@@ -3,7 +3,7 @@
     "slug": "bc-cong-tac-tcd-va-giai-quyet-khieu-nai-to-cao-quy-i-nam-2019-cua-ubnd-xa-thuan-ha",
     "category": "tiep-dan.kqgq-don-thu-cap-xa-&-thi-tran",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Bc Công tác TCD và giải quyết khiếu nại, tố cáo  Quý I năm 2019 của UBND xã Thuận Hà",
     "description": "",
     "date": "2019-03-15T07:50:00.000Z",

@@ -3,7 +3,7 @@
     "slug": "bc-cong-tac-tcd-va-giai-quyet-don-thu-kieu-nai-to-cao-kien-nghi-phan-anh-thang-012019-cua-ubnd-xa-dak-mol",
     "category": "tiep-dan.kqgq-don-thu-cap-xa-&-thi-tran",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Bc Công tác TCD và giải quyết đơn thư, kiếu nại, tố cáo, kiến nghị, phản ánh tháng 01/2019 của UBND xã Đắk Môl",
     "description": "",
     "date": "2019-02-18T03:57:00.000Z",

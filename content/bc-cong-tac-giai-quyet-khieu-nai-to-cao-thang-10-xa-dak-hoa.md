@@ -3,7 +3,7 @@
     "slug": "bc-cong-tac-giai-quyet-khieu-nai-to-cao-thang-10-xa-dak-hoa",
     "category": "tiep-dan.tcd-cap-xa&thi-tran",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Bc Công tác giải quyết khiếu nại, tố cáo tháng 10 xã Đắk Hòa",
     "description": "",
     "date": "2018-10-14T02:15:00.000Z",

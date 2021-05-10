@@ -3,7 +3,7 @@
     "slug": "vv-giai-quyet-don-cua-ong-phan-quang-vinh-thuong-tru-tai-thon-4-xa-nam-n-jang",
     "category": "tiep-dan.kqgq-don-thu-cap-xa-&-thi-tran",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Vv giải quyết đơn của ông Phan Quang Vinh, thường trú tại thôn 4 xã Nâm N'Jang",
     "description": "",
     "date": "2018-10-11T02:09:00.000Z",

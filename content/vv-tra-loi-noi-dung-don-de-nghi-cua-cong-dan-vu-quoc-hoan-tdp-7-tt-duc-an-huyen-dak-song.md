@@ -3,7 +3,7 @@
     "slug": "vv-tra-loi-noi-dung-don-de-nghi-cua-cong-dan-vu-quoc-hoan-tdp-7-tt-duc-an-huyen-dak-song",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Vv trả lời nội dung đơn đề nghị của công dân Vũ Quốc Hoàn, TDP 7, tt Đức An, huyện Đắk Song",
     "description": "",
     "date": "2019-01-03T02:43:00.000Z",

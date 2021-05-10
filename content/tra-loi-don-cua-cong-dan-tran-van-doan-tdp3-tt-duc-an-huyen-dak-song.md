@@ -3,7 +3,7 @@
     "slug": "tra-loi-don-cua-cong-dan-tran-van-doan-tdp3-tt-duc-an-huyen-dak-song",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Trả lời đơn của công dân Trần Văn Đoàn TDP3, tt Đức An, huyện Đắk Song",
     "description": "",
     "date": "2018-10-22T02:55:00.000Z",

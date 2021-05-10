@@ -3,7 +3,7 @@
     "slug": "giai-quyet-kien-nghi-cua-ba-nguyen-thi-le-tai-buoi-tiep-cong-dan-ngay-20092018",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Giải quyết kiến nghị của bà Nguyễn Thị Lệ tại buổi tiếp công dân ngày 20-09-2018",
     "description": "",
     "date": "2018-09-27T08:00:00.000Z",

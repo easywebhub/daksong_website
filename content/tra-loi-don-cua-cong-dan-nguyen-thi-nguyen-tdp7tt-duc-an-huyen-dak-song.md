@@ -3,7 +3,7 @@
     "slug": "tra-loi-don-cua-cong-dan-nguyen-thi-nguyen-tdp7tt-duc-an-huyen-dak-song",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Trả lời đơn của công dân Nguyễn Thị Nguyên TDP7,tt Đức An, huyện Đắk Song",
     "description": "",
     "date": "2018-11-27T02:16:00.000Z",

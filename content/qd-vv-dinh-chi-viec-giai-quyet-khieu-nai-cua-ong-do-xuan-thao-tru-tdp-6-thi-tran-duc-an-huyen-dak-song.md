@@ -4,7 +4,7 @@
     "title": "QĐ V/v đình chỉ việc giải quyết khiếu nại của ông Đỗ Xuân Thạo, trú TDP 6, thị trấn Đức An, huyện Đắk Song",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "post.html",
+    "layout": "404.html",
     "date": "2019-02-01T01:59:00.000Z",
     "draft": false,
     "upload-image": "/img/154.png",

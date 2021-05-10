@@ -3,7 +3,7 @@
     "slug": "bc-cong-tac-giai-quyet-tcd-giai-quyet-don-thu-phan-anh-kien-nghi-khieu-nai-to-cao-thang-01-nam-2019-cua-ubnd-xa-nam-binh",
     "category": "tiep-dan.kqgq-don-thu-cap-xa-&-thi-tran",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Bc công tác giải quyết TCD, giải quyết đơn thư, phản ánh, kiến nghị, khiếu nại, tố cáo tháng 01 năm 2019 của UBND xã Nam Bình",
     "description": "",
     "date": "2019-01-14T01:55:00.000Z",

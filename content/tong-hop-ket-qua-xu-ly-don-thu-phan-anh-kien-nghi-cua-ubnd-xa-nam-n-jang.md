@@ -3,7 +3,7 @@
     "slug": "tong-hop-ket-qua-xu-ly-don-thu-phan-anh-kien-nghi-cua-ubnd-xa-nam-n-jang",
     "category": "tiep-dan.kqgq-don-thu-cap-xa-&-thi-tran",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Tổng hợp kết quả xử lý đơn thư, phản ánh, kiến nghị của UBND xã Nâm N'Jang",
     "description": "",
     "date": "2018-10-11T02:40:00.000Z",

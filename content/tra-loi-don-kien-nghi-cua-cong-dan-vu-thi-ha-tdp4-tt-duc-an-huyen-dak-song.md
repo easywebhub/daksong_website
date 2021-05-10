@@ -3,7 +3,7 @@
     "slug": "tra-loi-don-kien-nghi-cua-cong-dan-vu-thi-ha-tdp4-tt-duc-an-huyen-dak-song",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Trả lời đơn kiến nghị của công dân Vũ Thị Hà TDP4, tt Đức An, huyện Đắk Song",
     "description": "",
     "date": "2018-10-18T03:03:00.000Z",

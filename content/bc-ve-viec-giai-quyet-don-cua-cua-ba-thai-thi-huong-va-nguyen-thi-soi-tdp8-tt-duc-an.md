@@ -3,7 +3,7 @@
     "slug": "bc-ve-viec-giai-quyet-don-cua-cua-ba-thai-thi-huong-va-nguyen-thi-soi-tdp8-tt-duc-an",
     "category": "tiep-dan.kqgq-don-thu-cap-xa-&-thi-tran",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Bc Về việc giải quyết đơn của của bà Thái Thị Hương và Nguyễn Thị Sợi tdp8, tt Đức An",
     "description": "",
     "date": "2018-11-06T02:55:00.000Z",

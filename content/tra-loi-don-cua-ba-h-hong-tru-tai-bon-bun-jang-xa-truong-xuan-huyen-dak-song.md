@@ -3,7 +3,7 @@
     "slug": "tra-loi-don-cua-ba-h-hong-tru-tai-bon-bun-jang-xa-truong-xuan-huyen-dak-song",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Trả lời đơn của bà H Hồng, trú tại Bon Bun Jang, xã Trường Xuân, huyện Đắk Song",
     "description": "",
     "date": "2018-10-22T09:10:00.000Z",

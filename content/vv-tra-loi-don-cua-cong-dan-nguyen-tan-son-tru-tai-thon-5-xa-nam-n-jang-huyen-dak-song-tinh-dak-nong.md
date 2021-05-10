@@ -3,7 +3,7 @@
     "slug": "vv-tra-loi-don-cua-cong-dan-nguyen-tan-son-tru-tai-thon-5-xa-nam-n-jang-huyen-dak-song-tinh-dak-nong",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "V/v trả lời đơn của công dân Nguyễn Tấn Sơn trú tại thôn 5, xã Nâm N'Jang, huyện Đắk Song, tỉnh Đắk Nông ",
     "description": "",
     "date": "2019-02-01T09:20:00.000Z",

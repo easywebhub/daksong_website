@@ -3,7 +3,7 @@
     "slug": "vv-tra-loi-don-cua-cong-dan-phan-tuyet-tinh-thon-dak-tan-xa-dak-nia-thi-xa-gia-nghia-tinh-dak-nong",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Vv trả lời đơn của công dân Phan Tuyết Tinh, thôn Đắk Tân, xã Đắk Nia, Thị xã Gia Nghĩa Tỉnh Đắk Nông",
     "description": "",
     "date": "2019-01-03T06:52:00.000Z",

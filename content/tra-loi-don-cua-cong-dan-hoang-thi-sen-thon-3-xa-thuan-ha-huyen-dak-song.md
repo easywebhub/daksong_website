@@ -3,7 +3,7 @@
     "slug": "tra-loi-don-cua-cong-dan-hoang-thi-sen-thon-3-xa-thuan-ha-huyen-dak-song",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Trả lời đơn của công dân Hoàng Thị Sen, thôn 3, xã Thuận Hà, huyện Đắk Song",
     "description": "",
     "date": "2018-11-04T08:18:00.000Z",

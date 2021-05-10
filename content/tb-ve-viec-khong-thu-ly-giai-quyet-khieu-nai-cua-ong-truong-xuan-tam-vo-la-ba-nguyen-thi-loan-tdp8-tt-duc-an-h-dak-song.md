@@ -3,7 +3,7 @@
     "slug": "tb-ve-viec-khong-thu-ly-giai-quyet-khieu-nai-cua-ong-truong-xuan-tam-vo-la-ba-nguyen-thi-loan-tdp8-tt-duc-an-h-dak-song",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "TB Về việc không thụ lý giải quyết khiếu nại của ông Trương Xuân Tám vợ là bà Nguyễn Thị Loan TDP8, tt Đức An, h Đắk Song",
     "description": "",
     "date": "2019-01-09T02:08:00.000Z",

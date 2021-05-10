@@ -3,7 +3,7 @@
     "slug": "qd-vv-dinh-chi-viec-giai-quyet-khieu-nai-cua-ong-pham-van-the-tru-to-dan-pho-4-thi-tran-duc-an-huyen-dak-song",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "QĐ Vv đình chỉ việc giải quyết khiếu nại của ông Phạm Văn Thế, trú tổ dân phố 4, thị trấn Đức An, huyện Đắk Song",
     "description": "",
     "date": "2019-02-01T00:00:00.000Z",

@@ -3,7 +3,7 @@
     "slug": "tra-loi-noi-dung-don-cua-cong-dan-pham-van-ngo-thon-7-xa-nam-binh-huyen-dak-song",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Trả lời nội dung đơn của công dân Phạm Văn Ngọ, thôn 7, xã Nam Bình, huyện Đắk Song",
     "description": "",
     "date": "2019-01-03T02:33:00.000Z",

@@ -3,7 +3,7 @@
     "slug": "tra-loi-don-cua-cong-dan-bui-thi-huong-tru-tai-thon-boong-rinh-xa-nam-n-jang-huyen-dak-song-tinh-dak-nong",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Trả lời đơn của công dân Bùi Thị Hương, trú tại thôn Boong Rinh, xã Nâm N'Jang, huyện Đắk Song, tỉnh Đắk Nông",
     "description": "",
     "date": "2019-01-21T07:07:00.000Z",

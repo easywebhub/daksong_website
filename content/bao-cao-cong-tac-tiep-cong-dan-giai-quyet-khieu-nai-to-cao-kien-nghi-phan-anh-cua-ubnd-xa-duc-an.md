@@ -3,7 +3,7 @@
     "slug": "bao-cao-cong-tac-tiep-cong-dan-giai-quyet-khieu-nai-to-cao-kien-nghi-phan-anh-cua-ubnd-xa-duc-an",
     "category": "tiep-dan.kqgq-don-thu-cap-xa-&-thi-tran",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Báo cáo công tác tiếp công dân giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh của UBND xã Đức An",
     "description": "",
     "date": "2019-01-14T01:56:00.000Z",

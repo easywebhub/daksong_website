@@ -3,7 +3,7 @@
     "slug": "bc-cong-tac-tcd-giai-quyet-khieu-nai-to-cao-kien-nghi-phan-anh-cua-ubnd-thi-tran-duc-an",
     "category": "tiep-dan.tcd-cap-xa&thi-tran",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Bc công tác TCD giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh của UBND thi trấn Đức An",
     "description": "",
     "date": "2019-02-14T01:39:00.000Z",

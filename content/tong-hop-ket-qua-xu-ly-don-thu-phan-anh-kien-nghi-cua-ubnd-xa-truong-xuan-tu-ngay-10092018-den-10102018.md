@@ -3,7 +3,7 @@
     "slug": "tong-hop-ket-qua-xu-ly-don-thu-phan-anh-kien-nghi-cua-ubnd-xa-truong-xuan-tu-ngay-10092018-den-10102018",
     "category": "tiep-dan.kqgq-don-thu-cap-xa-&-thi-tran",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Tổng hợp kết quả xử lý đơn thư, phản ánh, kiến nghị của UBND xã Trường Xuân từ ngày 10/09/2018 đến 10/10/2018",
     "description": "",
     "date": "2018-10-11T03:07:00.000Z",

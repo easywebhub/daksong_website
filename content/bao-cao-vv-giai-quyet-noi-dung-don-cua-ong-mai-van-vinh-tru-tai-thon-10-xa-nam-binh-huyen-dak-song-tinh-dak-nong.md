@@ -3,7 +3,7 @@
     "slug": "bao-cao-vv-giai-quyet-noi-dung-don-cua-ong-mai-van-vinh-tru-tai-thon-10-xa-nam-binh-huyen-dak-song-tinh-dak-nong",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Báo cáo V/v giải quyết nội dung đơn của ông Mai Văn Vinh, trú tại thôn 10, xã Nam Bình, huyện Đắk Song, tỉnh Đắk Nông",
     "description": "",
     "date": "2019-01-30T08:34:00.000Z",

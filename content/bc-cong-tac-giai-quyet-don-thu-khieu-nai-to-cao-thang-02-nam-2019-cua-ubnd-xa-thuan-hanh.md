@@ -3,7 +3,7 @@
     "slug": "bc-cong-tac-giai-quyet-don-thu-khieu-nai-to-cao-thang-02-nam-2019-cua-ubnd-xa-thuan-hanh",
     "category": "tiep-dan.kqgq-don-thu-cap-xa-&-thi-tran",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Bc công tác giải quyết đơn thư, khiếu nại, tố cáo tháng 02 năm 2019 của UBND xã Thuận Hạnh",
     "description": "",
     "date": "2019-02-14T01:51:00.000Z",

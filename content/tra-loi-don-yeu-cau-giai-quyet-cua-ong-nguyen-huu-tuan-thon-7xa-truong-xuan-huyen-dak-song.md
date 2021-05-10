@@ -3,7 +3,7 @@
     "slug": "tra-loi-don-yeu-cau-giai-quyet-cua-ong-nguyen-huu-tuan-thon-7xa-truong-xuan-huyen-dak-song",
     "category": "tiep-dan.kqgq-don-thu-cap-xa-&-thi-tran",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Trả lời đơn yêu cầu giải quyết của Ông Nguyễn Hữu Tuận thôn 7,xã Trường Xuân, huyện Đắk Song",
     "description": "",
     "date": "2018-10-30T08:03:00.000Z",

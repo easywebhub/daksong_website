@@ -3,7 +3,7 @@
     "slug": "tra-loi-don-de-nghi-cua-cong-dan-pham-thi-theu-tdp2-tt-duc-an-huyen-dak-song",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Trả lời đơn đề nghị của công dân Phạm Thị Thêu, TDP2, tt Đức An, huyện Đắk Song",
     "description": "",
     "date": "2018-10-23T07:55:00.000Z",

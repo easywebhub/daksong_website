@@ -3,7 +3,7 @@
     "slug": "bao-cao-cong-tac-giai-quyet-kieu-nai-to-cao-thang-01-nam-2019-cua-ubnd-xa-dak-hoa",
     "category": "tiep-dan.kqgq-don-thu-cap-xa-&-thi-tran",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Báo cáo Công tác giải quyết kiếu nại, tố cáo tháng 01 năm 2019 của UBND xã Đắk Hòa",
     "description": "",
     "date": "2018-12-14T01:35:00.000Z",

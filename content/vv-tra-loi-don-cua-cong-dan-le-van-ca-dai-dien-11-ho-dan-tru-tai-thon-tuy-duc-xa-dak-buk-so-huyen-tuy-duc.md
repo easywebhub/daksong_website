@@ -3,7 +3,7 @@
     "slug": "vv-tra-loi-don-cua-cong-dan-le-van-ca-dai-dien-11-ho-dan-tru-tai-thon-tuy-duc-xa-dak-buk-so-huyen-tuy-duc",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "V/v trả lời đơn của công dân Lê Văn Ca ( đại diện 11 hộ dân), trú tại thôn Tuy Đức, xã Đắk Buk So, huyện Tuy Đức",
     "description": "",
     "date": "2019-02-21T01:05:00.000Z",

@@ -3,7 +3,7 @@
     "slug": "bc-cong-tac-tiep-nhan-va-giai-quyet-don-thu-khieu-nai-to-cao-kien-nghi-phan-anh-thang-03-nam-2019",
     "category": "tiep-dan.kqgq-don-thu-cap-xa-&-thi-tran",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Bc Công tác tiếp nhận và giải quyết đơn thư, khiếu nại, tố cáo, kiến nghị phản ánh tháng 03 năm 2019",
     "description": "",
     "date": "2019-03-15T01:07:00.000Z",

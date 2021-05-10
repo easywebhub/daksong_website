@@ -3,7 +3,7 @@
     "slug": "bc-ve-viec-tra-loi-don-kien-nghi-cua-ong-bui-cong-duc",
     "category": "tiep-dan.kqgq-don-thu-cap-xa-&-thi-tran",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Bc Về việc trả lời đơn kiến nghị của ông Bùi Công Đức",
     "description": "",
     "date": "2019-02-14T02:08:00.000Z",

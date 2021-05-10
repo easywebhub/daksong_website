@@ -3,7 +3,7 @@
     "slug": "bc-cong-tac-tiep-cong-dan-va-giai-quyet-khieu-nai-to-cao-thang-10-cua-ubnd-xa-thuan-ha",
     "category": "tiep-dan.tcd-cap-xa&thi-tran",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Bc Công tác tiếp công dân và giải quyết khiếu nại, tố cáo tháng 10 của UBND xã Thuận Hà",
     "description": "",
     "date": "2018-10-14T01:45:00.000Z",

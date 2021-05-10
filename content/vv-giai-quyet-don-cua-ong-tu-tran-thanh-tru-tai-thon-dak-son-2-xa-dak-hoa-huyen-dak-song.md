@@ -3,7 +3,7 @@
     "slug": "vv-giai-quyet-don-cua-ong-tu-tran-thanh-tru-tai-thon-dak-son-2-xa-dak-hoa-huyen-dak-song",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "V/v giải quyết đơn của ông Từ Trấn Thành, trú tại thôn Đắk Sơn 2, xã Đắk Hòa, huyện Đắk Song",
     "description": "",
     "date": "2019-02-21T03:14:00.000Z",

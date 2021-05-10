@@ -3,7 +3,7 @@
     "slug": "giai-quyet-don-cua-cong-dan-mai-van-vinh-thon-11xa-nam-binh-huyen-dak-song",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "Giải quyết đơn của công dân Mai Văn Vinh, thôn 11,xã Nam Bình, huyện Đắk Song",
     "description": "",
     "date": "2018-11-05T08:00:00.000Z",

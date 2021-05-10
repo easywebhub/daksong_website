@@ -3,7 +3,7 @@
     "slug": "cong-ty-cp-cap-nuoc-phat-trien-do-thi-dak-nong-tra-loi-don-cua-ong-nguyen-van-duong-thi-tran-duc-an",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "CÔNG TY CP CẤP NƯỚC & PHÁT TRIỂN ĐÔ THỊ ĐẮK NÔNG TRẢ LỜI ĐƠN CỦA ÔNG NGUYỄN VĂN DƯƠNG, THỊ TRẤN ĐỨC AN",
     "description": "",
     "date": "2019-03-15T01:13:00.000Z",

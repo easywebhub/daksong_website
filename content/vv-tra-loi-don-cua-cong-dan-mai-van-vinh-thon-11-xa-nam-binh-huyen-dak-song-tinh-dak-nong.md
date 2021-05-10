@@ -6,7 +6,6 @@
     "layout": "van-ban.html",
     "title": "V/v trả lời đơn của công dân Mai Văn Vinh thôn 11, xã Nam Bình, huyện Đắk Song, tỉnh Đắk Nông",
     "description": "",
-    "date": "2019-02-22T02:27:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",

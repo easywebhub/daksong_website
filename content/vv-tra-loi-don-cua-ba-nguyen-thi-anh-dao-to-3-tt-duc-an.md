@@ -3,7 +3,7 @@
     "slug": "vv-tra-loi-don-cua-ba-nguyen-thi-anh-dao-to-3-tt-duc-an",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "V/v trả lời đơn của bà Nguyễn Thị Anh Đào, tổ 3, TT Đức An",
     "description": "",
     "date": "2019-02-28T03:27:00.000Z",

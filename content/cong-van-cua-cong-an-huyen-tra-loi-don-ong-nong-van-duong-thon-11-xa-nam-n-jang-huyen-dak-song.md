@@ -3,7 +3,7 @@
     "slug": "cong-van-cua-cong-an-huyen-tra-loi-don-ong-nong-van-duong-thon-11-xa-nam-n-jang-huyen-dak-song",
     "category": "tiep-dan.ket-qua-giai-quyet-huyen",
     "tag": [],
-    "layout": "van-ban.html",
+    "layout": "404.html",
     "title": "CÔNG VĂN CỦA CÔNG AN HUYỆN TRẢ LỜI ĐƠN ÔNG NÔNG VĂN ĐƯỜNG, THÔN 11 XÃ NÂM N'JANG, HUYỆN ĐẮK SONG",
     "description": "",
     "date": "2019-03-08T01:56:00.000Z",

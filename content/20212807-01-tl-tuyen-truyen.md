@@ -5,8 +5,7 @@
     "tag": [],
     "layout": "van-ban.html",
     "title": "Tài liệu giới thiệu Bộ giải pháp công nghệ phòng, chống dịch Covid-19 trong tình hình mới",
-    "description": "Để đáp ứng yêu cầu cấp bách của công tác phòng, chống dịch COVID-19, đảm bảo duy trì trạng thái “bình thường mới” giúp người dân và doanh nghiệp vừa chung sống an toàn với bệnh dịch, vừa tiếp tục kinh doanh sản xuất, Bộ Thông tin và Truyền thông ban hành tài liệu giới thiệu “Bộ giải pháp công nghệ phòng, chống dịch Covid-19 trong tình hình mới”.",
-    "date": "2021-07-28T02:43:00.000Z",
+    "description": "Tải Tài liệu giới thiệu Bộ giải pháp công nghệ phòng, chống dịch Covid-19 trong tình hình mới",
     "so": "",
     "permalink": true,
     "trich_yeu": "",
@@ -26,12 +25,14 @@
     "__content__": ""
 }
 ---
+<p>Để đ&aacute;p ứng y&ecirc;u cầu cấp b&aacute;ch của c&ocirc;ng t&aacute;c ph&ograve;ng, chống dịch COVID-19, đảm bảo duy tr&igrave; trạng th&aacute;i &ldquo;b&igrave;nh thường mới&rdquo; gi&uacute;p người d&acirc;n v&agrave; doanh nghiệp vừa chung sống an to&agrave;n với bệnh dịch, vừa tiếp tục kinh doanh sản xuất, Bộ Th&ocirc;ng tin v&agrave; Truyền th&ocirc;ng ban h&agrave;nh t&agrave;i liệu giới thiệu &ldquo;Bộ giải ph&aacute;p c&ocirc;ng nghệ ph&ograve;ng, chống dịch Covid-19 trong t&igrave;nh h&igrave;nh mới&rdquo;.</p>
+
+<p>Trang Th&ocirc;ng tin điện tử huyện Đắk Song&nbsp;xin giới thiệu nội dung&nbsp;T&agrave;i liệu &ldquo;Bộ giải ph&aacute;p c&ocirc;ng nghệ ph&ograve;ng, chống dịch Covid-19 trong t&igrave;nh h&igrave;nh mới&rdquo;.&nbsp;</p>
+
 <p>T&agrave;i liệu n&agrave;y được x&acirc;y dựng nhằm mục đ&iacute;ch gi&uacute;p c&aacute;c cơ quan, đơn vị, tổ chức, c&aacute; nh&acirc;n c&oacute; được những kiến thức hữu &iacute;ch trong việc sử dụng c&aacute;c ứng dụng trong bộ giải ph&aacute;p để ph&ograve;ng, chống dịch bệnh trong cuộc sống thường ng&agrave;y, đồng thời hướng dẫn c&aacute;c cơ quan chức năng sử dụng c&aacute;c hệ thống cơ sở dữ liệu của bộ giải ph&aacute;p để triển khai hiệu quả c&ocirc;ng t&aacute;c truy vết, khoanh v&ugrave;ng sự l&acirc;y lan khi dịch bệnh b&ugrave;ng ph&aacute;t.</p>
 
 <p style="text-align:center"><img alt="" src="/img/20212801.PNG" /></p>
 
 <p>Bộ t&agrave;i liệu bao gồm: Ứng dụng cảnh b&aacute;o nếu bạn tiếp x&uacute;c gần người nhiễm Covid-19 (Bluezone), Hệ thống quản l&yacute; tờ khai y tế tự nguyện (NCOVI), Hệ thống ghi nhận người đến v&agrave; đi c&aacute;c địa điểm c&ocirc;ng cộng, Ứng dụng Khai b&aacute;o y tế cho người nhập cảnh (VHD), Hệ thống Bản đồ chống dịch - An to&agrave;n Covid-19 tại c&aacute;c địa điểm c&ocirc;ng cộng)&nbsp; ... ngăn ngừa cao nhất sự l&acirc;y lan của dịch bệnh, phục vụ c&ocirc;ng t&aacute;c khoanh v&ugrave;ng dịch một c&aacute;ch nhanh ch&oacute;ng, ch&iacute;nh x&aacute;c, hiệu quả.</p>
-
-<p>Trang Th&ocirc;ng tin điện tử huyện Đắk Song&nbsp;xin giới thiệu nội dung&nbsp;T&agrave;i liệu &ldquo;Bộ giải ph&aacute;p c&ocirc;ng nghệ ph&ograve;ng, chống dịch Covid-19 trong t&igrave;nh h&igrave;nh mới&rdquo;.&nbsp;</p>
 
 <p style="text-align:right">Ho&agrave;ng Long - VP</p>

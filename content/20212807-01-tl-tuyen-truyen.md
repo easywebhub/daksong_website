@@ -5,8 +5,8 @@
     "tag": [],
     "layout": "van-ban.html",
     "title": "Tài liệu giới thiệu Bộ giải pháp công nghệ phòng, chống dịch Covid-19 trong tình hình mới",
-    "description": "Tải Tài liệu giới thiệu Bộ giải pháp công nghệ phòng, chống dịch Covid-19 trong tình hình mới",
-    "date": "2021-07-28T02:00:00.000Z",
+    "description": "",
+    "date": "2021-07-28T02:05:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",
@@ -26,9 +26,9 @@
     "__content__": ""
 }
 ---
-<p>Để đ&aacute;p ứng y&ecirc;u cầu cấp b&aacute;ch của c&ocirc;ng t&aacute;c ph&ograve;ng, chống dịch COVID-19, đảm bảo duy tr&igrave; trạng th&aacute;i &ldquo;b&igrave;nh thường mới&rdquo; gi&uacute;p người d&acirc;n v&agrave; doanh nghiệp vừa chung sống an to&agrave;n với bệnh dịch, vừa tiếp tục kinh doanh sản xuất, Bộ Th&ocirc;ng tin v&agrave; Truyền th&ocirc;ng ban h&agrave;nh t&agrave;i liệu giới thiệu &ldquo;Bộ giải ph&aacute;p c&ocirc;ng nghệ ph&ograve;ng, chống dịch Covid-19 trong t&igrave;nh h&igrave;nh mới&rdquo;.</p>
+<p><strong>Để đ&aacute;p ứng y&ecirc;u cầu cấp b&aacute;ch của c&ocirc;ng t&aacute;c ph&ograve;ng, chống dịch COVID-19, đảm bảo duy tr&igrave; trạng th&aacute;i &ldquo;b&igrave;nh thường mới&rdquo; gi&uacute;p người d&acirc;n v&agrave; doanh nghiệp vừa chung sống an to&agrave;n với bệnh dịch, vừa tiếp tục kinh doanh sản xuất, Bộ Th&ocirc;ng tin v&agrave; Truyền th&ocirc;ng ban h&agrave;nh t&agrave;i liệu giới thiệu &ldquo;Bộ giải ph&aacute;p c&ocirc;ng nghệ ph&ograve;ng, chống dịch Covid-19 trong t&igrave;nh h&igrave;nh mới&rdquo;.</strong></p>
 
-<p>Trang Th&ocirc;ng tin điện tử huyện Đắk Song&nbsp;xin giới thiệu nội dung&nbsp;T&agrave;i liệu &ldquo;Bộ giải ph&aacute;p c&ocirc;ng nghệ ph&ograve;ng, chống dịch Covid-19 trong t&igrave;nh h&igrave;nh mới&rdquo;.&nbsp;</p>
+<p><strong>Trang Th&ocirc;ng tin điện tử huyện Đắk Song</strong>&nbsp;<em>xin giới thiệu</em> nội dung&nbsp;T&agrave;i liệu &ldquo;Bộ giải ph&aacute;p c&ocirc;ng nghệ ph&ograve;ng, chống dịch Covid-19 trong t&igrave;nh h&igrave;nh mới&rdquo;.&nbsp;</p>
 
 <p>T&agrave;i liệu n&agrave;y được x&acirc;y dựng nhằm mục đ&iacute;ch gi&uacute;p c&aacute;c cơ quan, đơn vị, tổ chức, c&aacute; nh&acirc;n c&oacute; được những kiến thức hữu &iacute;ch trong việc sử dụng c&aacute;c ứng dụng trong bộ giải ph&aacute;p để ph&ograve;ng, chống dịch bệnh trong cuộc sống thường ng&agrave;y, đồng thời hướng dẫn c&aacute;c cơ quan chức năng sử dụng c&aacute;c hệ thống cơ sở dữ liệu của bộ giải ph&aacute;p để triển khai hiệu quả c&ocirc;ng t&aacute;c truy vết, khoanh v&ugrave;ng sự l&acirc;y lan khi dịch bệnh b&ugrave;ng ph&aacute;t.</p>
 

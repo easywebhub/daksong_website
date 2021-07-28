@@ -6,6 +6,7 @@
     "layout": "van-ban.html",
     "title": "Tài liệu giới thiệu Bộ giải pháp công nghệ phòng, chống dịch Covid-19 trong tình hình mới",
     "description": "Tải Tài liệu giới thiệu Bộ giải pháp công nghệ phòng, chống dịch Covid-19 trong tình hình mới",
+    "date": "2021-07-28T02:00:00.000Z",
     "so": "",
     "permalink": true,
     "trich_yeu": "",
